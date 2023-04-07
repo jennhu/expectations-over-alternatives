@@ -1,0 +1,1417 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	The train	12.813351392324074	
+1	sentence	2	slowed	11.258207214994972	
+1	sentence	3		0.0	
+1	sentence	4	, but did not	24.629572785382248	
+1	sentence	5	have	7.608390710453843	
+1	sentence	6	.	13.770478871934225	
+2	sentence	1	The train	12.813351392324074	
+2	sentence	2	slowed	11.258207214994972	
+2	sentence	3		0.0	
+2	sentence	4	, but did not	24.629572785382248	
+2	sentence	5	know	10.46571322361096	
+2	sentence	6	.	11.025362655714229	
+3	sentence	1	The train	12.813351392324074	
+3	sentence	2	slowed	11.258207214994972	
+3	sentence	3		0.0	
+3	sentence	4	, but did not	24.629572785382248	
+3	sentence	5	get	7.123515207362103	
+3	sentence	6	.	15.54720962421859	
+4	sentence	1	The train	12.813351392324074	
+4	sentence	2	slowed	11.258207214994972	
+4	sentence	3		0.0	
+4	sentence	4	, but did not	24.629572785382248	
+4	sentence	5	go	4.9939245546147975	
+4	sentence	6	.	13.691664038558024	
+5	sentence	1	The train	12.813351392324074	
+5	sentence	2	slowed	11.258207214994972	
+5	sentence	3		0.0	
+5	sentence	4	, but did not	24.629572785382248	
+5	sentence	5	come	6.350831553565676	
+5	sentence	6	.	12.532000158263381	
+6	sentence	1	The train	12.813351392324074	
+6	sentence	2	slowed	11.258207214994972	
+6	sentence	3		0.0	
+6	sentence	4	, but did not	24.629572785382248	
+6	sentence	5	see	8.504109376816317	
+6	sentence	6	.	11.430602624219851	
+7	sentence	1	The train	12.813351392324074	
+7	sentence	2	slowed	11.258207214994972	
+7	sentence	3		0.0	
+7	sentence	4	, but did not	24.629572785382248	
+7	sentence	5	let	9.570522887951938	
+7	sentence	6	.	18.226425528280977	
+8	sentence	1	The train	12.813351392324074	
+8	sentence	2	slowed	11.258207214994972	
+8	sentence	3		0.0	
+8	sentence	4	, but did not	24.629572785382248	
+8	sentence	5	take	7.302861467404253	
+8	sentence	6	.	15.057178769184587	
+9	sentence	1	The train	12.813351392324074	
+9	sentence	2	slowed	11.258207214994972	
+9	sentence	3		0.0	
+9	sentence	4	, but did not	24.629572785382248	
+9	sentence	5	say	11.508395880649926	
+9	sentence	6	.	9.59438513679385	
+10	sentence	1	The train	12.813351392324074	
+10	sentence	2	slowed	11.258207214994972	
+10	sentence	3		0.0	
+10	sentence	4	, but did not	24.629572785382248	
+10	sentence	5	make	6.0534694226402594	
+10	sentence	6	.	16.522858947396063	
+11	sentence	1	The train	12.813351392324074	
+11	sentence	2	slowed	11.258207214994972	
+11	sentence	3		0.0	
+11	sentence	4	, but did not	24.629572785382248	
+11	sentence	5	give	9.207801846253826	
+11	sentence	6	.	15.361603195685033	
+12	sentence	1	The train	12.813351392324074	
+12	sentence	2	slowed	11.258207214994972	
+12	sentence	3		0.0	
+12	sentence	4	, but did not	24.629572785382248	
+12	sentence	5	find	10.046306700188467	
+12	sentence	6	.	13.245448859519035	
+13	sentence	1	The train	12.813351392324074	
+13	sentence	2	slowed	11.258207214994972	
+13	sentence	3		0.0	
+13	sentence	4	, but did not	24.629572785382248	
+13	sentence	5	keep	9.407180645468475	
+13	sentence	6	.	12.500323705696866	
+14	sentence	1	The train	12.813351392324074	
+14	sentence	2	slowed	11.258207214994972	
+14	sentence	3		0.0	
+14	sentence	4	, but did not	24.629572785382248	
+14	sentence	5	leave	6.455352977731643	
+14	sentence	6	.	7.544153126564774	
+15	sentence	1	The train	12.813351392324074	
+15	sentence	2	slowed	11.258207214994972	
+15	sentence	3		0.0	
+15	sentence	4	, but did not	24.629572785382248	
+15	sentence	5	believe	14.63534385073191	
+15	sentence	6	.	11.297688240257642	
+16	sentence	1	The train	12.813351392324074	
+16	sentence	2	slowed	11.258207214994972	
+16	sentence	3		0.0	
+16	sentence	4	, but did not	24.629572785382248	
+16	sentence	5	remember	15.509004710225323	
+16	sentence	6	.	8.064516905696753	
+17	sentence	1	The train	12.813351392324074	
+17	sentence	2	slowed	11.258207214994972	
+17	sentence	3		0.0	
+17	sentence	4	, but did not	24.629572785382248	
+17	sentence	5	run	6.317744843262085	
+17	sentence	6	.	7.474906719951976	
+18	sentence	1	The train	12.813351392324074	
+18	sentence	2	slowed	11.258207214994972	
+18	sentence	3		0.0	
+18	sentence	4	, but did not	24.629572785382248	
+18	sentence	5	happen	11.184044856289912	
+18	sentence	6	.	5.782834083589527	
+19	sentence	1	The train	12.813351392324074	
+19	sentence	2	slowed	11.258207214994972	
+19	sentence	3		0.0	
+19	sentence	4	, but did not	24.629572785382248	
+19	sentence	5	buy	15.075509368044148	
+19	sentence	6	.	9.859411089704041	
+20	sentence	1	The train	12.813351392324074	
+20	sentence	2	slowed	11.258207214994972	
+20	sentence	3		0.0	
+20	sentence	4	, but did not	24.629572785382248	
+20	sentence	5	save	12.724745930599555	
+20	sentence	6	.	8.402400212957259	
+21	sentence	1	The train	12.813351392324074	
+21	sentence	2	slowed	11.258207214994972	
+21	sentence	3		0.0	
+21	sentence	4	, but did not	24.629572785382248	
+21	sentence	5	lose	8.843451784886742	
+21	sentence	6	.	11.537424488323758	
+22	sentence	1	The train	12.813351392324074	
+22	sentence	2	slowed	11.258207214994972	
+22	sentence	3		0.0	
+22	sentence	4	, but did not	24.629572785382248	
+22	sentence	5	follow	8.275011975532573	
+22	sentence	6	.	8.598274693677928	
+23	sentence	1	The train	12.813351392324074	
+23	sentence	2	slowed	11.258207214994972	
+23	sentence	3		0.0	
+23	sentence	4	, but did not	24.629572785382248	
+23	sentence	5	expect	13.343002922533248	
+23	sentence	6	.	13.20837077585422	
+24	sentence	1	The train	12.813351392324074	
+24	sentence	2	slowed	11.258207214994972	
+24	sentence	3		0.0	
+24	sentence	4	, but did not	24.629572785382248	
+24	sentence	5	realize	10.945899791709577	
+24	sentence	6	.	9.80514368405079	
+25	sentence	1	The train	12.813351392324074	
+25	sentence	2	slowed	11.258207214994972	
+25	sentence	3		0.0	
+25	sentence	4	, but did not	24.629572785382248	
+25	sentence	5	slow	6.275434359427421	
+25	sentence	6	.	7.944053377726408	
+26	sentence	1	The train	12.813351392324074	
+26	sentence	2	slowed	11.258207214994972	
+26	sentence	3		0.0	
+26	sentence	4	, but did not	24.629572785382248	
+26	sentence	5	allow	10.231046336161675	
+26	sentence	6	.	13.384980447955844	
+27	sentence	1	The train	12.813351392324074	
+27	sentence	2	slowed	11.258207214994972	
+27	sentence	3		0.0	
+27	sentence	4	, but did not	24.629572785382248	
+27	sentence	5	consider	14.132593158840093	
+27	sentence	6	.	12.973077871555795	
+28	sentence	1	The train	12.813351392324074	
+28	sentence	2	slowed	11.258207214994972	
+28	sentence	3		0.0	
+28	sentence	4	, but did not	24.629572785382248	
+28	sentence	5	apologize	16.94174952286597	
+28	sentence	6	.	4.278350835725082	
+29	sentence	1	The train	12.813351392324074	
+29	sentence	2	slowed	11.258207214994972	
+29	sentence	3		0.0	
+29	sentence	4	, but did not	24.629572785382248	
+29	sentence	5	recognize	13.374878874974765	
+29	sentence	6	.	10.587228597473983	
+30	sentence	1	The train	12.813351392324074	
+30	sentence	2	slowed	11.258207214994972	
+30	sentence	3		0.0	
+30	sentence	4	, but did not	24.629572785382248	
+30	sentence	5	settle	13.386788329581712	
+30	sentence	6	.	5.8301533901479194	
+31	sentence	1	The train	12.813351392324074	
+31	sentence	2	slowed	11.258207214994972	
+31	sentence	3		0.0	
+31	sentence	4	, but did not	24.629572785382248	
+31	sentence	5	add	13.416859152119773	
+31	sentence	6	.	12.268433306163109	
+32	sentence	1	The train	12.813351392324074	
+32	sentence	2	slowed	11.258207214994972	
+32	sentence	3		0.0	
+32	sentence	4	, but did not	24.629572785382248	
+32	sentence	5	assume	15.968388256875574	
+32	sentence	6	.	11.83806667236643	
+33	sentence	1	The train	12.813351392324074	
+33	sentence	2	slowed	11.258207214994972	
+33	sentence	3		0.0	
+33	sentence	4	, but did not	24.629572785382248	
+33	sentence	5	appear	7.597009586550346	
+33	sentence	6	.	13.061754878063073	
+34	sentence	1	The train	12.813351392324074	
+34	sentence	2	slowed	11.258207214994972	
+34	sentence	3		0.0	
+34	sentence	4	, but did not	24.629572785382248	
+34	sentence	5	remove	12.400174768446435	
+34	sentence	6	.	8.22862550287246	
+35	sentence	1	The train	12.813351392324074	
+35	sentence	2	slowed	11.258207214994972	
+35	sentence	3		0.0	
+35	sentence	4	, but did not	24.629572785382248	
+35	sentence	5	identify	15.248251494293166	
+35	sentence	6	.	10.559159652991966	
+36	sentence	1	The train	12.813351392324074	
+36	sentence	2	slowed	11.258207214994972	
+36	sentence	3		0.0	
+36	sentence	4	, but did not	24.629572785382248	
+36	sentence	5	replace	16.636572500285343	
+36	sentence	6	.	9.477796721912746	
+37	sentence	1	The train	12.813351392324074	
+37	sentence	2	slowed	11.258207214994972	
+37	sentence	3		0.0	
+37	sentence	4	, but did not	24.629572785382248	
+37	sentence	5	apply	14.417671600910284	
+37	sentence	6	.	10.067948309042439	
+38	sentence	1	The train	12.813351392324074	
+38	sentence	2	slowed	11.258207214994972	
+38	sentence	3		0.0	
+38	sentence	4	, but did not	24.629572785382248	
+38	sentence	5	succeed	11.342588094883697	
+38	sentence	6	.	4.86011173328448	
+39	sentence	1	The train	12.813351392324074	
+39	sentence	2	slowed	11.258207214994972	
+39	sentence	3		0.0	
+39	sentence	4	, but did not	24.629572785382248	
+39	sentence	5	develop	13.699868298934783	
+39	sentence	6	.	9.423668966171995	
+40	sentence	1	The train	12.813351392324074	
+40	sentence	2	slowed	11.258207214994972	
+40	sentence	3		0.0	
+40	sentence	4	, but did not	24.629572785382248	
+40	sentence	5	approve	17.614710756386103	
+40	sentence	6	.	6.286640061027038	
+41	sentence	1	The train	12.813351392324074	
+41	sentence	2	slowed	11.258207214994972	
+41	sentence	3		0.0	
+41	sentence	4	, but did not	24.629572785382248	
+41	sentence	5	expose	15.954035272765168	
+41	sentence	6	.	12.724593210005589	
+42	sentence	1	The train	12.813351392324074	
+42	sentence	2	slowed	11.258207214994972	
+42	sentence	3		0.0	
+42	sentence	4	, but did not	24.629572785382248	
+42	sentence	5	establish	16.011491236765416	
+42	sentence	6	.	11.356970660010052	
+43	sentence	1	The train	12.813351392324074	
+43	sentence	2	slowed	11.258207214994972	
+43	sentence	3		0.0	
+43	sentence	4	, but did not	24.629572785382248	
+43	sentence	5	reduce	11.783722906416198	
+43	sentence	6	.	8.882989220458894	
+44	sentence	1	The train	12.813351392324074	
+44	sentence	2	slowed	11.258207214994972	
+44	sentence	3		0.0	
+44	sentence	4	, but did not	24.629572785382248	
+44	sentence	5	participate	14.442106895944873	
+44	sentence	6	.	8.0311584628048	
+45	sentence	1	The train	12.813351392324074	
+45	sentence	2	slowed	11.258207214994972	
+45	sentence	3		0.0	
+45	sentence	4	, but did not	24.629572785382248	
+45	sentence	5	organize	19.393314055773065	
+45	sentence	6	.	6.796285881357247	
+46	sentence	1	The train	12.813351392324074	
+46	sentence	2	slowed	11.258207214994972	
+46	sentence	3		0.0	
+46	sentence	4	, but did not	24.629572785382248	
+46	sentence	5	obtain	15.940959087854766	
+46	sentence	6	.	12.670662202417425	
+47	sentence	1	The train	12.813351392324074	
+47	sentence	2	slowed	11.258207214994972	
+47	sentence	3		0.0	
+47	sentence	4	, but did not	24.629572785382248	
+47	sentence	5	kitten	27.61101384480151	
+47	sentence	6	.	6.741200526216493	
+48	sentence	1	The train	12.813351392324074	
+48	sentence	2	slowed	11.258207214994972	
+48	sentence	3		0.0	
+48	sentence	4	, but did not	24.629572785382248	
+48	sentence	5	acquire	15.636706644005182	
+48	sentence	6	.	12.070534933607085	
+49	sentence	1	The train	12.813351392324074	
+49	sentence	2	slowed	11.258207214994972	
+49	sentence	3		0.0	
+49	sentence	4	, but did not	24.629572785382248	
+49	sentence	5	qualify	14.194716044054154	
+49	sentence	6	.	6.029243258509121	
+50	sentence	1	The train	12.813351392324074	
+50	sentence	2	slowed	11.258207214994972	
+50	sentence	3		0.0	
+50	sentence	4	, but did not	24.629572785382248	
+50	sentence	5	criticize	19.34860406999356	
+50	sentence	6	.	8.504686550592613	
+51	sentence	1	The train	12.813351392324074	
+51	sentence	2	slowed	11.258207214994972	
+51	sentence	3		0.0	
+51	sentence	4	, but did not	24.629572785382248	
+51	sentence	5	rave	23.406007762259286	
+51	sentence	6	.	6.482613603754605	
+52	sentence	1	The train	12.813351392324074	
+52	sentence	2	slowed	11.258207214994972	
+52	sentence	3		0.0	
+52	sentence	4	, but did not	24.629572785382248	
+52	sentence	5	enlighten	19.379551095767646	
+52	sentence	6	.	7.334468438979821	
+53	sentence	1	The train	12.813351392324074	
+53	sentence	2	slowed	11.258207214994972	
+53	sentence	3		0.0	
+53	sentence	4	, but did not	24.629572785382248	
+53	sentence	5	disclose	16.04217844512417	
+53	sentence	6	.	11.369280490228208	
+54	sentence	1	The train	12.813351392324074	
+54	sentence	2	slowed	11.258207214994972	
+54	sentence	3		0.0	
+54	sentence	4	, but did not	24.629572785382248	
+54	sentence	5	reopen	14.442283006179355	
+54	sentence	6	.	4.810357496355172	
+55	sentence	1	The train	12.813351392324074	
+55	sentence	2	slowed	11.258207214994972	
+55	sentence	3		0.0	
+55	sentence	4	, but did not	24.629572785382248	
+55	sentence	5	stabilize	13.188069943746376	
+55	sentence	6	.	4.281255966663456	
+56	sentence	1	The train	12.813351392324074	
+56	sentence	2	slowed	11.258207214994972	
+56	sentence	3		0.0	
+56	sentence	4	, but did not	24.629572785382248	
+56	sentence	5	soar	15.892638842268353	
+56	sentence	6	.	6.8862279922442715	
+57	sentence	1	The train	12.813351392324074	
+57	sentence	2	slowed	11.258207214994972	
+57	sentence	3		0.0	
+57	sentence	4	, but did not	24.629572785382248	
+57	sentence	5	authorize	18.082591621850185	
+57	sentence	6	.	11.247146666752682	
+58	sentence	1	The train	12.813351392324074	
+58	sentence	2	slowed	11.258207214994972	
+58	sentence	3		0.0	
+58	sentence	4	, but did not	24.629572785382248	
+58	sentence	5	sympathize	24.015612178041085	
+58	sentence	6	.	5.863489819260563	
+59	sentence	1	The train	12.813351392324074	
+59	sentence	2	slowed	11.258207214994972	
+59	sentence	3		0.0	
+59	sentence	4	, but did not	24.629572785382248	
+59	sentence	5	sharpen	19.522284085490266	
+59	sentence	6	.	5.13404329182165	
+60	sentence	1	The train	12.813351392324074	
+60	sentence	2	slowed	11.258207214994972	
+60	sentence	3		0.0	
+60	sentence	4	, but did not	24.629572785382248	
+60	sentence	5	specialize	24.938254857383118	
+60	sentence	6	.	6.366746140145917	
+61	sentence	1	The train	12.813351392324074	
+61	sentence	2	slowed	11.258207214994972	
+61	sentence	3		0.0	
+61	sentence	4	, but did not	24.629572785382248	
+61	sentence	5	minimize	18.361616274610004	
+61	sentence	6	.	8.271159564153246	
+62	sentence	1	The train	12.813351392324074	
+62	sentence	2	slowed	11.258207214994972	
+62	sentence	3		0.0	
+62	sentence	4	, but did not	24.629572785382248	
+62	sentence	5	socialize	22.023782724322604	
+62	sentence	6	.	5.943830482715219	
+63	sentence	1	The train	12.813351392324074	
+63	sentence	2	slowed	11.258207214994972	
+63	sentence	3		0.0	
+63	sentence	4	, but did not	24.629572785382248	
+63	sentence	5	utilize	16.65984106501648	
+63	sentence	6	.	12.373959109010116	
+64	sentence	1	The train	12.813351392324074	
+64	sentence	2	slowed	11.258207214994972	
+64	sentence	3		0.0	
+64	sentence	4	, but did not	24.629572785382248	
+64	sentence	5	rectify	18.4336384597099	
+64	sentence	6	.	6.384915075313668	
+65	sentence	1	The train	12.813351392324074	
+65	sentence	2	slowed	11.258207214994972	
+65	sentence	3		0.0	
+65	sentence	4	, but did not	24.629572785382248	
+65	sentence	5	terrorize	18.993224172241025	
+65	sentence	6	.	8.665363749918303	
+66	sentence	1	The train	12.813351392324074	
+66	sentence	2	slowed	11.258207214994972	
+66	sentence	3		0.0	
+66	sentence	4	, but did not	24.629572785382248	
+66	sentence	5	enslave	21.013794547974584	
+66	sentence	6	.	7.670761938615749	
+67	sentence	1	The train	12.813351392324074	
+67	sentence	2	slowed	11.258207214994972	
+67	sentence	3		0.0	
+67	sentence	4	, but did not	24.629572785382248	
+67	sentence	5	finalize	14.645002998343644	
+67	sentence	6	.	6.243598994891508	
+68	sentence	1	The train	12.813351392324074	
+68	sentence	2	slowed	11.258207214994972	
+68	sentence	3		0.0	
+68	sentence	4	, but did not	24.629572785382248	
+68	sentence	5	maximize	19.039376512019818	
+68	sentence	6	.	8.548985841801855	
+69	sentence	1	The train	12.813351392324074	
+69	sentence	2	slowed	11.258207214994972	
+69	sentence	3		0.0	
+69	sentence	4	, but did not	24.629572785382248	
+69	sentence	5	summarize	22.165355187881538	
+69	sentence	6	.	5.986185682039108	
+70	sentence	1	The train	12.813351392324074	
+70	sentence	2	slowed	11.258207214994972	
+70	sentence	3		0.0	
+70	sentence	4	, but did not	24.629572785382248	
+70	sentence	5	repose	24.552576883517233	
+70	sentence	6	.	3.94165420875553	
+71	sentence	1	The train	12.813351392324074	
+71	sentence	2	slowed	11.258207214994972	
+71	sentence	3		0.0	
+71	sentence	4	, but did not	24.629572785382248	
+71	sentence	5	symbolize	21.37414857263056	
+71	sentence	6	.	10.857399583367386	
+72	sentence	1	The train	12.813351392324074	
+72	sentence	2	slowed	11.258207214994972	
+72	sentence	3		0.0	
+72	sentence	4	, but did not	24.629572785382248	
+72	sentence	5	sterilize	21.10828183953596	
+72	sentence	6	.	6.225940504231518	
+73	sentence	1	The train	12.813351392324074	
+73	sentence	2	slowed	11.258207214994972	
+73	sentence	3		0.0	
+73	sentence	4	, but did not	24.629572785382248	
+73	sentence	5	revolutionize	19.041311488824675	
+73	sentence	6	.	8.722080876450443	
+74	sentence	1	The train	12.813351392324074	
+74	sentence	2	slowed	11.258207214994972	
+74	sentence	3		0.0	
+74	sentence	4	, but did not	24.629572785382248	
+74	sentence	5	synchronize	18.61766774284155	
+74	sentence	6	.	5.076643050200282	
+75	sentence	1	The train	12.813351392324074	
+75	sentence	2	slowed	11.258207214994972	
+75	sentence	3		0.0	
+75	sentence	4	, but did not	24.629572785382248	
+75	sentence	5	fertilize	24.47560501622768	
+75	sentence	6	.	5.815158566784493	
+76	sentence	1	The train	12.813351392324074	
+76	sentence	2	slowed	11.258207214994972	
+76	sentence	3		0.0	
+76	sentence	4	, but did not	24.629572785382248	
+76	sentence	5	rationalize	21.9573407528061	
+76	sentence	6	.	5.906111935658591	
+77	sentence	1	The train	12.813351392324074	
+77	sentence	2	slowed	11.258207214994972	
+77	sentence	3		0.0	
+77	sentence	4	, but did not	24.629572785382248	
+77	sentence	5	antagonize	18.927908923563812	
+77	sentence	6	.	8.803974887207692	
+78	sentence	1	The train	12.813351392324074	
+78	sentence	2	slowed	11.258207214994972	
+78	sentence	3		0.0	
+78	sentence	4	, but did not	24.629572785382248	
+78	sentence	5	kindle	15.800892590378114	
+78	sentence	6	.	6.583325956169262	
+79	sentence	1	The train	12.813351392324074	
+79	sentence	2	slowed	11.258207214994972	
+79	sentence	3		0.0	
+79	sentence	4	, but did not	24.629572785382248	
+79	sentence	5	familiarize	22.573642044025508	
+79	sentence	6	.	12.483097923386447	
+80	sentence	1	The train	12.813351392324074	
+80	sentence	2	slowed	11.258207214994972	
+80	sentence	3		0.0	
+80	sentence	4	, but did not	24.629572785382248	
+80	sentence	5	synthesize	23.48588624383758	
+80	sentence	6	.	5.538285073021664	
+81	sentence	1	The train	12.813351392324074	
+81	sentence	2	slowed	11.258207214994972	
+81	sentence	3		0.0	
+81	sentence	4	, but did not	24.629572785382248	
+81	sentence	5	reorganize	18.987760519899258	
+81	sentence	6	.	4.784333769557215	
+82	sentence	1	The train	12.813351392324074	
+82	sentence	2	slowed	11.258207214994972	
+82	sentence	3		0.0	
+82	sentence	4	, but did not	24.629572785382248	
+82	sentence	5	ripen	21.855963214493567	
+82	sentence	6	.	4.9452888928467	
+83	sentence	1	The train	12.813351392324074	
+83	sentence	2	slowed	11.258207214994972	
+83	sentence	3		0.0	
+83	sentence	4	, but did not	24.629572785382248	
+83	sentence	5	deepen	17.606257465130895	
+83	sentence	6	.	5.634543074778975	
+84	sentence	1	The train	12.813351392324074	
+84	sentence	2	slowed	11.258207214994972	
+84	sentence	3		0.0	
+84	sentence	4	, but did not	24.629572785382248	
+84	sentence	5	destabilize	16.74359227342473	
+84	sentence	6	.	6.58023989948218	
+85	sentence	1	The train	12.813351392324074	
+85	sentence	2	slowed	11.258207214994972	
+85	sentence	3		0.0	
+85	sentence	4	, but did not	24.629572785382248	
+85	sentence	5	enclose	22.014069536537292	
+85	sentence	6	.	6.518786370745278	
+86	sentence	1	The train	12.813351392324074	
+86	sentence	2	slowed	11.258207214994972	
+86	sentence	3		0.0	
+86	sentence	4	, but did not	24.629572785382248	
+86	sentence	5	dampen	17.284281404284833	
+86	sentence	6	.	6.599151799701658	
+87	sentence	1	The train	12.813351392324074	
+87	sentence	2	slowed	11.258207214994972	
+87	sentence	3		0.0	
+87	sentence	4	, but did not	24.629572785382248	
+87	sentence	5	subsidize	22.599383332315085	
+87	sentence	6	.	8.402633421431828	
+88	sentence	1	The train	12.813351392324074	
+88	sentence	2	slowed	11.258207214994972	
+88	sentence	3		0.0	
+88	sentence	4	, but did not	24.629572785382248	
+88	sentence	5	idolize	26.7375317827715	
+88	sentence	6	.	9.019537941799136	
+89	sentence	1	The train	12.813351392324074	
+89	sentence	2	slowed	11.258207214994972	
+89	sentence	3		0.0	
+89	sentence	4	, but did not	24.629572785382248	
+89	sentence	5	quantify	22.24718040557844	
+89	sentence	6	.	9.080750006894228	
+90	sentence	1	The train	12.813351392324074	
+90	sentence	2	slowed	11.258207214994972	
+90	sentence	3		0.0	
+90	sentence	4	, but did not	24.629572785382248	
+90	sentence	5	engrave	23.932050752488056	
+90	sentence	6	.	8.46669627094762	
+91	sentence	1	The train	12.813351392324074	
+91	sentence	2	slowed	11.258207214994972	
+91	sentence	3		0.0	
+91	sentence	4	, but did not	24.629572785382248	
+91	sentence	5	fraternize	23.864495322294207	
+91	sentence	6	.	5.998846356865024	
+92	sentence	1	The train	12.813351392324074	
+92	sentence	2	slowed	11.258207214994972	
+92	sentence	3		0.0	
+92	sentence	4	, but did not	24.629572785382248	
+92	sentence	5	immobilize	17.165499102123302	
+92	sentence	6	.	6.28157551592443	
+93	sentence	1	The train	12.813351392324074	
+93	sentence	2	slowed	11.258207214994972	
+93	sentence	3		0.0	
+93	sentence	4	, but did not	24.629572785382248	
+93	sentence	5	downsize	19.84250109501896	
+93	sentence	6	.	4.530623587143192	
+94	sentence	1	The train	12.813351392324074	
+94	sentence	2	slowed	11.258207214994972	
+94	sentence	3		0.0	
+94	sentence	4	, but did not	24.629572785382248	
+94	sentence	5	theorize	24.241621673824252	
+94	sentence	6	.	6.932023532516021	
+95	sentence	1	The train	12.813351392324074	
+95	sentence	2	slowed	11.258207214994972	
+95	sentence	3		0.0	
+95	sentence	4	, but did not	24.629572785382248	
+95	sentence	5	dramatize	21.128316560738345	
+95	sentence	6	.	7.7924836916598075	
+96	sentence	1	The train	12.813351392324074	
+96	sentence	2	slowed	11.258207214994972	
+96	sentence	3		0.0	
+96	sentence	4	, but did not	24.629572785382248	
+96	sentence	5	modernize	22.953805867143764	
+96	sentence	6	.	5.602346202710948	
+97	sentence	1	The train	12.813351392324074	
+97	sentence	2	slowed	11.258207214994972	
+97	sentence	3		0.0	
+97	sentence	4	, but did not	24.629572785382248	
+97	sentence	5	revitalize	23.78851325815603	
+97	sentence	6	.	5.281565194217543	
+98	sentence	1	The train	12.813351392324074	
+98	sentence	2	slowed	11.258207214994972	
+98	sentence	3		0.0	
+98	sentence	4	, but did not	24.629572785382248	
+98	sentence	5	traumatize	22.067410423280226	
+98	sentence	6	.	8.011513916492646	
+99	sentence	1	The train	12.813351392324074	
+99	sentence	2	slowed	11.258207214994972	
+99	sentence	3		0.0	
+99	sentence	4	, but did not	24.629572785382248	
+99	sentence	5	immortalize	24.05469579439327	
+99	sentence	6	.	6.937483637715613	
+100	sentence	1	The train	12.813351392324074	
+100	sentence	2	slowed	11.258207214994972	
+100	sentence	3		0.0	
+100	sentence	4	, but did not	24.629572785382248	
+100	sentence	5	agonize	20.108345792836417	
+100	sentence	6	.	5.000450952249739	
+101	sentence	1	The train	12.813351392324074	
+101	sentence	2	slowed	11.258207214994972	
+101	sentence	3		0.0	
+101	sentence	4	, but did not	24.629572785382248	
+101	sentence	5	electrify	17.976352391971737	
+101	sentence	6	.	5.408636295634038	
+102	sentence	1	The train	12.813351392324074	
+102	sentence	2	slowed	11.258207214994972	
+102	sentence	3		0.0	
+102	sentence	4	, but did not	24.629572785382248	
+102	sentence	5	demoralize	19.366082559311593	
+102	sentence	6	.	7.925313460157793	
+103	sentence	1	The train	12.813351392324074	
+103	sentence	2	slowed	11.258207214994972	
+103	sentence	3		0.0	
+103	sentence	4	, but did not	24.629572785382248	
+103	sentence	5	sanitize	21.154929758072136	
+103	sentence	6	.	6.565579410392031	
+104	sentence	1	The train	12.813351392324074	
+104	sentence	2	slowed	11.258207214994972	
+104	sentence	3		0.0	
+104	sentence	4	, but did not	24.629572785382248	
+104	sentence	5	anesthetize	24.76182076881911	
+104	sentence	6	.	4.964108266400014	
+105	sentence	1	The train	12.813351392324074	
+105	sentence	2	slowed	11.258207214994972	
+105	sentence	3		0.0	
+105	sentence	4	, but did not	24.629572785382248	
+105	sentence	5	trivialize	21.99731250906518	
+105	sentence	6	.	8.329606148222462	
+106	sentence	1	The train	12.813351392324074	
+106	sentence	2	slowed	11.258207214994972	
+106	sentence	3		0.0	
+106	sentence	4	, but did not	24.629572785382248	
+106	sentence	5	romanticize	25.113944465298285	
+106	sentence	6	.	8.03079179579316	
+107	sentence	1	The train	12.813351392324074	
+107	sentence	2	slowed	11.258207214994972	
+107	sentence	3		0.0	
+107	sentence	4	, but did not	24.629572785382248	
+107	sentence	5	equalize	19.707373638305448	
+107	sentence	6	.	5.321630960493146	
+108	sentence	1	The train	12.813351392324074	
+108	sentence	2	slowed	11.258207214994972	
+108	sentence	3		0.0	
+108	sentence	4	, but did not	24.629572785382248	
+108	sentence	5	demonize	22.017794847363177	
+108	sentence	6	.	8.853547854422992	
+109	sentence	1	The train	12.813351392324074	
+109	sentence	2	slowed	11.258207214994972	
+109	sentence	3		0.0	
+109	sentence	4	, but did not	24.629572785382248	
+109	sentence	5	alphabetize	27.92004499858797	
+109	sentence	6	.	5.049747715327753	
+110	sentence	1	The train	12.813351392324074	
+110	sentence	2	slowed	11.258207214994972	
+110	sentence	3		0.0	
+110	sentence	4	, but did not	24.629572785382248	
+110	sentence	5	formalize	21.83248577683296	
+110	sentence	6	.	8.204333985333992	
+111	sentence	1	The train	12.813351392324074	
+111	sentence	2	slowed	11.258207214994972	
+111	sentence	3		0.0	
+111	sentence	4	, but did not	24.629572785382248	
+111	sentence	5	optimize	18.62228143542492	
+111	sentence	6	.	7.37628567657181	
+112	sentence	1	The train	12.813351392324074	
+112	sentence	2	slowed	11.258207214994972	
+112	sentence	3		0.0	
+112	sentence	4	, but did not	24.629572785382248	
+112	sentence	5	internalize	17.95030299676314	
+112	sentence	6	.	5.255904694778208	
+113	sentence	1	The train	12.813351392324074	
+113	sentence	2	slowed	11.258207214994972	
+113	sentence	3		0.0	
+113	sentence	4	, but did not	24.629572785382248	
+113	sentence	5	idealize	22.286359601288844	
+113	sentence	6	.	8.262239855948897	
+114	sentence	1	The train	12.813351392324074	
+114	sentence	2	slowed	11.258207214994972	
+114	sentence	3		0.0	
+114	sentence	4	, but did not	24.629572785382248	
+114	sentence	5	sodomize	25.709474014413956	
+114	sentence	6	.	8.318430715569397	
+115	sentence	1	The train	12.813351392324074	
+115	sentence	2	slowed	11.258207214994972	
+115	sentence	3		0.0	
+115	sentence	4	, but did not	24.629572785382248	
+115	sentence	5	digitize	24.013779874878793	
+115	sentence	6	.	5.0156965263181235	
+116	sentence	1	The train	12.813351392324074	
+116	sentence	2	slowed	11.258207214994972	
+116	sentence	3		0.0	
+116	sentence	4	, but did not	24.629572785382248	
+116	sentence	5	galvanize	21.479482055878236	
+116	sentence	6	.	5.523891501005654	
+117	sentence	1	The train	12.813351392324074	
+117	sentence	2	slowed	11.258207214994972	
+117	sentence	3		0.0	
+117	sentence	4	, but did not	24.629572785382248	
+117	sentence	5	initialize	20.095663684672637	
+117	sentence	6	.	4.566100168363173	
+118	sentence	1	The train	12.813351392324074	
+118	sentence	2	slowed	11.258207214994972	
+118	sentence	3		0.0	
+118	sentence	4	, but did not	24.629572785382248	
+118	sentence	5	exemplify	23.41378848042432	
+118	sentence	6	.	10.914950481790909	
+119	sentence	1	The train	12.813351392324074	
+119	sentence	2	slowed	11.258207214994972	
+119	sentence	3		0.0	
+119	sentence	4	, but did not	24.629572785382248	
+119	sentence	5	depressurize	26.548948098075364	
+119	sentence	6	.	5.067078407055198	
+120	sentence	1	The train	12.813351392324074	
+120	sentence	2	slowed	11.258207214994972	
+120	sentence	3		0.0	
+120	sentence	4	, but did not	24.629572785382248	
+120	sentence	5	itemize	20.86285507251376	
+120	sentence	6	.	4.938900081332449	
+121	sentence	1	The train	12.813351392324074	
+121	sentence	2	slowed	11.258207214994972	
+121	sentence	3		0.0	
+121	sentence	4	, but did not	24.629572785382248	
+121	sentence	5	dehumanize	23.46610228408907	
+121	sentence	6	.	7.778685867546386	
+122	sentence	1	The train	12.813351392324074	
+122	sentence	2	slowed	11.258207214994972	
+122	sentence	3		0.0	
+122	sentence	4	, but did not	24.629572785382248	
+122	sentence	5	mollify	23.328274420285208	
+122	sentence	6	.	7.423772838197446	
+123	sentence	1	The train	12.813351392324074	
+123	sentence	2	slowed	11.258207214994972	
+123	sentence	3		0.0	
+123	sentence	4	, but did not	24.629572785382248	
+123	sentence	5	immunize	23.610291657161365	
+123	sentence	6	.	7.080134303508468	
+124	sentence	1	The train	12.813351392324074	
+124	sentence	2	slowed	11.258207214994972	
+124	sentence	3		0.0	
+124	sentence	4	, but did not	24.629572785382248	
+124	sentence	5	oxidize	21.61736096628266	
+124	sentence	6	.	4.360642814336427	
+125	sentence	1	The train	12.813351392324074	
+125	sentence	2	slowed	11.258207214994972	
+125	sentence	3		0.0	
+125	sentence	4	, but did not	24.629572785382248	
+125	sentence	5	dematerialize	19.487730123339635	
+125	sentence	6	.	3.9133149075463565	
+126	sentence	1	The train	12.813351392324074	
+126	sentence	2	slowed	11.258207214994972	
+126	sentence	3		0.0	
+126	sentence	4	, but did not	24.629572785382248	
+126	sentence	5	ostracize	26.180626065139858	
+126	sentence	6	.	8.901237955576645	
+127	sentence	1	The train	12.813351392324074	
+127	sentence	2	slowed	11.258207214994972	
+127	sentence	3		0.0	
+127	sentence	4	, but did not	24.629572785382248	
+127	sentence	5	overdramatize	26.590231351034255	
+127	sentence	6	.	4.980290801950299	
+128	sentence	1	The train	12.813351392324074	
+128	sentence	2	slowed	11.258207214994972	
+128	sentence	3		0.0	
+128	sentence	4	, but did not	24.629572785382248	
+128	sentence	5	satirize	25.71795353302342	
+128	sentence	6	.	9.110976301748668	
+129	sentence	1	The train	12.813351392324074	
+129	sentence	2	slowed	11.258207214994972	
+129	sentence	3		0.0	
+129	sentence	4	, but did not	24.629572785382248	
+129	sentence	5	amortize	22.638404035263807	
+129	sentence	6	.	4.742207651124275	
+130	sentence	1	The train	12.813351392324074	
+130	sentence	2	slowed	11.258207214994972	
+130	sentence	3		0.0	
+130	sentence	4	, but did not	24.629572785382248	
+130	sentence	5	tyrannize	24.112275671893467	
+130	sentence	6	.	5.369683601074819	
+131	sentence	1	The train	12.813351392324074	
+131	sentence	2	slowed	11.258207214994972	
+131	sentence	3		0.0	
+131	sentence	4	, but did not	24.629572785382248	
+131	sentence	5	eulogize	23.8759749600099	
+131	sentence	6	.	6.542259250865637	
+132	sentence	1	The train	12.813351392324074	
+132	sentence	2	slowed	11.258207214994972	
+132	sentence	3		0.0	
+132	sentence	4	, but did not	24.629572785382248	
+132	sentence	5	resize	21.759993455659103	
+132	sentence	6	.	3.9091340093038816	
+133	sentence	1	The train	12.813351392324074	
+133	sentence	2	slowed	11.258207214994972	
+133	sentence	3		0.0	
+133	sentence	4	, but did not	24.629572785382248	
+133	sentence	5	editorialize	25.3377970729124	
+133	sentence	6	.	4.697248634466323	
+134	sentence	1	The train	12.813351392324074	
+134	sentence	2	slowed	11.258207214994972	
+134	sentence	3		0.0	
+134	sentence	4	, but did not	24.629572785382248	
+134	sentence	5	acclimatize	19.794268334857257	
+134	sentence	6	.	5.678758438454596	
+135	sentence	1	The train	12.813351392324074	
+135	sentence	2	slowed	11.258207214994972	
+135	sentence	3		0.0	
+135	sentence	4	, but did not	24.629572785382248	
+135	sentence	5	desensitize	25.356275157643996	
+135	sentence	6	.	7.401016093835279	
+136	sentence	1	The train	12.813351392324074	
+136	sentence	2	slowed	11.258207214994972	
+136	sentence	3		0.0	
+136	sentence	4	, but did not	24.629572785382248	
+136	sentence	5	standardize	22.38464304272537	
+136	sentence	6	.	7.456040223152326	
+137	sentence	1	The train	12.813351392324074	
+137	sentence	2	slowed	11.258207214994972	
+137	sentence	3		0.0	
+137	sentence	4	, but did not	24.629572785382248	
+137	sentence	5	stigmatize	24.773154264277238	
+137	sentence	6	.	8.418208170293964	
+138	sentence	1	The train	12.813351392324074	
+138	sentence	2	slowed	11.258207214994972	
+138	sentence	3		0.0	
+138	sentence	4	, but did not	24.629572785382248	
+138	sentence	5	actualize	23.000642246418536	
+138	sentence	6	.	5.5194460934461524	
+139	sentence	1	The train	12.813351392324074	
+139	sentence	2	slowed	11.258207214994972	
+139	sentence	3		0.0	
+139	sentence	4	, but did not	24.629572785382248	
+139	sentence	5	industrialize	22.839975194069243	
+139	sentence	6	.	4.1281078238272375	
+140	sentence	1	The train	12.813351392324074	
+140	sentence	2	slowed	11.258207214994972	
+140	sentence	3		0.0	
+140	sentence	4	, but did not	24.629572785382248	
+140	sentence	5	sexualize	27.536737547590253	
+140	sentence	6	.	7.856577498052755	
+141	sentence	1	The train	12.813351392324074	
+141	sentence	2	slowed	11.258207214994972	
+141	sentence	3		0.0	
+141	sentence	4	, but did not	24.629572785382248	
+141	sentence	5	demagnetize	25.87910799495417	
+141	sentence	6	.	5.249635583188957	
+142	sentence	1	The train	12.813351392324074	
+142	sentence	2	slowed	11.258207214994972	
+142	sentence	3		0.0	
+142	sentence	4	, but did not	24.629572785382248	
+142	sentence	5	solemnize	26.530741283728762	
+142	sentence	6	.	5.682199467333059	
+143	sentence	1	The train	12.813351392324074	
+143	sentence	2	slowed	11.258207214994972	
+143	sentence	3		0.0	
+143	sentence	4	, but did not	24.629572785382248	
+143	sentence	5	atomize	25.43804770565407	
+143	sentence	6	.	4.115590926497442	
+144	sentence	1	The train	12.813351392324074	
+144	sentence	2	slowed	11.258207214994972	
+144	sentence	3		0.0	
+144	sentence	4	, but did not	24.629572785382248	
+144	sentence	5	ionize	20.6525659196556	
+144	sentence	6	.	4.497201854635721	
+145	sentence	1	The train	12.813351392324074	
+145	sentence	2	slowed	11.258207214994972	
+145	sentence	3		0.0	
+145	sentence	4	, but did not	24.629572785382248	
+145	sentence	5	radicalize	20.45810675941129	
+145	sentence	6	.	7.823589849756062	
+146	sentence	1	The train	12.813351392324074	
+146	sentence	2	slowed	11.258207214994972	
+146	sentence	3		0.0	
+146	sentence	4	, but did not	24.629572785382248	
+146	sentence	5	reunify	25.63832399633225	
+146	sentence	6	.	6.132926095269481	
+147	sentence	1	The train	12.813351392324074	
+147	sentence	2	slowed	11.258207214994972	
+147	sentence	3		0.0	
+147	sentence	4	, but did not	24.629572785382248	
+147	sentence	5	demobilize	22.734208765995852	
+147	sentence	6	.	4.330116581738882	
+148	sentence	1	The train	12.813351392324074	
+148	sentence	2	slowed	11.258207214994972	
+148	sentence	3		0.0	
+148	sentence	4	, but did not	24.629572785382248	
+148	sentence	5	democratize	23.9224466393246	
+148	sentence	6	.	6.635652709590177	
+149	sentence	1	The train	12.813351392324074	
+149	sentence	2	slowed	11.258207214994972	
+149	sentence	3		0.0	
+149	sentence	4	, but did not	24.629572785382248	
+149	sentence	5	reclassify	25.00747726502624	
+149	sentence	6	.	5.329066458420549	
+150	sentence	1	The train	12.813351392324074	
+150	sentence	2	slowed	11.258207214994972	
+150	sentence	3		0.0	
+150	sentence	4	, but did not	24.629572785382248	
+150	sentence	5	rhapsodize	26.474239549343455	
+150	sentence	6	.	5.03722944213675	
+151	sentence	1	The train	12.813351392324074	
+151	sentence	2	slowed	11.258207214994972	
+151	sentence	3		0.0	
+151	sentence	4	, but did not	24.629572785382248	
+151	sentence	5	serialize	22.066538858201316	
+151	sentence	6	.	4.031668896321219	
+152	sentence	1	The train	12.813351392324074	
+152	sentence	2	slowed	11.258207214994972	
+152	sentence	3		0.0	
+152	sentence	4	, but did not	24.629572785382248	
+152	sentence	5	disorganize	22.96276642122769	
+152	sentence	6	.	4.932064802856557	
+153	sentence	1	The train	12.813351392324074	
+153	sentence	2	slowed	11.258207214994972	
+153	sentence	3		0.0	
+153	sentence	4	, but did not	24.629572785382248	
+153	sentence	5	sermonize	25.399456421886725	
+153	sentence	6	.	4.042887668602302	
+154	sentence	1	The train	12.813351392324074	
+154	sentence	2	slowed	11.258207214994972	
+154	sentence	3		0.0	
+154	sentence	4	, but did not	24.629572785382248	
+154	sentence	5	deodorize	30.5971376048428	
+154	sentence	6	.	5.318751626952401	
+155	sentence	1	The train	12.813351392324074	
+155	sentence	2	slowed	11.258207214994972	
+155	sentence	3		0.0	
+155	sentence	4	, but did not	24.629572785382248	
+155	sentence	5	emulsify	23.646220375396005	
+155	sentence	6	.	4.671804833167076	
+156	sentence	1	The train	12.813351392324074	
+156	sentence	2	slowed	11.258207214994972	
+156	sentence	3		0.0	
+156	sentence	4	, but did not	24.629572785382248	
+156	sentence	5	overemphasize	23.032433111031366	
+156	sentence	6	.	7.208155437088329	
+157	sentence	1	The train	12.813351392324074	
+157	sentence	2	slowed	11.258207214994972	
+157	sentence	3		0.0	
+157	sentence	4	, but did not	24.629572785382248	
+157	sentence	5	aerosolize	25.958026093163298	
+157	sentence	6	.	4.228484810072712	
+158	sentence	1	The train	12.813351392324074	
+158	sentence	2	slowed	11.258207214994972	
+158	sentence	3		0.0	
+158	sentence	4	, but did not	24.629572785382248	
+158	sentence	5	apostatize	23.52839466895447	
+158	sentence	6	.	4.616270259342268	
+159	sentence	1	The train	12.813351392324074	
+159	sentence	2	slowed	11.258207214994972	
+159	sentence	3		0.0	
+159	sentence	4	, but did not	24.629572785382248	
+159	sentence	5	depolarize	20.732317993985507	
+159	sentence	6	.	4.6575075714355485	
+160	sentence	1	The train	12.813351392324074	
+160	sentence	2	slowed	11.258207214994972	
+160	sentence	3		0.0	
+160	sentence	4	, but did not	24.629572785382248	
+160	sentence	5	evangelize	25.10903576334965	
+160	sentence	6	.	5.8071978338413555	
+161	sentence	1	The train	12.813351392324074	
+161	sentence	2	slowed	11.258207214994972	
+161	sentence	3		0.0	
+161	sentence	4	, but did not	24.629572785382248	
+161	sentence	5	anatomize	31.03574745308666	
+161	sentence	6	.	5.710385016052362	
+162	sentence	1	The train	12.813351392324074	
+162	sentence	2	slowed	11.258207214994972	
+162	sentence	3		0.0	
+162	sentence	4	, but did not	24.629572785382248	
+162	sentence	5	anthropomorphize	25.40648691142026	
+162	sentence	6	.	7.129859991317733	
+163	sentence	1	The train	12.813351392324074	
+163	sentence	2	slowed	11.258207214994972	
+163	sentence	3		0.0	
+163	sentence	4	, but did not	24.629572785382248	
+163	sentence	5	federalize	27.95167200614236	
+163	sentence	6	.	6.33290476997034	
+164	sentence	1	The train	12.813351392324074	
+164	sentence	2	slowed	11.258207214994972	
+164	sentence	3		0.0	
+164	sentence	4	, but did not	24.629572785382248	
+164	sentence	5	feminize	25.190226037222942	
+164	sentence	6	.	5.6780756673306705	
+165	sentence	1	The train	12.813351392324074	
+165	sentence	2	slowed	11.258207214994972	
+165	sentence	3		0.0	
+165	sentence	4	, but did not	24.629572785382248	
+165	sentence	5	fossilize	25.057647997581242	
+165	sentence	6	.	4.16575964161533	
+166	sentence	1	The train	12.813351392324074	
+166	sentence	2	slowed	11.258207214994972	
+166	sentence	3		0.0	
+166	sentence	4	, but did not	24.629572785382248	
+166	sentence	5	regularize	23.463281510640947	
+166	sentence	6	.	5.1373835388667075	
+167	sentence	1	The train	12.813351392324074	
+167	sentence	2	slowed	11.258207214994972	
+167	sentence	3		0.0	
+167	sentence	4	, but did not	24.629572785382248	
+167	sentence	5	ritualize	25.82571667967333	
+167	sentence	6	.	6.013058315201723	
+168	sentence	1	The train	12.813351392324074	
+168	sentence	2	slowed	11.258207214994972	
+168	sentence	3		0.0	
+168	sentence	4	, but did not	24.629572785382248	
+168	sentence	5	sentimentalize	30.073504005561293	
+168	sentence	6	.	7.126580626131082	
+169	sentence	1	The train	12.813351392324074	
+169	sentence	2	slowed	11.258207214994972	
+169	sentence	3		0.0	
+169	sentence	4	, but did not	24.629572785382248	
+169	sentence	5	exteriorize	27.011564703583524	
+169	sentence	6	.	4.932178311406126	
+170	sentence	1	The train	12.813351392324074	
+170	sentence	2	slowed	11.258207214994972	
+170	sentence	3		0.0	
+170	sentence	4	, but did not	24.629572785382248	
+170	sentence	5	fetishize	25.858915823634923	
+170	sentence	6	.	8.150435998414796	
+171	sentence	1	The train	12.813351392324074	
+171	sentence	2	slowed	11.258207214994972	
+171	sentence	3		0.0	
+171	sentence	4	, but did not	24.629572785382248	
+171	sentence	5	fictionalize	29.118780929401527	
+171	sentence	6	.	9.598736985791282	
+172	sentence	1	The train	12.813351392324074	
+172	sentence	2	slowed	11.258207214994972	
+172	sentence	3		0.0	
+172	sentence	4	, but did not	24.629572785382248	
+172	sentence	5	individualize	22.75912709580322	
+172	sentence	6	.	6.2162372430698385	
+173	sentence	1	The train	12.813351392324074	
+173	sentence	2	slowed	11.258207214994972	
+173	sentence	3		0.0	
+173	sentence	4	, but did not	24.629572785382248	
+173	sentence	5	internationalize	24.997252817831	
+173	sentence	6	.	5.011494646192244	
+174	sentence	1	The train	12.813351392324074	
+174	sentence	2	slowed	11.258207214994972	
+174	sentence	3		0.0	
+174	sentence	4	, but did not	24.629572785382248	
+174	sentence	5	alkalinize	30.676910515945757	
+174	sentence	6	.	4.645524852219333	
+175	sentence	1	The train	12.813351392324074	
+175	sentence	2	slowed	11.258207214994972	
+175	sentence	3		0.0	
+175	sentence	4	, but did not	24.629572785382248	
+175	sentence	5	depersonalize	20.33847835568028	
+175	sentence	6	.	6.078546556927867	
+176	sentence	1	The train	12.813351392324074	
+176	sentence	2	slowed	11.258207214994972	
+176	sentence	3		0.0	
+176	sentence	4	, but did not	24.629572785382248	
+176	sentence	5	italicize	26.609608421328655	
+176	sentence	6	.	4.99831630358723	
+177	sentence	1	The train	12.813351392324074	
+177	sentence	2	slowed	11.258207214994972	
+177	sentence	3		0.0	
+177	sentence	4	, but did not	24.629572785382248	
+177	sentence	5	randomize	20.972086564041074	
+177	sentence	6	.	6.497891854526653	
+178	sentence	1	The train	12.813351392324074	
+178	sentence	2	slowed	11.258207214994972	
+178	sentence	3		0.0	
+178	sentence	4	, but did not	24.629572785382248	
+178	sentence	5	stylize	25.08771556319785	
+178	sentence	6	.	5.556819299339847	
+179	sentence	1	The train	12.813351392324074	
+179	sentence	2	slowed	11.258207214994972	
+179	sentence	3		0.0	
+179	sentence	4	, but did not	24.629572785382248	
+179	sentence	5	temporize	23.115023091993166	
+179	sentence	6	.	4.485848247956362	
+180	sentence	1	The train	12.813351392324074	
+180	sentence	2	slowed	11.258207214994972	
+180	sentence	3		0.0	
+180	sentence	4	, but did not	24.629572785382248	
+180	sentence	5	ramify	25.853038832489638	
+180	sentence	6	.	6.405463562438756	
+181	sentence	1	The train	12.813351392324074	
+181	sentence	2	slowed	11.258207214994972	
+181	sentence	3		0.0	
+181	sentence	4	, but did not	24.629572785382248	
+181	sentence	5	reimpose	24.532589231816612	
+181	sentence	6	.	8.746784464420378	
+182	sentence	1	The train	12.813351392324074	
+182	sentence	2	slowed	11.258207214994972	
+182	sentence	3		0.0	
+182	sentence	4	, but did not	24.629572785382248	
+182	sentence	5	sensitize	26.758573193671793	
+182	sentence	6	.	9.293255209953331	
+183	sentence	1	The train	12.813351392324074	
+183	sentence	2	slowed	11.258207214994972	
+183	sentence	3		0.0	
+183	sentence	4	, but did not	24.629572785382248	
+183	sentence	5	systematize	23.695412298924943	
+183	sentence	6	.	4.987535055169942	
+184	sentence	1	The train	12.813351392324074	
+184	sentence	2	slowed	11.258207214994972	
+184	sentence	3		0.0	
+184	sentence	4	, but did not	24.629572785382248	
+184	sentence	5	denationalize	29.747896690932386	
+184	sentence	6	.	7.371352526214462	
+185	sentence	1	The train	12.813351392324074	
+185	sentence	2	slowed	11.258207214994972	
+185	sentence	3		0.0	
+185	sentence	4	, but did not	24.629572785382248	
+185	sentence	5	digitalize	26.453855837721264	
+185	sentence	6	.	5.166067837273512	
+186	sentence	1	The train	12.813351392324074	
+186	sentence	2	slowed	11.258207214994972	
+186	sentence	3		0.0	
+186	sentence	4	, but did not	24.629572785382248	
+186	sentence	5	reify	26.24560367962667	
+186	sentence	6	.	4.888408726761542	
+187	sentence	1	The train	12.813351392324074	
+187	sentence	2	slowed	11.258207214994972	
+187	sentence	3		0.0	
+187	sentence	4	, but did not	24.629572785382248	
+187	sentence	5	secularize	26.76121622305025	
+187	sentence	6	.	5.796388380269326	
+188	sentence	1	The train	12.813351392324074	
+188	sentence	2	slowed	11.258207214994972	
+188	sentence	3		0.0	
+188	sentence	4	, but did not	24.629572785382248	
+188	sentence	5	spiritualize	28.040721269097432	
+188	sentence	6	.	5.409150867725419	
+189	sentence	1	The train	12.813351392324074	
+189	sentence	2	slowed	11.258207214994972	
+189	sentence	3		0.0	
+189	sentence	4	, but did not	24.629572785382248	
+189	sentence	5	alkalize	28.34113923075904	
+189	sentence	6	.	4.357052504517015	
+190	sentence	1	The train	12.813351392324074	
+190	sentence	2	slowed	11.258207214994972	
+190	sentence	3		0.0	
+190	sentence	4	, but did not	24.629572785382248	
+190	sentence	5	decentralize	23.832290367041587	
+190	sentence	6	.	5.722212262952197	
+191	sentence	1	The train	12.813351392324074	
+191	sentence	2	slowed	11.258207214994972	
+191	sentence	3		0.0	
+191	sentence	4	, but did not	24.629572785382248	
+191	sentence	5	decolonize	29.401565208900536	
+191	sentence	6	.	5.676905841339502	
+192	sentence	1	The train	12.813351392324074	
+192	sentence	2	slowed	11.258207214994972	
+192	sentence	3		0.0	
+192	sentence	4	, but did not	24.629572785382248	
+192	sentence	5	demilitarize	23.801611692985983	
+192	sentence	6	.	6.251402879657059	
+193	sentence	1	The train	12.813351392324074	
+193	sentence	2	slowed	11.258207214994972	
+193	sentence	3		0.0	
+193	sentence	4	, but did not	24.629572785382248	
+193	sentence	5	desexualize	28.943942893582108	
+193	sentence	6	.	5.874684513970525	
+194	sentence	1	The train	12.813351392324074	
+194	sentence	2	slowed	11.258207214994972	
+194	sentence	3		0.0	
+194	sentence	4	, but did not	24.629572785382248	
+194	sentence	5	desynchronize	21.512232841069032	
+194	sentence	6	.	4.850417759185947	
+195	sentence	1	The train	12.813351392324074	
+195	sentence	2	slowed	11.258207214994972	
+195	sentence	3		0.0	
+195	sentence	4	, but did not	24.629572785382248	
+195	sentence	5	devitalize	32.82480783509186	
+195	sentence	6	.	7.28440704103607	
+196	sentence	1	The train	12.813351392324074	
+196	sentence	2	slowed	11.258207214994972	
+196	sentence	3		0.0	
+196	sentence	4	, but did not	24.629572785382248	
+196	sentence	5	eroticize	29.13795127654959	
+196	sentence	6	.	6.784817390267111	
+197	sentence	1	The train	12.813351392324074	
+197	sentence	2	slowed	11.258207214994972	
+197	sentence	3		0.0	
+197	sentence	4	, but did not	24.629572785382248	
+197	sentence	5	officialize	25.541323717453814	
+197	sentence	6	.	8.91651345462628	
+198	sentence	1	The train	12.813351392324074	
+198	sentence	2	slowed	11.258207214994972	
+198	sentence	3		0.0	
+198	sentence	4	, but did not	24.629572785382248	
+198	sentence	5	quantize	29.344641961161336	
+198	sentence	6	.	5.938094517343642	
+199	sentence	1	The train	12.813351392324074	
+199	sentence	2	slowed	11.258207214994972	
+199	sentence	3		0.0	
+199	sentence	4	, but did not	24.629572785382248	
+199	sentence	5	reharmonize	36.56215808071974	
+199	sentence	6	.	4.530694100030046	
+200	sentence	1	The train	12.813351392324074	
+200	sentence	2	slowed	11.258207214994972	
+200	sentence	3		0.0	
+200	sentence	4	, but did not	24.629572785382248	
+200	sentence	5	remilitarize	27.62173807559558	
+200	sentence	6	.	5.536371250082863	
+201	sentence	1	The train	12.813351392324074	
+201	sentence	2	slowed	11.258207214994972	
+201	sentence	3		0.0	
+201	sentence	4	, but did not	24.629572785382248	
+201	sentence	5	solarize	28.539664265099148	
+201	sentence	6	.	4.248858906789826	
+202	sentence	1	The train	12.813351392324074	
+202	sentence	2	slowed	11.258207214994972	
+202	sentence	3		0.0	
+202	sentence	4	, but did not	24.629572785382248	
+202	sentence	5	syncretize	33.43045723034526	
+202	sentence	6	.	3.9910954372602685	
+203	sentence	1	The train	12.813351392324074	
+203	sentence	2	slowed	11.258207214994972	
+203	sentence	3		0.0	
+203	sentence	4	, but did not	24.629572785382248	
+203	sentence	5	totalize	27.709258590141587	
+203	sentence	6	.	4.139933350900564	
+204	sentence	1	The train	12.813351392324074	
+204	sentence	2	slowed	11.258207214994972	
+204	sentence	3		0.0	
+204	sentence	4	, but did not	24.629572785382248	
+204	sentence	5	alchemize	28.74320848411769	
+204	sentence	6	.	4.813266754877167	
+205	sentence	1	The train	12.813351392324074	
+205	sentence	2	slowed	11.258207214994972	
+205	sentence	3		0.0	
+205	sentence	4	, but did not	24.629572785382248	
+205	sentence	5	aluminize	32.2453974889153	
+205	sentence	6	.	4.108204615608186	
+206	sentence	1	The train	12.813351392324074	
+206	sentence	2	slowed	11.258207214994972	
+206	sentence	3		0.0	
+206	sentence	4	, but did not	24.629572785382248	
+206	sentence	5	analogize	26.428329527745266	
+206	sentence	6	.	6.414945997876727	
+207	sentence	1	The train	12.813351392324074	
+207	sentence	2	slowed	11.258207214994972	
+207	sentence	3		0.0	
+207	sentence	4	, but did not	24.629572785382248	
+207	sentence	5	attitudinize	49.49240727396491	
+207	sentence	6	.	5.463315771718755	
+208	sentence	1	The train	12.813351392324074	
+208	sentence	2	slowed	11.258207214994972	
+208	sentence	3		0.0	
+208	sentence	4	, but did not	24.629572785382248	
+208	sentence	5	deionize	30.584932770032996	
+208	sentence	6	.	4.926928025040587	
+209	sentence	1	The train	12.813351392324074	
+209	sentence	2	slowed	11.258207214994972	
+209	sentence	3		0.0	
+209	sentence	4	, but did not	24.629572785382248	
+209	sentence	5	demythologize	29.081436863818244	
+209	sentence	6	.	5.946022917548418	
+210	sentence	1	The train	12.813351392324074	
+210	sentence	2	slowed	11.258207214994972	
+210	sentence	3		0.0	
+210	sentence	4	, but did not	24.629572785382248	
+210	sentence	5	deoxidize	38.937690706766666	
+210	sentence	6	.	4.578223225422492	
+211	sentence	1	The train	12.813351392324074	
+211	sentence	2	slowed	11.258207214994972	
+211	sentence	3		0.0	
+211	sentence	4	, but did not	24.629572785382248	
+211	sentence	5	dichotomize	29.096138069800983	
+211	sentence	6	.	6.89292706046068	
+212	sentence	1	The train	12.813351392324074	
+212	sentence	2	slowed	11.258207214994972	
+212	sentence	3		0.0	
+212	sentence	4	, but did not	24.629572785382248	
+212	sentence	5	dogmatize	37.65399655030543	
+212	sentence	6	.	5.445454685496049	
+213	sentence	1	The train	12.813351392324074	
+213	sentence	2	slowed	11.258207214994972	
+213	sentence	3		0.0	
+213	sentence	4	, but did not	24.629572785382248	
+213	sentence	5	factorize	32.615087095643716	
+213	sentence	6	.	4.796138314747136	
+214	sentence	1	The train	12.813351392324074	
+214	sentence	2	slowed	11.258207214994972	
+214	sentence	3		0.0	
+214	sentence	4	, but did not	24.629572785382248	
+214	sentence	5	iodize	29.722501818697307	
+214	sentence	6	.	4.361497568111215	
+215	sentence	1	The train	12.813351392324074	
+215	sentence	2	slowed	11.258207214994972	
+215	sentence	3		0.0	
+215	sentence	4	, but did not	24.629572785382248	
+215	sentence	5	overcapitalize	30.598339193879802	
+215	sentence	6	.	5.048311316227746	
+216	sentence	1	The train	12.813351392324074	
+216	sentence	2	slowed	11.258207214994972	
+216	sentence	3		0.0	
+216	sentence	4	, but did not	24.629572785382248	
+216	sentence	5	overspecialize	31.222347855350876	
+216	sentence	6	.	6.261448042328654	
+217	sentence	1	The train	12.813351392324074	
+217	sentence	2	slowed	11.258207214994972	
+217	sentence	3		0.0	
+217	sentence	4	, but did not	24.629572785382248	
+217	sentence	5	relativize	24.798830211252014	
+217	sentence	6	.	4.743092329880313	
+218	sentence	1	The train	12.813351392324074	
+218	sentence	2	slowed	11.258207214994972	
+218	sentence	3		0.0	
+218	sentence	4	, but did not	24.629572785382248	
+218	sentence	5	schematize	31.046499808418602	
+218	sentence	6	.	4.820671983858017	
+219	sentence	1	The train	12.813351392324074	
+219	sentence	2	slowed	11.258207214994972	
+219	sentence	3		0.0	
+219	sentence	4	, but did not	24.629572785382248	
+219	sentence	5	sensualize	26.16436410585162	
+219	sentence	6	.	7.492126998817567	
+220	sentence	1	The train	12.813351392324074	
+220	sentence	2	slowed	11.258207214994972	
+220	sentence	3		0.0	
+220	sentence	4	, but did not	24.629572785382248	
+220	sentence	5	signalize	29.32774191399165	
+220	sentence	6	.	4.540322032790648	
+221	sentence	1	The train	12.813351392324074	
+221	sentence	2	slowed	11.258207214994972	
+221	sentence	3		0.0	
+221	sentence	4	, but did not	24.629572785382248	
+221	sentence	5	singularize	28.291478337413487	
+221	sentence	6	.	4.964516553213162	
+222	sentence	1	The train	12.813351392324074	
+222	sentence	2	slowed	11.258207214994972	
+222	sentence	3		0.0	
+222	sentence	4	, but did not	24.629572785382248	
+222	sentence	5	steepen	18.52952637630038	
+222	sentence	6	.	4.544805964463944	
+223	sentence	1	The train	12.813351392324074	
+223	sentence	2	slowed	11.258207214994972	
+223	sentence	3		0.0	
+223	sentence	4	, but did not	24.629572785382248	
+223	sentence	5	subtilize	33.62814479516699	
+223	sentence	6	.	4.612588110787295	
+224	sentence	1	The train	12.813351392324074	
+224	sentence	2	slowed	11.258207214994972	
+224	sentence	3		0.0	
+224	sentence	4	, but did not	24.629572785382248	
+224	sentence	5	syllogize	32.651545095860854	
+224	sentence	6	.	3.6549945581933057	
+225	sentence	1	The train	12.813351392324074	
+225	sentence	2	slowed	11.258207214994972	
+225	sentence	3		0.0	
+225	sentence	4	, but did not	24.629572785382248	
+225	sentence	5	complete	10.109860481057705	
+225	sentence	6	.	5.658137718616145	
+226	sentence	1	The train	12.813351392324074	
+226	sentence	2	slowed	11.258207214994972	
+226	sentence	3		0.0	
+226	sentence	4	, but did not	24.629572785382248	
+226	sentence	5	loathe	25.553922478525422	
+226	sentence	6	.	8.920140912698278	
+227	sentence	1	The train	12.813351392324074	
+227	sentence	2	slowed	11.258207214994972	
+227	sentence	3		0.0	
+227	sentence	4	, but did not	24.629572785382248	
+227	sentence	5	triple	18.448900909575897	
+227	sentence	6	.	6.886844378064964	
+228	sentence	1	The train	12.813351392324074	
+228	sentence	2	slowed	11.258207214994972	
+228	sentence	3		0.0	
+228	sentence	4	, but did not	24.629572785382248	
+228	sentence	5	love	17.291130214301955	
+228	sentence	6	.	9.085788410633905	
+229	sentence	1	The train	12.813351392324074	
+229	sentence	2	slowed	11.258207214994972	
+229	sentence	3		0.0	
+229	sentence	4	, but did not	24.629572785382248	
+229	sentence	5	exceed	9.818111863856451	
+229	sentence	6	.	7.639825011447944	
+230	sentence	1	The train	12.813351392324074	
+230	sentence	2	slowed	11.258207214994972	
+230	sentence	3		0.0	
+230	sentence	4	, but did not	24.629572785382248	
+230	sentence	5	require	11.399889962428771	
+230	sentence	6	.	12.951886857247084	
+231	sentence	1	The train	12.813351392324074	
+231	sentence	2	slowed	11.258207214994972	
+231	sentence	3		0.0	
+231	sentence	4	, but did not	24.629572785382248	
+231	sentence	5	eliminate	13.973917837570445	
+231	sentence	6	.	9.560823754373878	
+232	sentence	1	The train	12.813351392324074	
+232	sentence	2	slowed	11.258207214994972	
+232	sentence	3		0.0	
+232	sentence	4	, but did not	24.629572785382248	
+232	sentence	5	stop	0.9321180204956576	
+232	sentence	6	.	4.486249311498174	
+233	sentence	1	The train	12.813351392324074	
+233	sentence	2	slowed	11.258207214994972	
+233	sentence	3		0.0	
+233	sentence	4	, but did not	24.629572785382248	
+233	sentence	5	finish	9.091194857246428	
+233	sentence	6	.	4.842123379900135	
+234	sentence	1	The train	12.813351392324074	
+234	sentence	2	slowed	11.258207214994972	
+234	sentence	3		0.0	
+234	sentence	4	, but did not	24.629572785382248	
+234	sentence	5	thrive	19.739084487402135	
+234	sentence	6	.	4.474048174315363	
+235	sentence	1	The train	12.813351392324074	
+235	sentence	2	slowed	11.258207214994972	
+235	sentence	3		0.0	
+235	sentence	4	, but did not	24.629572785382248	
+235	sentence	5	encourage	17.42975098261979	
+235	sentence	6	.	11.187159806062338	
+236	sentence	1	The train	12.813351392324074	
+236	sentence	2	slowed	11.258207214994972	
+236	sentence	3		0.0	
+236	sentence	4	, but did not	24.629572785382248	
+236	sentence	5	need	9.635529578255666	
+236	sentence	6	.	11.827885299435353	

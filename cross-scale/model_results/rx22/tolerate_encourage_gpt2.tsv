@@ -1,0 +1,1417 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	Joey's parents	22.568891496247712	
+1	sentence	2	tolerate	19.647149441556913	
+1	sentence	3	dating	13.44443966587334	
+1	sentence	4	, but do not	22.585784320146058	
+1	sentence	5	have	5.49065447786521	
+1	sentence	6	it.	10.456139293402728	
+2	sentence	1	Joey's parents	22.568891496247712	
+2	sentence	2	tolerate	19.647149441556913	
+2	sentence	3	dating	13.44443966587334	
+2	sentence	4	, but do not	22.585784320146058	
+2	sentence	5	know	6.321300756551325	
+2	sentence	6	it.	7.378720778925377	
+3	sentence	1	Joey's parents	22.568891496247712	
+3	sentence	2	tolerate	19.647149441556913	
+3	sentence	3	dating	13.44443966587334	
+3	sentence	4	, but do not	22.585784320146058	
+3	sentence	5	get	6.7191337762495875	
+3	sentence	6	it.	7.213623625472511	
+4	sentence	1	Joey's parents	22.568891496247712	
+4	sentence	2	tolerate	19.647149441556913	
+4	sentence	3	dating	13.44443966587334	
+4	sentence	4	, but do not	22.585784320146058	
+4	sentence	5	go	6.519028522317693	
+4	sentence	6	it.	21.032358249499076	
+5	sentence	1	Joey's parents	22.568891496247712	
+5	sentence	2	tolerate	19.647149441556913	
+5	sentence	3	dating	13.44443966587334	
+5	sentence	4	, but do not	22.585784320146058	
+5	sentence	5	come	8.954280844755752	
+5	sentence	6	it.	14.936298699233852	
+6	sentence	1	Joey's parents	22.568891496247712	
+6	sentence	2	tolerate	19.647149441556913	
+6	sentence	3	dating	13.44443966587334	
+6	sentence	4	, but do not	22.585784320146058	
+6	sentence	5	see	7.440657406928553	
+6	sentence	6	it.	9.729002836930206	
+7	sentence	1	Joey's parents	22.568891496247712	
+7	sentence	2	tolerate	19.647149441556913	
+7	sentence	3	dating	13.44443966587334	
+7	sentence	4	, but do not	22.585784320146058	
+7	sentence	5	let	5.698926843921278	
+7	sentence	6	it.	11.84917881540398	
+8	sentence	1	Joey's parents	22.568891496247712	
+8	sentence	2	tolerate	19.647149441556913	
+8	sentence	3	dating	13.44443966587334	
+8	sentence	4	, but do not	22.585784320146058	
+8	sentence	5	take	6.000537978218911	
+8	sentence	6	it.	9.734359064608677	
+9	sentence	1	Joey's parents	22.568891496247712	
+9	sentence	2	tolerate	19.647149441556913	
+9	sentence	3	dating	13.44443966587334	
+9	sentence	4	, but do not	22.585784320146058	
+9	sentence	5	say	7.720364486846997	
+9	sentence	6	it.	7.158756172350401	
+10	sentence	1	Joey's parents	22.568891496247712	
+10	sentence	2	tolerate	19.647149441556913	
+10	sentence	3	dating	13.44443966587334	
+10	sentence	4	, but do not	22.585784320146058	
+10	sentence	5	make	7.420360702404328	
+10	sentence	6	it.	10.996820414977037	
+11	sentence	1	Joey's parents	22.568891496247712	
+11	sentence	2	tolerate	19.647149441556913	
+11	sentence	3	dating	13.44443966587334	
+11	sentence	4	, but do not	22.585784320146058	
+11	sentence	5	give	6.930289947395323	
+11	sentence	6	it.	11.121352364536193	
+12	sentence	1	Joey's parents	22.568891496247712	
+12	sentence	2	tolerate	19.647149441556913	
+12	sentence	3	dating	13.44443966587334	
+12	sentence	4	, but do not	22.585784320146058	
+12	sentence	5	find	7.733352616640157	
+12	sentence	6	it.	10.688084383419458	
+13	sentence	1	Joey's parents	22.568891496247712	
+13	sentence	2	tolerate	19.647149441556913	
+13	sentence	3	dating	13.44443966587334	
+13	sentence	4	, but do not	22.585784320146058	
+13	sentence	5	keep	9.074013790425234	
+13	sentence	6	it.	8.864866720606877	
+14	sentence	1	Joey's parents	22.568891496247712	
+14	sentence	2	tolerate	19.647149441556913	
+14	sentence	3	dating	13.44443966587334	
+14	sentence	4	, but do not	22.585784320146058	
+14	sentence	5	leave	9.587022903475715	
+14	sentence	6	it.	9.375714699666617	
+15	sentence	1	Joey's parents	22.568891496247712	
+15	sentence	2	tolerate	19.647149441556913	
+15	sentence	3	dating	13.44443966587334	
+15	sentence	4	, but do not	22.585784320146058	
+15	sentence	5	believe	6.065148420495051	
+15	sentence	6	it.	6.68743290214665	
+16	sentence	1	Joey's parents	22.568891496247712	
+16	sentence	2	tolerate	19.647149441556913	
+16	sentence	3	dating	13.44443966587334	
+16	sentence	4	, but do not	22.585784320146058	
+16	sentence	5	remember	10.824593548750004	
+16	sentence	6	it.	7.063958303298915	
+17	sentence	1	Joey's parents	22.568891496247712	
+17	sentence	2	tolerate	19.647149441556913	
+17	sentence	3	dating	13.44443966587334	
+17	sentence	4	, but do not	22.585784320146058	
+17	sentence	5	run	10.754875909673842	
+17	sentence	6	it.	8.099532229447119	
+18	sentence	1	Joey's parents	22.568891496247712	
+18	sentence	2	tolerate	19.647149441556913	
+18	sentence	3	dating	13.44443966587334	
+18	sentence	4	, but do not	22.585784320146058	
+18	sentence	5	happen	12.024234452272404	
+18	sentence	6	it.	14.119320569742406	
+19	sentence	1	Joey's parents	22.568891496247712	
+19	sentence	2	tolerate	19.647149441556913	
+19	sentence	3	dating	13.44443966587334	
+19	sentence	4	, but do not	22.585784320146058	
+19	sentence	5	buy	9.738719856703954	
+19	sentence	6	it.	4.5055313183823085	
+20	sentence	1	Joey's parents	22.568891496247712	
+20	sentence	2	tolerate	19.647149441556913	
+20	sentence	3	dating	13.44443966587334	
+20	sentence	4	, but do not	22.585784320146058	
+20	sentence	5	save	12.99266463169726	
+20	sentence	6	it.	8.01002179501376	
+21	sentence	1	Joey's parents	22.568891496247712	
+21	sentence	2	tolerate	19.647149441556913	
+21	sentence	3	dating	13.44443966587334	
+21	sentence	4	, but do not	22.585784320146058	
+21	sentence	5	lose	11.849951361471655	
+21	sentence	6	it.	6.501081616752206	
+22	sentence	1	Joey's parents	22.568891496247712	
+22	sentence	2	tolerate	19.647149441556913	
+22	sentence	3	dating	13.44443966587334	
+22	sentence	4	, but do not	22.585784320146058	
+22	sentence	5	follow	7.904377668102962	
+22	sentence	6	it.	7.221101087166725	
+23	sentence	1	Joey's parents	22.568891496247712	
+23	sentence	2	tolerate	19.647149441556913	
+23	sentence	3	dating	13.44443966587334	
+23	sentence	4	, but do not	22.585784320146058	
+23	sentence	5	expect	5.394168083147553	
+23	sentence	6	it.	8.236026948234992	
+24	sentence	1	Joey's parents	22.568891496247712	
+24	sentence	2	tolerate	19.647149441556913	
+24	sentence	3	dating	13.44443966587334	
+24	sentence	4	, but do not	22.585784320146058	
+24	sentence	5	realize	8.447193438339779	
+24	sentence	6	it.	5.596167553996051	
+25	sentence	1	Joey's parents	22.568891496247712	
+25	sentence	2	tolerate	19.647149441556913	
+25	sentence	3	dating	13.44443966587334	
+25	sentence	4	, but do not	22.585784320146058	
+25	sentence	5	slow	15.127604976782303	
+25	sentence	6	it.	11.847186568376383	
+26	sentence	1	Joey's parents	22.568891496247712	
+26	sentence	2	tolerate	19.647149441556913	
+26	sentence	3	dating	13.44443966587334	
+26	sentence	4	, but do not	22.585784320146058	
+26	sentence	5	allow	4.812145771958843	
+26	sentence	6	it.	4.268142461517818	
+27	sentence	1	Joey's parents	22.568891496247712	
+27	sentence	2	tolerate	19.647149441556913	
+27	sentence	3	dating	13.44443966587334	
+27	sentence	4	, but do not	22.585784320146058	
+27	sentence	5	consider	6.27749333572355	
+27	sentence	6	it.	8.705544916552634	
+28	sentence	1	Joey's parents	22.568891496247712	
+28	sentence	2	tolerate	19.647149441556913	
+28	sentence	3	dating	13.44443966587334	
+28	sentence	4	, but do not	22.585784320146058	
+28	sentence	5	apologize	11.03828130451644	
+28	sentence	6	it.	13.984618254141827	
+29	sentence	1	Joey's parents	22.568891496247712	
+29	sentence	2	tolerate	19.647149441556913	
+29	sentence	3	dating	13.44443966587334	
+29	sentence	4	, but do not	22.585784320146058	
+29	sentence	5	recognize	8.377013509898097	
+29	sentence	6	it.	5.6441799506374215	
+30	sentence	1	Joey's parents	22.568891496247712	
+30	sentence	2	tolerate	19.647149441556913	
+30	sentence	3	dating	13.44443966587334	
+30	sentence	4	, but do not	22.585784320146058	
+30	sentence	5	settle	11.441089438338862	
+30	sentence	6	it.	7.628932662238198	
+31	sentence	1	Joey's parents	22.568891496247712	
+31	sentence	2	tolerate	19.647149441556913	
+31	sentence	3	dating	13.44443966587334	
+31	sentence	4	, but do not	22.585784320146058	
+31	sentence	5	add	12.379316712549793	
+31	sentence	6	it.	8.376011882939473	
+32	sentence	1	Joey's parents	22.568891496247712	
+32	sentence	2	tolerate	19.647149441556913	
+32	sentence	3	dating	13.44443966587334	
+32	sentence	4	, but do not	22.585784320146058	
+32	sentence	5	assume	9.922336789932329	
+32	sentence	6	it.	8.822050263813374	
+33	sentence	1	Joey's parents	22.568891496247712	
+33	sentence	2	tolerate	19.647149441556913	
+33	sentence	3	dating	13.44443966587334	
+33	sentence	4	, but do not	22.585784320146058	
+33	sentence	5	appear	9.715671429765925	
+33	sentence	6	it.	15.878144832384239	
+34	sentence	1	Joey's parents	22.568891496247712	
+34	sentence	2	tolerate	19.647149441556913	
+34	sentence	3	dating	13.44443966587334	
+34	sentence	4	, but do not	22.585784320146058	
+34	sentence	5	remove	12.304315766439126	
+34	sentence	6	it.	5.287661291260026	
+35	sentence	1	Joey's parents	22.568891496247712	
+35	sentence	2	tolerate	19.647149441556913	
+35	sentence	3	dating	13.44443966587334	
+35	sentence	4	, but do not	22.585784320146058	
+35	sentence	5	identify	10.472527176238144	
+35	sentence	6	it.	11.422528726692445	
+36	sentence	1	Joey's parents	22.568891496247712	
+36	sentence	2	tolerate	19.647149441556913	
+36	sentence	3	dating	13.44443966587334	
+36	sentence	4	, but do not	22.585784320146058	
+36	sentence	5	replace	14.392410789151555	
+36	sentence	6	it.	4.277535981925293	
+37	sentence	1	Joey's parents	22.568891496247712	
+37	sentence	2	tolerate	19.647149441556913	
+37	sentence	3	dating	13.44443966587334	
+37	sentence	4	, but do not	22.585784320146058	
+37	sentence	5	apply	9.625877223958641	
+37	sentence	6	it.	7.815855102016158	
+38	sentence	1	Joey's parents	22.568891496247712	
+38	sentence	2	tolerate	19.647149441556913	
+38	sentence	3	dating	13.44443966587334	
+38	sentence	4	, but do not	22.585784320146058	
+38	sentence	5	succeed	11.407276273318027	
+38	sentence	6	it.	11.79675540773328	
+39	sentence	1	Joey's parents	22.568891496247712	
+39	sentence	2	tolerate	19.647149441556913	
+39	sentence	3	dating	13.44443966587334	
+39	sentence	4	, but do not	22.585784320146058	
+39	sentence	5	develop	11.565423263884224	
+39	sentence	6	it.	8.01469163993264	
+40	sentence	1	Joey's parents	22.568891496247712	
+40	sentence	2	tolerate	19.647149441556913	
+40	sentence	3	dating	13.44443966587334	
+40	sentence	4	, but do not	22.585784320146058	
+40	sentence	5	approve	6.645849904925135	
+40	sentence	6	it.	8.53163709189607	
+41	sentence	1	Joey's parents	22.568891496247712	
+41	sentence	2	tolerate	19.647149441556913	
+41	sentence	3	dating	13.44443966587334	
+41	sentence	4	, but do not	22.585784320146058	
+41	sentence	5	expose	10.81142930872236	
+41	sentence	6	it.	7.68224522021386	
+42	sentence	1	Joey's parents	22.568891496247712	
+42	sentence	2	tolerate	19.647149441556913	
+42	sentence	3	dating	13.44443966587334	
+42	sentence	4	, but do not	22.585784320146058	
+42	sentence	5	establish	12.21234219648011	
+42	sentence	6	it.	7.808376608426039	
+43	sentence	1	Joey's parents	22.568891496247712	
+43	sentence	2	tolerate	19.647149441556913	
+43	sentence	3	dating	13.44443966587334	
+43	sentence	4	, but do not	22.585784320146058	
+43	sentence	5	reduce	14.557205941069505	
+43	sentence	6	it.	5.197851263048864	
+44	sentence	1	Joey's parents	22.568891496247712	
+44	sentence	2	tolerate	19.647149441556913	
+44	sentence	3	dating	13.44443966587334	
+44	sentence	4	, but do not	22.585784320146058	
+44	sentence	5	participate	9.977723458677396	
+44	sentence	6	it.	14.297004101516016	
+45	sentence	1	Joey's parents	22.568891496247712	
+45	sentence	2	tolerate	19.647149441556913	
+45	sentence	3	dating	13.44443966587334	
+45	sentence	4	, but do not	22.585784320146058	
+45	sentence	5	organize	13.870331999025172	
+45	sentence	6	it.	7.400433416614156	
+46	sentence	1	Joey's parents	22.568891496247712	
+46	sentence	2	tolerate	19.647149441556913	
+46	sentence	3	dating	13.44443966587334	
+46	sentence	4	, but do not	22.585784320146058	
+46	sentence	5	obtain	13.273274276567431	
+46	sentence	6	it.	7.867044534166917	
+47	sentence	1	Joey's parents	22.568891496247712	
+47	sentence	2	tolerate	19.647149441556913	
+47	sentence	3	dating	13.44443966587334	
+47	sentence	4	, but do not	22.585784320146058	
+47	sentence	5	kitten	24.999860418783385	
+47	sentence	6	it.	8.359649109571084	
+48	sentence	1	Joey's parents	22.568891496247712	
+48	sentence	2	tolerate	19.647149441556913	
+48	sentence	3	dating	13.44443966587334	
+48	sentence	4	, but do not	22.585784320146058	
+48	sentence	5	acquire	15.849921103516444	
+48	sentence	6	it.	6.288683042936637	
+49	sentence	1	Joey's parents	22.568891496247712	
+49	sentence	2	tolerate	19.647149441556913	
+49	sentence	3	dating	13.44443966587334	
+49	sentence	4	, but do not	22.585784320146058	
+49	sentence	5	qualify	12.772570866151485	
+49	sentence	6	it.	10.055930161400147	
+50	sentence	1	Joey's parents	22.568891496247712	
+50	sentence	2	tolerate	19.647149441556913	
+50	sentence	3	dating	13.44443966587334	
+50	sentence	4	, but do not	22.585784320146058	
+50	sentence	5	criticize	11.527691646146131	
+50	sentence	6	it.	5.511999932594396	
+51	sentence	1	Joey's parents	22.568891496247712	
+51	sentence	2	tolerate	19.647149441556913	
+51	sentence	3	dating	13.44443966587334	
+51	sentence	4	, but do not	22.585784320146058	
+51	sentence	5	rave	16.798098605975696	
+51	sentence	6	it.	10.71383362590664	
+52	sentence	1	Joey's parents	22.568891496247712	
+52	sentence	2	tolerate	19.647149441556913	
+52	sentence	3	dating	13.44443966587334	
+52	sentence	4	, but do not	22.585784320146058	
+52	sentence	5	enlighten	18.18666809465162	
+52	sentence	6	it.	10.205171890304667	
+53	sentence	1	Joey's parents	22.568891496247712	
+53	sentence	2	tolerate	19.647149441556913	
+53	sentence	3	dating	13.44443966587334	
+53	sentence	4	, but do not	22.585784320146058	
+53	sentence	5	disclose	9.870582394773486	
+53	sentence	6	it.	4.955809587547931	
+54	sentence	1	Joey's parents	22.568891496247712	
+54	sentence	2	tolerate	19.647149441556913	
+54	sentence	3	dating	13.44443966587334	
+54	sentence	4	, but do not	22.585784320146058	
+54	sentence	5	reopen	19.05785707975093	
+54	sentence	6	it.	8.056971338872799	
+55	sentence	1	Joey's parents	22.568891496247712	
+55	sentence	2	tolerate	19.647149441556913	
+55	sentence	3	dating	13.44443966587334	
+55	sentence	4	, but do not	22.585784320146058	
+55	sentence	5	stabilize	19.53368491954608	
+55	sentence	6	it.	6.979841760744567	
+56	sentence	1	Joey's parents	22.568891496247712	
+56	sentence	2	tolerate	19.647149441556913	
+56	sentence	3	dating	13.44443966587334	
+56	sentence	4	, but do not	22.585784320146058	
+56	sentence	5	soar	20.891935103000197	
+56	sentence	6	it.	11.429324793123941	
+57	sentence	1	Joey's parents	22.568891496247712	
+57	sentence	2	tolerate	19.647149441556913	
+57	sentence	3	dating	13.44443966587334	
+57	sentence	4	, but do not	22.585784320146058	
+57	sentence	5	authorize	13.851113969687159	
+57	sentence	6	it.	3.445831493988419	
+58	sentence	1	Joey's parents	22.568891496247712	
+58	sentence	2	tolerate	19.647149441556913	
+58	sentence	3	dating	13.44443966587334	
+58	sentence	4	, but do not	22.585784320146058	
+58	sentence	5	sympathize	15.292314803807594	
+58	sentence	6	it.	13.329657928739548	
+59	sentence	1	Joey's parents	22.568891496247712	
+59	sentence	2	tolerate	19.647149441556913	
+59	sentence	3	dating	13.44443966587334	
+59	sentence	4	, but do not	22.585784320146058	
+59	sentence	5	sharpen	20.10760655228397	
+59	sentence	6	it.	7.527729471337979	
+60	sentence	1	Joey's parents	22.568891496247712	
+60	sentence	2	tolerate	19.647149441556913	
+60	sentence	3	dating	13.44443966587334	
+60	sentence	4	, but do not	22.585784320146058	
+60	sentence	5	specialize	17.591607294999797	
+60	sentence	6	it.	12.750374269283178	
+61	sentence	1	Joey's parents	22.568891496247712	
+61	sentence	2	tolerate	19.647149441556913	
+61	sentence	3	dating	13.44443966587334	
+61	sentence	4	, but do not	22.585784320146058	
+61	sentence	5	minimize	15.010953960216284	
+61	sentence	6	it.	3.437721996052285	
+62	sentence	1	Joey's parents	22.568891496247712	
+62	sentence	2	tolerate	19.647149441556913	
+62	sentence	3	dating	13.44443966587334	
+62	sentence	4	, but do not	22.585784320146058	
+62	sentence	5	socialize	12.297492263400361	
+62	sentence	6	it.	10.559197661157807	
+63	sentence	1	Joey's parents	22.568891496247712	
+63	sentence	2	tolerate	19.647149441556913	
+63	sentence	3	dating	13.44443966587334	
+63	sentence	4	, but do not	22.585784320146058	
+63	sentence	5	utilize	14.477119811938126	
+63	sentence	6	it.	4.801655002238862	
+64	sentence	1	Joey's parents	22.568891496247712	
+64	sentence	2	tolerate	19.647149441556913	
+64	sentence	3	dating	13.44443966587334	
+64	sentence	4	, but do not	22.585784320146058	
+64	sentence	5	rectify	18.29529468557465	
+64	sentence	6	it.	4.329889736622394	
+65	sentence	1	Joey's parents	22.568891496247712	
+65	sentence	2	tolerate	19.647149441556913	
+65	sentence	3	dating	13.44443966587334	
+65	sentence	4	, but do not	22.585784320146058	
+65	sentence	5	terrorize	15.963481898190555	
+65	sentence	6	it.	8.521238676859602	
+66	sentence	1	Joey's parents	22.568891496247712	
+66	sentence	2	tolerate	19.647149441556913	
+66	sentence	3	dating	13.44443966587334	
+66	sentence	4	, but do not	22.585784320146058	
+66	sentence	5	enslave	18.64553943993423	
+66	sentence	6	it.	7.533786700301368	
+67	sentence	1	Joey's parents	22.568891496247712	
+67	sentence	2	tolerate	19.647149441556913	
+67	sentence	3	dating	13.44443966587334	
+67	sentence	4	, but do not	22.585784320146058	
+67	sentence	5	finalize	15.860562368804844	
+67	sentence	6	it.	5.689882276312403	
+68	sentence	1	Joey's parents	22.568891496247712	
+68	sentence	2	tolerate	19.647149441556913	
+68	sentence	3	dating	13.44443966587334	
+68	sentence	4	, but do not	22.585784320146058	
+68	sentence	5	maximize	16.98279421439028	
+68	sentence	6	it.	6.438776773893533	
+69	sentence	1	Joey's parents	22.568891496247712	
+69	sentence	2	tolerate	19.647149441556913	
+69	sentence	3	dating	13.44443966587334	
+69	sentence	4	, but do not	22.585784320146058	
+69	sentence	5	summarize	18.883794126743286	
+69	sentence	6	it.	6.7025238638119085	
+70	sentence	1	Joey's parents	22.568891496247712	
+70	sentence	2	tolerate	19.647149441556913	
+70	sentence	3	dating	13.44443966587334	
+70	sentence	4	, but do not	22.585784320146058	
+70	sentence	5	repose	20.08145860564197	
+70	sentence	6	it.	7.289864738478551	
+71	sentence	1	Joey's parents	22.568891496247712	
+71	sentence	2	tolerate	19.647149441556913	
+71	sentence	3	dating	13.44443966587334	
+71	sentence	4	, but do not	22.585784320146058	
+71	sentence	5	symbolize	18.50110319055325	
+71	sentence	6	it.	5.579516021756864	
+72	sentence	1	Joey's parents	22.568891496247712	
+72	sentence	2	tolerate	19.647149441556913	
+72	sentence	3	dating	13.44443966587334	
+72	sentence	4	, but do not	22.585784320146058	
+72	sentence	5	sterilize	16.5845312971839	
+72	sentence	6	it.	6.684847830921531	
+73	sentence	1	Joey's parents	22.568891496247712	
+73	sentence	2	tolerate	19.647149441556913	
+73	sentence	3	dating	13.44443966587334	
+73	sentence	4	, but do not	22.585784320146058	
+73	sentence	5	revolutionize	19.810199786486198	
+73	sentence	6	it.	5.214275778188913	
+74	sentence	1	Joey's parents	22.568891496247712	
+74	sentence	2	tolerate	19.647149441556913	
+74	sentence	3	dating	13.44443966587334	
+74	sentence	4	, but do not	22.585784320146058	
+74	sentence	5	synchronize	18.22187616795794	
+74	sentence	6	it.	8.566293143888782	
+75	sentence	1	Joey's parents	22.568891496247712	
+75	sentence	2	tolerate	19.647149441556913	
+75	sentence	3	dating	13.44443966587334	
+75	sentence	4	, but do not	22.585784320146058	
+75	sentence	5	fertilize	18.474766871851205	
+75	sentence	6	it.	7.108880515669583	
+76	sentence	1	Joey's parents	22.568891496247712	
+76	sentence	2	tolerate	19.647149441556913	
+76	sentence	3	dating	13.44443966587334	
+76	sentence	4	, but do not	22.585784320146058	
+76	sentence	5	rationalize	15.248433580924768	
+76	sentence	6	it.	3.4771230493823038	
+77	sentence	1	Joey's parents	22.568891496247712	
+77	sentence	2	tolerate	19.647149441556913	
+77	sentence	3	dating	13.44443966587334	
+77	sentence	4	, but do not	22.585784320146058	
+77	sentence	5	antagonize	13.688300219140881	
+77	sentence	6	it.	7.381941154062783	
+78	sentence	1	Joey's parents	22.568891496247712	
+78	sentence	2	tolerate	19.647149441556913	
+78	sentence	3	dating	13.44443966587334	
+78	sentence	4	, but do not	22.585784320146058	
+78	sentence	5	kindle	15.803517260608594	
+78	sentence	6	it.	6.041204651876629	
+79	sentence	1	Joey's parents	22.568891496247712	
+79	sentence	2	tolerate	19.647149441556913	
+79	sentence	3	dating	13.44443966587334	
+79	sentence	4	, but do not	22.585784320146058	
+79	sentence	5	familiarize	18.193733410671957	
+79	sentence	6	it.	14.643036290739701	
+80	sentence	1	Joey's parents	22.568891496247712	
+80	sentence	2	tolerate	19.647149441556913	
+80	sentence	3	dating	13.44443966587334	
+80	sentence	4	, but do not	22.585784320146058	
+80	sentence	5	synthesize	21.650199215400335	
+80	sentence	6	it.	6.9773069084534995	
+81	sentence	1	Joey's parents	22.568891496247712	
+81	sentence	2	tolerate	19.647149441556913	
+81	sentence	3	dating	13.44443966587334	
+81	sentence	4	, but do not	22.585784320146058	
+81	sentence	5	reorganize	21.594562333396095	
+81	sentence	6	it.	8.074209847899382	
+82	sentence	1	Joey's parents	22.568891496247712	
+82	sentence	2	tolerate	19.647149441556913	
+82	sentence	3	dating	13.44443966587334	
+82	sentence	4	, but do not	22.585784320146058	
+82	sentence	5	ripen	26.15714474712069	
+82	sentence	6	it.	8.101305026612213	
+83	sentence	1	Joey's parents	22.568891496247712	
+83	sentence	2	tolerate	19.647149441556913	
+83	sentence	3	dating	13.44443966587334	
+83	sentence	4	, but do not	22.585784320146058	
+83	sentence	5	deepen	19.227473249337866	
+83	sentence	6	it.	7.188980403413031	
+84	sentence	1	Joey's parents	22.568891496247712	
+84	sentence	2	tolerate	19.647149441556913	
+84	sentence	3	dating	13.44443966587334	
+84	sentence	4	, but do not	22.585784320146058	
+84	sentence	5	destabilize	19.12059488893315	
+84	sentence	6	it.	6.388573834228122	
+85	sentence	1	Joey's parents	22.568891496247712	
+85	sentence	2	tolerate	19.647149441556913	
+85	sentence	3	dating	13.44443966587334	
+85	sentence	4	, but do not	22.585784320146058	
+85	sentence	5	enclose	20.087404643790734	
+85	sentence	6	it.	7.300967594452953	
+86	sentence	1	Joey's parents	22.568891496247712	
+86	sentence	2	tolerate	19.647149441556913	
+86	sentence	3	dating	13.44443966587334	
+86	sentence	4	, but do not	22.585784320146058	
+86	sentence	5	dampen	18.048120968498715	
+86	sentence	6	it.	5.744889379347015	
+87	sentence	1	Joey's parents	22.568891496247712	
+87	sentence	2	tolerate	19.647149441556913	
+87	sentence	3	dating	13.44443966587334	
+87	sentence	4	, but do not	22.585784320146058	
+87	sentence	5	subsidize	17.661793221336428	
+87	sentence	6	it.	3.4441113235144893	
+88	sentence	1	Joey's parents	22.568891496247712	
+88	sentence	2	tolerate	19.647149441556913	
+88	sentence	3	dating	13.44443966587334	
+88	sentence	4	, but do not	22.585784320146058	
+88	sentence	5	idolize	14.699544275619477	
+88	sentence	6	it.	7.094111161561437	
+89	sentence	1	Joey's parents	22.568891496247712	
+89	sentence	2	tolerate	19.647149441556913	
+89	sentence	3	dating	13.44443966587334	
+89	sentence	4	, but do not	22.585784320146058	
+89	sentence	5	quantify	18.26487672143028	
+89	sentence	6	it.	3.5833082337127173	
+90	sentence	1	Joey's parents	22.568891496247712	
+90	sentence	2	tolerate	19.647149441556913	
+90	sentence	3	dating	13.44443966587334	
+90	sentence	4	, but do not	22.585784320146058	
+90	sentence	5	engrave	23.92988480298309	
+90	sentence	6	it.	8.272580828779976	
+91	sentence	1	Joey's parents	22.568891496247712	
+91	sentence	2	tolerate	19.647149441556913	
+91	sentence	3	dating	13.44443966587334	
+91	sentence	4	, but do not	22.585784320146058	
+91	sentence	5	fraternize	15.130871816794961	
+91	sentence	6	it.	12.735087075413286	
+92	sentence	1	Joey's parents	22.568891496247712	
+92	sentence	2	tolerate	19.647149441556913	
+92	sentence	3	dating	13.44443966587334	
+92	sentence	4	, but do not	22.585784320146058	
+92	sentence	5	immobilize	22.20975527704756	
+92	sentence	6	it.	7.812551659258385	
+93	sentence	1	Joey's parents	22.568891496247712	
+93	sentence	2	tolerate	19.647149441556913	
+93	sentence	3	dating	13.44443966587334	
+93	sentence	4	, but do not	22.585784320146058	
+93	sentence	5	downsize	18.89538438155023	
+93	sentence	6	it.	6.856894631313111	
+94	sentence	1	Joey's parents	22.568891496247712	
+94	sentence	2	tolerate	19.647149441556913	
+94	sentence	3	dating	13.44443966587334	
+94	sentence	4	, but do not	22.585784320146058	
+94	sentence	5	theorize	17.92933899955357	
+94	sentence	6	it.	8.17838077142289	
+95	sentence	1	Joey's parents	22.568891496247712	
+95	sentence	2	tolerate	19.647149441556913	
+95	sentence	3	dating	13.44443966587334	
+95	sentence	4	, but do not	22.585784320146058	
+95	sentence	5	dramatize	18.760600196833387	
+95	sentence	6	it.	4.013100789420816	
+96	sentence	1	Joey's parents	22.568891496247712	
+96	sentence	2	tolerate	19.647149441556913	
+96	sentence	3	dating	13.44443966587334	
+96	sentence	4	, but do not	22.585784320146058	
+96	sentence	5	modernize	18.270596391445686	
+96	sentence	6	it.	5.1538460621725966	
+97	sentence	1	Joey's parents	22.568891496247712	
+97	sentence	2	tolerate	19.647149441556913	
+97	sentence	3	dating	13.44443966587334	
+97	sentence	4	, but do not	22.585784320146058	
+97	sentence	5	revitalize	22.984445796396905	
+97	sentence	6	it.	6.576786143887553	
+98	sentence	1	Joey's parents	22.568891496247712	
+98	sentence	2	tolerate	19.647149441556913	
+98	sentence	3	dating	13.44443966587334	
+98	sentence	4	, but do not	22.585784320146058	
+98	sentence	5	traumatize	17.354437511785758	
+98	sentence	6	it.	9.131237233881514	
+99	sentence	1	Joey's parents	22.568891496247712	
+99	sentence	2	tolerate	19.647149441556913	
+99	sentence	3	dating	13.44443966587334	
+99	sentence	4	, but do not	22.585784320146058	
+99	sentence	5	immortalize	21.172590237281522	
+99	sentence	6	it.	4.967498904361774	
+100	sentence	1	Joey's parents	22.568891496247712	
+100	sentence	2	tolerate	19.647149441556913	
+100	sentence	3	dating	13.44443966587334	
+100	sentence	4	, but do not	22.585784320146058	
+100	sentence	5	agonize	17.255854868906855	
+100	sentence	6	it.	15.325235744333584	
+101	sentence	1	Joey's parents	22.568891496247712	
+101	sentence	2	tolerate	19.647149441556913	
+101	sentence	3	dating	13.44443966587334	
+101	sentence	4	, but do not	22.585784320146058	
+101	sentence	5	electrify	22.04601745834374	
+101	sentence	6	it.	8.599350617141726	
+102	sentence	1	Joey's parents	22.568891496247712	
+102	sentence	2	tolerate	19.647149441556913	
+102	sentence	3	dating	13.44443966587334	
+102	sentence	4	, but do not	22.585784320146058	
+102	sentence	5	demoralize	19.7888188818331	
+102	sentence	6	it.	9.526705664113063	
+103	sentence	1	Joey's parents	22.568891496247712	
+103	sentence	2	tolerate	19.647149441556913	
+103	sentence	3	dating	13.44443966587334	
+103	sentence	4	, but do not	22.585784320146058	
+103	sentence	5	sanitize	17.68551699189765	
+103	sentence	6	it.	5.030846993980581	
+104	sentence	1	Joey's parents	22.568891496247712	
+104	sentence	2	tolerate	19.647149441556913	
+104	sentence	3	dating	13.44443966587334	
+104	sentence	4	, but do not	22.585784320146058	
+104	sentence	5	anesthetize	22.002716389374083	
+104	sentence	6	it.	6.8149446231146555	
+105	sentence	1	Joey's parents	22.568891496247712	
+105	sentence	2	tolerate	19.647149441556913	
+105	sentence	3	dating	13.44443966587334	
+105	sentence	4	, but do not	22.585784320146058	
+105	sentence	5	trivialize	17.866481689301285	
+105	sentence	6	it.	3.4243805279029282	
+106	sentence	1	Joey's parents	22.568891496247712	
+106	sentence	2	tolerate	19.647149441556913	
+106	sentence	3	dating	13.44443966587334	
+106	sentence	4	, but do not	22.585784320146058	
+106	sentence	5	romanticize	11.872046327342217	
+106	sentence	6	it.	5.513551904035782	
+107	sentence	1	Joey's parents	22.568891496247712	
+107	sentence	2	tolerate	19.647149441556913	
+107	sentence	3	dating	13.44443966587334	
+107	sentence	4	, but do not	22.585784320146058	
+107	sentence	5	equalize	17.925642318464597	
+107	sentence	6	it.	7.022520803400031	
+108	sentence	1	Joey's parents	22.568891496247712	
+108	sentence	2	tolerate	19.647149441556913	
+108	sentence	3	dating	13.44443966587334	
+108	sentence	4	, but do not	22.585784320146058	
+108	sentence	5	demonize	14.962036225402942	
+108	sentence	6	it.	5.577627480267738	
+109	sentence	1	Joey's parents	22.568891496247712	
+109	sentence	2	tolerate	19.647149441556913	
+109	sentence	3	dating	13.44443966587334	
+109	sentence	4	, but do not	22.585784320146058	
+109	sentence	5	alphabetize	26.65550553885357	
+109	sentence	6	it.	5.462836972018754	
+110	sentence	1	Joey's parents	22.568891496247712	
+110	sentence	2	tolerate	19.647149441556913	
+110	sentence	3	dating	13.44443966587334	
+110	sentence	4	, but do not	22.585784320146058	
+110	sentence	5	formalize	14.865641234089761	
+110	sentence	6	it.	3.474323257817583	
+111	sentence	1	Joey's parents	22.568891496247712	
+111	sentence	2	tolerate	19.647149441556913	
+111	sentence	3	dating	13.44443966587334	
+111	sentence	4	, but do not	22.585784320146058	
+111	sentence	5	optimize	17.61483183217231	
+111	sentence	6	it.	6.035142091451064	
+112	sentence	1	Joey's parents	22.568891496247712	
+112	sentence	2	tolerate	19.647149441556913	
+112	sentence	3	dating	13.44443966587334	
+112	sentence	4	, but do not	22.585784320146058	
+112	sentence	5	internalize	14.759692875244044	
+112	sentence	6	it.	3.6832774490929965	
+113	sentence	1	Joey's parents	22.568891496247712	
+113	sentence	2	tolerate	19.647149441556913	
+113	sentence	3	dating	13.44443966587334	
+113	sentence	4	, but do not	22.585784320146058	
+113	sentence	5	idealize	14.345595671231997	
+113	sentence	6	it.	4.243509902382691	
+114	sentence	1	Joey's parents	22.568891496247712	
+114	sentence	2	tolerate	19.647149441556913	
+114	sentence	3	dating	13.44443966587334	
+114	sentence	4	, but do not	22.585784320146058	
+114	sentence	5	sodomize	17.938735621023216	
+114	sentence	6	it.	8.85287385441426	
+115	sentence	1	Joey's parents	22.568891496247712	
+115	sentence	2	tolerate	19.647149441556913	
+115	sentence	3	dating	13.44443966587334	
+115	sentence	4	, but do not	22.585784320146058	
+115	sentence	5	digitize	25.009293022248265	
+115	sentence	6	it.	5.526185061637561	
+116	sentence	1	Joey's parents	22.568891496247712	
+116	sentence	2	tolerate	19.647149441556913	
+116	sentence	3	dating	13.44443966587334	
+116	sentence	4	, but do not	22.585784320146058	
+116	sentence	5	galvanize	21.70413252325645	
+116	sentence	6	it.	8.156964115876246	
+117	sentence	1	Joey's parents	22.568891496247712	
+117	sentence	2	tolerate	19.647149441556913	
+117	sentence	3	dating	13.44443966587334	
+117	sentence	4	, but do not	22.585784320146058	
+117	sentence	5	initialize	21.29214561086399	
+117	sentence	6	it.	6.989256950966052	
+118	sentence	1	Joey's parents	22.568891496247712	
+118	sentence	2	tolerate	19.647149441556913	
+118	sentence	3	dating	13.44443966587334	
+118	sentence	4	, but do not	22.585784320146058	
+118	sentence	5	exemplify	17.900820617378336	
+118	sentence	6	it.	5.192479728914465	
+119	sentence	1	Joey's parents	22.568891496247712	
+119	sentence	2	tolerate	19.647149441556913	
+119	sentence	3	dating	13.44443966587334	
+119	sentence	4	, but do not	22.585784320146058	
+119	sentence	5	depressurize	32.833207575249155	
+119	sentence	6	it.	7.757544728206424	
+120	sentence	1	Joey's parents	22.568891496247712	
+120	sentence	2	tolerate	19.647149441556913	
+120	sentence	3	dating	13.44443966587334	
+120	sentence	4	, but do not	22.585784320146058	
+120	sentence	5	itemize	18.936604710356743	
+120	sentence	6	it.	5.263885549691497	
+121	sentence	1	Joey's parents	22.568891496247712	
+121	sentence	2	tolerate	19.647149441556913	
+121	sentence	3	dating	13.44443966587334	
+121	sentence	4	, but do not	22.585784320146058	
+121	sentence	5	dehumanize	20.20155700369562	
+121	sentence	6	it.	6.6009920140658895	
+122	sentence	1	Joey's parents	22.568891496247712	
+122	sentence	2	tolerate	19.647149441556913	
+122	sentence	3	dating	13.44443966587334	
+122	sentence	4	, but do not	22.585784320146058	
+122	sentence	5	mollify	19.98925922783683	
+122	sentence	6	it.	7.150689498094332	
+123	sentence	1	Joey's parents	22.568891496247712	
+123	sentence	2	tolerate	19.647149441556913	
+123	sentence	3	dating	13.44443966587334	
+123	sentence	4	, but do not	22.585784320146058	
+123	sentence	5	immunize	18.460657804822617	
+123	sentence	6	it.	9.264604104198144	
+124	sentence	1	Joey's parents	22.568891496247712	
+124	sentence	2	tolerate	19.647149441556913	
+124	sentence	3	dating	13.44443966587334	
+124	sentence	4	, but do not	22.585784320146058	
+124	sentence	5	oxidize	22.617170079036953	
+124	sentence	6	it.	7.215372517049136	
+125	sentence	1	Joey's parents	22.568891496247712	
+125	sentence	2	tolerate	19.647149441556913	
+125	sentence	3	dating	13.44443966587334	
+125	sentence	4	, but do not	22.585784320146058	
+125	sentence	5	dematerialize	29.573589458067023	
+125	sentence	6	it.	4.720469216037867	
+126	sentence	1	Joey's parents	22.568891496247712	
+126	sentence	2	tolerate	19.647149441556913	
+126	sentence	3	dating	13.44443966587334	
+126	sentence	4	, but do not	22.585784320146058	
+126	sentence	5	ostracize	14.221886407401316	
+126	sentence	6	it.	7.32026611167157	
+127	sentence	1	Joey's parents	22.568891496247712	
+127	sentence	2	tolerate	19.647149441556913	
+127	sentence	3	dating	13.44443966587334	
+127	sentence	4	, but do not	22.585784320146058	
+127	sentence	5	overdramatize	23.579675112174286	
+127	sentence	6	it.	3.4156047691773517	
+128	sentence	1	Joey's parents	22.568891496247712	
+128	sentence	2	tolerate	19.647149441556913	
+128	sentence	3	dating	13.44443966587334	
+128	sentence	4	, but do not	22.585784320146058	
+128	sentence	5	satirize	19.596180598653717	
+128	sentence	6	it.	4.684689601387066	
+129	sentence	1	Joey's parents	22.568891496247712	
+129	sentence	2	tolerate	19.647149441556913	
+129	sentence	3	dating	13.44443966587334	
+129	sentence	4	, but do not	22.585784320146058	
+129	sentence	5	amortize	20.796169127483633	
+129	sentence	6	it.	5.8972453700933585	
+130	sentence	1	Joey's parents	22.568891496247712	
+130	sentence	2	tolerate	19.647149441556913	
+130	sentence	3	dating	13.44443966587334	
+130	sentence	4	, but do not	22.585784320146058	
+130	sentence	5	tyrannize	20.34553722974109	
+130	sentence	6	it.	7.465945563928769	
+131	sentence	1	Joey's parents	22.568891496247712	
+131	sentence	2	tolerate	19.647149441556913	
+131	sentence	3	dating	13.44443966587334	
+131	sentence	4	, but do not	22.585784320146058	
+131	sentence	5	eulogize	19.923994243776566	
+131	sentence	6	it.	5.745347541128913	
+132	sentence	1	Joey's parents	22.568891496247712	
+132	sentence	2	tolerate	19.647149441556913	
+132	sentence	3	dating	13.44443966587334	
+132	sentence	4	, but do not	22.585784320146058	
+132	sentence	5	resize	22.31347490197183	
+132	sentence	6	it.	7.170307215112951	
+133	sentence	1	Joey's parents	22.568891496247712	
+133	sentence	2	tolerate	19.647149441556913	
+133	sentence	3	dating	13.44443966587334	
+133	sentence	4	, but do not	22.585784320146058	
+133	sentence	5	editorialize	22.441714921096118	
+133	sentence	6	it.	5.959246319607957	
+134	sentence	1	Joey's parents	22.568891496247712	
+134	sentence	2	tolerate	19.647149441556913	
+134	sentence	3	dating	13.44443966587334	
+134	sentence	4	, but do not	22.585784320146058	
+134	sentence	5	acclimatize	20.037655302992516	
+134	sentence	6	it.	12.056691362108536	
+135	sentence	1	Joey's parents	22.568891496247712	
+135	sentence	2	tolerate	19.647149441556913	
+135	sentence	3	dating	13.44443966587334	
+135	sentence	4	, but do not	22.585784320146058	
+135	sentence	5	desensitize	21.279832738030887	
+135	sentence	6	it.	8.49557680155906	
+136	sentence	1	Joey's parents	22.568891496247712	
+136	sentence	2	tolerate	19.647149441556913	
+136	sentence	3	dating	13.44443966587334	
+136	sentence	4	, but do not	22.585784320146058	
+136	sentence	5	standardize	15.754058876834431	
+136	sentence	6	it.	3.985374090414015	
+137	sentence	1	Joey's parents	22.568891496247712	
+137	sentence	2	tolerate	19.647149441556913	
+137	sentence	3	dating	13.44443966587334	
+137	sentence	4	, but do not	22.585784320146058	
+137	sentence	5	stigmatize	15.16353880612635	
+137	sentence	6	it.	4.84757987346406	
+138	sentence	1	Joey's parents	22.568891496247712	
+138	sentence	2	tolerate	19.647149441556913	
+138	sentence	3	dating	13.44443966587334	
+138	sentence	4	, but do not	22.585784320146058	
+138	sentence	5	actualize	18.013147779154195	
+138	sentence	6	it.	3.5020687889246522	
+139	sentence	1	Joey's parents	22.568891496247712	
+139	sentence	2	tolerate	19.647149441556913	
+139	sentence	3	dating	13.44443966587334	
+139	sentence	4	, but do not	22.585784320146058	
+139	sentence	5	industrialize	22.896895174138077	
+139	sentence	6	it.	5.738916077917247	
+140	sentence	1	Joey's parents	22.568891496247712	
+140	sentence	2	tolerate	19.647149441556913	
+140	sentence	3	dating	13.44443966587334	
+140	sentence	4	, but do not	22.585784320146058	
+140	sentence	5	sexualize	15.233848011776901	
+140	sentence	6	it.	5.903062167310841	
+141	sentence	1	Joey's parents	22.568891496247712	
+141	sentence	2	tolerate	19.647149441556913	
+141	sentence	3	dating	13.44443966587334	
+141	sentence	4	, but do not	22.585784320146058	
+141	sentence	5	demagnetize	30.16812190014311	
+141	sentence	6	it.	6.267913386122539	
+142	sentence	1	Joey's parents	22.568891496247712	
+142	sentence	2	tolerate	19.647149441556913	
+142	sentence	3	dating	13.44443966587334	
+142	sentence	4	, but do not	22.585784320146058	
+142	sentence	5	solemnize	18.95771605370244	
+142	sentence	6	it.	5.18581488524558	
+143	sentence	1	Joey's parents	22.568891496247712	
+143	sentence	2	tolerate	19.647149441556913	
+143	sentence	3	dating	13.44443966587334	
+143	sentence	4	, but do not	22.585784320146058	
+143	sentence	5	atomize	19.545986451601333	
+143	sentence	6	it.	7.044743885596571	
+144	sentence	1	Joey's parents	22.568891496247712	
+144	sentence	2	tolerate	19.647149441556913	
+144	sentence	3	dating	13.44443966587334	
+144	sentence	4	, but do not	22.585784320146058	
+144	sentence	5	ionize	25.324511380886506	
+144	sentence	6	it.	7.545420294736331	
+145	sentence	1	Joey's parents	22.568891496247712	
+145	sentence	2	tolerate	19.647149441556913	
+145	sentence	3	dating	13.44443966587334	
+145	sentence	4	, but do not	22.585784320146058	
+145	sentence	5	radicalize	17.601054178399163	
+145	sentence	6	it.	7.675814788898099	
+146	sentence	1	Joey's parents	22.568891496247712	
+146	sentence	2	tolerate	19.647149441556913	
+146	sentence	3	dating	13.44443966587334	
+146	sentence	4	, but do not	22.585784320146058	
+146	sentence	5	reunify	25.192739649656627	
+146	sentence	6	it.	10.74134087505094	
+147	sentence	1	Joey's parents	22.568891496247712	
+147	sentence	2	tolerate	19.647149441556913	
+147	sentence	3	dating	13.44443966587334	
+147	sentence	4	, but do not	22.585784320146058	
+147	sentence	5	demobilize	29.867078485950426	
+147	sentence	6	it.	7.911556911880578	
+148	sentence	1	Joey's parents	22.568891496247712	
+148	sentence	2	tolerate	19.647149441556913	
+148	sentence	3	dating	13.44443966587334	
+148	sentence	4	, but do not	22.585784320146058	
+148	sentence	5	democratize	22.15650547661609	
+148	sentence	6	it.	4.09314409487213	
+149	sentence	1	Joey's parents	22.568891496247712	
+149	sentence	2	tolerate	19.647149441556913	
+149	sentence	3	dating	13.44443966587334	
+149	sentence	4	, but do not	22.585784320146058	
+149	sentence	5	reclassify	23.375469072340277	
+149	sentence	6	it.	7.7702387676666085	
+150	sentence	1	Joey's parents	22.568891496247712	
+150	sentence	2	tolerate	19.647149441556913	
+150	sentence	3	dating	13.44443966587334	
+150	sentence	4	, but do not	22.585784320146058	
+150	sentence	5	rhapsodize	22.345647653473073	
+150	sentence	6	it.	11.730192446421894	
+151	sentence	1	Joey's parents	22.568891496247712	
+151	sentence	2	tolerate	19.647149441556913	
+151	sentence	3	dating	13.44443966587334	
+151	sentence	4	, but do not	22.585784320146058	
+151	sentence	5	serialize	18.39525797292793	
+151	sentence	6	it.	3.991112635525355	
+152	sentence	1	Joey's parents	22.568891496247712	
+152	sentence	2	tolerate	19.647149441556913	
+152	sentence	3	dating	13.44443966587334	
+152	sentence	4	, but do not	22.585784320146058	
+152	sentence	5	disorganize	23.685502615586564	
+152	sentence	6	it.	5.852191762977432	
+153	sentence	1	Joey's parents	22.568891496247712	
+153	sentence	2	tolerate	19.647149441556913	
+153	sentence	3	dating	13.44443966587334	
+153	sentence	4	, but do not	22.585784320146058	
+153	sentence	5	sermonize	20.04031450545823	
+153	sentence	6	it.	7.977414572340775	
+154	sentence	1	Joey's parents	22.568891496247712	
+154	sentence	2	tolerate	19.647149441556913	
+154	sentence	3	dating	13.44443966587334	
+154	sentence	4	, but do not	22.585784320146058	
+154	sentence	5	deodorize	26.89913925775354	
+154	sentence	6	it.	7.2855393748093515	
+155	sentence	1	Joey's parents	22.568891496247712	
+155	sentence	2	tolerate	19.647149441556913	
+155	sentence	3	dating	13.44443966587334	
+155	sentence	4	, but do not	22.585784320146058	
+155	sentence	5	emulsify	24.63194522155741	
+155	sentence	6	it.	5.742577760536767	
+156	sentence	1	Joey's parents	22.568891496247712	
+156	sentence	2	tolerate	19.647149441556913	
+156	sentence	3	dating	13.44443966587334	
+156	sentence	4	, but do not	22.585784320146058	
+156	sentence	5	overemphasize	19.055348708757254	
+156	sentence	6	it.	3.8528554385314413	
+157	sentence	1	Joey's parents	22.568891496247712	
+157	sentence	2	tolerate	19.647149441556913	
+157	sentence	3	dating	13.44443966587334	
+157	sentence	4	, but do not	22.585784320146058	
+157	sentence	5	aerosolize	26.98169340241829	
+157	sentence	6	it.	6.538903525382002	
+158	sentence	1	Joey's parents	22.568891496247712	
+158	sentence	2	tolerate	19.647149441556913	
+158	sentence	3	dating	13.44443966587334	
+158	sentence	4	, but do not	22.585784320146058	
+158	sentence	5	apostatize	22.29399708209077	
+158	sentence	6	it.	8.345803302298071	
+159	sentence	1	Joey's parents	22.568891496247712	
+159	sentence	2	tolerate	19.647149441556913	
+159	sentence	3	dating	13.44443966587334	
+159	sentence	4	, but do not	22.585784320146058	
+159	sentence	5	depolarize	25.212472562804574	
+159	sentence	6	it.	8.076607114069757	
+160	sentence	1	Joey's parents	22.568891496247712	
+160	sentence	2	tolerate	19.647149441556913	
+160	sentence	3	dating	13.44443966587334	
+160	sentence	4	, but do not	22.585784320146058	
+160	sentence	5	evangelize	18.993761252561836	
+160	sentence	6	it.	5.512105529942025	
+161	sentence	1	Joey's parents	22.568891496247712	
+161	sentence	2	tolerate	19.647149441556913	
+161	sentence	3	dating	13.44443966587334	
+161	sentence	4	, but do not	22.585784320146058	
+161	sentence	5	anatomize	23.28211922129484	
+161	sentence	6	it.	5.122269875491535	
+162	sentence	1	Joey's parents	22.568891496247712	
+162	sentence	2	tolerate	19.647149441556913	
+162	sentence	3	dating	13.44443966587334	
+162	sentence	4	, but do not	22.585784320146058	
+162	sentence	5	anthropomorphize	19.253703656286497	
+162	sentence	6	it.	6.212053765087601	
+163	sentence	1	Joey's parents	22.568891496247712	
+163	sentence	2	tolerate	19.647149441556913	
+163	sentence	3	dating	13.44443966587334	
+163	sentence	4	, but do not	22.585784320146058	
+163	sentence	5	federalize	23.7767649942886	
+163	sentence	6	it.	3.2704277642346478	
+164	sentence	1	Joey's parents	22.568891496247712	
+164	sentence	2	tolerate	19.647149441556913	
+164	sentence	3	dating	13.44443966587334	
+164	sentence	4	, but do not	22.585784320146058	
+164	sentence	5	feminize	20.38657170442105	
+164	sentence	6	it.	6.318679568969525	
+165	sentence	1	Joey's parents	22.568891496247712	
+165	sentence	2	tolerate	19.647149441556913	
+165	sentence	3	dating	13.44443966587334	
+165	sentence	4	, but do not	22.585784320146058	
+165	sentence	5	fossilize	22.684146497389932	
+165	sentence	6	it.	6.680967902318066	
+166	sentence	1	Joey's parents	22.568891496247712	
+166	sentence	2	tolerate	19.647149441556913	
+166	sentence	3	dating	13.44443966587334	
+166	sentence	4	, but do not	22.585784320146058	
+166	sentence	5	regularize	19.48790485771291	
+166	sentence	6	it.	2.924523530103203	
+167	sentence	1	Joey's parents	22.568891496247712	
+167	sentence	2	tolerate	19.647149441556913	
+167	sentence	3	dating	13.44443966587334	
+167	sentence	4	, but do not	22.585784320146058	
+167	sentence	5	ritualize	18.536107894374926	
+167	sentence	6	it.	2.7652741307449746	
+168	sentence	1	Joey's parents	22.568891496247712	
+168	sentence	2	tolerate	19.647149441556913	
+168	sentence	3	dating	13.44443966587334	
+168	sentence	4	, but do not	22.585784320146058	
+168	sentence	5	sentimentalize	22.95283522930904	
+168	sentence	6	it.	4.4619502267230695	
+169	sentence	1	Joey's parents	22.568891496247712	
+169	sentence	2	tolerate	19.647149441556913	
+169	sentence	3	dating	13.44443966587334	
+169	sentence	4	, but do not	22.585784320146058	
+169	sentence	5	exteriorize	22.916827812888258	
+169	sentence	6	it.	4.068682830457262	
+170	sentence	1	Joey's parents	22.568891496247712	
+170	sentence	2	tolerate	19.647149441556913	
+170	sentence	3	dating	13.44443966587334	
+170	sentence	4	, but do not	22.585784320146058	
+170	sentence	5	fetishize	13.472437151563923	
+170	sentence	6	it.	4.146015001400375	
+171	sentence	1	Joey's parents	22.568891496247712	
+171	sentence	2	tolerate	19.647149441556913	
+171	sentence	3	dating	13.44443966587334	
+171	sentence	4	, but do not	22.585784320146058	
+171	sentence	5	fictionalize	23.200752283617906	
+171	sentence	6	it.	3.431634498142345	
+172	sentence	1	Joey's parents	22.568891496247712	
+172	sentence	2	tolerate	19.647149441556913	
+172	sentence	3	dating	13.44443966587334	
+172	sentence	4	, but do not	22.585784320146058	
+172	sentence	5	individualize	19.164083109960927	
+172	sentence	6	it.	4.130207044063669	
+173	sentence	1	Joey's parents	22.568891496247712	
+173	sentence	2	tolerate	19.647149441556913	
+173	sentence	3	dating	13.44443966587334	
+173	sentence	4	, but do not	22.585784320146058	
+173	sentence	5	internationalize	23.275655070630595	
+173	sentence	6	it.	3.987950562506591	
+174	sentence	1	Joey's parents	22.568891496247712	
+174	sentence	2	tolerate	19.647149441556913	
+174	sentence	3	dating	13.44443966587334	
+174	sentence	4	, but do not	22.585784320146058	
+174	sentence	5	alkalinize	27.30597223437338	
+174	sentence	6	it.	7.12451528647687	
+175	sentence	1	Joey's parents	22.568891496247712	
+175	sentence	2	tolerate	19.647149441556913	
+175	sentence	3	dating	13.44443966587334	
+175	sentence	4	, but do not	22.585784320146058	
+175	sentence	5	depersonalize	19.191169057370608	
+175	sentence	6	it.	7.022168066983111	
+176	sentence	1	Joey's parents	22.568891496247712	
+176	sentence	2	tolerate	19.647149441556913	
+176	sentence	3	dating	13.44443966587334	
+176	sentence	4	, but do not	22.585784320146058	
+176	sentence	5	italicize	24.251863939362647	
+176	sentence	6	it.	4.874406931224197	
+177	sentence	1	Joey's parents	22.568891496247712	
+177	sentence	2	tolerate	19.647149441556913	
+177	sentence	3	dating	13.44443966587334	
+177	sentence	4	, but do not	22.585784320146058	
+177	sentence	5	randomize	20.956662493478927	
+177	sentence	6	it.	4.975678743202111	
+178	sentence	1	Joey's parents	22.568891496247712	
+178	sentence	2	tolerate	19.647149441556913	
+178	sentence	3	dating	13.44443966587334	
+178	sentence	4	, but do not	22.585784320146058	
+178	sentence	5	stylize	20.551135313946364	
+178	sentence	6	it.	5.31605253122976	
+179	sentence	1	Joey's parents	22.568891496247712	
+179	sentence	2	tolerate	19.647149441556913	
+179	sentence	3	dating	13.44443966587334	
+179	sentence	4	, but do not	22.585784320146058	
+179	sentence	5	temporize	24.10914111609884	
+179	sentence	6	it.	7.502580104337008	
+180	sentence	1	Joey's parents	22.568891496247712	
+180	sentence	2	tolerate	19.647149441556913	
+180	sentence	3	dating	13.44443966587334	
+180	sentence	4	, but do not	22.585784320146058	
+180	sentence	5	ramify	23.27933153300917	
+180	sentence	6	it.	7.364438135719173	
+181	sentence	1	Joey's parents	22.568891496247712	
+181	sentence	2	tolerate	19.647149441556913	
+181	sentence	3	dating	13.44443966587334	
+181	sentence	4	, but do not	22.585784320146058	
+181	sentence	5	reimpose	23.444308642571738	
+181	sentence	6	it.	5.9481372722581245	
+182	sentence	1	Joey's parents	22.568891496247712	
+182	sentence	2	tolerate	19.647149441556913	
+182	sentence	3	dating	13.44443966587334	
+182	sentence	4	, but do not	22.585784320146058	
+182	sentence	5	sensitize	20.16421289511667	
+182	sentence	6	it.	10.336625453630448	
+183	sentence	1	Joey's parents	22.568891496247712	
+183	sentence	2	tolerate	19.647149441556913	
+183	sentence	3	dating	13.44443966587334	
+183	sentence	4	, but do not	22.585784320146058	
+183	sentence	5	systematize	19.007968406133223	
+183	sentence	6	it.	3.4390039547318167	
+184	sentence	1	Joey's parents	22.568891496247712	
+184	sentence	2	tolerate	19.647149441556913	
+184	sentence	3	dating	13.44443966587334	
+184	sentence	4	, but do not	22.585784320146058	
+184	sentence	5	denationalize	30.10343734946782	
+184	sentence	6	it.	4.2893038948105815	
+185	sentence	1	Joey's parents	22.568891496247712	
+185	sentence	2	tolerate	19.647149441556913	
+185	sentence	3	dating	13.44443966587334	
+185	sentence	4	, but do not	22.585784320146058	
+185	sentence	5	digitalize	25.037618822819347	
+185	sentence	6	it.	4.080250899502246	
+186	sentence	1	Joey's parents	22.568891496247712	
+186	sentence	2	tolerate	19.647149441556913	
+186	sentence	3	dating	13.44443966587334	
+186	sentence	4	, but do not	22.585784320146058	
+186	sentence	5	reify	23.162240928787547	
+186	sentence	6	it.	5.711398337831245	
+187	sentence	1	Joey's parents	22.568891496247712	
+187	sentence	2	tolerate	19.647149441556913	
+187	sentence	3	dating	13.44443966587334	
+187	sentence	4	, but do not	22.585784320146058	
+187	sentence	5	secularize	24.319762249217742	
+187	sentence	6	it.	4.3444238184641595	
+188	sentence	1	Joey's parents	22.568891496247712	
+188	sentence	2	tolerate	19.647149441556913	
+188	sentence	3	dating	13.44443966587334	
+188	sentence	4	, but do not	22.585784320146058	
+188	sentence	5	spiritualize	23.748411246536755	
+188	sentence	6	it.	5.3383475021743605	
+189	sentence	1	Joey's parents	22.568891496247712	
+189	sentence	2	tolerate	19.647149441556913	
+189	sentence	3	dating	13.44443966587334	
+189	sentence	4	, but do not	22.585784320146058	
+189	sentence	5	alkalize	24.93392501141608	
+189	sentence	6	it.	6.4850602289457795	
+190	sentence	1	Joey's parents	22.568891496247712	
+190	sentence	2	tolerate	19.647149441556913	
+190	sentence	3	dating	13.44443966587334	
+190	sentence	4	, but do not	22.585784320146058	
+190	sentence	5	decentralize	23.919493482230973	
+190	sentence	6	it.	4.888221093689451	
+191	sentence	1	Joey's parents	22.568891496247712	
+191	sentence	2	tolerate	19.647149441556913	
+191	sentence	3	dating	13.44443966587334	
+191	sentence	4	, but do not	22.585784320146058	
+191	sentence	5	decolonize	28.23570318135796	
+191	sentence	6	it.	5.8771015581457515	
+192	sentence	1	Joey's parents	22.568891496247712	
+192	sentence	2	tolerate	19.647149441556913	
+192	sentence	3	dating	13.44443966587334	
+192	sentence	4	, but do not	22.585784320146058	
+192	sentence	5	demilitarize	28.349239454564316	
+192	sentence	6	it.	6.479240164057931	
+193	sentence	1	Joey's parents	22.568891496247712	
+193	sentence	2	tolerate	19.647149441556913	
+193	sentence	3	dating	13.44443966587334	
+193	sentence	4	, but do not	22.585784320146058	
+193	sentence	5	desexualize	23.43452764525187	
+193	sentence	6	it.	6.121450552890659	
+194	sentence	1	Joey's parents	22.568891496247712	
+194	sentence	2	tolerate	19.647149441556913	
+194	sentence	3	dating	13.44443966587334	
+194	sentence	4	, but do not	22.585784320146058	
+194	sentence	5	desynchronize	24.552375792802717	
+194	sentence	6	it.	6.489919770728559	
+195	sentence	1	Joey's parents	22.568891496247712	
+195	sentence	2	tolerate	19.647149441556913	
+195	sentence	3	dating	13.44443966587334	
+195	sentence	4	, but do not	22.585784320146058	
+195	sentence	5	devitalize	33.48390997567921	
+195	sentence	6	it.	5.904440608257506	
+196	sentence	1	Joey's parents	22.568891496247712	
+196	sentence	2	tolerate	19.647149441556913	
+196	sentence	3	dating	13.44443966587334	
+196	sentence	4	, but do not	22.585784320146058	
+196	sentence	5	eroticize	19.572502650720036	
+196	sentence	6	it.	4.865390568770064	
+197	sentence	1	Joey's parents	22.568891496247712	
+197	sentence	2	tolerate	19.647149441556913	
+197	sentence	3	dating	13.44443966587334	
+197	sentence	4	, but do not	22.585784320146058	
+197	sentence	5	officialize	20.329117750468036	
+197	sentence	6	it.	2.6679317783739744	
+198	sentence	1	Joey's parents	22.568891496247712	
+198	sentence	2	tolerate	19.647149441556913	
+198	sentence	3	dating	13.44443966587334	
+198	sentence	4	, but do not	22.585784320146058	
+198	sentence	5	quantize	29.126824214017084	
+198	sentence	6	it.	4.521930896037983	
+199	sentence	1	Joey's parents	22.568891496247712	
+199	sentence	2	tolerate	19.647149441556913	
+199	sentence	3	dating	13.44443966587334	
+199	sentence	4	, but do not	22.585784320146058	
+199	sentence	5	reharmonize	36.30246655668702	
+199	sentence	6	it.	6.8857166878232565	
+200	sentence	1	Joey's parents	22.568891496247712	
+200	sentence	2	tolerate	19.647149441556913	
+200	sentence	3	dating	13.44443966587334	
+200	sentence	4	, but do not	22.585784320146058	
+200	sentence	5	remilitarize	27.81815116835755	
+200	sentence	6	it.	8.488001825701808	
+201	sentence	1	Joey's parents	22.568891496247712	
+201	sentence	2	tolerate	19.647149441556913	
+201	sentence	3	dating	13.44443966587334	
+201	sentence	4	, but do not	22.585784320146058	
+201	sentence	5	solarize	24.736615518205525	
+201	sentence	6	it.	7.3018075577197665	
+202	sentence	1	Joey's parents	22.568891496247712	
+202	sentence	2	tolerate	19.647149441556913	
+202	sentence	3	dating	13.44443966587334	
+202	sentence	4	, but do not	22.585784320146058	
+202	sentence	5	syncretize	26.995928212949725	
+202	sentence	6	it.	8.896601475292034	
+203	sentence	1	Joey's parents	22.568891496247712	
+203	sentence	2	tolerate	19.647149441556913	
+203	sentence	3	dating	13.44443966587334	
+203	sentence	4	, but do not	22.585784320146058	
+203	sentence	5	totalize	18.951492689498316	
+203	sentence	6	it.	5.636239855612388	
+204	sentence	1	Joey's parents	22.568891496247712	
+204	sentence	2	tolerate	19.647149441556913	
+204	sentence	3	dating	13.44443966587334	
+204	sentence	4	, but do not	22.585784320146058	
+204	sentence	5	alchemize	24.26387072540107	
+204	sentence	6	it.	6.808439379345769	
+205	sentence	1	Joey's parents	22.568891496247712	
+205	sentence	2	tolerate	19.647149441556913	
+205	sentence	3	dating	13.44443966587334	
+205	sentence	4	, but do not	22.585784320146058	
+205	sentence	5	aluminize	31.18429996151785	
+205	sentence	6	it.	6.1490523924929334	
+206	sentence	1	Joey's parents	22.568891496247712	
+206	sentence	2	tolerate	19.647149441556913	
+206	sentence	3	dating	13.44443966587334	
+206	sentence	4	, but do not	22.585784320146058	
+206	sentence	5	analogize	23.03252644327838	
+206	sentence	6	it.	7.1756077204125415	
+207	sentence	1	Joey's parents	22.568891496247712	
+207	sentence	2	tolerate	19.647149441556913	
+207	sentence	3	dating	13.44443966587334	
+207	sentence	4	, but do not	22.585784320146058	
+207	sentence	5	attitudinize	37.31325033384733	
+207	sentence	6	it.	7.3344758342338086	
+208	sentence	1	Joey's parents	22.568891496247712	
+208	sentence	2	tolerate	19.647149441556913	
+208	sentence	3	dating	13.44443966587334	
+208	sentence	4	, but do not	22.585784320146058	
+208	sentence	5	deionize	28.76658857959791	
+208	sentence	6	it.	5.793916301645824	
+209	sentence	1	Joey's parents	22.568891496247712	
+209	sentence	2	tolerate	19.647149441556913	
+209	sentence	3	dating	13.44443966587334	
+209	sentence	4	, but do not	22.585784320146058	
+209	sentence	5	demythologize	30.02965749630165	
+209	sentence	6	it.	4.694687812794975	
+210	sentence	1	Joey's parents	22.568891496247712	
+210	sentence	2	tolerate	19.647149441556913	
+210	sentence	3	dating	13.44443966587334	
+210	sentence	4	, but do not	22.585784320146058	
+210	sentence	5	deoxidize	34.85057417385064	
+210	sentence	6	it.	7.675700936383228	
+211	sentence	1	Joey's parents	22.568891496247712	
+211	sentence	2	tolerate	19.647149441556913	
+211	sentence	3	dating	13.44443966587334	
+211	sentence	4	, but do not	22.585784320146058	
+211	sentence	5	dichotomize	24.124468672147106	
+211	sentence	6	it.	5.6912344039134855	
+212	sentence	1	Joey's parents	22.568891496247712	
+212	sentence	2	tolerate	19.647149441556913	
+212	sentence	3	dating	13.44443966587334	
+212	sentence	4	, but do not	22.585784320146058	
+212	sentence	5	dogmatize	26.339188888258008	
+212	sentence	6	it.	6.5586804983353195	
+213	sentence	1	Joey's parents	22.568891496247712	
+213	sentence	2	tolerate	19.647149441556913	
+213	sentence	3	dating	13.44443966587334	
+213	sentence	4	, but do not	22.585784320146058	
+213	sentence	5	factorize	34.007548068007466	
+213	sentence	6	it.	6.968677334981157	
+214	sentence	1	Joey's parents	22.568891496247712	
+214	sentence	2	tolerate	19.647149441556913	
+214	sentence	3	dating	13.44443966587334	
+214	sentence	4	, but do not	22.585784320146058	
+214	sentence	5	iodize	24.439796229019727	
+214	sentence	6	it.	5.162587768333303	
+215	sentence	1	Joey's parents	22.568891496247712	
+215	sentence	2	tolerate	19.647149441556913	
+215	sentence	3	dating	13.44443966587334	
+215	sentence	4	, but do not	22.585784320146058	
+215	sentence	5	overcapitalize	30.4112695369527	
+215	sentence	6	it.	6.298606441891421	
+216	sentence	1	Joey's parents	22.568891496247712	
+216	sentence	2	tolerate	19.647149441556913	
+216	sentence	3	dating	13.44443966587334	
+216	sentence	4	, but do not	22.585784320146058	
+216	sentence	5	overspecialize	26.159406361975197	
+216	sentence	6	it.	7.374924261907581	
+217	sentence	1	Joey's parents	22.568891496247712	
+217	sentence	2	tolerate	19.647149441556913	
+217	sentence	3	dating	13.44443966587334	
+217	sentence	4	, but do not	22.585784320146058	
+217	sentence	5	relativize	21.83047332184389	
+217	sentence	6	it.	5.180011502674865	
+218	sentence	1	Joey's parents	22.568891496247712	
+218	sentence	2	tolerate	19.647149441556913	
+218	sentence	3	dating	13.44443966587334	
+218	sentence	4	, but do not	22.585784320146058	
+218	sentence	5	schematize	28.347279753070023	
+218	sentence	6	it.	5.6882253954539905	
+219	sentence	1	Joey's parents	22.568891496247712	
+219	sentence	2	tolerate	19.647149441556913	
+219	sentence	3	dating	13.44443966587334	
+219	sentence	4	, but do not	22.585784320146058	
+219	sentence	5	sensualize	19.62692611988003	
+219	sentence	6	it.	5.595905624418787	
+220	sentence	1	Joey's parents	22.568891496247712	
+220	sentence	2	tolerate	19.647149441556913	
+220	sentence	3	dating	13.44443966587334	
+220	sentence	4	, but do not	22.585784320146058	
+220	sentence	5	signalize	32.347216549688255	
+220	sentence	6	it.	4.593483933964153	
+221	sentence	1	Joey's parents	22.568891496247712	
+221	sentence	2	tolerate	19.647149441556913	
+221	sentence	3	dating	13.44443966587334	
+221	sentence	4	, but do not	22.585784320146058	
+221	sentence	5	singularize	26.406640322692667	
+221	sentence	6	it.	5.681858425736397	
+222	sentence	1	Joey's parents	22.568891496247712	
+222	sentence	2	tolerate	19.647149441556913	
+222	sentence	3	dating	13.44443966587334	
+222	sentence	4	, but do not	22.585784320146058	
+222	sentence	5	steepen	26.641745765901653	
+222	sentence	6	it.	8.770280734181254	
+223	sentence	1	Joey's parents	22.568891496247712	
+223	sentence	2	tolerate	19.647149441556913	
+223	sentence	3	dating	13.44443966587334	
+223	sentence	4	, but do not	22.585784320146058	
+223	sentence	5	subtilize	30.288470022380267	
+223	sentence	6	it.	5.0480311564894915	
+224	sentence	1	Joey's parents	22.568891496247712	
+224	sentence	2	tolerate	19.647149441556913	
+224	sentence	3	dating	13.44443966587334	
+224	sentence	4	, but do not	22.585784320146058	
+224	sentence	5	syllogize	27.93934674048129	
+224	sentence	6	it.	4.98783172524268	
+225	sentence	1	Joey's parents	22.568891496247712	
+225	sentence	2	tolerate	19.647149441556913	
+225	sentence	3	dating	13.44443966587334	
+225	sentence	4	, but do not	22.585784320146058	
+225	sentence	5	complete	12.26394249518378	
+225	sentence	6	it.	6.752218938709321	
+226	sentence	1	Joey's parents	22.568891496247712	
+226	sentence	2	tolerate	19.647149441556913	
+226	sentence	3	dating	13.44443966587334	
+226	sentence	4	, but do not	22.585784320146058	
+226	sentence	5	loathe	13.614932726626906	
+226	sentence	6	it.	3.7455322450002684	
+227	sentence	1	Joey's parents	22.568891496247712	
+227	sentence	2	tolerate	19.647149441556913	
+227	sentence	3	dating	13.44443966587334	
+227	sentence	4	, but do not	22.585784320146058	
+227	sentence	5	triple	18.115557256367566	
+227	sentence	6	it.	6.977513975565138	
+228	sentence	1	Joey's parents	22.568891496247712	
+228	sentence	2	tolerate	19.647149441556913	
+228	sentence	3	dating	13.44443966587334	
+228	sentence	4	, but do not	22.585784320146058	
+228	sentence	5	love	8.231216249525056	
+228	sentence	6	it.	6.1314706060952275	
+229	sentence	1	Joey's parents	22.568891496247712	
+229	sentence	2	tolerate	19.647149441556913	
+229	sentence	3	dating	13.44443966587334	
+229	sentence	4	, but do not	22.585784320146058	
+229	sentence	5	exceed	14.38012710029633	
+229	sentence	6	it.	5.972178383056936	
+230	sentence	1	Joey's parents	22.568891496247712	
+230	sentence	2	tolerate	19.647149441556913	
+230	sentence	3	dating	13.44443966587334	
+230	sentence	4	, but do not	22.585784320146058	
+230	sentence	5	require	8.917407764410767	
+230	sentence	6	it.	4.768985693828916	
+231	sentence	1	Joey's parents	22.568891496247712	
+231	sentence	2	tolerate	19.647149441556913	
+231	sentence	3	dating	13.44443966587334	
+231	sentence	4	, but do not	22.585784320146058	
+231	sentence	5	eliminate	12.954074476566058	
+231	sentence	6	it.	3.4479186754392903	
+232	sentence	1	Joey's parents	22.568891496247712	
+232	sentence	2	tolerate	19.647149441556913	
+232	sentence	3	dating	13.44443966587334	
+232	sentence	4	, but do not	22.585784320146058	
+232	sentence	5	stop	7.903475103151234	
+232	sentence	6	it.	4.95719869141895	
+233	sentence	1	Joey's parents	22.568891496247712	
+233	sentence	2	tolerate	19.647149441556913	
+233	sentence	3	dating	13.44443966587334	
+233	sentence	4	, but do not	22.585784320146058	
+233	sentence	5	finish	13.38842835614034	
+233	sentence	6	it.	7.575335644958011	
+234	sentence	1	Joey's parents	22.568891496247712	
+234	sentence	2	tolerate	19.647149441556913	
+234	sentence	3	dating	13.44443966587334	
+234	sentence	4	, but do not	22.585784320146058	
+234	sentence	5	thrive	12.27048058763898	
+234	sentence	6	it.	13.416763529765893	
+235	sentence	1	Joey's parents	22.568891496247712	
+235	sentence	2	tolerate	19.647149441556913	
+235	sentence	3	dating	13.44443966587334	
+235	sentence	4	, but do not	22.585784320146058	
+235	sentence	5	encourage	7.2719658160726555	
+235	sentence	6	it.	2.596030389588482	
+236	sentence	1	Joey's parents	22.568891496247712	
+236	sentence	2	tolerate	19.647149441556913	
+236	sentence	3	dating	13.44443966587334	
+236	sentence	4	, but do not	22.585784320146058	
+236	sentence	5	need	9.349164018026416	
+236	sentence	6	it.	5.304151847738006	

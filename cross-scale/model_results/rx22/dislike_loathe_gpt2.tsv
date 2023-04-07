@@ -1,0 +1,1417 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	The doctor	13.151207870291044	
+1	sentence	2	dislikes	18.44962495653603	
+1	sentence	3	coffee	12.609933064605958	
+1	sentence	4	, but does not	23.40198354021175	
+1	sentence	5	have	4.889137589235898	
+1	sentence	6	it.	8.074339350835482	
+2	sentence	1	The doctor	13.151207870291044	
+2	sentence	2	dislikes	18.44962495653603	
+2	sentence	3	coffee	12.609933064605958	
+2	sentence	4	, but does not	23.40198354021175	
+2	sentence	5	know	4.868840884711673	
+2	sentence	6	it.	8.057445323058577	
+3	sentence	1	The doctor	13.151207870291044	
+3	sentence	2	dislikes	18.44962495653603	
+3	sentence	3	coffee	12.609933064605958	
+3	sentence	4	, but does not	23.40198354021175	
+3	sentence	5	get	7.266670126287288	
+3	sentence	6	it.	5.587971720769184	
+4	sentence	1	The doctor	13.151207870291044	
+4	sentence	2	dislikes	18.44962495653603	
+4	sentence	3	coffee	12.609933064605958	
+4	sentence	4	, but does not	23.40198354021175	
+4	sentence	5	go	7.353360389211798	
+4	sentence	6	it.	15.94730249594919	
+5	sentence	1	The doctor	13.151207870291044	
+5	sentence	2	dislikes	18.44962495653603	
+5	sentence	3	coffee	12.609933064605958	
+5	sentence	4	, but does not	23.40198354021175	
+5	sentence	5	come	10.16289098748595	
+5	sentence	6	it.	13.987378575688174	
+6	sentence	1	The doctor	13.151207870291044	
+6	sentence	2	dislikes	18.44962495653603	
+6	sentence	3	coffee	12.609933064605958	
+6	sentence	4	, but does not	23.40198354021175	
+6	sentence	5	see	7.954710798635074	
+6	sentence	6	it.	7.770870631925879	
+7	sentence	1	The doctor	13.151207870291044	
+7	sentence	2	dislikes	18.44962495653603	
+7	sentence	3	coffee	12.609933064605958	
+7	sentence	4	, but does not	23.40198354021175	
+7	sentence	5	let	8.266095706981242	
+7	sentence	6	it.	8.669548087813794	
+8	sentence	1	The doctor	13.151207870291044	
+8	sentence	2	dislikes	18.44962495653603	
+8	sentence	3	coffee	12.609933064605958	
+8	sentence	4	, but does not	23.40198354021175	
+8	sentence	5	take	6.218902286227609	
+8	sentence	6	it.	4.127390484190489	
+9	sentence	1	The doctor	13.151207870291044	
+9	sentence	2	dislikes	18.44962495653603	
+9	sentence	3	coffee	12.609933064605958	
+9	sentence	4	, but does not	23.40198354021175	
+9	sentence	5	say	7.067907712893329	
+9	sentence	6	it.	8.095447297523826	
+10	sentence	1	The doctor	13.151207870291044	
+10	sentence	2	dislikes	18.44962495653603	
+10	sentence	3	coffee	12.609933064605958	
+10	sentence	4	, but does not	23.40198354021175	
+10	sentence	5	make	7.350212418770405	
+10	sentence	6	it.	5.407696582429724	
+11	sentence	1	The doctor	13.151207870291044	
+11	sentence	2	dislikes	18.44962495653603	
+11	sentence	3	coffee	12.609933064605958	
+11	sentence	4	, but does not	23.40198354021175	
+11	sentence	5	give	6.153675458130777	
+11	sentence	6	it.	6.974850824216528	
+12	sentence	1	The doctor	13.151207870291044	
+12	sentence	2	dislikes	18.44962495653603	
+12	sentence	3	coffee	12.609933064605958	
+12	sentence	4	, but does not	23.40198354021175	
+12	sentence	5	find	7.444123201308741	
+12	sentence	6	it.	8.489330606658037	
+13	sentence	1	The doctor	13.151207870291044	
+13	sentence	2	dislikes	18.44962495653603	
+13	sentence	3	coffee	12.609933064605958	
+13	sentence	4	, but does not	23.40198354021175	
+13	sentence	5	keep	9.739852190477235	
+13	sentence	6	it.	4.204874343831662	
+14	sentence	1	The doctor	13.151207870291044	
+14	sentence	2	dislikes	18.44962495653603	
+14	sentence	3	coffee	12.609933064605958	
+14	sentence	4	, but does not	23.40198354021175	
+14	sentence	5	leave	9.881532874119223	
+14	sentence	6	it.	5.18314193088587	
+15	sentence	1	The doctor	13.151207870291044	
+15	sentence	2	dislikes	18.44962495653603	
+15	sentence	3	coffee	12.609933064605958	
+15	sentence	4	, but does not	23.40198354021175	
+15	sentence	5	believe	5.3739690647690175	
+15	sentence	6	it.	8.14651427802717	
+16	sentence	1	The doctor	13.151207870291044	
+16	sentence	2	dislikes	18.44962495653603	
+16	sentence	3	coffee	12.609933064605958	
+16	sentence	4	, but does not	23.40198354021175	
+16	sentence	5	remember	8.814260825590495	
+16	sentence	6	it.	5.7677171525439865	
+17	sentence	1	The doctor	13.151207870291044	
+17	sentence	2	dislikes	18.44962495653603	
+17	sentence	3	coffee	12.609933064605958	
+17	sentence	4	, but does not	23.40198354021175	
+17	sentence	5	run	11.441803510305244	
+17	sentence	6	it.	6.008294739738125	
+18	sentence	1	The doctor	13.151207870291044	
+18	sentence	2	dislikes	18.44962495653603	
+18	sentence	3	coffee	12.609933064605958	
+18	sentence	4	, but does not	23.40198354021175	
+18	sentence	5	happen	11.833560726913825	
+18	sentence	6	it.	16.736774752157544	
+19	sentence	1	The doctor	13.151207870291044	
+19	sentence	2	dislikes	18.44962495653603	
+19	sentence	3	coffee	12.609933064605958	
+19	sentence	4	, but does not	23.40198354021175	
+19	sentence	5	buy	6.840395303719937	
+19	sentence	6	it.	2.5004120773010556	
+20	sentence	1	The doctor	13.151207870291044	
+20	sentence	2	dislikes	18.44962495653603	
+20	sentence	3	coffee	12.609933064605958	
+20	sentence	4	, but does not	23.40198354021175	
+20	sentence	5	save	13.62288473682497	
+20	sentence	6	it.	4.851896981966018	
+21	sentence	1	The doctor	13.151207870291044	
+21	sentence	2	dislikes	18.44962495653603	
+21	sentence	3	coffee	12.609933064605958	
+21	sentence	4	, but does not	23.40198354021175	
+21	sentence	5	lose	11.733133865699601	
+21	sentence	6	it.	5.144463032706824	
+22	sentence	1	The doctor	13.151207870291044	
+22	sentence	2	dislikes	18.44962495653603	
+22	sentence	3	coffee	12.609933064605958	
+22	sentence	4	, but does not	23.40198354021175	
+22	sentence	5	follow	9.341578895192763	
+22	sentence	6	it.	5.1005869908013555	
+23	sentence	1	The doctor	13.151207870291044	
+23	sentence	2	dislikes	18.44962495653603	
+23	sentence	3	coffee	12.609933064605958	
+23	sentence	4	, but does not	23.40198354021175	
+23	sentence	5	expect	8.298015686981378	
+23	sentence	6	it.	7.703295896679467	
+24	sentence	1	The doctor	13.151207870291044	
+24	sentence	2	dislikes	18.44962495653603	
+24	sentence	3	coffee	12.609933064605958	
+24	sentence	4	, but does not	23.40198354021175	
+24	sentence	5	realize	9.174956599592047	
+24	sentence	6	it.	5.456097659862044	
+25	sentence	1	The doctor	13.151207870291044	
+25	sentence	2	dislikes	18.44962495653603	
+25	sentence	3	coffee	12.609933064605958	
+25	sentence	4	, but does not	23.40198354021175	
+25	sentence	5	slow	14.057965071116495	
+25	sentence	6	it.	9.34359349996497	
+26	sentence	1	The doctor	13.151207870291044	
+26	sentence	2	dislikes	18.44962495653603	
+26	sentence	3	coffee	12.609933064605958	
+26	sentence	4	, but does not	23.40198354021175	
+26	sentence	5	allow	7.725899576482366	
+26	sentence	6	it.	4.456238166939963	
+27	sentence	1	The doctor	13.151207870291044	
+27	sentence	2	dislikes	18.44962495653603	
+27	sentence	3	coffee	12.609933064605958	
+27	sentence	4	, but does not	23.40198354021175	
+27	sentence	5	consider	6.581227079898133	
+27	sentence	6	it.	6.895284942604009	
+28	sentence	1	The doctor	13.151207870291044	
+28	sentence	2	dislikes	18.44962495653603	
+28	sentence	3	coffee	12.609933064605958	
+28	sentence	4	, but does not	23.40198354021175	
+28	sentence	5	apologize	12.848484008242329	
+28	sentence	6	it.	13.82724501352186	
+29	sentence	1	The doctor	13.151207870291044	
+29	sentence	2	dislikes	18.44962495653603	
+29	sentence	3	coffee	12.609933064605958	
+29	sentence	4	, but does not	23.40198354021175	
+29	sentence	5	recognize	10.113007763568495	
+29	sentence	6	it.	4.0474206153310925	
+30	sentence	1	The doctor	13.151207870291044	
+30	sentence	2	dislikes	18.44962495653603	
+30	sentence	3	coffee	12.609933064605958	
+30	sentence	4	, but does not	23.40198354021175	
+30	sentence	5	settle	14.427642467076707	
+30	sentence	6	it.	7.986720897544263	
+31	sentence	1	The doctor	13.151207870291044	
+31	sentence	2	dislikes	18.44962495653603	
+31	sentence	3	coffee	12.609933064605958	
+31	sentence	4	, but does not	23.40198354021175	
+31	sentence	5	add	9.226931132543994	
+31	sentence	6	it.	5.290225896549692	
+32	sentence	1	The doctor	13.151207870291044	
+32	sentence	2	dislikes	18.44962495653603	
+32	sentence	3	coffee	12.609933064605958	
+32	sentence	4	, but does not	23.40198354021175	
+32	sentence	5	assume	12.556163032779002	
+32	sentence	6	it.	8.755800138943908	
+33	sentence	1	The doctor	13.151207870291044	
+33	sentence	2	dislikes	18.44962495653603	
+33	sentence	3	coffee	12.609933064605958	
+33	sentence	4	, but does not	23.40198354021175	
+33	sentence	5	appear	10.472272641914868	
+33	sentence	6	it.	17.02157699009045	
+34	sentence	1	The doctor	13.151207870291044	
+34	sentence	2	dislikes	18.44962495653603	
+34	sentence	3	coffee	12.609933064605958	
+34	sentence	4	, but does not	23.40198354021175	
+34	sentence	5	remove	11.411446508636148	
+34	sentence	6	it.	2.8977228716799734	
+35	sentence	1	The doctor	13.151207870291044	
+35	sentence	2	dislikes	18.44962495653603	
+35	sentence	3	coffee	12.609933064605958	
+35	sentence	4	, but does not	23.40198354021175	
+35	sentence	5	identify	11.426944209270697	
+35	sentence	6	it.	5.08398378568706	
+36	sentence	1	The doctor	13.151207870291044	
+36	sentence	2	dislikes	18.44962495653603	
+36	sentence	3	coffee	12.609933064605958	
+36	sentence	4	, but does not	23.40198354021175	
+36	sentence	5	replace	12.501282680958077	
+36	sentence	6	it.	2.0736646249113027	
+37	sentence	1	The doctor	13.151207870291044	
+37	sentence	2	dislikes	18.44962495653603	
+37	sentence	3	coffee	12.609933064605958	
+37	sentence	4	, but does not	23.40198354021175	
+37	sentence	5	apply	11.297040897559794	
+37	sentence	6	it.	4.961634983897955	
+38	sentence	1	The doctor	13.151207870291044	
+38	sentence	2	dislikes	18.44962495653603	
+38	sentence	3	coffee	12.609933064605958	
+38	sentence	4	, but does not	23.40198354021175	
+38	sentence	5	succeed	13.220274727016342	
+38	sentence	6	it.	10.975732246293541	
+39	sentence	1	The doctor	13.151207870291044	
+39	sentence	2	dislikes	18.44962495653603	
+39	sentence	3	coffee	12.609933064605958	
+39	sentence	4	, but does not	23.40198354021175	
+39	sentence	5	develop	13.292964226299413	
+39	sentence	6	it.	6.813652689441373	
+40	sentence	1	The doctor	13.151207870291044	
+40	sentence	2	dislikes	18.44962495653603	
+40	sentence	3	coffee	12.609933064605958	
+40	sentence	4	, but does not	23.40198354021175	
+40	sentence	5	approve	7.780867983420533	
+40	sentence	6	it.	5.098119727692078	
+41	sentence	1	The doctor	13.151207870291044	
+41	sentence	2	dislikes	18.44962495653603	
+41	sentence	3	coffee	12.609933064605958	
+41	sentence	4	, but does not	23.40198354021175	
+41	sentence	5	expose	14.175738790427348	
+41	sentence	6	it.	7.124979467651548	
+42	sentence	1	The doctor	13.151207870291044	
+42	sentence	2	dislikes	18.44962495653603	
+42	sentence	3	coffee	12.609933064605958	
+42	sentence	4	, but does not	23.40198354021175	
+42	sentence	5	establish	16.945996806411674	
+42	sentence	6	it.	6.965171124678017	
+43	sentence	1	The doctor	13.151207870291044	
+43	sentence	2	dislikes	18.44962495653603	
+43	sentence	3	coffee	12.609933064605958	
+43	sentence	4	, but does not	23.40198354021175	
+43	sentence	5	reduce	13.296266293195979	
+43	sentence	6	it.	4.3181563922499295	
+44	sentence	1	The doctor	13.151207870291044	
+44	sentence	2	dislikes	18.44962495653603	
+44	sentence	3	coffee	12.609933064605958	
+44	sentence	4	, but does not	23.40198354021175	
+44	sentence	5	participate	12.124560875618526	
+44	sentence	6	it.	14.425862274657625	
+45	sentence	1	The doctor	13.151207870291044	
+45	sentence	2	dislikes	18.44962495653603	
+45	sentence	3	coffee	12.609933064605958	
+45	sentence	4	, but does not	23.40198354021175	
+45	sentence	5	organize	15.812881543965423	
+45	sentence	6	it.	5.012595335157766	
+46	sentence	1	The doctor	13.151207870291044	
+46	sentence	2	dislikes	18.44962495653603	
+46	sentence	3	coffee	12.609933064605958	
+46	sentence	4	, but does not	23.40198354021175	
+46	sentence	5	obtain	14.017966034109428	
+46	sentence	6	it.	4.845160421531722	
+47	sentence	1	The doctor	13.151207870291044	
+47	sentence	2	dislikes	18.44962495653603	
+47	sentence	3	coffee	12.609933064605958	
+47	sentence	4	, but does not	23.40198354021175	
+47	sentence	5	kitten	25.940979753251224	
+47	sentence	6	it.	5.925421115801562	
+48	sentence	1	The doctor	13.151207870291044	
+48	sentence	2	dislikes	18.44962495653603	
+48	sentence	3	coffee	12.609933064605958	
+48	sentence	4	, but does not	23.40198354021175	
+48	sentence	5	acquire	15.643617594847454	
+48	sentence	6	it.	4.675211465515366	
+49	sentence	1	The doctor	13.151207870291044	
+49	sentence	2	dislikes	18.44962495653603	
+49	sentence	3	coffee	12.609933064605958	
+49	sentence	4	, but does not	23.40198354021175	
+49	sentence	5	qualify	13.47865045478297	
+49	sentence	6	it.	6.556484279883803	
+50	sentence	1	The doctor	13.151207870291044	
+50	sentence	2	dislikes	18.44962495653603	
+50	sentence	3	coffee	12.609933064605958	
+50	sentence	4	, but does not	23.40198354021175	
+50	sentence	5	criticize	12.454613468819945	
+50	sentence	6	it.	3.0006191457866125	
+51	sentence	1	The doctor	13.151207870291044	
+51	sentence	2	dislikes	18.44962495653603	
+51	sentence	3	coffee	12.609933064605958	
+51	sentence	4	, but does not	23.40198354021175	
+51	sentence	5	rave	13.913818844191738	
+51	sentence	6	it.	11.314869651044138	
+52	sentence	1	The doctor	13.151207870291044	
+52	sentence	2	dislikes	18.44962495653603	
+52	sentence	3	coffee	12.609933064605958	
+52	sentence	4	, but does not	23.40198354021175	
+52	sentence	5	enlighten	17.026913853597325	
+52	sentence	6	it.	8.573781096524698	
+53	sentence	1	The doctor	13.151207870291044	
+53	sentence	2	dislikes	18.44962495653603	
+53	sentence	3	coffee	12.609933064605958	
+53	sentence	4	, but does not	23.40198354021175	
+53	sentence	5	disclose	12.57701008178599	
+53	sentence	6	it.	4.537411226424795	
+54	sentence	1	The doctor	13.151207870291044	
+54	sentence	2	dislikes	18.44962495653603	
+54	sentence	3	coffee	12.609933064605958	
+54	sentence	4	, but does not	23.40198354021175	
+54	sentence	5	reopen	19.708395903182176	
+54	sentence	6	it.	5.303779333316237	
+55	sentence	1	The doctor	13.151207870291044	
+55	sentence	2	dislikes	18.44962495653603	
+55	sentence	3	coffee	12.609933064605958	
+55	sentence	4	, but does not	23.40198354021175	
+55	sentence	5	stabilize	19.300062310752836	
+55	sentence	6	it.	4.542922582454345	
+56	sentence	1	The doctor	13.151207870291044	
+56	sentence	2	dislikes	18.44962495653603	
+56	sentence	3	coffee	12.609933064605958	
+56	sentence	4	, but does not	23.40198354021175	
+56	sentence	5	soar	21.990388294060956	
+56	sentence	6	it.	10.332744149165777	
+57	sentence	1	The doctor	13.151207870291044	
+57	sentence	2	dislikes	18.44962495653603	
+57	sentence	3	coffee	12.609933064605958	
+57	sentence	4	, but does not	23.40198354021175	
+57	sentence	5	authorize	16.102560865911496	
+57	sentence	6	it.	3.0947109400649806	
+58	sentence	1	The doctor	13.151207870291044	
+58	sentence	2	dislikes	18.44962495653603	
+58	sentence	3	coffee	12.609933064605958	
+58	sentence	4	, but does not	23.40198354021175	
+58	sentence	5	sympathize	16.782330462622664	
+58	sentence	6	it.	13.378636867878768	
+59	sentence	1	The doctor	13.151207870291044	
+59	sentence	2	dislikes	18.44962495653603	
+59	sentence	3	coffee	12.609933064605958	
+59	sentence	4	, but does not	23.40198354021175	
+59	sentence	5	sharpen	17.82370188110374	
+59	sentence	6	it.	4.7938631562588725	
+60	sentence	1	The doctor	13.151207870291044	
+60	sentence	2	dislikes	18.44962495653603	
+60	sentence	3	coffee	12.609933064605958	
+60	sentence	4	, but does not	23.40198354021175	
+60	sentence	5	specialize	16.688743781389878	
+60	sentence	6	it.	9.882414801152848	
+61	sentence	1	The doctor	13.151207870291044	
+61	sentence	2	dislikes	18.44962495653603	
+61	sentence	3	coffee	12.609933064605958	
+61	sentence	4	, but does not	23.40198354021175	
+61	sentence	5	minimize	17.25564262619232	
+61	sentence	6	it.	3.3027281698584936	
+62	sentence	1	The doctor	13.151207870291044	
+62	sentence	2	dislikes	18.44962495653603	
+62	sentence	3	coffee	12.609933064605958	
+62	sentence	4	, but does not	23.40198354021175	
+62	sentence	5	socialize	16.37858010034966	
+62	sentence	6	it.	10.28218124981211	
+63	sentence	1	The doctor	13.151207870291044	
+63	sentence	2	dislikes	18.44962495653603	
+63	sentence	3	coffee	12.609933064605958	
+63	sentence	4	, but does not	23.40198354021175	
+63	sentence	5	utilize	15.865494476517373	
+63	sentence	6	it.	3.1180294657561904	
+64	sentence	1	The doctor	13.151207870291044	
+64	sentence	2	dislikes	18.44962495653603	
+64	sentence	3	coffee	12.609933064605958	
+64	sentence	4	, but does not	23.40198354021175	
+64	sentence	5	rectify	18.962409771963042	
+64	sentence	6	it.	3.512359542821679	
+65	sentence	1	The doctor	13.151207870291044	
+65	sentence	2	dislikes	18.44962495653603	
+65	sentence	3	coffee	12.609933064605958	
+65	sentence	4	, but does not	23.40198354021175	
+65	sentence	5	terrorize	18.9591232157518	
+65	sentence	6	it.	5.7822130542372605	
+66	sentence	1	The doctor	13.151207870291044	
+66	sentence	2	dislikes	18.44962495653603	
+66	sentence	3	coffee	12.609933064605958	
+66	sentence	4	, but does not	23.40198354021175	
+66	sentence	5	enslave	21.015613766683362	
+66	sentence	6	it.	4.596788580600482	
+67	sentence	1	The doctor	13.151207870291044	
+67	sentence	2	dislikes	18.44962495653603	
+67	sentence	3	coffee	12.609933064605958	
+67	sentence	4	, but does not	23.40198354021175	
+67	sentence	5	finalize	16.84078478591117	
+67	sentence	6	it.	4.268822824884631	
+68	sentence	1	The doctor	13.151207870291044	
+68	sentence	2	dislikes	18.44962495653603	
+68	sentence	3	coffee	12.609933064605958	
+68	sentence	4	, but does not	23.40198354021175	
+68	sentence	5	maximize	19.29473497615971	
+68	sentence	6	it.	4.29961494266041	
+69	sentence	1	The doctor	13.151207870291044	
+69	sentence	2	dislikes	18.44962495653603	
+69	sentence	3	coffee	12.609933064605958	
+69	sentence	4	, but does not	23.40198354021175	
+69	sentence	5	summarize	18.74753846384011	
+69	sentence	6	it.	5.7398898436864325	
+70	sentence	1	The doctor	13.151207870291044	
+70	sentence	2	dislikes	18.44962495653603	
+70	sentence	3	coffee	12.609933064605958	
+70	sentence	4	, but does not	23.40198354021175	
+70	sentence	5	repose	17.861349012196648	
+70	sentence	6	it.	4.475378460119787	
+71	sentence	1	The doctor	13.151207870291044	
+71	sentence	2	dislikes	18.44962495653603	
+71	sentence	3	coffee	12.609933064605958	
+71	sentence	4	, but does not	23.40198354021175	
+71	sentence	5	symbolize	20.138616222738634	
+71	sentence	6	it.	4.839360650596675	
+72	sentence	1	The doctor	13.151207870291044	
+72	sentence	2	dislikes	18.44962495653603	
+72	sentence	3	coffee	12.609933064605958	
+72	sentence	4	, but does not	23.40198354021175	
+72	sentence	5	sterilize	17.812942614051064	
+72	sentence	6	it.	2.918825916862769	
+73	sentence	1	The doctor	13.151207870291044	
+73	sentence	2	dislikes	18.44962495653603	
+73	sentence	3	coffee	12.609933064605958	
+73	sentence	4	, but does not	23.40198354021175	
+73	sentence	5	revolutionize	21.908624259192095	
+73	sentence	6	it.	4.443966688852949	
+74	sentence	1	The doctor	13.151207870291044	
+74	sentence	2	dislikes	18.44962495653603	
+74	sentence	3	coffee	12.609933064605958	
+74	sentence	4	, but does not	23.40198354021175	
+74	sentence	5	synchronize	21.36398650475204	
+74	sentence	6	it.	6.925481656442502	
+75	sentence	1	The doctor	13.151207870291044	
+75	sentence	2	dislikes	18.44962495653603	
+75	sentence	3	coffee	12.609933064605958	
+75	sentence	4	, but does not	23.40198354021175	
+75	sentence	5	fertilize	21.526978590558343	
+75	sentence	6	it.	3.931975713095575	
+76	sentence	1	The doctor	13.151207870291044	
+76	sentence	2	dislikes	18.44962495653603	
+76	sentence	3	coffee	12.609933064605958	
+76	sentence	4	, but does not	23.40198354021175	
+76	sentence	5	rationalize	17.32069072131924	
+76	sentence	6	it.	3.786598950303893	
+77	sentence	1	The doctor	13.151207870291044	
+77	sentence	2	dislikes	18.44962495653603	
+77	sentence	3	coffee	12.609933064605958	
+77	sentence	4	, but does not	23.40198354021175	
+77	sentence	5	antagonize	16.756847836239984	
+77	sentence	6	it.	4.440149533917049	
+78	sentence	1	The doctor	13.151207870291044	
+78	sentence	2	dislikes	18.44962495653603	
+78	sentence	3	coffee	12.609933064605958	
+78	sentence	4	, but does not	23.40198354021175	
+78	sentence	5	kindle	15.74395691689239	
+78	sentence	6	it.	3.1876151941391404	
+79	sentence	1	The doctor	13.151207870291044	
+79	sentence	2	dislikes	18.44962495653603	
+79	sentence	3	coffee	12.609933064605958	
+79	sentence	4	, but does not	23.40198354021175	
+79	sentence	5	familiarize	16.8149850235203	
+79	sentence	6	it.	15.409570532871879	
+80	sentence	1	The doctor	13.151207870291044	
+80	sentence	2	dislikes	18.44962495653603	
+80	sentence	3	coffee	12.609933064605958	
+80	sentence	4	, but does not	23.40198354021175	
+80	sentence	5	synthesize	19.66148421700416	
+80	sentence	6	it.	3.155342305739433	
+81	sentence	1	The doctor	13.151207870291044	
+81	sentence	2	dislikes	18.44962495653603	
+81	sentence	3	coffee	12.609933064605958	
+81	sentence	4	, but does not	23.40198354021175	
+81	sentence	5	reorganize	22.273859042310885	
+81	sentence	6	it.	5.229307921787576	
+82	sentence	1	The doctor	13.151207870291044	
+82	sentence	2	dislikes	18.44962495653603	
+82	sentence	3	coffee	12.609933064605958	
+82	sentence	4	, but does not	23.40198354021175	
+82	sentence	5	ripen	21.352824529741405	
+82	sentence	6	it.	3.21239170275304	
+83	sentence	1	The doctor	13.151207870291044	
+83	sentence	2	dislikes	18.44962495653603	
+83	sentence	3	coffee	12.609933064605958	
+83	sentence	4	, but does not	23.40198354021175	
+83	sentence	5	deepen	19.864011309127672	
+83	sentence	6	it.	6.0669105547357915	
+84	sentence	1	The doctor	13.151207870291044	
+84	sentence	2	dislikes	18.44962495653603	
+84	sentence	3	coffee	12.609933064605958	
+84	sentence	4	, but does not	23.40198354021175	
+84	sentence	5	destabilize	21.48263600271675	
+84	sentence	6	it.	4.463734030777819	
+85	sentence	1	The doctor	13.151207870291044	
+85	sentence	2	dislikes	18.44962495653603	
+85	sentence	3	coffee	12.609933064605958	
+85	sentence	4	, but does not	23.40198354021175	
+85	sentence	5	enclose	21.02903744791429	
+85	sentence	6	it.	5.343736406556495	
+86	sentence	1	The doctor	13.151207870291044	
+86	sentence	2	dislikes	18.44962495653603	
+86	sentence	3	coffee	12.609933064605958	
+86	sentence	4	, but does not	23.40198354021175	
+86	sentence	5	dampen	18.119671207675964	
+86	sentence	6	it.	4.421275813846062	
+87	sentence	1	The doctor	13.151207870291044	
+87	sentence	2	dislikes	18.44962495653603	
+87	sentence	3	coffee	12.609933064605958	
+87	sentence	4	, but does not	23.40198354021175	
+87	sentence	5	subsidize	20.58144166672478	
+87	sentence	6	it.	2.63774753327767	
+88	sentence	1	The doctor	13.151207870291044	
+88	sentence	2	dislikes	18.44962495653603	
+88	sentence	3	coffee	12.609933064605958	
+88	sentence	4	, but does not	23.40198354021175	
+88	sentence	5	idolize	18.849312228682404	
+88	sentence	6	it.	2.804737699768582	
+89	sentence	1	The doctor	13.151207870291044	
+89	sentence	2	dislikes	18.44962495653603	
+89	sentence	3	coffee	12.609933064605958	
+89	sentence	4	, but does not	23.40198354021175	
+89	sentence	5	quantify	17.596063709448956	
+89	sentence	6	it.	3.6387143364973307	
+90	sentence	1	The doctor	13.151207870291044	
+90	sentence	2	dislikes	18.44962495653603	
+90	sentence	3	coffee	12.609933064605958	
+90	sentence	4	, but does not	23.40198354021175	
+90	sentence	5	engrave	25.18827360417902	
+90	sentence	6	it.	5.357844831337376	
+91	sentence	1	The doctor	13.151207870291044	
+91	sentence	2	dislikes	18.44962495653603	
+91	sentence	3	coffee	12.609933064605958	
+91	sentence	4	, but does not	23.40198354021175	
+91	sentence	5	fraternize	22.38511263060463	
+91	sentence	6	it.	13.725001843531874	
+92	sentence	1	The doctor	13.151207870291044	
+92	sentence	2	dislikes	18.44962495653603	
+92	sentence	3	coffee	12.609933064605958	
+92	sentence	4	, but does not	23.40198354021175	
+92	sentence	5	immobilize	23.16321920910132	
+92	sentence	6	it.	4.639489981000557	
+93	sentence	1	The doctor	13.151207870291044	
+93	sentence	2	dislikes	18.44962495653603	
+93	sentence	3	coffee	12.609933064605958	
+93	sentence	4	, but does not	23.40198354021175	
+93	sentence	5	downsize	19.60870031219942	
+93	sentence	6	it.	4.251870666971735	
+94	sentence	1	The doctor	13.151207870291044	
+94	sentence	2	dislikes	18.44962495653603	
+94	sentence	3	coffee	12.609933064605958	
+94	sentence	4	, but does not	23.40198354021175	
+94	sentence	5	theorize	18.92458295107878	
+94	sentence	6	it.	8.331512059959323	
+95	sentence	1	The doctor	13.151207870291044	
+95	sentence	2	dislikes	18.44962495653603	
+95	sentence	3	coffee	12.609933064605958	
+95	sentence	4	, but does not	23.40198354021175	
+95	sentence	5	dramatize	18.046168276137205	
+95	sentence	6	it.	3.79036760613225	
+96	sentence	1	The doctor	13.151207870291044	
+96	sentence	2	dislikes	18.44962495653603	
+96	sentence	3	coffee	12.609933064605958	
+96	sentence	4	, but does not	23.40198354021175	
+96	sentence	5	modernize	20.31047646494969	
+96	sentence	6	it.	3.265233028265336	
+97	sentence	1	The doctor	13.151207870291044	
+97	sentence	2	dislikes	18.44962495653603	
+97	sentence	3	coffee	12.609933064605958	
+97	sentence	4	, but does not	23.40198354021175	
+97	sentence	5	revitalize	23.21643893944118	
+97	sentence	6	it.	4.814998448188705	
+98	sentence	1	The doctor	13.151207870291044	
+98	sentence	2	dislikes	18.44962495653603	
+98	sentence	3	coffee	12.609933064605958	
+98	sentence	4	, but does not	23.40198354021175	
+98	sentence	5	traumatize	21.429032686571972	
+98	sentence	6	it.	6.893744837965532	
+99	sentence	1	The doctor	13.151207870291044	
+99	sentence	2	dislikes	18.44962495653603	
+99	sentence	3	coffee	12.609933064605958	
+99	sentence	4	, but does not	23.40198354021175	
+99	sentence	5	immortalize	23.668507096547824	
+99	sentence	6	it.	2.980754375690029	
+100	sentence	1	The doctor	13.151207870291044	
+100	sentence	2	dislikes	18.44962495653603	
+100	sentence	3	coffee	12.609933064605958	
+100	sentence	4	, but does not	23.40198354021175	
+100	sentence	5	agonize	16.29707513584649	
+100	sentence	6	it.	6.813986163801397	
+101	sentence	1	The doctor	13.151207870291044	
+101	sentence	2	dislikes	18.44962495653603	
+101	sentence	3	coffee	12.609933064605958	
+101	sentence	4	, but does not	23.40198354021175	
+101	sentence	5	electrify	23.148629877832967	
+101	sentence	6	it.	4.846924275598971	
+102	sentence	1	The doctor	13.151207870291044	
+102	sentence	2	dislikes	18.44962495653603	
+102	sentence	3	coffee	12.609933064605958	
+102	sentence	4	, but does not	23.40198354021175	
+102	sentence	5	demoralize	21.326408854482132	
+102	sentence	6	it.	7.684175725469794	
+103	sentence	1	The doctor	13.151207870291044	
+103	sentence	2	dislikes	18.44962495653603	
+103	sentence	3	coffee	12.609933064605958	
+103	sentence	4	, but does not	23.40198354021175	
+103	sentence	5	sanitize	17.616929601305127	
+103	sentence	6	it.	2.8743344350411877	
+104	sentence	1	The doctor	13.151207870291044	
+104	sentence	2	dislikes	18.44962495653603	
+104	sentence	3	coffee	12.609933064605958	
+104	sentence	4	, but does not	23.40198354021175	
+104	sentence	5	anesthetize	20.108286915650787	
+104	sentence	6	it.	3.9852165543058256	
+105	sentence	1	The doctor	13.151207870291044	
+105	sentence	2	dislikes	18.44962495653603	
+105	sentence	3	coffee	12.609933064605958	
+105	sentence	4	, but does not	23.40198354021175	
+105	sentence	5	trivialize	18.623067267152372	
+105	sentence	6	it.	2.6625893952988973	
+106	sentence	1	The doctor	13.151207870291044	
+106	sentence	2	dislikes	18.44962495653603	
+106	sentence	3	coffee	12.609933064605958	
+106	sentence	4	, but does not	23.40198354021175	
+106	sentence	5	romanticize	19.134118443714108	
+106	sentence	6	it.	2.241073934620199	
+107	sentence	1	The doctor	13.151207870291044	
+107	sentence	2	dislikes	18.44962495653603	
+107	sentence	3	coffee	12.609933064605958	
+107	sentence	4	, but does not	23.40198354021175	
+107	sentence	5	equalize	25.466126711121166	
+107	sentence	6	it.	4.53536704063664	
+108	sentence	1	The doctor	13.151207870291044	
+108	sentence	2	dislikes	18.44962495653603	
+108	sentence	3	coffee	12.609933064605958	
+108	sentence	4	, but does not	23.40198354021175	
+108	sentence	5	demonize	16.638251867875358	
+108	sentence	6	it.	2.432045103973445	
+109	sentence	1	The doctor	13.151207870291044	
+109	sentence	2	dislikes	18.44962495653603	
+109	sentence	3	coffee	12.609933064605958	
+109	sentence	4	, but does not	23.40198354021175	
+109	sentence	5	alphabetize	27.45027271092536	
+109	sentence	6	it.	3.2818618587946107	
+110	sentence	1	The doctor	13.151207870291044	
+110	sentence	2	dislikes	18.44962495653603	
+110	sentence	3	coffee	12.609933064605958	
+110	sentence	4	, but does not	23.40198354021175	
+110	sentence	5	formalize	18.512011297673382	
+110	sentence	6	it.	3.9717554722227932	
+111	sentence	1	The doctor	13.151207870291044	
+111	sentence	2	dislikes	18.44962495653603	
+111	sentence	3	coffee	12.609933064605958	
+111	sentence	4	, but does not	23.40198354021175	
+111	sentence	5	optimize	18.52059841292879	
+111	sentence	6	it.	4.134321900968212	
+112	sentence	1	The doctor	13.151207870291044	
+112	sentence	2	dislikes	18.44962495653603	
+112	sentence	3	coffee	12.609933064605958	
+112	sentence	4	, but does not	23.40198354021175	
+112	sentence	5	internalize	17.535110499741243	
+112	sentence	6	it.	3.492386509646378	
+113	sentence	1	The doctor	13.151207870291044	
+113	sentence	2	dislikes	18.44962495653603	
+113	sentence	3	coffee	12.609933064605958	
+113	sentence	4	, but does not	23.40198354021175	
+113	sentence	5	idealize	17.56313685701934	
+113	sentence	6	it.	2.564188403720511	
+114	sentence	1	The doctor	13.151207870291044	
+114	sentence	2	dislikes	18.44962495653603	
+114	sentence	3	coffee	12.609933064605958	
+114	sentence	4	, but does not	23.40198354021175	
+114	sentence	5	sodomize	19.985526962462508	
+114	sentence	6	it.	4.62300406805415	
+115	sentence	1	The doctor	13.151207870291044	
+115	sentence	2	dislikes	18.44962495653603	
+115	sentence	3	coffee	12.609933064605958	
+115	sentence	4	, but does not	23.40198354021175	
+115	sentence	5	digitize	25.91242388288895	
+115	sentence	6	it.	3.1635924854839725	
+116	sentence	1	The doctor	13.151207870291044	
+116	sentence	2	dislikes	18.44962495653603	
+116	sentence	3	coffee	12.609933064605958	
+116	sentence	4	, but does not	23.40198354021175	
+116	sentence	5	galvanize	23.053826849301952	
+116	sentence	6	it.	5.799960631910397	
+117	sentence	1	The doctor	13.151207870291044	
+117	sentence	2	dislikes	18.44962495653603	
+117	sentence	3	coffee	12.609933064605958	
+117	sentence	4	, but does not	23.40198354021175	
+117	sentence	5	initialize	21.563695209686706	
+117	sentence	6	it.	5.217188132398624	
+118	sentence	1	The doctor	13.151207870291044	
+118	sentence	2	dislikes	18.44962495653603	
+118	sentence	3	coffee	12.609933064605958	
+118	sentence	4	, but does not	23.40198354021175	
+118	sentence	5	exemplify	20.672553928757672	
+118	sentence	6	it.	4.519002031493789	
+119	sentence	1	The doctor	13.151207870291044	
+119	sentence	2	dislikes	18.44962495653603	
+119	sentence	3	coffee	12.609933064605958	
+119	sentence	4	, but does not	23.40198354021175	
+119	sentence	5	depressurize	27.298135826076216	
+119	sentence	6	it.	4.232419257176501	
+120	sentence	1	The doctor	13.151207870291044	
+120	sentence	2	dislikes	18.44962495653603	
+120	sentence	3	coffee	12.609933064605958	
+120	sentence	4	, but does not	23.40198354021175	
+120	sentence	5	itemize	18.7551598750131	
+120	sentence	6	it.	4.016308093876757	
+121	sentence	1	The doctor	13.151207870291044	
+121	sentence	2	dislikes	18.44962495653603	
+121	sentence	3	coffee	12.609933064605958	
+121	sentence	4	, but does not	23.40198354021175	
+121	sentence	5	dehumanize	23.613731245685127	
+121	sentence	6	it.	3.462614936920819	
+122	sentence	1	The doctor	13.151207870291044	
+122	sentence	2	dislikes	18.44962495653603	
+122	sentence	3	coffee	12.609933064605958	
+122	sentence	4	, but does not	23.40198354021175	
+122	sentence	5	mollify	22.445429652301744	
+122	sentence	6	it.	4.819244183890555	
+123	sentence	1	The doctor	13.151207870291044	
+123	sentence	2	dislikes	18.44962495653603	
+123	sentence	3	coffee	12.609933064605958	
+123	sentence	4	, but does not	23.40198354021175	
+123	sentence	5	immunize	20.1125690633045	
+123	sentence	6	it.	5.488879100960353	
+124	sentence	1	The doctor	13.151207870291044	
+124	sentence	2	dislikes	18.44962495653603	
+124	sentence	3	coffee	12.609933064605958	
+124	sentence	4	, but does not	23.40198354021175	
+124	sentence	5	oxidize	19.90894829588294	
+124	sentence	6	it.	2.8967464401797	
+125	sentence	1	The doctor	13.151207870291044	
+125	sentence	2	dislikes	18.44962495653603	
+125	sentence	3	coffee	12.609933064605958	
+125	sentence	4	, but does not	23.40198354021175	
+125	sentence	5	dematerialize	25.337800630803493	
+125	sentence	6	it.	3.873891324489075	
+126	sentence	1	The doctor	13.151207870291044	
+126	sentence	2	dislikes	18.44962495653603	
+126	sentence	3	coffee	12.609933064605958	
+126	sentence	4	, but does not	23.40198354021175	
+126	sentence	5	ostracize	22.134312482649957	
+126	sentence	6	it.	4.468124575871695	
+127	sentence	1	The doctor	13.151207870291044	
+127	sentence	2	dislikes	18.44962495653603	
+127	sentence	3	coffee	12.609933064605958	
+127	sentence	4	, but does not	23.40198354021175	
+127	sentence	5	overdramatize	24.09745541092067	
+127	sentence	6	it.	2.8005064106094046	
+128	sentence	1	The doctor	13.151207870291044	
+128	sentence	2	dislikes	18.44962495653603	
+128	sentence	3	coffee	12.609933064605958	
+128	sentence	4	, but does not	23.40198354021175	
+128	sentence	5	satirize	22.342575441389382	
+128	sentence	6	it.	2.817326485846438	
+129	sentence	1	The doctor	13.151207870291044	
+129	sentence	2	dislikes	18.44962495653603	
+129	sentence	3	coffee	12.609933064605958	
+129	sentence	4	, but does not	23.40198354021175	
+129	sentence	5	amortize	20.183555214166677	
+129	sentence	6	it.	3.834622181852268	
+130	sentence	1	The doctor	13.151207870291044	
+130	sentence	2	dislikes	18.44962495653603	
+130	sentence	3	coffee	12.609933064605958	
+130	sentence	4	, but does not	23.40198354021175	
+130	sentence	5	tyrannize	23.27894835566305	
+130	sentence	6	it.	5.865830847104107	
+131	sentence	1	The doctor	13.151207870291044	
+131	sentence	2	dislikes	18.44962495653603	
+131	sentence	3	coffee	12.609933064605958	
+131	sentence	4	, but does not	23.40198354021175	
+131	sentence	5	eulogize	19.807545245019046	
+131	sentence	6	it.	3.611273472656264	
+132	sentence	1	The doctor	13.151207870291044	
+132	sentence	2	dislikes	18.44962495653603	
+132	sentence	3	coffee	12.609933064605958	
+132	sentence	4	, but does not	23.40198354021175	
+132	sentence	5	resize	22.26661719684835	
+132	sentence	6	it.	4.922967092608565	
+133	sentence	1	The doctor	13.151207870291044	
+133	sentence	2	dislikes	18.44962495653603	
+133	sentence	3	coffee	12.609933064605958	
+133	sentence	4	, but does not	23.40198354021175	
+133	sentence	5	editorialize	21.690711878594204	
+133	sentence	6	it.	4.882541882592658	
+134	sentence	1	The doctor	13.151207870291044	
+134	sentence	2	dislikes	18.44962495653603	
+134	sentence	3	coffee	12.609933064605958	
+134	sentence	4	, but does not	23.40198354021175	
+134	sentence	5	acclimatize	22.28682517041726	
+134	sentence	6	it.	10.282199479973102	
+135	sentence	1	The doctor	13.151207870291044	
+135	sentence	2	dislikes	18.44962495653603	
+135	sentence	3	coffee	12.609933064605958	
+135	sentence	4	, but does not	23.40198354021175	
+135	sentence	5	desensitize	18.9703674501987	
+135	sentence	6	it.	6.706829105510957	
+136	sentence	1	The doctor	13.151207870291044	
+136	sentence	2	dislikes	18.44962495653603	
+136	sentence	3	coffee	12.609933064605958	
+136	sentence	4	, but does not	23.40198354021175	
+136	sentence	5	standardize	19.543859585153776	
+136	sentence	6	it.	3.338034832219421	
+137	sentence	1	The doctor	13.151207870291044	
+137	sentence	2	dislikes	18.44962495653603	
+137	sentence	3	coffee	12.609933064605958	
+137	sentence	4	, but does not	23.40198354021175	
+137	sentence	5	stigmatize	18.39909632472555	
+137	sentence	6	it.	2.5726727378442007	
+138	sentence	1	The doctor	13.151207870291044	
+138	sentence	2	dislikes	18.44962495653603	
+138	sentence	3	coffee	12.609933064605958	
+138	sentence	4	, but does not	23.40198354021175	
+138	sentence	5	actualize	19.972751123754005	
+138	sentence	6	it.	3.81022867860184	
+139	sentence	1	The doctor	13.151207870291044	
+139	sentence	2	dislikes	18.44962495653603	
+139	sentence	3	coffee	12.609933064605958	
+139	sentence	4	, but does not	23.40198354021175	
+139	sentence	5	industrialize	21.523349111690198	
+139	sentence	6	it.	3.851589990186393	
+140	sentence	1	The doctor	13.151207870291044	
+140	sentence	2	dislikes	18.44962495653603	
+140	sentence	3	coffee	12.609933064605958	
+140	sentence	4	, but does not	23.40198354021175	
+140	sentence	5	sexualize	23.54287946701785	
+140	sentence	6	it.	2.9326969195941324	
+141	sentence	1	The doctor	13.151207870291044	
+141	sentence	2	dislikes	18.44962495653603	
+141	sentence	3	coffee	12.609933064605958	
+141	sentence	4	, but does not	23.40198354021175	
+141	sentence	5	demagnetize	27.851995472987106	
+141	sentence	6	it.	4.447057045106303	
+142	sentence	1	The doctor	13.151207870291044	
+142	sentence	2	dislikes	18.44962495653603	
+142	sentence	3	coffee	12.609933064605958	
+142	sentence	4	, but does not	23.40198354021175	
+142	sentence	5	solemnize	19.685641738559774	
+142	sentence	6	it.	3.474678144017638	
+143	sentence	1	The doctor	13.151207870291044	
+143	sentence	2	dislikes	18.44962495653603	
+143	sentence	3	coffee	12.609933064605958	
+143	sentence	4	, but does not	23.40198354021175	
+143	sentence	5	atomize	20.55961169387245	
+143	sentence	6	it.	3.627961637200086	
+144	sentence	1	The doctor	13.151207870291044	
+144	sentence	2	dislikes	18.44962495653603	
+144	sentence	3	coffee	12.609933064605958	
+144	sentence	4	, but does not	23.40198354021175	
+144	sentence	5	ionize	22.347538602719307	
+144	sentence	6	it.	3.863677274854332	
+145	sentence	1	The doctor	13.151207870291044	
+145	sentence	2	dislikes	18.44962495653603	
+145	sentence	3	coffee	12.609933064605958	
+145	sentence	4	, but does not	23.40198354021175	
+145	sentence	5	radicalize	20.543443432882185	
+145	sentence	6	it.	5.793481185539141	
+146	sentence	1	The doctor	13.151207870291044	
+146	sentence	2	dislikes	18.44962495653603	
+146	sentence	3	coffee	12.609933064605958	
+146	sentence	4	, but does not	23.40198354021175	
+146	sentence	5	reunify	29.007801556695664	
+146	sentence	6	it.	8.933334045811266	
+147	sentence	1	The doctor	13.151207870291044	
+147	sentence	2	dislikes	18.44962495653603	
+147	sentence	3	coffee	12.609933064605958	
+147	sentence	4	, but does not	23.40198354021175	
+147	sentence	5	demobilize	28.628280948691636	
+147	sentence	6	it.	4.785523201570582	
+148	sentence	1	The doctor	13.151207870291044	
+148	sentence	2	dislikes	18.44962495653603	
+148	sentence	3	coffee	12.609933064605958	
+148	sentence	4	, but does not	23.40198354021175	
+148	sentence	5	democratize	24.382155770630764	
+148	sentence	6	it.	3.2276773487790757	
+149	sentence	1	The doctor	13.151207870291044	
+149	sentence	2	dislikes	18.44962495653603	
+149	sentence	3	coffee	12.609933064605958	
+149	sentence	4	, but does not	23.40198354021175	
+149	sentence	5	reclassify	24.203929075321877	
+149	sentence	6	it.	4.054253830015174	
+150	sentence	1	The doctor	13.151207870291044	
+150	sentence	2	dislikes	18.44962495653603	
+150	sentence	3	coffee	12.609933064605958	
+150	sentence	4	, but does not	23.40198354021175	
+150	sentence	5	rhapsodize	22.972095383647602	
+150	sentence	6	it.	11.06411825815556	
+151	sentence	1	The doctor	13.151207870291044	
+151	sentence	2	dislikes	18.44962495653603	
+151	sentence	3	coffee	12.609933064605958	
+151	sentence	4	, but does not	23.40198354021175	
+151	sentence	5	serialize	22.674739766565086	
+151	sentence	6	it.	3.867803482613833	
+152	sentence	1	The doctor	13.151207870291044	
+152	sentence	2	dislikes	18.44962495653603	
+152	sentence	3	coffee	12.609933064605958	
+152	sentence	4	, but does not	23.40198354021175	
+152	sentence	5	disorganize	21.793344159331767	
+152	sentence	6	it.	3.5978999297425216	
+153	sentence	1	The doctor	13.151207870291044	
+153	sentence	2	dislikes	18.44962495653603	
+153	sentence	3	coffee	12.609933064605958	
+153	sentence	4	, but does not	23.40198354021175	
+153	sentence	5	sermonize	21.331887114600306	
+153	sentence	6	it.	7.090943241132544	
+154	sentence	1	The doctor	13.151207870291044	
+154	sentence	2	dislikes	18.44962495653603	
+154	sentence	3	coffee	12.609933064605958	
+154	sentence	4	, but does not	23.40198354021175	
+154	sentence	5	deodorize	21.001366115900346	
+154	sentence	6	it.	3.7469020868143907	
+155	sentence	1	The doctor	13.151207870291044	
+155	sentence	2	dislikes	18.44962495653603	
+155	sentence	3	coffee	12.609933064605958	
+155	sentence	4	, but does not	23.40198354021175	
+155	sentence	5	emulsify	21.146935534866774	
+155	sentence	6	it.	3.3479190191298085	
+156	sentence	1	The doctor	13.151207870291044	
+156	sentence	2	dislikes	18.44962495653603	
+156	sentence	3	coffee	12.609933064605958	
+156	sentence	4	, but does not	23.40198354021175	
+156	sentence	5	overemphasize	22.242676694871594	
+156	sentence	6	it.	3.2592999707758716	
+157	sentence	1	The doctor	13.151207870291044	
+157	sentence	2	dislikes	18.44962495653603	
+157	sentence	3	coffee	12.609933064605958	
+157	sentence	4	, but does not	23.40198354021175	
+157	sentence	5	aerosolize	23.823825542199856	
+157	sentence	6	it.	3.3645199024783174	
+158	sentence	1	The doctor	13.151207870291044	
+158	sentence	2	dislikes	18.44962495653603	
+158	sentence	3	coffee	12.609933064605958	
+158	sentence	4	, but does not	23.40198354021175	
+158	sentence	5	apostatize	26.49519339957663	
+158	sentence	6	it.	5.773887202126342	
+159	sentence	1	The doctor	13.151207870291044	
+159	sentence	2	dislikes	18.44962495653603	
+159	sentence	3	coffee	12.609933064605958	
+159	sentence	4	, but does not	23.40198354021175	
+159	sentence	5	depolarize	24.16031525254259	
+159	sentence	6	it.	5.044254073511242	
+160	sentence	1	The doctor	13.151207870291044	
+160	sentence	2	dislikes	18.44962495653603	
+160	sentence	3	coffee	12.609933064605958	
+160	sentence	4	, but does not	23.40198354021175	
+160	sentence	5	evangelize	22.08505216712959	
+160	sentence	6	it.	3.3639182211742735	
+161	sentence	1	The doctor	13.151207870291044	
+161	sentence	2	dislikes	18.44962495653603	
+161	sentence	3	coffee	12.609933064605958	
+161	sentence	4	, but does not	23.40198354021175	
+161	sentence	5	anatomize	25.074098267123254	
+161	sentence	6	it.	3.608543592039119	
+162	sentence	1	The doctor	13.151207870291044	
+162	sentence	2	dislikes	18.44962495653603	
+162	sentence	3	coffee	12.609933064605958	
+162	sentence	4	, but does not	23.40198354021175	
+162	sentence	5	anthropomorphize	22.993287365358725	
+162	sentence	6	it.	2.88371239101876	
+163	sentence	1	The doctor	13.151207870291044	
+163	sentence	2	dislikes	18.44962495653603	
+163	sentence	3	coffee	12.609933064605958	
+163	sentence	4	, but does not	23.40198354021175	
+163	sentence	5	federalize	27.997696455322405	
+163	sentence	6	it.	2.587127363701267	
+164	sentence	1	The doctor	13.151207870291044	
+164	sentence	2	dislikes	18.44962495653603	
+164	sentence	3	coffee	12.609933064605958	
+164	sentence	4	, but does not	23.40198354021175	
+164	sentence	5	feminize	24.569983892546	
+164	sentence	6	it.	2.8656613499581765	
+165	sentence	1	The doctor	13.151207870291044	
+165	sentence	2	dislikes	18.44962495653603	
+165	sentence	3	coffee	12.609933064605958	
+165	sentence	4	, but does not	23.40198354021175	
+165	sentence	5	fossilize	24.613476445386794	
+165	sentence	6	it.	3.50455393822962	
+166	sentence	1	The doctor	13.151207870291044	
+166	sentence	2	dislikes	18.44962495653603	
+166	sentence	3	coffee	12.609933064605958	
+166	sentence	4	, but does not	23.40198354021175	
+166	sentence	5	regularize	19.463823674956448	
+166	sentence	6	it.	3.077616208534519	
+167	sentence	1	The doctor	13.151207870291044	
+167	sentence	2	dislikes	18.44962495653603	
+167	sentence	3	coffee	12.609933064605958	
+167	sentence	4	, but does not	23.40198354021175	
+167	sentence	5	ritualize	20.35150696790531	
+167	sentence	6	it.	2.4879804833660883	
+168	sentence	1	The doctor	13.151207870291044	
+168	sentence	2	dislikes	18.44962495653603	
+168	sentence	3	coffee	12.609933064605958	
+168	sentence	4	, but does not	23.40198354021175	
+168	sentence	5	sentimentalize	24.61906890198514	
+168	sentence	6	it.	2.30820615850594	
+169	sentence	1	The doctor	13.151207870291044	
+169	sentence	2	dislikes	18.44962495653603	
+169	sentence	3	coffee	12.609933064605958	
+169	sentence	4	, but does not	23.40198354021175	
+169	sentence	5	exteriorize	27.812365113038908	
+169	sentence	6	it.	3.2823793545910567	
+170	sentence	1	The doctor	13.151207870291044	
+170	sentence	2	dislikes	18.44962495653603	
+170	sentence	3	coffee	12.609933064605958	
+170	sentence	4	, but does not	23.40198354021175	
+170	sentence	5	fetishize	17.45753882145897	
+170	sentence	6	it.	2.3635895595806398	
+171	sentence	1	The doctor	13.151207870291044	
+171	sentence	2	dislikes	18.44962495653603	
+171	sentence	3	coffee	12.609933064605958	
+171	sentence	4	, but does not	23.40198354021175	
+171	sentence	5	fictionalize	26.37374348123563	
+171	sentence	6	it.	2.6831250697164966	
+172	sentence	1	The doctor	13.151207870291044	
+172	sentence	2	dislikes	18.44962495653603	
+172	sentence	3	coffee	12.609933064605958	
+172	sentence	4	, but does not	23.40198354021175	
+172	sentence	5	individualize	20.613995381295513	
+172	sentence	6	it.	2.917432685408129	
+173	sentence	1	The doctor	13.151207870291044	
+173	sentence	2	dislikes	18.44962495653603	
+173	sentence	3	coffee	12.609933064605958	
+173	sentence	4	, but does not	23.40198354021175	
+173	sentence	5	internationalize	26.04771261633331	
+173	sentence	6	it.	3.0170217331386766	
+174	sentence	1	The doctor	13.151207870291044	
+174	sentence	2	dislikes	18.44962495653603	
+174	sentence	3	coffee	12.609933064605958	
+174	sentence	4	, but does not	23.40198354021175	
+174	sentence	5	alkalinize	24.77672166278288	
+174	sentence	6	it.	3.565763595567599	
+175	sentence	1	The doctor	13.151207870291044	
+175	sentence	2	dislikes	18.44962495653603	
+175	sentence	3	coffee	12.609933064605958	
+175	sentence	4	, but does not	23.40198354021175	
+175	sentence	5	depersonalize	22.142003327115575	
+175	sentence	6	it.	4.456048470076062	
+176	sentence	1	The doctor	13.151207870291044	
+176	sentence	2	dislikes	18.44962495653603	
+176	sentence	3	coffee	12.609933064605958	
+176	sentence	4	, but does not	23.40198354021175	
+176	sentence	5	italicize	23.07358081957572	
+176	sentence	6	it.	3.6273015677860747	
+177	sentence	1	The doctor	13.151207870291044	
+177	sentence	2	dislikes	18.44962495653603	
+177	sentence	3	coffee	12.609933064605958	
+177	sentence	4	, but does not	23.40198354021175	
+177	sentence	5	randomize	21.46249666231806	
+177	sentence	6	it.	3.5564137587534423	
+178	sentence	1	The doctor	13.151207870291044	
+178	sentence	2	dislikes	18.44962495653603	
+178	sentence	3	coffee	12.609933064605958	
+178	sentence	4	, but does not	23.40198354021175	
+178	sentence	5	stylize	23.517965608759404	
+178	sentence	6	it.	3.5747962963735644	
+179	sentence	1	The doctor	13.151207870291044	
+179	sentence	2	dislikes	18.44962495653603	
+179	sentence	3	coffee	12.609933064605958	
+179	sentence	4	, but does not	23.40198354021175	
+179	sentence	5	temporize	27.620419232011894	
+179	sentence	6	it.	5.356947253882522	
+180	sentence	1	The doctor	13.151207870291044	
+180	sentence	2	dislikes	18.44962495653603	
+180	sentence	3	coffee	12.609933064605958	
+180	sentence	4	, but does not	23.40198354021175	
+180	sentence	5	ramify	26.989276611944955	
+180	sentence	6	it.	4.559619690096011	
+181	sentence	1	The doctor	13.151207870291044	
+181	sentence	2	dislikes	18.44962495653603	
+181	sentence	3	coffee	12.609933064605958	
+181	sentence	4	, but does not	23.40198354021175	
+181	sentence	5	reimpose	22.281609612454666	
+181	sentence	6	it.	3.614911593652616	
+182	sentence	1	The doctor	13.151207870291044	
+182	sentence	2	dislikes	18.44962495653603	
+182	sentence	3	coffee	12.609933064605958	
+182	sentence	4	, but does not	23.40198354021175	
+182	sentence	5	sensitize	20.756576007153807	
+182	sentence	6	it.	7.4317796624910155	
+183	sentence	1	The doctor	13.151207870291044	
+183	sentence	2	dislikes	18.44962495653603	
+183	sentence	3	coffee	12.609933064605958	
+183	sentence	4	, but does not	23.40198354021175	
+183	sentence	5	systematize	20.80904823639952	
+183	sentence	6	it.	3.2886284302014825	
+184	sentence	1	The doctor	13.151207870291044	
+184	sentence	2	dislikes	18.44962495653603	
+184	sentence	3	coffee	12.609933064605958	
+184	sentence	4	, but does not	23.40198354021175	
+184	sentence	5	denationalize	31.479844128334488	
+184	sentence	6	it.	2.5898371223482615	
+185	sentence	1	The doctor	13.151207870291044	
+185	sentence	2	dislikes	18.44962495653603	
+185	sentence	3	coffee	12.609933064605958	
+185	sentence	4	, but does not	23.40198354021175	
+185	sentence	5	digitalize	24.895636653590397	
+185	sentence	6	it.	3.3705380053886342	
+186	sentence	1	The doctor	13.151207870291044	
+186	sentence	2	dislikes	18.44962495653603	
+186	sentence	3	coffee	12.609933064605958	
+186	sentence	4	, but does not	23.40198354021175	
+186	sentence	5	reify	24.039959202980118	
+186	sentence	6	it.	5.184526907173268	
+187	sentence	1	The doctor	13.151207870291044	
+187	sentence	2	dislikes	18.44962495653603	
+187	sentence	3	coffee	12.609933064605958	
+187	sentence	4	, but does not	23.40198354021175	
+187	sentence	5	secularize	28.474337085125537	
+187	sentence	6	it.	2.823434879648458	
+188	sentence	1	The doctor	13.151207870291044	
+188	sentence	2	dislikes	18.44962495653603	
+188	sentence	3	coffee	12.609933064605958	
+188	sentence	4	, but does not	23.40198354021175	
+188	sentence	5	spiritualize	28.494443834811882	
+188	sentence	6	it.	3.098191438961816	
+189	sentence	1	The doctor	13.151207870291044	
+189	sentence	2	dislikes	18.44962495653603	
+189	sentence	3	coffee	12.609933064605958	
+189	sentence	4	, but does not	23.40198354021175	
+189	sentence	5	alkalize	19.97483653163379	
+189	sentence	6	it.	3.237671776568666	
+190	sentence	1	The doctor	13.151207870291044	
+190	sentence	2	dislikes	18.44962495653603	
+190	sentence	3	coffee	12.609933064605958	
+190	sentence	4	, but does not	23.40198354021175	
+190	sentence	5	decentralize	24.7763957932807	
+190	sentence	6	it.	3.5593998935203732	
+191	sentence	1	The doctor	13.151207870291044	
+191	sentence	2	dislikes	18.44962495653603	
+191	sentence	3	coffee	12.609933064605958	
+191	sentence	4	, but does not	23.40198354021175	
+191	sentence	5	decolonize	24.50337273309671	
+191	sentence	6	it.	3.9073192483719774	
+192	sentence	1	The doctor	13.151207870291044	
+192	sentence	2	dislikes	18.44962495653603	
+192	sentence	3	coffee	12.609933064605958	
+192	sentence	4	, but does not	23.40198354021175	
+192	sentence	5	demilitarize	26.374510108009805	
+192	sentence	6	it.	4.5955621723171785	
+193	sentence	1	The doctor	13.151207870291044	
+193	sentence	2	dislikes	18.44962495653603	
+193	sentence	3	coffee	12.609933064605958	
+193	sentence	4	, but does not	23.40198354021175	
+193	sentence	5	desexualize	23.75252803824612	
+193	sentence	6	it.	3.1328139543376117	
+194	sentence	1	The doctor	13.151207870291044	
+194	sentence	2	dislikes	18.44962495653603	
+194	sentence	3	coffee	12.609933064605958	
+194	sentence	4	, but does not	23.40198354021175	
+194	sentence	5	desynchronize	23.065354179956515	
+194	sentence	6	it.	5.228901698766238	
+195	sentence	1	The doctor	13.151207870291044	
+195	sentence	2	dislikes	18.44962495653603	
+195	sentence	3	coffee	12.609933064605958	
+195	sentence	4	, but does not	23.40198354021175	
+195	sentence	5	devitalize	32.645657441791215	
+195	sentence	6	it.	4.462792081799043	
+196	sentence	1	The doctor	13.151207870291044	
+196	sentence	2	dislikes	18.44962495653603	
+196	sentence	3	coffee	12.609933064605958	
+196	sentence	4	, but does not	23.40198354021175	
+196	sentence	5	eroticize	25.094896354819326	
+196	sentence	6	it.	2.5472158658634876	
+197	sentence	1	The doctor	13.151207870291044	
+197	sentence	2	dislikes	18.44962495653603	
+197	sentence	3	coffee	12.609933064605958	
+197	sentence	4	, but does not	23.40198354021175	
+197	sentence	5	officialize	23.758674354222656	
+197	sentence	6	it.	3.0383409605136062	
+198	sentence	1	The doctor	13.151207870291044	
+198	sentence	2	dislikes	18.44962495653603	
+198	sentence	3	coffee	12.609933064605958	
+198	sentence	4	, but does not	23.40198354021175	
+198	sentence	5	quantize	28.712608126997626	
+198	sentence	6	it.	4.072463353088528	
+199	sentence	1	The doctor	13.151207870291044	
+199	sentence	2	dislikes	18.44962495653603	
+199	sentence	3	coffee	12.609933064605958	
+199	sentence	4	, but does not	23.40198354021175	
+199	sentence	5	reharmonize	37.99171984920713	
+199	sentence	6	it.	3.7462397816259183	
+200	sentence	1	The doctor	13.151207870291044	
+200	sentence	2	dislikes	18.44962495653603	
+200	sentence	3	coffee	12.609933064605958	
+200	sentence	4	, but does not	23.40198354021175	
+200	sentence	5	remilitarize	27.89145194772636	
+200	sentence	6	it.	6.409211236383707	
+201	sentence	1	The doctor	13.151207870291044	
+201	sentence	2	dislikes	18.44962495653603	
+201	sentence	3	coffee	12.609933064605958	
+201	sentence	4	, but does not	23.40198354021175	
+201	sentence	5	solarize	28.700834366702207	
+201	sentence	6	it.	4.418104969712105	
+202	sentence	1	The doctor	13.151207870291044	
+202	sentence	2	dislikes	18.44962495653603	
+202	sentence	3	coffee	12.609933064605958	
+202	sentence	4	, but does not	23.40198354021175	
+202	sentence	5	syncretize	31.50367105623948	
+202	sentence	6	it.	7.515317139459908	
+203	sentence	1	The doctor	13.151207870291044	
+203	sentence	2	dislikes	18.44962495653603	
+203	sentence	3	coffee	12.609933064605958	
+203	sentence	4	, but does not	23.40198354021175	
+203	sentence	5	totalize	21.836514728403397	
+203	sentence	6	it.	4.309098753959589	
+204	sentence	1	The doctor	13.151207870291044	
+204	sentence	2	dislikes	18.44962495653603	
+204	sentence	3	coffee	12.609933064605958	
+204	sentence	4	, but does not	23.40198354021175	
+204	sentence	5	alchemize	20.255289468062276	
+204	sentence	6	it.	3.444072627418045	
+205	sentence	1	The doctor	13.151207870291044	
+205	sentence	2	dislikes	18.44962495653603	
+205	sentence	3	coffee	12.609933064605958	
+205	sentence	4	, but does not	23.40198354021175	
+205	sentence	5	aluminize	28.3593117345668	
+205	sentence	6	it.	3.717311783802841	
+206	sentence	1	The doctor	13.151207870291044	
+206	sentence	2	dislikes	18.44962495653603	
+206	sentence	3	coffee	12.609933064605958	
+206	sentence	4	, but does not	23.40198354021175	
+206	sentence	5	analogize	22.544690441583597	
+206	sentence	6	it.	4.734915586727691	
+207	sentence	1	The doctor	13.151207870291044	
+207	sentence	2	dislikes	18.44962495653603	
+207	sentence	3	coffee	12.609933064605958	
+207	sentence	4	, but does not	23.40198354021175	
+207	sentence	5	attitudinize	44.26922932980203	
+207	sentence	6	it.	5.454585760378309	
+208	sentence	1	The doctor	13.151207870291044	
+208	sentence	2	dislikes	18.44962495653603	
+208	sentence	3	coffee	12.609933064605958	
+208	sentence	4	, but does not	23.40198354021175	
+208	sentence	5	deionize	27.45525276955073	
+208	sentence	6	it.	3.162550356611069	
+209	sentence	1	The doctor	13.151207870291044	
+209	sentence	2	dislikes	18.44962495653603	
+209	sentence	3	coffee	12.609933064605958	
+209	sentence	4	, but does not	23.40198354021175	
+209	sentence	5	demythologize	27.975778384357177	
+209	sentence	6	it.	2.6589643449840112	
+210	sentence	1	The doctor	13.151207870291044	
+210	sentence	2	dislikes	18.44962495653603	
+210	sentence	3	coffee	12.609933064605958	
+210	sentence	4	, but does not	23.40198354021175	
+210	sentence	5	deoxidize	32.223164603707666	
+210	sentence	6	it.	4.201676842386821	
+211	sentence	1	The doctor	13.151207870291044	
+211	sentence	2	dislikes	18.44962495653603	
+211	sentence	3	coffee	12.609933064605958	
+211	sentence	4	, but does not	23.40198354021175	
+211	sentence	5	dichotomize	25.09197378913972	
+211	sentence	6	it.	3.239894738322393	
+212	sentence	1	The doctor	13.151207870291044	
+212	sentence	2	dislikes	18.44962495653603	
+212	sentence	3	coffee	12.609933064605958	
+212	sentence	4	, but does not	23.40198354021175	
+212	sentence	5	dogmatize	31.043263137925027	
+212	sentence	6	it.	4.6843958550193925	
+213	sentence	1	The doctor	13.151207870291044	
+213	sentence	2	dislikes	18.44962495653603	
+213	sentence	3	coffee	12.609933064605958	
+213	sentence	4	, but does not	23.40198354021175	
+213	sentence	5	factorize	37.222957722317844	
+213	sentence	6	it.	5.383925828358069	
+214	sentence	1	The doctor	13.151207870291044	
+214	sentence	2	dislikes	18.44962495653603	
+214	sentence	3	coffee	12.609933064605958	
+214	sentence	4	, but does not	23.40198354021175	
+214	sentence	5	iodize	25.78383090699497	
+214	sentence	6	it.	2.826701346136295	
+215	sentence	1	The doctor	13.151207870291044	
+215	sentence	2	dislikes	18.44962495653603	
+215	sentence	3	coffee	12.609933064605958	
+215	sentence	4	, but does not	23.40198354021175	
+215	sentence	5	overcapitalize	29.78408104525416	
+215	sentence	6	it.	5.211019114712175	
+216	sentence	1	The doctor	13.151207870291044	
+216	sentence	2	dislikes	18.44962495653603	
+216	sentence	3	coffee	12.609933064605958	
+216	sentence	4	, but does not	23.40198354021175	
+216	sentence	5	overspecialize	26.066671381825145	
+216	sentence	6	it.	4.035853234216711	
+217	sentence	1	The doctor	13.151207870291044	
+217	sentence	2	dislikes	18.44962495653603	
+217	sentence	3	coffee	12.609933064605958	
+217	sentence	4	, but does not	23.40198354021175	
+217	sentence	5	relativize	25.836469980909854	
+217	sentence	6	it.	4.442847941709086	
+218	sentence	1	The doctor	13.151207870291044	
+218	sentence	2	dislikes	18.44962495653603	
+218	sentence	3	coffee	12.609933064605958	
+218	sentence	4	, but does not	23.40198354021175	
+218	sentence	5	schematize	30.44541528417356	
+218	sentence	6	it.	4.687516652201949	
+219	sentence	1	The doctor	13.151207870291044	
+219	sentence	2	dislikes	18.44962495653603	
+219	sentence	3	coffee	12.609933064605958	
+219	sentence	4	, but does not	23.40198354021175	
+219	sentence	5	sensualize	23.822324832337344	
+219	sentence	6	it.	3.1620431797736748	
+220	sentence	1	The doctor	13.151207870291044	
+220	sentence	2	dislikes	18.44962495653603	
+220	sentence	3	coffee	12.609933064605958	
+220	sentence	4	, but does not	23.40198354021175	
+220	sentence	5	signalize	35.43201294790498	
+220	sentence	6	it.	4.288966636832239	
+221	sentence	1	The doctor	13.151207870291044	
+221	sentence	2	dislikes	18.44962495653603	
+221	sentence	3	coffee	12.609933064605958	
+221	sentence	4	, but does not	23.40198354021175	
+221	sentence	5	singularize	25.732523709724035	
+221	sentence	6	it.	3.2046074240096876	
+222	sentence	1	The doctor	13.151207870291044	
+222	sentence	2	dislikes	18.44962495653603	
+222	sentence	3	coffee	12.609933064605958	
+222	sentence	4	, but does not	23.40198354021175	
+222	sentence	5	steepen	24.30998847516921	
+222	sentence	6	it.	3.498980926419736	
+223	sentence	1	The doctor	13.151207870291044	
+223	sentence	2	dislikes	18.44962495653603	
+223	sentence	3	coffee	12.609933064605958	
+223	sentence	4	, but does not	23.40198354021175	
+223	sentence	5	subtilize	27.8123089607034	
+223	sentence	6	it.	3.488921575179445	
+224	sentence	1	The doctor	13.151207870291044	
+224	sentence	2	dislikes	18.44962495653603	
+224	sentence	3	coffee	12.609933064605958	
+224	sentence	4	, but does not	23.40198354021175	
+224	sentence	5	syllogize	28.9353575626467	
+224	sentence	6	it.	3.764656371810911	
+225	sentence	1	The doctor	13.151207870291044	
+225	sentence	2	dislikes	18.44962495653603	
+225	sentence	3	coffee	12.609933064605958	
+225	sentence	4	, but does not	23.40198354021175	
+225	sentence	5	complete	13.795428739060194	
+225	sentence	6	it.	4.741370095614573	
+226	sentence	1	The doctor	13.151207870291044	
+226	sentence	2	dislikes	18.44962495653603	
+226	sentence	3	coffee	12.609933064605958	
+226	sentence	4	, but does not	23.40198354021175	
+226	sentence	5	loathe	14.144204336411407	
+226	sentence	6	it.	2.4373067411939413	
+227	sentence	1	The doctor	13.151207870291044	
+227	sentence	2	dislikes	18.44962495653603	
+227	sentence	3	coffee	12.609933064605958	
+227	sentence	4	, but does not	23.40198354021175	
+227	sentence	5	triple	19.53129504862969	
+227	sentence	6	it.	5.80868376394481	
+228	sentence	1	The doctor	13.151207870291044	
+228	sentence	2	dislikes	18.44962495653603	
+228	sentence	3	coffee	12.609933064605958	
+228	sentence	4	, but does not	23.40198354021175	
+228	sentence	5	love	8.954554641135926	
+228	sentence	6	it.	2.6985238803267997	
+229	sentence	1	The doctor	13.151207870291044	
+229	sentence	2	dislikes	18.44962495653603	
+229	sentence	3	coffee	12.609933064605958	
+229	sentence	4	, but does not	23.40198354021175	
+229	sentence	5	exceed	14.772466306195431	
+229	sentence	6	it.	4.614668928880084	
+230	sentence	1	The doctor	13.151207870291044	
+230	sentence	2	dislikes	18.44962495653603	
+230	sentence	3	coffee	12.609933064605958	
+230	sentence	4	, but does not	23.40198354021175	
+230	sentence	5	require	9.503930517607255	
+230	sentence	6	it.	2.9807419929391665	
+231	sentence	1	The doctor	13.151207870291044	
+231	sentence	2	dislikes	18.44962495653603	
+231	sentence	3	coffee	12.609933064605958	
+231	sentence	4	, but does not	23.40198354021175	
+231	sentence	5	eliminate	13.631448096976731	
+231	sentence	6	it.	2.585266769392908	
+232	sentence	1	The doctor	13.151207870291044	
+232	sentence	2	dislikes	18.44962495653603	
+232	sentence	3	coffee	12.609933064605958	
+232	sentence	4	, but does not	23.40198354021175	
+232	sentence	5	stop	7.936637485821203	
+232	sentence	6	it.	5.435822453169176	
+233	sentence	1	The doctor	13.151207870291044	
+233	sentence	2	dislikes	18.44962495653603	
+233	sentence	3	coffee	12.609933064605958	
+233	sentence	4	, but does not	23.40198354021175	
+233	sentence	5	finish	12.065057630142407	
+233	sentence	6	it.	4.0472887046378805	
+234	sentence	1	The doctor	13.151207870291044	
+234	sentence	2	dislikes	18.44962495653603	
+234	sentence	3	coffee	12.609933064605958	
+234	sentence	4	, but does not	23.40198354021175	
+234	sentence	5	thrive	14.932572523120257	
+234	sentence	6	it.	12.443449215039186	
+235	sentence	1	The doctor	13.151207870291044	
+235	sentence	2	dislikes	18.44962495653603	
+235	sentence	3	coffee	12.609933064605958	
+235	sentence	4	, but does not	23.40198354021175	
+235	sentence	5	encourage	10.689834822839941	
+235	sentence	6	it.	3.024601266536177	
+236	sentence	1	The doctor	13.151207870291044	
+236	sentence	2	dislikes	18.44962495653603	
+236	sentence	3	coffee	12.609933064605958	
+236	sentence	4	, but does not	23.40198354021175	
+236	sentence	5	need	7.122347789128046	
+236	sentence	6	it.	3.549316378717636	

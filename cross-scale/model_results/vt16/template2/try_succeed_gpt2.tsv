@@ -1,0 +1,1381 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	The athlete	15.125420109185741	
+1	sentence	2	tried	10.966658097668718	
+1	sentence	3		0.0	
+1	sentence	4	, but did not	24.280248783727554	
+1	sentence	5	have	5.538695079661321	
+1	sentence	6	.	8.962641953310099	
+2	sentence	1	The athlete	15.125420109185741	
+2	sentence	2	tried	10.966658097668718	
+2	sentence	3		0.0	
+2	sentence	4	, but did not	24.280248783727554	
+2	sentence	5	know	7.256430279254916	
+2	sentence	6	.	7.426990977560391	
+3	sentence	1	The athlete	15.125420109185741	
+3	sentence	2	tried	10.966658097668718	
+3	sentence	3		0.0	
+3	sentence	4	, but did not	24.280248783727554	
+3	sentence	5	get	3.6480196298049137	
+3	sentence	6	.	9.103121510118461	
+4	sentence	1	The athlete	15.125420109185741	
+4	sentence	2	tried	10.966658097668718	
+4	sentence	3		0.0	
+4	sentence	4	, but did not	24.280248783727554	
+4	sentence	5	go	6.682553066411068	
+4	sentence	6	.	10.483965398381729	
+5	sentence	1	The athlete	15.125420109185741	
+5	sentence	2	tried	10.966658097668718	
+5	sentence	3		0.0	
+5	sentence	4	, but did not	24.280248783727554	
+5	sentence	5	come	7.004262437253831	
+5	sentence	6	.	12.11392959607279	
+6	sentence	1	The athlete	15.125420109185741	
+6	sentence	2	tried	10.966658097668718	
+6	sentence	3		0.0	
+6	sentence	4	, but did not	24.280248783727554	
+6	sentence	5	see	5.880833237704172	
+6	sentence	6	.	8.745096282719508	
+7	sentence	1	The athlete	15.125420109185741	
+7	sentence	2	tried	10.966658097668718	
+7	sentence	3		0.0	
+7	sentence	4	, but did not	24.280248783727554	
+7	sentence	5	let	9.300475729567156	
+7	sentence	6	.	13.763499128031608	
+8	sentence	1	The athlete	15.125420109185741	
+8	sentence	2	tried	10.966658097668718	
+8	sentence	3		0.0	
+8	sentence	4	, but did not	24.280248783727554	
+8	sentence	5	take	6.64609824787298	
+8	sentence	6	.	9.459521845432063	
+9	sentence	1	The athlete	15.125420109185741	
+9	sentence	2	tried	10.966658097668718	
+9	sentence	3		0.0	
+9	sentence	4	, but did not	24.280248783727554	
+9	sentence	5	say	11.03073676958839	
+9	sentence	6	.	6.584981805131769	
+10	sentence	1	The athlete	15.125420109185741	
+10	sentence	2	tried	10.966658097668718	
+10	sentence	3		0.0	
+10	sentence	4	, but did not	24.280248783727554	
+10	sentence	5	make	5.370575847067495	
+10	sentence	6	.	12.516664809251246	
+11	sentence	1	The athlete	15.125420109185741	
+11	sentence	2	tried	10.966658097668718	
+11	sentence	3		0.0	
+11	sentence	4	, but did not	24.280248783727554	
+11	sentence	5	give	8.119040221534489	
+11	sentence	6	.	12.601992969580923	
+12	sentence	1	The athlete	15.125420109185741	
+12	sentence	2	tried	10.966658097668718	
+12	sentence	3		0.0	
+12	sentence	4	, but did not	24.280248783727554	
+12	sentence	5	find	6.620958511900459	
+12	sentence	6	.	9.493301989783934	
+13	sentence	1	The athlete	15.125420109185741	
+13	sentence	2	tried	10.966658097668718	
+13	sentence	3		0.0	
+13	sentence	4	, but did not	24.280248783727554	
+13	sentence	5	keep	9.47207313929203	
+13	sentence	6	.	8.767039893108395	
+14	sentence	1	The athlete	15.125420109185741	
+14	sentence	2	tried	10.966658097668718	
+14	sentence	3		0.0	
+14	sentence	4	, but did not	24.280248783727554	
+14	sentence	5	leave	9.892646393017978	
+14	sentence	6	.	8.527528598349607	
+15	sentence	1	The athlete	15.125420109185741	
+15	sentence	2	tried	10.966658097668718	
+15	sentence	3		0.0	
+15	sentence	4	, but did not	24.280248783727554	
+15	sentence	5	believe	8.82334907679269	
+15	sentence	6	.	9.209609727879695	
+16	sentence	1	The athlete	15.125420109185741	
+16	sentence	2	tried	10.966658097668718	
+16	sentence	3		0.0	
+16	sentence	4	, but did not	24.280248783727554	
+16	sentence	5	remember	11.046696759588459	
+16	sentence	6	.	7.064663432167453	
+17	sentence	1	The athlete	15.125420109185741	
+17	sentence	2	tried	10.966658097668718	
+17	sentence	3		0.0	
+17	sentence	4	, but did not	24.280248783727554	
+17	sentence	5	run	7.140197524495795	
+17	sentence	6	.	6.799181381267173	
+18	sentence	1	The athlete	15.125420109185741	
+18	sentence	2	tried	10.966658097668718	
+18	sentence	3		0.0	
+18	sentence	4	, but did not	24.280248783727554	
+18	sentence	5	happen	10.85246918473245	
+18	sentence	6	.	6.403912278927973	
+19	sentence	1	The athlete	15.125420109185741	
+19	sentence	2	tried	10.966658097668718	
+19	sentence	3		0.0	
+19	sentence	4	, but did not	24.280248783727554	
+19	sentence	5	buy	11.147982158195791	
+19	sentence	6	.	6.604431667083146	
+20	sentence	1	The athlete	15.125420109185741	
+20	sentence	2	tried	10.966658097668718	
+20	sentence	3		0.0	
+20	sentence	4	, but did not	24.280248783727554	
+20	sentence	5	save	10.293715438274875	
+20	sentence	6	.	7.793693073660675	
+21	sentence	1	The athlete	15.125420109185741	
+21	sentence	2	tried	10.966658097668718	
+21	sentence	3		0.0	
+21	sentence	4	, but did not	24.280248783727554	
+21	sentence	5	lose	7.884527430540376	
+21	sentence	6	.	6.667094577820916	
+22	sentence	1	The athlete	15.125420109185741	
+22	sentence	2	tried	10.966658097668718	
+22	sentence	3		0.0	
+22	sentence	4	, but did not	24.280248783727554	
+22	sentence	5	follow	8.053703324541104	
+22	sentence	6	.	9.822119747552158	
+23	sentence	1	The athlete	15.125420109185741	
+23	sentence	2	tried	10.966658097668718	
+23	sentence	3		0.0	
+23	sentence	4	, but did not	24.280248783727554	
+23	sentence	5	expect	10.700618135049039	
+23	sentence	6	.	8.822543510056049	
+24	sentence	1	The athlete	15.125420109185741	
+24	sentence	2	tried	10.966658097668718	
+24	sentence	3		0.0	
+24	sentence	4	, but did not	24.280248783727554	
+24	sentence	5	realize	7.851396692678164	
+24	sentence	6	.	8.115589561627576	
+25	sentence	1	The athlete	15.125420109185741	
+25	sentence	2	tried	10.966658097668718	
+25	sentence	3		0.0	
+25	sentence	4	, but did not	24.280248783727554	
+25	sentence	5	slow	13.705058047407219	
+25	sentence	6	.	10.914961488680564	
+26	sentence	1	The athlete	15.125420109185741	
+26	sentence	2	tried	10.966658097668718	
+26	sentence	3		0.0	
+26	sentence	4	, but did not	24.280248783727554	
+26	sentence	5	allow	9.886548576148986	
+26	sentence	6	.	9.461991516298454	
+27	sentence	1	The athlete	15.125420109185741	
+27	sentence	2	tried	10.966658097668718	
+27	sentence	3		0.0	
+27	sentence	4	, but did not	24.280248783727554	
+27	sentence	5	consider	10.955955961270828	
+27	sentence	6	.	8.141467447137602	
+28	sentence	1	The athlete	15.125420109185741	
+28	sentence	2	tried	10.966658097668718	
+28	sentence	3		0.0	
+28	sentence	4	, but did not	24.280248783727554	
+28	sentence	5	apologize	14.569407078252317	
+28	sentence	6	.	4.68391103592661	
+29	sentence	1	The athlete	15.125420109185741	
+29	sentence	2	tried	10.966658097668718	
+29	sentence	3		0.0	
+29	sentence	4	, but did not	24.280248783727554	
+29	sentence	5	recognize	11.602103723660244	
+29	sentence	6	.	8.174931143411884	
+30	sentence	1	The athlete	15.125420109185741	
+30	sentence	2	tried	10.966658097668718	
+30	sentence	3		0.0	
+30	sentence	4	, but did not	24.280248783727554	
+30	sentence	5	settle	13.413441512881827	
+30	sentence	6	.	5.865978064253246	
+31	sentence	1	The athlete	15.125420109185741	
+31	sentence	2	tried	10.966658097668718	
+31	sentence	3		0.0	
+31	sentence	4	, but did not	24.280248783727554	
+31	sentence	5	add	11.884320374420078	
+31	sentence	6	.	7.280149438531311	
+32	sentence	1	The athlete	15.125420109185741	
+32	sentence	2	tried	10.966658097668718	
+32	sentence	3		0.0	
+32	sentence	4	, but did not	24.280248783727554	
+32	sentence	5	assume	16.9808845190351	
+32	sentence	6	.	7.013645810684906	
+33	sentence	1	The athlete	15.125420109185741	
+33	sentence	2	tried	10.966658097668718	
+33	sentence	3		0.0	
+33	sentence	4	, but did not	24.280248783727554	
+33	sentence	5	appear	9.88566802497657	
+33	sentence	6	.	9.73032710334185	
+34	sentence	1	The athlete	15.125420109185741	
+34	sentence	2	tried	10.966658097668718	
+34	sentence	3		0.0	
+34	sentence	4	, but did not	24.280248783727554	
+34	sentence	5	remove	11.600012414625752	
+34	sentence	6	.	7.479292277548978	
+35	sentence	1	The athlete	15.125420109185741	
+35	sentence	2	tried	10.966658097668718	
+35	sentence	3		0.0	
+35	sentence	4	, but did not	24.280248783727554	
+35	sentence	5	identify	13.303856919474459	
+35	sentence	6	.	8.524728032862956	
+36	sentence	1	The athlete	15.125420109185741	
+36	sentence	2	tried	10.966658097668718	
+36	sentence	3		0.0	
+36	sentence	4	, but did not	24.280248783727554	
+36	sentence	5	replace	13.7410725903591	
+36	sentence	6	.	7.191269492496015	
+37	sentence	1	The athlete	15.125420109185741	
+37	sentence	2	tried	10.966658097668718	
+37	sentence	3		0.0	
+37	sentence	4	, but did not	24.280248783727554	
+37	sentence	5	apply	10.166673917874329	
+37	sentence	6	.	5.685843091774238	
+38	sentence	1	The athlete	15.125420109185741	
+38	sentence	2	tried	10.966658097668718	
+38	sentence	3		0.0	
+38	sentence	4	, but did not	24.280248783727554	
+38	sentence	5	succeed	1.951263389911517	
+38	sentence	6	.	4.274048861696399	
+39	sentence	1	The athlete	15.125420109185741	
+39	sentence	2	tried	10.966658097668718	
+39	sentence	3		0.0	
+39	sentence	4	, but did not	24.280248783727554	
+39	sentence	5	develop	11.565274670873878	
+39	sentence	6	.	7.54762855197341	
+40	sentence	1	The athlete	15.125420109185741	
+40	sentence	2	tried	10.966658097668718	
+40	sentence	3		0.0	
+40	sentence	4	, but did not	24.280248783727554	
+40	sentence	5	approve	14.284438705078676	
+40	sentence	6	.	5.2909052280206	
+41	sentence	1	The athlete	15.125420109185741	
+41	sentence	2	tried	10.966658097668718	
+41	sentence	3		0.0	
+41	sentence	4	, but did not	24.280248783727554	
+41	sentence	5	expose	16.52009209050898	
+41	sentence	6	.	10.091243015136504	
+42	sentence	1	The athlete	15.125420109185741	
+42	sentence	2	tried	10.966658097668718	
+42	sentence	3		0.0	
+42	sentence	4	, but did not	24.280248783727554	
+42	sentence	5	establish	14.35574133626519	
+42	sentence	6	.	6.603894393281851	
+43	sentence	1	The athlete	15.125420109185741	
+43	sentence	2	tried	10.966658097668718	
+43	sentence	3		0.0	
+43	sentence	4	, but did not	24.280248783727554	
+43	sentence	5	reduce	12.992207845776568	
+43	sentence	6	.	9.559782227440254	
+44	sentence	1	The athlete	15.125420109185741	
+44	sentence	2	tried	10.966658097668718	
+44	sentence	3		0.0	
+44	sentence	4	, but did not	24.280248783727554	
+44	sentence	5	participate	9.791162870396851	
+44	sentence	6	.	6.4701730667217925	
+45	sentence	1	The athlete	15.125420109185741	
+45	sentence	2	tried	10.966658097668718	
+45	sentence	3		0.0	
+45	sentence	4	, but did not	24.280248783727554	
+45	sentence	5	organize	17.013244774621448	
+45	sentence	6	.	7.648698628301862	
+46	sentence	1	The athlete	15.125420109185741	
+46	sentence	2	tried	10.966658097668718	
+46	sentence	3		0.0	
+46	sentence	4	, but did not	24.280248783727554	
+46	sentence	5	obtain	10.322641544288793	
+46	sentence	6	.	8.79578025785938	
+47	sentence	1	The athlete	15.125420109185741	
+47	sentence	2	tried	10.966658097668718	
+47	sentence	3		0.0	
+47	sentence	4	, but did not	24.280248783727554	
+47	sentence	5	kitten	26.51309311202782	
+47	sentence	6	.	6.868420220643333	
+48	sentence	1	The athlete	15.125420109185741	
+48	sentence	2	tried	10.966658097668718	
+48	sentence	3		0.0	
+48	sentence	4	, but did not	24.280248783727554	
+48	sentence	5	acquire	14.0126785994913	
+48	sentence	6	.	6.277388082341222	
+49	sentence	1	The athlete	15.125420109185741	
+49	sentence	2	tried	10.966658097668718	
+49	sentence	3		0.0	
+49	sentence	4	, but did not	24.280248783727554	
+49	sentence	5	qualify	10.556229756551867	
+49	sentence	6	.	5.029984157021202	
+50	sentence	1	The athlete	15.125420109185741	
+50	sentence	2	tried	10.966658097668718	
+50	sentence	3		0.0	
+50	sentence	4	, but did not	24.280248783727554	
+50	sentence	5	criticize	18.304991330778726	
+50	sentence	6	.	8.536310720433265	
+51	sentence	1	The athlete	15.125420109185741	
+51	sentence	2	tried	10.966658097668718	
+51	sentence	3		0.0	
+51	sentence	4	, but did not	24.280248783727554	
+51	sentence	5	rave	20.658484476857815	
+51	sentence	6	.	7.556844070337243	
+52	sentence	1	The athlete	15.125420109185741	
+52	sentence	2	tried	10.966658097668718	
+52	sentence	3		0.0	
+52	sentence	4	, but did not	24.280248783727554	
+52	sentence	5	enlighten	19.950416930016093	
+52	sentence	6	.	9.254175936163076	
+53	sentence	1	The athlete	15.125420109185741	
+53	sentence	2	tried	10.966658097668718	
+53	sentence	3		0.0	
+53	sentence	4	, but did not	24.280248783727554	
+53	sentence	5	disclose	14.523926610196948	
+53	sentence	6	.	6.98352408128219	
+54	sentence	1	The athlete	15.125420109185741	
+54	sentence	2	tried	10.966658097668718	
+54	sentence	3		0.0	
+54	sentence	4	, but did not	24.280248783727554	
+54	sentence	5	reopen	17.01075721755937	
+54	sentence	6	.	7.890491100941695	
+55	sentence	1	The athlete	15.125420109185741	
+55	sentence	2	tried	10.966658097668718	
+55	sentence	3		0.0	
+55	sentence	4	, but did not	24.280248783727554	
+55	sentence	5	stabilize	13.40857646765422	
+55	sentence	6	.	5.428955013937573	
+56	sentence	1	The athlete	15.125420109185741	
+56	sentence	2	tried	10.966658097668718	
+56	sentence	3		0.0	
+56	sentence	4	, but did not	24.280248783727554	
+56	sentence	5	soar	18.469192110655296	
+56	sentence	6	.	8.719256233392672	
+57	sentence	1	The athlete	15.125420109185741	
+57	sentence	2	tried	10.966658097668718	
+57	sentence	3		0.0	
+57	sentence	4	, but did not	24.280248783727554	
+57	sentence	5	authorize	17.019056412359404	
+57	sentence	6	.	7.792327531412824	
+58	sentence	1	The athlete	15.125420109185741	
+58	sentence	2	tried	10.966658097668718	
+58	sentence	3		0.0	
+58	sentence	4	, but did not	24.280248783727554	
+58	sentence	5	sympathize	22.78732025475482	
+58	sentence	6	.	6.498286726693035	
+59	sentence	1	The athlete	15.125420109185741	
+59	sentence	2	tried	10.966658097668718	
+59	sentence	3		0.0	
+59	sentence	4	, but did not	24.280248783727554	
+59	sentence	5	sharpen	18.794014640568314	
+59	sentence	6	.	7.815715796068959	
+60	sentence	1	The athlete	15.125420109185741	
+60	sentence	2	tried	10.966658097668718	
+60	sentence	3		0.0	
+60	sentence	4	, but did not	24.280248783727554	
+60	sentence	5	specialize	19.14809706458925	
+60	sentence	6	.	7.230246264626355	
+61	sentence	1	The athlete	15.125420109185741	
+61	sentence	2	tried	10.966658097668718	
+61	sentence	3		0.0	
+61	sentence	4	, but did not	24.280248783727554	
+61	sentence	5	minimize	19.075385551526868	
+61	sentence	6	.	6.881775705378735	
+62	sentence	1	The athlete	15.125420109185741	
+62	sentence	2	tried	10.966658097668718	
+62	sentence	3		0.0	
+62	sentence	4	, but did not	24.280248783727554	
+62	sentence	5	socialize	18.9994226204586	
+62	sentence	6	.	6.741818975828996	
+63	sentence	1	The athlete	15.125420109185741	
+63	sentence	2	tried	10.966658097668718	
+63	sentence	3		0.0	
+63	sentence	4	, but did not	24.280248783727554	
+63	sentence	5	utilize	13.913638606373635	
+63	sentence	6	.	6.337229101743635	
+64	sentence	1	The athlete	15.125420109185741	
+64	sentence	2	tried	10.966658097668718	
+64	sentence	3		0.0	
+64	sentence	4	, but did not	24.280248783727554	
+64	sentence	5	rectify	16.12162459456494	
+64	sentence	6	.	6.902302866655117	
+65	sentence	1	The athlete	15.125420109185741	
+65	sentence	2	tried	10.966658097668718	
+65	sentence	3		0.0	
+65	sentence	4	, but did not	24.280248783727554	
+65	sentence	5	terrorize	22.296525538777008	
+65	sentence	6	.	8.655983816140246	
+66	sentence	1	The athlete	15.125420109185741	
+66	sentence	2	tried	10.966658097668718	
+66	sentence	3		0.0	
+66	sentence	4	, but did not	24.280248783727554	
+66	sentence	5	enslave	22.617921335533513	
+66	sentence	6	.	8.278531428499829	
+67	sentence	1	The athlete	15.125420109185741	
+67	sentence	2	tried	10.966658097668718	
+67	sentence	3		0.0	
+67	sentence	4	, but did not	24.280248783727554	
+67	sentence	5	finalize	12.878070914596524	
+67	sentence	6	.	6.3147550968594865	
+68	sentence	1	The athlete	15.125420109185741	
+68	sentence	2	tried	10.966658097668718	
+68	sentence	3		0.0	
+68	sentence	4	, but did not	24.280248783727554	
+68	sentence	5	maximize	16.599209613350702	
+68	sentence	6	.	6.567335009292038	
+69	sentence	1	The athlete	15.125420109185741	
+69	sentence	2	tried	10.966658097668718	
+69	sentence	3		0.0	
+69	sentence	4	, but did not	24.280248783727554	
+69	sentence	5	summarize	20.866800870472503	
+69	sentence	6	.	6.409257499716789	
+70	sentence	1	The athlete	15.125420109185741	
+70	sentence	2	tried	10.966658097668718	
+70	sentence	3		0.0	
+70	sentence	4	, but did not	24.280248783727554	
+70	sentence	5	repose	19.393486038423926	
+70	sentence	6	.	4.3620977875627265	
+71	sentence	1	The athlete	15.125420109185741	
+71	sentence	2	tried	10.966658097668718	
+71	sentence	3		0.0	
+71	sentence	4	, but did not	24.280248783727554	
+71	sentence	5	symbolize	22.337768483302106	
+71	sentence	6	.	7.856551356689825	
+72	sentence	1	The athlete	15.125420109185741	
+72	sentence	2	tried	10.966658097668718	
+72	sentence	3		0.0	
+72	sentence	4	, but did not	24.280248783727554	
+72	sentence	5	sterilize	20.588127094567188	
+72	sentence	6	.	6.962452078967876	
+73	sentence	1	The athlete	15.125420109185741	
+73	sentence	2	tried	10.966658097668718	
+73	sentence	3		0.0	
+73	sentence	4	, but did not	24.280248783727554	
+73	sentence	5	revolutionize	21.932034236657906	
+73	sentence	6	.	10.566755782715274	
+74	sentence	1	The athlete	15.125420109185741	
+74	sentence	2	tried	10.966658097668718	
+74	sentence	3		0.0	
+74	sentence	4	, but did not	24.280248783727554	
+74	sentence	5	synchronize	18.73318681259525	
+74	sentence	6	.	6.116776236422859	
+75	sentence	1	The athlete	15.125420109185741	
+75	sentence	2	tried	10.966658097668718	
+75	sentence	3		0.0	
+75	sentence	4	, but did not	24.280248783727554	
+75	sentence	5	fertilize	20.7367684642843	
+75	sentence	6	.	7.1951734986706	
+76	sentence	1	The athlete	15.125420109185741	
+76	sentence	2	tried	10.966658097668718	
+76	sentence	3		0.0	
+76	sentence	4	, but did not	24.280248783727554	
+76	sentence	5	rationalize	19.756549153614603	
+76	sentence	6	.	5.6153429316366505	
+77	sentence	1	The athlete	15.125420109185741	
+77	sentence	2	tried	10.966658097668718	
+77	sentence	3		0.0	
+77	sentence	4	, but did not	24.280248783727554	
+77	sentence	5	antagonize	19.220127354371563	
+77	sentence	6	.	8.07608514672439	
+78	sentence	1	The athlete	15.125420109185741	
+78	sentence	2	tried	10.966658097668718	
+78	sentence	3		0.0	
+78	sentence	4	, but did not	24.280248783727554	
+78	sentence	5	kindle	18.00445293826585	
+78	sentence	6	.	6.899458961540449	
+79	sentence	1	The athlete	15.125420109185741	
+79	sentence	2	tried	10.966658097668718	
+79	sentence	3		0.0	
+79	sentence	4	, but did not	24.280248783727554	
+79	sentence	5	familiarize	19.71985549417013	
+79	sentence	6	.	15.597813799408463	
+80	sentence	1	The athlete	15.125420109185741	
+80	sentence	2	tried	10.966658097668718	
+80	sentence	3		0.0	
+80	sentence	4	, but did not	24.280248783727554	
+80	sentence	5	synthesize	19.559375064494855	
+80	sentence	6	.	5.726553792990577	
+81	sentence	1	The athlete	15.125420109185741	
+81	sentence	2	tried	10.966658097668718	
+81	sentence	3		0.0	
+81	sentence	4	, but did not	24.280248783727554	
+81	sentence	5	reorganize	22.197806508281513	
+81	sentence	6	.	6.260676184191581	
+82	sentence	1	The athlete	15.125420109185741	
+82	sentence	2	tried	10.966658097668718	
+82	sentence	3		0.0	
+82	sentence	4	, but did not	24.280248783727554	
+82	sentence	5	ripen	24.509527562214465	
+82	sentence	6	.	6.352468140471287	
+83	sentence	1	The athlete	15.125420109185741	
+83	sentence	2	tried	10.966658097668718	
+83	sentence	3		0.0	
+83	sentence	4	, but did not	24.280248783727554	
+83	sentence	5	deepen	20.374396654856593	
+83	sentence	6	.	8.097747393496466	
+84	sentence	1	The athlete	15.125420109185741	
+84	sentence	2	tried	10.966658097668718	
+84	sentence	3		0.0	
+84	sentence	4	, but did not	24.280248783727554	
+84	sentence	5	destabilize	21.921627093501908	
+84	sentence	6	.	8.046305318831589	
+85	sentence	1	The athlete	15.125420109185741	
+85	sentence	2	tried	10.966658097668718	
+85	sentence	3		0.0	
+85	sentence	4	, but did not	24.280248783727554	
+85	sentence	5	enclose	20.708206672613098	
+85	sentence	6	.	5.353157788153411	
+86	sentence	1	The athlete	15.125420109185741	
+86	sentence	2	tried	10.966658097668718	
+86	sentence	3		0.0	
+86	sentence	4	, but did not	24.280248783727554	
+86	sentence	5	dampen	21.955286291054556	
+86	sentence	6	.	9.633991365426349	
+87	sentence	1	The athlete	15.125420109185741	
+87	sentence	2	tried	10.966658097668718	
+87	sentence	3		0.0	
+87	sentence	4	, but did not	24.280248783727554	
+87	sentence	5	subsidize	23.487486155442895	
+87	sentence	6	.	7.24264758961477	
+88	sentence	1	The athlete	15.125420109185741	
+88	sentence	2	tried	10.966658097668718	
+88	sentence	3		0.0	
+88	sentence	4	, but did not	24.280248783727554	
+88	sentence	5	idolize	22.011219133703097	
+88	sentence	6	.	8.163180600774332	
+89	sentence	1	The athlete	15.125420109185741	
+89	sentence	2	tried	10.966658097668718	
+89	sentence	3		0.0	
+89	sentence	4	, but did not	24.280248783727554	
+89	sentence	5	quantify	19.033097081471514	
+89	sentence	6	.	5.068511366502187	
+90	sentence	1	The athlete	15.125420109185741	
+90	sentence	2	tried	10.966658097668718	
+90	sentence	3		0.0	
+90	sentence	4	, but did not	24.280248783727554	
+90	sentence	5	engrave	21.214108827000288	
+90	sentence	6	.	6.977224700746388	
+91	sentence	1	The athlete	15.125420109185741	
+91	sentence	2	tried	10.966658097668718	
+91	sentence	3		0.0	
+91	sentence	4	, but did not	24.280248783727554	
+91	sentence	5	fraternize	23.825721040924655	
+91	sentence	6	.	6.522588563190553	
+92	sentence	1	The athlete	15.125420109185741	
+92	sentence	2	tried	10.966658097668718	
+92	sentence	3		0.0	
+92	sentence	4	, but did not	24.280248783727554	
+92	sentence	5	immobilize	18.951817005782182	
+92	sentence	6	.	6.554569769014397	
+93	sentence	1	The athlete	15.125420109185741	
+93	sentence	2	tried	10.966658097668718	
+93	sentence	3		0.0	
+93	sentence	4	, but did not	24.280248783727554	
+93	sentence	5	downsize	22.582272778380744	
+93	sentence	6	.	5.500205018432923	
+94	sentence	1	The athlete	15.125420109185741	
+94	sentence	2	tried	10.966658097668718	
+94	sentence	3		0.0	
+94	sentence	4	, but did not	24.280248783727554	
+94	sentence	5	theorize	22.455496885184456	
+94	sentence	6	.	5.652470546304914	
+95	sentence	1	The athlete	15.125420109185741	
+95	sentence	2	tried	10.966658097668718	
+95	sentence	3		0.0	
+95	sentence	4	, but did not	24.280248783727554	
+95	sentence	5	dramatize	22.12267855835764	
+95	sentence	6	.	6.441436141623824	
+96	sentence	1	The athlete	15.125420109185741	
+96	sentence	2	tried	10.966658097668718	
+96	sentence	3		0.0	
+96	sentence	4	, but did not	24.280248783727554	
+96	sentence	5	modernize	22.261269224337124	
+96	sentence	6	.	7.590341475211093	
+97	sentence	1	The athlete	15.125420109185741	
+97	sentence	2	tried	10.966658097668718	
+97	sentence	3		0.0	
+97	sentence	4	, but did not	24.280248783727554	
+97	sentence	5	revitalize	21.122791349356483	
+97	sentence	6	.	6.917402255470268	
+98	sentence	1	The athlete	15.125420109185741	
+98	sentence	2	tried	10.966658097668718	
+98	sentence	3		0.0	
+98	sentence	4	, but did not	24.280248783727554	
+98	sentence	5	traumatize	21.58108018343833	
+98	sentence	6	.	8.620066271403452	
+99	sentence	1	The athlete	15.125420109185741	
+99	sentence	2	tried	10.966658097668718	
+99	sentence	3		0.0	
+99	sentence	4	, but did not	24.280248783727554	
+99	sentence	5	immortalize	23.50255093274956	
+99	sentence	6	.	6.369341702312738	
+100	sentence	1	The athlete	15.125420109185741	
+100	sentence	2	tried	10.966658097668718	
+100	sentence	3		0.0	
+100	sentence	4	, but did not	24.280248783727554	
+100	sentence	5	agonize	17.731528230660327	
+100	sentence	6	.	4.465303200484291	
+101	sentence	1	The athlete	15.125420109185741	
+101	sentence	2	tried	10.966658097668718	
+101	sentence	3		0.0	
+101	sentence	4	, but did not	24.280248783727554	
+101	sentence	5	electrify	19.159889914958914	
+101	sentence	6	.	6.832592794815593	
+102	sentence	1	The athlete	15.125420109185741	
+102	sentence	2	tried	10.966658097668718	
+102	sentence	3		0.0	
+102	sentence	4	, but did not	24.280248783727554	
+102	sentence	5	demoralize	20.538077197963215	
+102	sentence	6	.	8.813786153474114	
+103	sentence	1	The athlete	15.125420109185741	
+103	sentence	2	tried	10.966658097668718	
+103	sentence	3		0.0	
+103	sentence	4	, but did not	24.280248783727554	
+103	sentence	5	sanitize	22.253967120453293	
+103	sentence	6	.	7.088827682544281	
+104	sentence	1	The athlete	15.125420109185741	
+104	sentence	2	tried	10.966658097668718	
+104	sentence	3		0.0	
+104	sentence	4	, but did not	24.280248783727554	
+104	sentence	5	anesthetize	23.48170607652137	
+104	sentence	6	.	5.5390706897708055	
+105	sentence	1	The athlete	15.125420109185741	
+105	sentence	2	tried	10.966658097668718	
+105	sentence	3		0.0	
+105	sentence	4	, but did not	24.280248783727554	
+105	sentence	5	trivialize	22.281319950674952	
+105	sentence	6	.	7.472564316247225	
+106	sentence	1	The athlete	15.125420109185741	
+106	sentence	2	tried	10.966658097668718	
+106	sentence	3		0.0	
+106	sentence	4	, but did not	24.280248783727554	
+106	sentence	5	romanticize	24.117737561413062	
+106	sentence	6	.	7.518254603136645	
+107	sentence	1	The athlete	15.125420109185741	
+107	sentence	2	tried	10.966658097668718	
+107	sentence	3		0.0	
+107	sentence	4	, but did not	24.280248783727554	
+107	sentence	5	equalize	19.142475639663147	
+107	sentence	6	.	5.725243973121606	
+108	sentence	1	The athlete	15.125420109185741	
+108	sentence	2	tried	10.966658097668718	
+108	sentence	3		0.0	
+108	sentence	4	, but did not	24.280248783727554	
+108	sentence	5	demonize	23.25913840503643	
+108	sentence	6	.	8.264064935839853	
+109	sentence	1	The athlete	15.125420109185741	
+109	sentence	2	tried	10.966658097668718	
+109	sentence	3		0.0	
+109	sentence	4	, but did not	24.280248783727554	
+109	sentence	5	alphabetize	31.138939709335432	
+109	sentence	6	.	5.673776101059101	
+110	sentence	1	The athlete	15.125420109185741	
+110	sentence	2	tried	10.966658097668718	
+110	sentence	3		0.0	
+110	sentence	4	, but did not	24.280248783727554	
+110	sentence	5	formalize	20.568557328461413	
+110	sentence	6	.	6.977410442009319	
+111	sentence	1	The athlete	15.125420109185741	
+111	sentence	2	tried	10.966658097668718	
+111	sentence	3		0.0	
+111	sentence	4	, but did not	24.280248783727554	
+111	sentence	5	optimize	16.831366929958595	
+111	sentence	6	.	5.300221184252537	
+112	sentence	1	The athlete	15.125420109185741	
+112	sentence	2	tried	10.966658097668718	
+112	sentence	3		0.0	
+112	sentence	4	, but did not	24.280248783727554	
+112	sentence	5	internalize	17.76783385424879	
+112	sentence	6	.	5.869690825720072	
+113	sentence	1	The athlete	15.125420109185741	
+113	sentence	2	tried	10.966658097668718	
+113	sentence	3		0.0	
+113	sentence	4	, but did not	24.280248783727554	
+113	sentence	5	idealize	20.631709787814863	
+113	sentence	6	.	6.465866621144188	
+114	sentence	1	The athlete	15.125420109185741	
+114	sentence	2	tried	10.966658097668718	
+114	sentence	3		0.0	
+114	sentence	4	, but did not	24.280248783727554	
+114	sentence	5	sodomize	22.337996303882694	
+114	sentence	6	.	9.730804527180643	
+115	sentence	1	The athlete	15.125420109185741	
+115	sentence	2	tried	10.966658097668718	
+115	sentence	3		0.0	
+115	sentence	4	, but did not	24.280248783727554	
+115	sentence	5	digitize	23.035617111250286	
+115	sentence	6	.	6.492416614853785	
+116	sentence	1	The athlete	15.125420109185741	
+116	sentence	2	tried	10.966658097668718	
+116	sentence	3		0.0	
+116	sentence	4	, but did not	24.280248783727554	
+116	sentence	5	galvanize	21.210113326055446	
+116	sentence	6	.	7.927401329539267	
+117	sentence	1	The athlete	15.125420109185741	
+117	sentence	2	tried	10.966658097668718	
+117	sentence	3		0.0	
+117	sentence	4	, but did not	24.280248783727554	
+117	sentence	5	initialize	21.08755504939759	
+117	sentence	6	.	4.746990832610071	
+118	sentence	1	The athlete	15.125420109185741	
+118	sentence	2	tried	10.966658097668718	
+118	sentence	3		0.0	
+118	sentence	4	, but did not	24.280248783727554	
+118	sentence	5	exemplify	21.624694602110633	
+118	sentence	6	.	6.354523677114399	
+119	sentence	1	The athlete	15.125420109185741	
+119	sentence	2	tried	10.966658097668718	
+119	sentence	3		0.0	
+119	sentence	4	, but did not	24.280248783727554	
+119	sentence	5	depressurize	27.958153795777232	
+119	sentence	6	.	6.01185168492327	
+120	sentence	1	The athlete	15.125420109185741	
+120	sentence	2	tried	10.966658097668718	
+120	sentence	3		0.0	
+120	sentence	4	, but did not	24.280248783727554	
+120	sentence	5	itemize	18.88200232549527	
+120	sentence	6	.	5.455554538650619	
+121	sentence	1	The athlete	15.125420109185741	
+121	sentence	2	tried	10.966658097668718	
+121	sentence	3		0.0	
+121	sentence	4	, but did not	24.280248783727554	
+121	sentence	5	dehumanize	26.217258659994357	
+121	sentence	6	.	7.97275315457179	
+122	sentence	1	The athlete	15.125420109185741	
+122	sentence	2	tried	10.966658097668718	
+122	sentence	3		0.0	
+122	sentence	4	, but did not	24.280248783727554	
+122	sentence	5	mollify	25.402463785762123	
+122	sentence	6	.	7.868447740615307	
+123	sentence	1	The athlete	15.125420109185741	
+123	sentence	2	tried	10.966658097668718	
+123	sentence	3		0.0	
+123	sentence	4	, but did not	24.280248783727554	
+123	sentence	5	immunize	21.98195414662457	
+123	sentence	6	.	7.195033160827497	
+124	sentence	1	The athlete	15.125420109185741	
+124	sentence	2	tried	10.966658097668718	
+124	sentence	3		0.0	
+124	sentence	4	, but did not	24.280248783727554	
+124	sentence	5	oxidize	21.093048739584223	
+124	sentence	6	.	6.027747009446614	
+125	sentence	1	The athlete	15.125420109185741	
+125	sentence	2	tried	10.966658097668718	
+125	sentence	3		0.0	
+125	sentence	4	, but did not	24.280248783727554	
+125	sentence	5	dematerialize	22.9690327595967	
+125	sentence	6	.	4.471029534827419	
+126	sentence	1	The athlete	15.125420109185741	
+126	sentence	2	tried	10.966658097668718	
+126	sentence	3		0.0	
+126	sentence	4	, but did not	24.280248783727554	
+126	sentence	5	ostracize	23.89269331691425	
+126	sentence	6	.	8.879672707019656	
+127	sentence	1	The athlete	15.125420109185741	
+127	sentence	2	tried	10.966658097668718	
+127	sentence	3		0.0	
+127	sentence	4	, but did not	24.280248783727554	
+127	sentence	5	overdramatize	25.62309527656365	
+127	sentence	6	.	5.42387155074337	
+128	sentence	1	The athlete	15.125420109185741	
+128	sentence	2	tried	10.966658097668718	
+128	sentence	3		0.0	
+128	sentence	4	, but did not	24.280248783727554	
+128	sentence	5	satirize	27.831142135864447	
+128	sentence	6	.	7.839300120947078	
+129	sentence	1	The athlete	15.125420109185741	
+129	sentence	2	tried	10.966658097668718	
+129	sentence	3		0.0	
+129	sentence	4	, but did not	24.280248783727554	
+129	sentence	5	amortize	19.833507756742215	
+129	sentence	6	.	5.421821173579784	
+130	sentence	1	The athlete	15.125420109185741	
+130	sentence	2	tried	10.966658097668718	
+130	sentence	3		0.0	
+130	sentence	4	, but did not	24.280248783727554	
+130	sentence	5	tyrannize	26.104294628995365	
+130	sentence	6	.	6.364156769354526	
+131	sentence	1	The athlete	15.125420109185741	
+131	sentence	2	tried	10.966658097668718	
+131	sentence	3		0.0	
+131	sentence	4	, but did not	24.280248783727554	
+131	sentence	5	eulogize	21.674593481823774	
+131	sentence	6	.	6.930263118101789	
+132	sentence	1	The athlete	15.125420109185741	
+132	sentence	2	tried	10.966658097668718	
+132	sentence	3		0.0	
+132	sentence	4	, but did not	24.280248783727554	
+132	sentence	5	resize	20.1222067990762	
+132	sentence	6	.	5.213032171640524	
+133	sentence	1	The athlete	15.125420109185741	
+133	sentence	2	tried	10.966658097668718	
+133	sentence	3		0.0	
+133	sentence	4	, but did not	24.280248783727554	
+133	sentence	5	editorialize	25.883096380116832	
+133	sentence	6	.	5.172967781226127	
+134	sentence	1	The athlete	15.125420109185741	
+134	sentence	2	tried	10.966658097668718	
+134	sentence	3		0.0	
+134	sentence	4	, but did not	24.280248783727554	
+134	sentence	5	acclimatize	17.507289298283215	
+134	sentence	6	.	6.0430176929820245	
+135	sentence	1	The athlete	15.125420109185741	
+135	sentence	2	tried	10.966658097668718	
+135	sentence	3		0.0	
+135	sentence	4	, but did not	24.280248783727554	
+135	sentence	5	desensitize	28.14086982140232	
+135	sentence	6	.	6.679929987020109	
+136	sentence	1	The athlete	15.125420109185741	
+136	sentence	2	tried	10.966658097668718	
+136	sentence	3		0.0	
+136	sentence	4	, but did not	24.280248783727554	
+136	sentence	5	standardize	20.66250861291403	
+136	sentence	6	.	6.576754155114493	
+137	sentence	1	The athlete	15.125420109185741	
+137	sentence	2	tried	10.966658097668718	
+137	sentence	3		0.0	
+137	sentence	4	, but did not	24.280248783727554	
+137	sentence	5	stigmatize	25.582431204143525	
+137	sentence	6	.	8.045247969494085	
+138	sentence	1	The athlete	15.125420109185741	
+138	sentence	2	tried	10.966658097668718	
+138	sentence	3		0.0	
+138	sentence	4	, but did not	24.280248783727554	
+138	sentence	5	actualize	19.975302314396902	
+138	sentence	6	.	6.131573623703095	
+139	sentence	1	The athlete	15.125420109185741	
+139	sentence	2	tried	10.966658097668718	
+139	sentence	3		0.0	
+139	sentence	4	, but did not	24.280248783727554	
+139	sentence	5	industrialize	23.474781732530165	
+139	sentence	6	.	5.544523915664364	
+140	sentence	1	The athlete	15.125420109185741	
+140	sentence	2	tried	10.966658097668718	
+140	sentence	3		0.0	
+140	sentence	4	, but did not	24.280248783727554	
+140	sentence	5	sexualize	24.923351012841998	
+140	sentence	6	.	8.965154275873903	
+141	sentence	1	The athlete	15.125420109185741	
+141	sentence	2	tried	10.966658097668718	
+141	sentence	3		0.0	
+141	sentence	4	, but did not	24.280248783727554	
+141	sentence	5	demagnetize	32.34116972567525	
+141	sentence	6	.	5.455384619791566	
+142	sentence	1	The athlete	15.125420109185741	
+142	sentence	2	tried	10.966658097668718	
+142	sentence	3		0.0	
+142	sentence	4	, but did not	24.280248783727554	
+142	sentence	5	solemnize	25.402908124438458	
+142	sentence	6	.	6.0416514628035705	
+143	sentence	1	The athlete	15.125420109185741	
+143	sentence	2	tried	10.966658097668718	
+143	sentence	3		0.0	
+143	sentence	4	, but did not	24.280248783727554	
+143	sentence	5	atomize	21.877029992834863	
+143	sentence	6	.	4.850321792866766	
+144	sentence	1	The athlete	15.125420109185741	
+144	sentence	2	tried	10.966658097668718	
+144	sentence	3		0.0	
+144	sentence	4	, but did not	24.280248783727554	
+144	sentence	5	ionize	21.412954351010278	
+144	sentence	6	.	5.658897194002355	
+145	sentence	1	The athlete	15.125420109185741	
+145	sentence	2	tried	10.966658097668718	
+145	sentence	3		0.0	
+145	sentence	4	, but did not	24.280248783727554	
+145	sentence	5	radicalize	21.153915157172285	
+145	sentence	6	.	7.5281511727978945	
+146	sentence	1	The athlete	15.125420109185741	
+146	sentence	2	tried	10.966658097668718	
+146	sentence	3		0.0	
+146	sentence	4	, but did not	24.280248783727554	
+146	sentence	5	reunify	25.521781672801577	
+146	sentence	6	.	7.822859267455197	
+147	sentence	1	The athlete	15.125420109185741	
+147	sentence	2	tried	10.966658097668718	
+147	sentence	3		0.0	
+147	sentence	4	, but did not	24.280248783727554	
+147	sentence	5	demobilize	26.932772915882534	
+147	sentence	6	.	4.316447400648306	
+148	sentence	1	The athlete	15.125420109185741	
+148	sentence	2	tried	10.966658097668718	
+148	sentence	3		0.0	
+148	sentence	4	, but did not	24.280248783727554	
+148	sentence	5	democratize	26.86799139386445	
+148	sentence	6	.	7.329826283267732	
+149	sentence	1	The athlete	15.125420109185741	
+149	sentence	2	tried	10.966658097668718	
+149	sentence	3		0.0	
+149	sentence	4	, but did not	24.280248783727554	
+149	sentence	5	reclassify	21.498939393700468	
+149	sentence	6	.	5.515140335799151	
+150	sentence	1	The athlete	15.125420109185741	
+150	sentence	2	tried	10.966658097668718	
+150	sentence	3		0.0	
+150	sentence	4	, but did not	24.280248783727554	
+150	sentence	5	rhapsodize	28.200439737699742	
+150	sentence	6	.	5.088033117201625	
+151	sentence	1	The athlete	15.125420109185741	
+151	sentence	2	tried	10.966658097668718	
+151	sentence	3		0.0	
+151	sentence	4	, but did not	24.280248783727554	
+151	sentence	5	serialize	23.478184925225438	
+151	sentence	6	.	4.676851836039296	
+152	sentence	1	The athlete	15.125420109185741	
+152	sentence	2	tried	10.966658097668718	
+152	sentence	3		0.0	
+152	sentence	4	, but did not	24.280248783727554	
+152	sentence	5	disorganize	25.755626139214435	
+152	sentence	6	.	5.849178110986363	
+153	sentence	1	The athlete	15.125420109185741	
+153	sentence	2	tried	10.966658097668718	
+153	sentence	3		0.0	
+153	sentence	4	, but did not	24.280248783727554	
+153	sentence	5	sermonize	24.699841231144546	
+153	sentence	6	.	4.817943307119428	
+154	sentence	1	The athlete	15.125420109185741	
+154	sentence	2	tried	10.966658097668718	
+154	sentence	3		0.0	
+154	sentence	4	, but did not	24.280248783727554	
+154	sentence	5	deodorize	27.070864192614035	
+154	sentence	6	.	6.1695838533355865	
+155	sentence	1	The athlete	15.125420109185741	
+155	sentence	2	tried	10.966658097668718	
+155	sentence	3		0.0	
+155	sentence	4	, but did not	24.280248783727554	
+155	sentence	5	emulsify	25.747638161800893	
+155	sentence	6	.	5.77869686894037	
+156	sentence	1	The athlete	15.125420109185741	
+156	sentence	2	tried	10.966658097668718	
+156	sentence	3		0.0	
+156	sentence	4	, but did not	24.280248783727554	
+156	sentence	5	overemphasize	22.781271912583435	
+156	sentence	6	.	6.250686055968263	
+157	sentence	1	The athlete	15.125420109185741	
+157	sentence	2	tried	10.966658097668718	
+157	sentence	3		0.0	
+157	sentence	4	, but did not	24.280248783727554	
+157	sentence	5	aerosolize	23.601300656773773	
+157	sentence	6	.	5.277163126286059	
+158	sentence	1	The athlete	15.125420109185741	
+158	sentence	2	tried	10.966658097668718	
+158	sentence	3		0.0	
+158	sentence	4	, but did not	24.280248783727554	
+158	sentence	5	apostatize	24.412078419366193	
+158	sentence	6	.	5.307821097594164	
+159	sentence	1	The athlete	15.125420109185741	
+159	sentence	2	tried	10.966658097668718	
+159	sentence	3		0.0	
+159	sentence	4	, but did not	24.280248783727554	
+159	sentence	5	depolarize	24.434372154185493	
+159	sentence	6	.	5.677694209811057	
+160	sentence	1	The athlete	15.125420109185741	
+160	sentence	2	tried	10.966658097668718	
+160	sentence	3		0.0	
+160	sentence	4	, but did not	24.280248783727554	
+160	sentence	5	evangelize	25.23589369764486	
+160	sentence	6	.	6.289789407329637	
+161	sentence	1	The athlete	15.125420109185741	
+161	sentence	2	tried	10.966658097668718	
+161	sentence	3		0.0	
+161	sentence	4	, but did not	24.280248783727554	
+161	sentence	5	anatomize	30.004843457848658	
+161	sentence	6	.	5.90081762173443	
+162	sentence	1	The athlete	15.125420109185741	
+162	sentence	2	tried	10.966658097668718	
+162	sentence	3		0.0	
+162	sentence	4	, but did not	24.280248783727554	
+162	sentence	5	anthropomorphize	25.87822555197259	
+162	sentence	6	.	7.554523680411801	
+163	sentence	1	The athlete	15.125420109185741	
+163	sentence	2	tried	10.966658097668718	
+163	sentence	3		0.0	
+163	sentence	4	, but did not	24.280248783727554	
+163	sentence	5	federalize	27.070429549459636	
+163	sentence	6	.	6.381121138035634	
+164	sentence	1	The athlete	15.125420109185741	
+164	sentence	2	tried	10.966658097668718	
+164	sentence	3		0.0	
+164	sentence	4	, but did not	24.280248783727554	
+164	sentence	5	feminize	25.33412448014347	
+164	sentence	6	.	6.417597282422429	
+165	sentence	1	The athlete	15.125420109185741	
+165	sentence	2	tried	10.966658097668718	
+165	sentence	3		0.0	
+165	sentence	4	, but did not	24.280248783727554	
+165	sentence	5	fossilize	23.929244457829352	
+165	sentence	6	.	5.976409500233462	
+166	sentence	1	The athlete	15.125420109185741	
+166	sentence	2	tried	10.966658097668718	
+166	sentence	3		0.0	
+166	sentence	4	, but did not	24.280248783727554	
+166	sentence	5	regularize	22.456947902809784	
+166	sentence	6	.	5.7531402470221575	
+167	sentence	1	The athlete	15.125420109185741	
+167	sentence	2	tried	10.966658097668718	
+167	sentence	3		0.0	
+167	sentence	4	, but did not	24.280248783727554	
+167	sentence	5	ritualize	24.481268404920595	
+167	sentence	6	.	5.484063758718845	
+168	sentence	1	The athlete	15.125420109185741	
+168	sentence	2	tried	10.966658097668718	
+168	sentence	3		0.0	
+168	sentence	4	, but did not	24.280248783727554	
+168	sentence	5	sentimentalize	29.715129653381087	
+168	sentence	6	.	7.331144358303944	
+169	sentence	1	The athlete	15.125420109185741	
+169	sentence	2	tried	10.966658097668718	
+169	sentence	3		0.0	
+169	sentence	4	, but did not	24.280248783727554	
+169	sentence	5	exteriorize	28.87825700079446	
+169	sentence	6	.	6.322716517733228	
+170	sentence	1	The athlete	15.125420109185741	
+170	sentence	2	tried	10.966658097668718	
+170	sentence	3		0.0	
+170	sentence	4	, but did not	24.280248783727554	
+170	sentence	5	fetishize	25.172677529468178	
+170	sentence	6	.	7.468663749725656	
+171	sentence	1	The athlete	15.125420109185741	
+171	sentence	2	tried	10.966658097668718	
+171	sentence	3		0.0	
+171	sentence	4	, but did not	24.280248783727554	
+171	sentence	5	fictionalize	28.243803284741787	
+171	sentence	6	.	8.477487838323961	
+172	sentence	1	The athlete	15.125420109185741	
+172	sentence	2	tried	10.966658097668718	
+172	sentence	3		0.0	
+172	sentence	4	, but did not	24.280248783727554	
+172	sentence	5	individualize	21.97049050329541	
+172	sentence	6	.	6.899177597923638	
+173	sentence	1	The athlete	15.125420109185741	
+173	sentence	2	tried	10.966658097668718	
+173	sentence	3		0.0	
+173	sentence	4	, but did not	24.280248783727554	
+173	sentence	5	internationalize	26.112661950422975	
+173	sentence	6	.	5.761147071315726	
+174	sentence	1	The athlete	15.125420109185741	
+174	sentence	2	tried	10.966658097668718	
+174	sentence	3		0.0	
+174	sentence	4	, but did not	24.280248783727554	
+174	sentence	5	alkalinize	28.680202967816033	
+174	sentence	6	.	6.054299066948022	
+175	sentence	1	The athlete	15.125420109185741	
+175	sentence	2	tried	10.966658097668718	
+175	sentence	3		0.0	
+175	sentence	4	, but did not	24.280248783727554	
+175	sentence	5	depersonalize	23.6600091465711	
+175	sentence	6	.	5.8315196203263735	
+176	sentence	1	The athlete	15.125420109185741	
+176	sentence	2	tried	10.966658097668718	
+176	sentence	3		0.0	
+176	sentence	4	, but did not	24.280248783727554	
+176	sentence	5	italicize	24.608521098518565	
+176	sentence	6	.	5.252671076976686	
+177	sentence	1	The athlete	15.125420109185741	
+177	sentence	2	tried	10.966658097668718	
+177	sentence	3		0.0	
+177	sentence	4	, but did not	24.280248783727554	
+177	sentence	5	randomize	22.3133403040497	
+177	sentence	6	.	6.1558328085032	
+178	sentence	1	The athlete	15.125420109185741	
+178	sentence	2	tried	10.966658097668718	
+178	sentence	3		0.0	
+178	sentence	4	, but did not	24.280248783727554	
+178	sentence	5	stylize	27.160139612754985	
+178	sentence	6	.	6.390282997812397	
+179	sentence	1	The athlete	15.125420109185741	
+179	sentence	2	tried	10.966658097668718	
+179	sentence	3		0.0	
+179	sentence	4	, but did not	24.280248783727554	
+179	sentence	5	temporize	27.243646175842386	
+179	sentence	6	.	5.285036148077256	
+180	sentence	1	The athlete	15.125420109185741	
+180	sentence	2	tried	10.966658097668718	
+180	sentence	3		0.0	
+180	sentence	4	, but did not	24.280248783727554	
+180	sentence	5	ramify	29.454142971000387	
+180	sentence	6	.	7.616245502084049	
+181	sentence	1	The athlete	15.125420109185741	
+181	sentence	2	tried	10.966658097668718	
+181	sentence	3		0.0	
+181	sentence	4	, but did not	24.280248783727554	
+181	sentence	5	reimpose	23.100286156614704	
+181	sentence	6	.	5.905645518709451	
+182	sentence	1	The athlete	15.125420109185741	
+182	sentence	2	tried	10.966658097668718	
+182	sentence	3		0.0	
+182	sentence	4	, but did not	24.280248783727554	
+182	sentence	5	sensitize	22.085757038024152	
+182	sentence	6	.	8.993563058074026	
+183	sentence	1	The athlete	15.125420109185741	
+183	sentence	2	tried	10.966658097668718	
+183	sentence	3		0.0	
+183	sentence	4	, but did not	24.280248783727554	
+183	sentence	5	systematize	23.221649605303522	
+183	sentence	6	.	5.270390449495081	
+184	sentence	1	The athlete	15.125420109185741	
+184	sentence	2	tried	10.966658097668718	
+184	sentence	3		0.0	
+184	sentence	4	, but did not	24.280248783727554	
+184	sentence	5	denationalize	30.700402695744216	
+184	sentence	6	.	6.834019562887151	
+185	sentence	1	The athlete	15.125420109185741	
+185	sentence	2	tried	10.966658097668718	
+185	sentence	3		0.0	
+185	sentence	4	, but did not	24.280248783727554	
+185	sentence	5	digitalize	25.60346724058598	
+185	sentence	6	.	6.731837102772918	
+186	sentence	1	The athlete	15.125420109185741	
+186	sentence	2	tried	10.966658097668718	
+186	sentence	3		0.0	
+186	sentence	4	, but did not	24.280248783727554	
+186	sentence	5	reify	25.099043501466568	
+186	sentence	6	.	5.695426996976219	
+187	sentence	1	The athlete	15.125420109185741	
+187	sentence	2	tried	10.966658097668718	
+187	sentence	3		0.0	
+187	sentence	4	, but did not	24.280248783727554	
+187	sentence	5	secularize	28.35923021479029	
+187	sentence	6	.	6.812911100250854	
+188	sentence	1	The athlete	15.125420109185741	
+188	sentence	2	tried	10.966658097668718	
+188	sentence	3		0.0	
+188	sentence	4	, but did not	24.280248783727554	
+188	sentence	5	spiritualize	25.688074707617215	
+188	sentence	6	.	5.756480150101913	
+189	sentence	1	The athlete	15.125420109185741	
+189	sentence	2	tried	10.966658097668718	
+189	sentence	3		0.0	
+189	sentence	4	, but did not	24.280248783727554	
+189	sentence	5	alkalize	25.25160463526865	
+189	sentence	6	.	5.530089411777448	
+190	sentence	1	The athlete	15.125420109185741	
+190	sentence	2	tried	10.966658097668718	
+190	sentence	3		0.0	
+190	sentence	4	, but did not	24.280248783727554	
+190	sentence	5	decentralize	25.69601843577575	
+190	sentence	6	.	7.214599283050856	
+191	sentence	1	The athlete	15.125420109185741	
+191	sentence	2	tried	10.966658097668718	
+191	sentence	3		0.0	
+191	sentence	4	, but did not	24.280248783727554	
+191	sentence	5	decolonize	29.651860654283848	
+191	sentence	6	.	6.529600639831531	
+192	sentence	1	The athlete	15.125420109185741	
+192	sentence	2	tried	10.966658097668718	
+192	sentence	3		0.0	
+192	sentence	4	, but did not	24.280248783727554	
+192	sentence	5	demilitarize	26.60364116196516	
+192	sentence	6	.	7.615671080030168	
+193	sentence	1	The athlete	15.125420109185741	
+193	sentence	2	tried	10.966658097668718	
+193	sentence	3		0.0	
+193	sentence	4	, but did not	24.280248783727554	
+193	sentence	5	desexualize	29.610183131097852	
+193	sentence	6	.	6.107216752757301	
+194	sentence	1	The athlete	15.125420109185741	
+194	sentence	2	tried	10.966658097668718	
+194	sentence	3		0.0	
+194	sentence	4	, but did not	24.280248783727554	
+194	sentence	5	desynchronize	26.73843787336757	
+194	sentence	6	.	5.154009101725615	
+195	sentence	1	The athlete	15.125420109185741	
+195	sentence	2	tried	10.966658097668718	
+195	sentence	3		0.0	
+195	sentence	4	, but did not	24.280248783727554	
+195	sentence	5	devitalize	37.45154162640178	
+195	sentence	6	.	6.5559518215967305	
+196	sentence	1	The athlete	15.125420109185741	
+196	sentence	2	tried	10.966658097668718	
+196	sentence	3		0.0	
+196	sentence	4	, but did not	24.280248783727554	
+196	sentence	5	eroticize	26.894911343753886	
+196	sentence	6	.	7.577510881526124	
+197	sentence	1	The athlete	15.125420109185741	
+197	sentence	2	tried	10.966658097668718	
+197	sentence	3		0.0	
+197	sentence	4	, but did not	24.280248783727554	
+197	sentence	5	officialize	23.278965381945486	
+197	sentence	6	.	6.711646339561624	
+198	sentence	1	The athlete	15.125420109185741	
+198	sentence	2	tried	10.966658097668718	
+198	sentence	3		0.0	
+198	sentence	4	, but did not	24.280248783727554	
+198	sentence	5	quantize	28.525994568060618	
+198	sentence	6	.	4.891169392273191	
+199	sentence	1	The athlete	15.125420109185741	
+199	sentence	2	tried	10.966658097668718	
+199	sentence	3		0.0	
+199	sentence	4	, but did not	24.280248783727554	
+199	sentence	5	reharmonize	38.48002625569877	
+199	sentence	6	.	5.259133841030809	
+200	sentence	1	The athlete	15.125420109185741	
+200	sentence	2	tried	10.966658097668718	
+200	sentence	3		0.0	
+200	sentence	4	, but did not	24.280248783727554	
+200	sentence	5	remilitarize	27.305445287592825	
+200	sentence	6	.	5.5667179327929075	
+201	sentence	1	The athlete	15.125420109185741	
+201	sentence	2	tried	10.966658097668718	
+201	sentence	3		0.0	
+201	sentence	4	, but did not	24.280248783727554	
+201	sentence	5	solarize	27.308298237920035	
+201	sentence	6	.	5.7686235011140345	
+202	sentence	1	The athlete	15.125420109185741	
+202	sentence	2	tried	10.966658097668718	
+202	sentence	3		0.0	
+202	sentence	4	, but did not	24.280248783727554	
+202	sentence	5	syncretize	30.70299735500212	
+202	sentence	6	.	4.690185650960689	
+203	sentence	1	The athlete	15.125420109185741	
+203	sentence	2	tried	10.966658097668718	
+203	sentence	3		0.0	
+203	sentence	4	, but did not	24.280248783727554	
+203	sentence	5	totalize	25.621605218876574	
+203	sentence	6	.	4.940372252823834	
+204	sentence	1	The athlete	15.125420109185741	
+204	sentence	2	tried	10.966658097668718	
+204	sentence	3		0.0	
+204	sentence	4	, but did not	24.280248783727554	
+204	sentence	5	alchemize	26.010734884545275	
+204	sentence	6	.	5.563305453034487	
+205	sentence	1	The athlete	15.125420109185741	
+205	sentence	2	tried	10.966658097668718	
+205	sentence	3		0.0	
+205	sentence	4	, but did not	24.280248783727554	
+205	sentence	5	aluminize	31.417057325594605	
+205	sentence	6	.	5.000601265086593	
+206	sentence	1	The athlete	15.125420109185741	
+206	sentence	2	tried	10.966658097668718	
+206	sentence	3		0.0	
+206	sentence	4	, but did not	24.280248783727554	
+206	sentence	5	analogize	25.78525070976917	
+206	sentence	6	.	6.582311258529172	
+207	sentence	1	The athlete	15.125420109185741	
+207	sentence	2	tried	10.966658097668718	
+207	sentence	3		0.0	
+207	sentence	4	, but did not	24.280248783727554	
+207	sentence	5	attitudinize	44.19601184378081	
+207	sentence	6	.	5.621472737278703	
+208	sentence	1	The athlete	15.125420109185741	
+208	sentence	2	tried	10.966658097668718	
+208	sentence	3		0.0	
+208	sentence	4	, but did not	24.280248783727554	
+208	sentence	5	deionize	27.285975749751298	
+208	sentence	6	.	5.45922430445473	
+209	sentence	1	The athlete	15.125420109185741	
+209	sentence	2	tried	10.966658097668718	
+209	sentence	3		0.0	
+209	sentence	4	, but did not	24.280248783727554	
+209	sentence	5	demythologize	31.30804733697268	
+209	sentence	6	.	5.698502390738948	
+210	sentence	1	The athlete	15.125420109185741	
+210	sentence	2	tried	10.966658097668718	
+210	sentence	3		0.0	
+210	sentence	4	, but did not	24.280248783727554	
+210	sentence	5	deoxidize	34.98229499821586	
+210	sentence	6	.	5.657172551979503	
+211	sentence	1	The athlete	15.125420109185741	
+211	sentence	2	tried	10.966658097668718	
+211	sentence	3		0.0	
+211	sentence	4	, but did not	24.280248783727554	
+211	sentence	5	dichotomize	29.03587303792178	
+211	sentence	6	.	5.80691784608575	
+212	sentence	1	The athlete	15.125420109185741	
+212	sentence	2	tried	10.966658097668718	
+212	sentence	3		0.0	
+212	sentence	4	, but did not	24.280248783727554	
+212	sentence	5	dogmatize	32.548504807781946	
+212	sentence	6	.	6.134055677320347	
+213	sentence	1	The athlete	15.125420109185741	
+213	sentence	2	tried	10.966658097668718	
+213	sentence	3		0.0	
+213	sentence	4	, but did not	24.280248783727554	
+213	sentence	5	factorize	33.864905657381854	
+213	sentence	6	.	5.229072649521196	
+214	sentence	1	The athlete	15.125420109185741	
+214	sentence	2	tried	10.966658097668718	
+214	sentence	3		0.0	
+214	sentence	4	, but did not	24.280248783727554	
+214	sentence	5	iodize	29.72798673239429	
+214	sentence	6	.	5.706054492903636	
+215	sentence	1	The athlete	15.125420109185741	
+215	sentence	2	tried	10.966658097668718	
+215	sentence	3		0.0	
+215	sentence	4	, but did not	24.280248783727554	
+215	sentence	5	overcapitalize	30.413547887868926	
+215	sentence	6	.	5.158180712904943	
+216	sentence	1	The athlete	15.125420109185741	
+216	sentence	2	tried	10.966658097668718	
+216	sentence	3		0.0	
+216	sentence	4	, but did not	24.280248783727554	
+216	sentence	5	overspecialize	28.219389487538557	
+216	sentence	6	.	6.235177348444058	
+217	sentence	1	The athlete	15.125420109185741	
+217	sentence	2	tried	10.966658097668718	
+217	sentence	3		0.0	
+217	sentence	4	, but did not	24.280248783727554	
+217	sentence	5	relativize	27.810031931903804	
+217	sentence	6	.	5.763308205306468	
+218	sentence	1	The athlete	15.125420109185741	
+218	sentence	2	tried	10.966658097668718	
+218	sentence	3		0.0	
+218	sentence	4	, but did not	24.280248783727554	
+218	sentence	5	schematize	30.3690888032792	
+218	sentence	6	.	5.328605888881539	
+219	sentence	1	The athlete	15.125420109185741	
+219	sentence	2	tried	10.966658097668718	
+219	sentence	3		0.0	
+219	sentence	4	, but did not	24.280248783727554	
+219	sentence	5	sensualize	26.913654980447323	
+219	sentence	6	.	8.088154201231339	
+220	sentence	1	The athlete	15.125420109185741	
+220	sentence	2	tried	10.966658097668718	
+220	sentence	3		0.0	
+220	sentence	4	, but did not	24.280248783727554	
+220	sentence	5	signalize	30.545958319668443	
+220	sentence	6	.	4.130526931794273	
+221	sentence	1	The athlete	15.125420109185741	
+221	sentence	2	tried	10.966658097668718	
+221	sentence	3		0.0	
+221	sentence	4	, but did not	24.280248783727554	
+221	sentence	5	singularize	29.21316913577866	
+221	sentence	6	.	5.799123592348648	
+222	sentence	1	The athlete	15.125420109185741	
+222	sentence	2	tried	10.966658097668718	
+222	sentence	3		0.0	
+222	sentence	4	, but did not	24.280248783727554	
+222	sentence	5	steepen	26.669696386319877	
+222	sentence	6	.	6.519642844346574	
+223	sentence	1	The athlete	15.125420109185741	
+223	sentence	2	tried	10.966658097668718	
+223	sentence	3		0.0	
+223	sentence	4	, but did not	24.280248783727554	
+223	sentence	5	subtilize	33.45934012571815	
+223	sentence	6	.	5.023065982907595	
+224	sentence	1	The athlete	15.125420109185741	
+224	sentence	2	tried	10.966658097668718	
+224	sentence	3		0.0	
+224	sentence	4	, but did not	24.280248783727554	
+224	sentence	5	syllogize	28.08236678201254	
+224	sentence	6	.	4.436436256502271	
+225	sentence	1	The athlete	15.125420109185741	
+225	sentence	2	tried	10.966658097668718	
+225	sentence	3		0.0	
+225	sentence	4	, but did not	24.280248783727554	
+225	sentence	5	loathe	20.197793518095704	
+225	sentence	6	.	5.801942044030988	
+226	sentence	1	The athlete	15.125420109185741	
+226	sentence	2	tried	10.966658097668718	
+226	sentence	3		0.0	
+226	sentence	4	, but did not	24.280248783727554	
+226	sentence	5	love	12.302406071083945	
+226	sentence	6	.	6.30648961065902	
+227	sentence	1	The athlete	15.125420109185741	
+227	sentence	2	tried	10.966658097668718	
+227	sentence	3		0.0	
+227	sentence	4	, but did not	24.280248783727554	
+227	sentence	5	will	14.104365990319282	
+227	sentence	6	.	5.2865747048718745	
+228	sentence	1	The athlete	15.125420109185741	
+228	sentence	2	tried	10.966658097668718	
+228	sentence	3		0.0	
+228	sentence	4	, but did not	24.280248783727554	
+228	sentence	5	have to	11.387719094192512	
+228	sentence	6	.	9.619244197080164	
+229	sentence	1	The athlete	15.125420109185741	
+229	sentence	2	tried	10.966658097668718	
+229	sentence	3		0.0	
+229	sentence	4	, but did not	24.280248783727554	
+229	sentence	5	win	4.987822266196883	
+229	sentence	6	.	5.794129904098195	
+230	sentence	1	The athlete	15.125420109185741	
+230	sentence	2	tried	10.966658097668718	
+230	sentence	3		0.0	
+230	sentence	4	, but did not	24.280248783727554	
+230	sentence	5	finish	5.107048894942223	
+230	sentence	6	.	6.452943844758357	

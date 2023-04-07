@@ -1,0 +1,1381 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	The manager	13.095507505190804	
+1	sentence	2	likes	13.173986628432521	
+1	sentence	3	spaghetti	18.241195398337073	
+1	sentence	4	, but does not	22.37716914967116	
+1	sentence	5	have	4.982665194428111	
+1	sentence	6	it.	8.311087400342856	
+2	sentence	1	The manager	13.095507505190804	
+2	sentence	2	likes	13.173986628432521	
+2	sentence	3	spaghetti	18.241195398337073	
+2	sentence	4	, but does not	22.37716914967116	
+2	sentence	5	know	4.8009634599997435	
+2	sentence	6	it.	7.491408111336961	
+3	sentence	1	The manager	13.095507505190804	
+3	sentence	2	likes	13.173986628432521	
+3	sentence	3	spaghetti	18.241195398337073	
+3	sentence	4	, but does not	22.37716914967116	
+3	sentence	5	get	8.166473724573054	
+3	sentence	6	it.	4.846532499120306	
+4	sentence	1	The manager	13.095507505190804	
+4	sentence	2	likes	13.173986628432521	
+4	sentence	3	spaghetti	18.241195398337073	
+4	sentence	4	, but does not	22.37716914967116	
+4	sentence	5	go	8.322353295870276	
+4	sentence	6	it.	17.000204362102426	
+5	sentence	1	The manager	13.095507505190804	
+5	sentence	2	likes	13.173986628432521	
+5	sentence	3	spaghetti	18.241195398337073	
+5	sentence	4	, but does not	22.37716914967116	
+5	sentence	5	come	10.383877686955005	
+5	sentence	6	it.	13.29932053309265	
+6	sentence	1	The manager	13.095507505190804	
+6	sentence	2	likes	13.173986628432521	
+6	sentence	3	spaghetti	18.241195398337073	
+6	sentence	4	, but does not	22.37716914967116	
+6	sentence	5	see	7.713694311715934	
+6	sentence	6	it.	6.586121362176386	
+7	sentence	1	The manager	13.095507505190804	
+7	sentence	2	likes	13.173986628432521	
+7	sentence	3	spaghetti	18.241195398337073	
+7	sentence	4	, but does not	22.37716914967116	
+7	sentence	5	let	9.097854713418439	
+7	sentence	6	it.	8.106757564575169	
+8	sentence	1	The manager	13.095507505190804	
+8	sentence	2	likes	13.173986628432521	
+8	sentence	3	spaghetti	18.241195398337073	
+8	sentence	4	, but does not	22.37716914967116	
+8	sentence	5	take	8.509118199540044	
+8	sentence	6	it.	7.281977270144681	
+9	sentence	1	The manager	13.095507505190804	
+9	sentence	2	likes	13.173986628432521	
+9	sentence	3	spaghetti	18.241195398337073	
+9	sentence	4	, but does not	22.37716914967116	
+9	sentence	5	say	8.65520163904412	
+9	sentence	6	it.	6.945124826893448	
+10	sentence	1	The manager	13.095507505190804	
+10	sentence	2	likes	13.173986628432521	
+10	sentence	3	spaghetti	18.241195398337073	
+10	sentence	4	, but does not	22.37716914967116	
+10	sentence	5	make	7.036176225878537	
+10	sentence	6	it.	5.8983627413760145	
+11	sentence	1	The manager	13.095507505190804	
+11	sentence	2	likes	13.173986628432521	
+11	sentence	3	spaghetti	18.241195398337073	
+11	sentence	4	, but does not	22.37716914967116	
+11	sentence	5	give	7.709775858998676	
+11	sentence	6	it.	8.321372650795055	
+12	sentence	1	The manager	13.095507505190804	
+12	sentence	2	likes	13.173986628432521	
+12	sentence	3	spaghetti	18.241195398337073	
+12	sentence	4	, but does not	22.37716914967116	
+12	sentence	5	find	8.435085859719036	
+12	sentence	6	it.	8.29867162881177	
+13	sentence	1	The manager	13.095507505190804	
+13	sentence	2	likes	13.173986628432521	
+13	sentence	3	spaghetti	18.241195398337073	
+13	sentence	4	, but does not	22.37716914967116	
+13	sentence	5	keep	10.082002731270947	
+13	sentence	6	it.	5.012021773017138	
+14	sentence	1	The manager	13.095507505190804	
+14	sentence	2	likes	13.173986628432521	
+14	sentence	3	spaghetti	18.241195398337073	
+14	sentence	4	, but does not	22.37716914967116	
+14	sentence	5	leave	10.925790892240094	
+14	sentence	6	it.	6.414804800120369	
+15	sentence	1	The manager	13.095507505190804	
+15	sentence	2	likes	13.173986628432521	
+15	sentence	3	spaghetti	18.241195398337073	
+15	sentence	4	, but does not	22.37716914967116	
+15	sentence	5	believe	6.5375200969384615	
+15	sentence	6	it.	8.832245567339172	
+16	sentence	1	The manager	13.095507505190804	
+16	sentence	2	likes	13.173986628432521	
+16	sentence	3	spaghetti	18.241195398337073	
+16	sentence	4	, but does not	22.37716914967116	
+16	sentence	5	remember	10.293268971313235	
+16	sentence	6	it.	5.498635418769823	
+17	sentence	1	The manager	13.095507505190804	
+17	sentence	2	likes	13.173986628432521	
+17	sentence	3	spaghetti	18.241195398337073	
+17	sentence	4	, but does not	22.37716914967116	
+17	sentence	5	run	12.09558111101754	
+17	sentence	6	it.	4.556538792888455	
+18	sentence	1	The manager	13.095507505190804	
+18	sentence	2	likes	13.173986628432521	
+18	sentence	3	spaghetti	18.241195398337073	
+18	sentence	4	, but does not	22.37716914967116	
+18	sentence	5	happen	13.458828422375126	
+18	sentence	6	it.	15.156910476524024	
+19	sentence	1	The manager	13.095507505190804	
+19	sentence	2	likes	13.173986628432521	
+19	sentence	3	spaghetti	18.241195398337073	
+19	sentence	4	, but does not	22.37716914967116	
+19	sentence	5	buy	8.406776139525812	
+19	sentence	6	it.	2.966347990966529	
+20	sentence	1	The manager	13.095507505190804	
+20	sentence	2	likes	13.173986628432521	
+20	sentence	3	spaghetti	18.241195398337073	
+20	sentence	4	, but does not	22.37716914967116	
+20	sentence	5	save	12.517321095046938	
+20	sentence	6	it.	4.409320611853985	
+21	sentence	1	The manager	13.095507505190804	
+21	sentence	2	likes	13.173986628432521	
+21	sentence	3	spaghetti	18.241195398337073	
+21	sentence	4	, but does not	22.37716914967116	
+21	sentence	5	lose	14.51493948479346	
+21	sentence	6	it.	5.42380757319725	
+22	sentence	1	The manager	13.095507505190804	
+22	sentence	2	likes	13.173986628432521	
+22	sentence	3	spaghetti	18.241195398337073	
+22	sentence	4	, but does not	22.37716914967116	
+22	sentence	5	follow	8.631668908961261	
+22	sentence	6	it.	3.67716673352519	
+23	sentence	1	The manager	13.095507505190804	
+23	sentence	2	likes	13.173986628432521	
+23	sentence	3	spaghetti	18.241195398337073	
+23	sentence	4	, but does not	22.37716914967116	
+23	sentence	5	expect	8.530229413898756	
+23	sentence	6	it.	7.937114393712045	
+24	sentence	1	The manager	13.095507505190804	
+24	sentence	2	likes	13.173986628432521	
+24	sentence	3	spaghetti	18.241195398337073	
+24	sentence	4	, but does not	22.37716914967116	
+24	sentence	5	realize	9.514993817571957	
+24	sentence	6	it.	5.349206142784537	
+25	sentence	1	The manager	13.095507505190804	
+25	sentence	2	likes	13.173986628432521	
+25	sentence	3	spaghetti	18.241195398337073	
+25	sentence	4	, but does not	22.37716914967116	
+25	sentence	5	slow	15.001355952436933	
+25	sentence	6	it.	8.76044711017022	
+26	sentence	1	The manager	13.095507505190804	
+26	sentence	2	likes	13.173986628432521	
+26	sentence	3	spaghetti	18.241195398337073	
+26	sentence	4	, but does not	22.37716914967116	
+26	sentence	5	allow	8.550614173540223	
+26	sentence	6	it.	4.338389635175986	
+27	sentence	1	The manager	13.095507505190804	
+27	sentence	2	likes	13.173986628432521	
+27	sentence	3	spaghetti	18.241195398337073	
+27	sentence	4	, but does not	22.37716914967116	
+27	sentence	5	consider	8.778500816961893	
+27	sentence	6	it.	7.722221899476316	
+28	sentence	1	The manager	13.095507505190804	
+28	sentence	2	likes	13.173986628432521	
+28	sentence	3	spaghetti	18.241195398337073	
+28	sentence	4	, but does not	22.37716914967116	
+28	sentence	5	apologize	13.830773237604312	
+28	sentence	6	it.	13.879106553872193	
+29	sentence	1	The manager	13.095507505190804	
+29	sentence	2	likes	13.173986628432521	
+29	sentence	3	spaghetti	18.241195398337073	
+29	sentence	4	, but does not	22.37716914967116	
+29	sentence	5	recognize	10.961519256060937	
+29	sentence	6	it.	4.290359180356276	
+30	sentence	1	The manager	13.095507505190804	
+30	sentence	2	likes	13.173986628432521	
+30	sentence	3	spaghetti	18.241195398337073	
+30	sentence	4	, but does not	22.37716914967116	
+30	sentence	5	settle	15.84219426697848	
+30	sentence	6	it.	8.736031593140481	
+31	sentence	1	The manager	13.095507505190804	
+31	sentence	2	likes	13.173986628432521	
+31	sentence	3	spaghetti	18.241195398337073	
+31	sentence	4	, but does not	22.37716914967116	
+31	sentence	5	add	10.000771885615427	
+31	sentence	6	it.	5.334202720288566	
+32	sentence	1	The manager	13.095507505190804	
+32	sentence	2	likes	13.173986628432521	
+32	sentence	3	spaghetti	18.241195398337073	
+32	sentence	4	, but does not	22.37716914967116	
+32	sentence	5	assume	13.637536282817274	
+32	sentence	6	it.	8.598129196355298	
+33	sentence	1	The manager	13.095507505190804	
+33	sentence	2	likes	13.173986628432521	
+33	sentence	3	spaghetti	18.241195398337073	
+33	sentence	4	, but does not	22.37716914967116	
+33	sentence	5	appear	11.818229505485311	
+33	sentence	6	it.	16.408608120705487	
+34	sentence	1	The manager	13.095507505190804	
+34	sentence	2	likes	13.173986628432521	
+34	sentence	3	spaghetti	18.241195398337073	
+34	sentence	4	, but does not	22.37716914967116	
+34	sentence	5	remove	12.764711946937657	
+34	sentence	6	it.	2.772898895579652	
+35	sentence	1	The manager	13.095507505190804	
+35	sentence	2	likes	13.173986628432521	
+35	sentence	3	spaghetti	18.241195398337073	
+35	sentence	4	, but does not	22.37716914967116	
+35	sentence	5	identify	12.544816305405678	
+35	sentence	6	it.	5.055031710292862	
+36	sentence	1	The manager	13.095507505190804	
+36	sentence	2	likes	13.173986628432521	
+36	sentence	3	spaghetti	18.241195398337073	
+36	sentence	4	, but does not	22.37716914967116	
+36	sentence	5	replace	13.981083322735993	
+36	sentence	6	it.	1.9070630747178465	
+37	sentence	1	The manager	13.095507505190804	
+37	sentence	2	likes	13.173986628432521	
+37	sentence	3	spaghetti	18.241195398337073	
+37	sentence	4	, but does not	22.37716914967116	
+37	sentence	5	apply	12.672518239185537	
+37	sentence	6	it.	4.450660253624529	
+38	sentence	1	The manager	13.095507505190804	
+38	sentence	2	likes	13.173986628432521	
+38	sentence	3	spaghetti	18.241195398337073	
+38	sentence	4	, but does not	22.37716914967116	
+38	sentence	5	succeed	14.598151570586923	
+38	sentence	6	it.	10.472666654167995	
+39	sentence	1	The manager	13.095507505190804	
+39	sentence	2	likes	13.173986628432521	
+39	sentence	3	spaghetti	18.241195398337073	
+39	sentence	4	, but does not	22.37716914967116	
+39	sentence	5	develop	14.214187231854236	
+39	sentence	6	it.	4.164642786280627	
+40	sentence	1	The manager	13.095507505190804	
+40	sentence	2	likes	13.173986628432521	
+40	sentence	3	spaghetti	18.241195398337073	
+40	sentence	4	, but does not	22.37716914967116	
+40	sentence	5	approve	9.733898839034968	
+40	sentence	6	it.	5.183076061530588	
+41	sentence	1	The manager	13.095507505190804	
+41	sentence	2	likes	13.173986628432521	
+41	sentence	3	spaghetti	18.241195398337073	
+41	sentence	4	, but does not	22.37716914967116	
+41	sentence	5	expose	15.45094336729404	
+41	sentence	6	it.	4.633839834971761	
+42	sentence	1	The manager	13.095507505190804	
+42	sentence	2	likes	13.173986628432521	
+42	sentence	3	spaghetti	18.241195398337073	
+42	sentence	4	, but does not	22.37716914967116	
+42	sentence	5	establish	17.043750369300888	
+42	sentence	6	it.	6.619796425128579	
+43	sentence	1	The manager	13.095507505190804	
+43	sentence	2	likes	13.173986628432521	
+43	sentence	3	spaghetti	18.241195398337073	
+43	sentence	4	, but does not	22.37716914967116	
+43	sentence	5	reduce	14.533651197207336	
+43	sentence	6	it.	3.7948011468888425	
+44	sentence	1	The manager	13.095507505190804	
+44	sentence	2	likes	13.173986628432521	
+44	sentence	3	spaghetti	18.241195398337073	
+44	sentence	4	, but does not	22.37716914967116	
+44	sentence	5	participate	14.080585605219179	
+44	sentence	6	it.	14.807719825917243	
+45	sentence	1	The manager	13.095507505190804	
+45	sentence	2	likes	13.173986628432521	
+45	sentence	3	spaghetti	18.241195398337073	
+45	sentence	4	, but does not	22.37716914967116	
+45	sentence	5	organize	15.517887270177086	
+45	sentence	6	it.	4.4779219115433975	
+46	sentence	1	The manager	13.095507505190804	
+46	sentence	2	likes	13.173986628432521	
+46	sentence	3	spaghetti	18.241195398337073	
+46	sentence	4	, but does not	22.37716914967116	
+46	sentence	5	obtain	16.59253393477481	
+46	sentence	6	it.	4.755223470124223	
+47	sentence	1	The manager	13.095507505190804	
+47	sentence	2	likes	13.173986628432521	
+47	sentence	3	spaghetti	18.241195398337073	
+47	sentence	4	, but does not	22.37716914967116	
+47	sentence	5	kitten	25.727371797434788	
+47	sentence	6	it.	5.16310148051143	
+48	sentence	1	The manager	13.095507505190804	
+48	sentence	2	likes	13.173986628432521	
+48	sentence	3	spaghetti	18.241195398337073	
+48	sentence	4	, but does not	22.37716914967116	
+48	sentence	5	acquire	17.33085407906764	
+48	sentence	6	it.	3.923534804591228	
+49	sentence	1	The manager	13.095507505190804	
+49	sentence	2	likes	13.173986628432521	
+49	sentence	3	spaghetti	18.241195398337073	
+49	sentence	4	, but does not	22.37716914967116	
+49	sentence	5	qualify	14.36313246266867	
+49	sentence	6	it.	6.501202520555763	
+50	sentence	1	The manager	13.095507505190804	
+50	sentence	2	likes	13.173986628432521	
+50	sentence	3	spaghetti	18.241195398337073	
+50	sentence	4	, but does not	22.37716914967116	
+50	sentence	5	criticize	15.289560351169207	
+50	sentence	6	it.	2.811745476843289	
+51	sentence	1	The manager	13.095507505190804	
+51	sentence	2	likes	13.173986628432521	
+51	sentence	3	spaghetti	18.241195398337073	
+51	sentence	4	, but does not	22.37716914967116	
+51	sentence	5	rave	15.495939532204577	
+51	sentence	6	it.	12.321228540324974	
+52	sentence	1	The manager	13.095507505190804	
+52	sentence	2	likes	13.173986628432521	
+52	sentence	3	spaghetti	18.241195398337073	
+52	sentence	4	, but does not	22.37716914967116	
+52	sentence	5	enlighten	19.943237077581124	
+52	sentence	6	it.	8.525941542447445	
+53	sentence	1	The manager	13.095507505190804	
+53	sentence	2	likes	13.173986628432521	
+53	sentence	3	spaghetti	18.241195398337073	
+53	sentence	4	, but does not	22.37716914967116	
+53	sentence	5	disclose	15.021806753416332	
+53	sentence	6	it.	5.053794983050507	
+54	sentence	1	The manager	13.095507505190804	
+54	sentence	2	likes	13.173986628432521	
+54	sentence	3	spaghetti	18.241195398337073	
+54	sentence	4	, but does not	22.37716914967116	
+54	sentence	5	reopen	21.96686794672896	
+54	sentence	6	it.	4.471924188577207	
+55	sentence	1	The manager	13.095507505190804	
+55	sentence	2	likes	13.173986628432521	
+55	sentence	3	spaghetti	18.241195398337073	
+55	sentence	4	, but does not	22.37716914967116	
+55	sentence	5	stabilize	22.313364833075276	
+55	sentence	6	it.	4.27619967672809	
+56	sentence	1	The manager	13.095507505190804	
+56	sentence	2	likes	13.173986628432521	
+56	sentence	3	spaghetti	18.241195398337073	
+56	sentence	4	, but does not	22.37716914967116	
+56	sentence	5	soar	22.189405241778193	
+56	sentence	6	it.	9.196162748374034	
+57	sentence	1	The manager	13.095507505190804	
+57	sentence	2	likes	13.173986628432521	
+57	sentence	3	spaghetti	18.241195398337073	
+57	sentence	4	, but does not	22.37716914967116	
+57	sentence	5	authorize	17.560655921289317	
+57	sentence	6	it.	3.217648352476662	
+58	sentence	1	The manager	13.095507505190804	
+58	sentence	2	likes	13.173986628432521	
+58	sentence	3	spaghetti	18.241195398337073	
+58	sentence	4	, but does not	22.37716914967116	
+58	sentence	5	sympathize	20.397658168299042	
+58	sentence	6	it.	13.599637841907843	
+59	sentence	1	The manager	13.095507505190804	
+59	sentence	2	likes	13.173986628432521	
+59	sentence	3	spaghetti	18.241195398337073	
+59	sentence	4	, but does not	22.37716914967116	
+59	sentence	5	sharpen	19.17749384345111	
+59	sentence	6	it.	3.1619080874014225	
+60	sentence	1	The manager	13.095507505190804	
+60	sentence	2	likes	13.173986628432521	
+60	sentence	3	spaghetti	18.241195398337073	
+60	sentence	4	, but does not	22.37716914967116	
+60	sentence	5	specialize	14.436900637137953	
+60	sentence	6	it.	10.213051705410574	
+61	sentence	1	The manager	13.095507505190804	
+61	sentence	2	likes	13.173986628432521	
+61	sentence	3	spaghetti	18.241195398337073	
+61	sentence	4	, but does not	22.37716914967116	
+61	sentence	5	minimize	18.580224110052324	
+61	sentence	6	it.	3.244508172931788	
+62	sentence	1	The manager	13.095507505190804	
+62	sentence	2	likes	13.173986628432521	
+62	sentence	3	spaghetti	18.241195398337073	
+62	sentence	4	, but does not	22.37716914967116	
+62	sentence	5	socialize	17.49185047819333	
+62	sentence	6	it.	7.509994276415704	
+63	sentence	1	The manager	13.095507505190804	
+63	sentence	2	likes	13.173986628432521	
+63	sentence	3	spaghetti	18.241195398337073	
+63	sentence	4	, but does not	22.37716914967116	
+63	sentence	5	utilize	15.678257652453636	
+63	sentence	6	it.	2.9961039992621856	
+64	sentence	1	The manager	13.095507505190804	
+64	sentence	2	likes	13.173986628432521	
+64	sentence	3	spaghetti	18.241195398337073	
+64	sentence	4	, but does not	22.37716914967116	
+64	sentence	5	rectify	20.15611039472464	
+64	sentence	6	it.	3.345568016292514	
+65	sentence	1	The manager	13.095507505190804	
+65	sentence	2	likes	13.173986628432521	
+65	sentence	3	spaghetti	18.241195398337073	
+65	sentence	4	, but does not	22.37716914967116	
+65	sentence	5	terrorize	19.30098198797832	
+65	sentence	6	it.	6.52971715807749	
+66	sentence	1	The manager	13.095507505190804	
+66	sentence	2	likes	13.173986628432521	
+66	sentence	3	spaghetti	18.241195398337073	
+66	sentence	4	, but does not	22.37716914967116	
+66	sentence	5	enslave	20.189980758084836	
+66	sentence	6	it.	4.389675291619903	
+67	sentence	1	The manager	13.095507505190804	
+67	sentence	2	likes	13.173986628432521	
+67	sentence	3	spaghetti	18.241195398337073	
+67	sentence	4	, but does not	22.37716914967116	
+67	sentence	5	finalize	18.51018090781808	
+67	sentence	6	it.	3.6760337978126314	
+68	sentence	1	The manager	13.095507505190804	
+68	sentence	2	likes	13.173986628432521	
+68	sentence	3	spaghetti	18.241195398337073	
+68	sentence	4	, but does not	22.37716914967116	
+68	sentence	5	maximize	18.509713974920988	
+68	sentence	6	it.	3.4670138231732626	
+69	sentence	1	The manager	13.095507505190804	
+69	sentence	2	likes	13.173986628432521	
+69	sentence	3	spaghetti	18.241195398337073	
+69	sentence	4	, but does not	22.37716914967116	
+69	sentence	5	summarize	20.050876650665547	
+69	sentence	6	it.	4.86832786046415	
+70	sentence	1	The manager	13.095507505190804	
+70	sentence	2	likes	13.173986628432521	
+70	sentence	3	spaghetti	18.241195398337073	
+70	sentence	4	, but does not	22.37716914967116	
+70	sentence	5	repose	20.99519004692521	
+70	sentence	6	it.	4.26129995977059	
+71	sentence	1	The manager	13.095507505190804	
+71	sentence	2	likes	13.173986628432521	
+71	sentence	3	spaghetti	18.241195398337073	
+71	sentence	4	, but does not	22.37716914967116	
+71	sentence	5	symbolize	20.281912253428853	
+71	sentence	6	it.	3.8659593986399567	
+72	sentence	1	The manager	13.095507505190804	
+72	sentence	2	likes	13.173986628432521	
+72	sentence	3	spaghetti	18.241195398337073	
+72	sentence	4	, but does not	22.37716914967116	
+72	sentence	5	sterilize	18.942118689121717	
+72	sentence	6	it.	2.721544360084065	
+73	sentence	1	The manager	13.095507505190804	
+73	sentence	2	likes	13.173986628432521	
+73	sentence	3	spaghetti	18.241195398337073	
+73	sentence	4	, but does not	22.37716914967116	
+73	sentence	5	revolutionize	21.420017635485554	
+73	sentence	6	it.	3.285865012967419	
+74	sentence	1	The manager	13.095507505190804	
+74	sentence	2	likes	13.173986628432521	
+74	sentence	3	spaghetti	18.241195398337073	
+74	sentence	4	, but does not	22.37716914967116	
+74	sentence	5	synchronize	21.68708244272172	
+74	sentence	6	it.	5.0941428008735254	
+75	sentence	1	The manager	13.095507505190804	
+75	sentence	2	likes	13.173986628432521	
+75	sentence	3	spaghetti	18.241195398337073	
+75	sentence	4	, but does not	22.37716914967116	
+75	sentence	5	fertilize	21.8710326998253	
+75	sentence	6	it.	3.759410986950921	
+76	sentence	1	The manager	13.095507505190804	
+76	sentence	2	likes	13.173986628432521	
+76	sentence	3	spaghetti	18.241195398337073	
+76	sentence	4	, but does not	22.37716914967116	
+76	sentence	5	rationalize	19.241443916015406	
+76	sentence	6	it.	3.704434238854187	
+77	sentence	1	The manager	13.095507505190804	
+77	sentence	2	likes	13.173986628432521	
+77	sentence	3	spaghetti	18.241195398337073	
+77	sentence	4	, but does not	22.37716914967116	
+77	sentence	5	antagonize	20.534869796767033	
+77	sentence	6	it.	5.284402649982803	
+78	sentence	1	The manager	13.095507505190804	
+78	sentence	2	likes	13.173986628432521	
+78	sentence	3	spaghetti	18.241195398337073	
+78	sentence	4	, but does not	22.37716914967116	
+78	sentence	5	kindle	15.069103702230112	
+78	sentence	6	it.	3.2809310026968155	
+79	sentence	1	The manager	13.095507505190804	
+79	sentence	2	likes	13.173986628432521	
+79	sentence	3	spaghetti	18.241195398337073	
+79	sentence	4	, but does not	22.37716914967116	
+79	sentence	5	familiarize	16.646487945042526	
+79	sentence	6	it.	15.075457085318284	
+80	sentence	1	The manager	13.095507505190804	
+80	sentence	2	likes	13.173986628432521	
+80	sentence	3	spaghetti	18.241195398337073	
+80	sentence	4	, but does not	22.37716914967116	
+80	sentence	5	synthesize	22.493268209417067	
+80	sentence	6	it.	3.616881310952948	
+81	sentence	1	The manager	13.095507505190804	
+81	sentence	2	likes	13.173986628432521	
+81	sentence	3	spaghetti	18.241195398337073	
+81	sentence	4	, but does not	22.37716914967116	
+81	sentence	5	reorganize	22.270138670611757	
+81	sentence	6	it.	3.9331666929527995	
+82	sentence	1	The manager	13.095507505190804	
+82	sentence	2	likes	13.173986628432521	
+82	sentence	3	spaghetti	18.241195398337073	
+82	sentence	4	, but does not	22.37716914967116	
+82	sentence	5	ripen	23.81473553892441	
+82	sentence	6	it.	3.332504902063578	
+83	sentence	1	The manager	13.095507505190804	
+83	sentence	2	likes	13.173986628432521	
+83	sentence	3	spaghetti	18.241195398337073	
+83	sentence	4	, but does not	22.37716914967116	
+83	sentence	5	deepen	22.467175109117317	
+83	sentence	6	it.	4.438780895981483	
+84	sentence	1	The manager	13.095507505190804	
+84	sentence	2	likes	13.173986628432521	
+84	sentence	3	spaghetti	18.241195398337073	
+84	sentence	4	, but does not	22.37716914967116	
+84	sentence	5	destabilize	23.78058640579511	
+84	sentence	6	it.	4.094324325813676	
+85	sentence	1	The manager	13.095507505190804	
+85	sentence	2	likes	13.173986628432521	
+85	sentence	3	spaghetti	18.241195398337073	
+85	sentence	4	, but does not	22.37716914967116	
+85	sentence	5	enclose	19.90338806923645	
+85	sentence	6	it.	4.341686026645074	
+86	sentence	1	The manager	13.095507505190804	
+86	sentence	2	likes	13.173986628432521	
+86	sentence	3	spaghetti	18.241195398337073	
+86	sentence	4	, but does not	22.37716914967116	
+86	sentence	5	dampen	20.47180642442673	
+86	sentence	6	it.	4.475909542545651	
+87	sentence	1	The manager	13.095507505190804	
+87	sentence	2	likes	13.173986628432521	
+87	sentence	3	spaghetti	18.241195398337073	
+87	sentence	4	, but does not	22.37716914967116	
+87	sentence	5	subsidize	20.899029043382985	
+87	sentence	6	it.	2.892144528407913	
+88	sentence	1	The manager	13.095507505190804	
+88	sentence	2	likes	13.173986628432521	
+88	sentence	3	spaghetti	18.241195398337073	
+88	sentence	4	, but does not	22.37716914967116	
+88	sentence	5	idolize	17.995366062924862	
+88	sentence	6	it.	2.8559736532263997	
+89	sentence	1	The manager	13.095507505190804	
+89	sentence	2	likes	13.173986628432521	
+89	sentence	3	spaghetti	18.241195398337073	
+89	sentence	4	, but does not	22.37716914967116	
+89	sentence	5	quantify	19.08132376849586	
+89	sentence	6	it.	3.158609030201246	
+90	sentence	1	The manager	13.095507505190804	
+90	sentence	2	likes	13.173986628432521	
+90	sentence	3	spaghetti	18.241195398337073	
+90	sentence	4	, but does not	22.37716914967116	
+90	sentence	5	engrave	23.587195956492177	
+90	sentence	6	it.	4.483135221639001	
+91	sentence	1	The manager	13.095507505190804	
+91	sentence	2	likes	13.173986628432521	
+91	sentence	3	spaghetti	18.241195398337073	
+91	sentence	4	, but does not	22.37716914967116	
+91	sentence	5	fraternize	23.29544863990972	
+91	sentence	6	it.	9.084123790556204	
+92	sentence	1	The manager	13.095507505190804	
+92	sentence	2	likes	13.173986628432521	
+92	sentence	3	spaghetti	18.241195398337073	
+92	sentence	4	, but does not	22.37716914967116	
+92	sentence	5	immobilize	23.9190607738814	
+92	sentence	6	it.	4.246914126973869	
+93	sentence	1	The manager	13.095507505190804	
+93	sentence	2	likes	13.173986628432521	
+93	sentence	3	spaghetti	18.241195398337073	
+93	sentence	4	, but does not	22.37716914967116	
+93	sentence	5	downsize	20.065839829221215	
+93	sentence	6	it.	3.3705560635669745	
+94	sentence	1	The manager	13.095507505190804	
+94	sentence	2	likes	13.173986628432521	
+94	sentence	3	spaghetti	18.241195398337073	
+94	sentence	4	, but does not	22.37716914967116	
+94	sentence	5	theorize	20.667426241837134	
+94	sentence	6	it.	7.964400989115289	
+95	sentence	1	The manager	13.095507505190804	
+95	sentence	2	likes	13.173986628432521	
+95	sentence	3	spaghetti	18.241195398337073	
+95	sentence	4	, but does not	22.37716914967116	
+95	sentence	5	dramatize	20.121836388754677	
+95	sentence	6	it.	2.899200030668234	
+96	sentence	1	The manager	13.095507505190804	
+96	sentence	2	likes	13.173986628432521	
+96	sentence	3	spaghetti	18.241195398337073	
+96	sentence	4	, but does not	22.37716914967116	
+96	sentence	5	modernize	19.431754414015362	
+96	sentence	6	it.	2.5470132703007713	
+97	sentence	1	The manager	13.095507505190804	
+97	sentence	2	likes	13.173986628432521	
+97	sentence	3	spaghetti	18.241195398337073	
+97	sentence	4	, but does not	22.37716914967116	
+97	sentence	5	revitalize	23.91248002972879	
+97	sentence	6	it.	3.8811484764075326	
+98	sentence	1	The manager	13.095507505190804	
+98	sentence	2	likes	13.173986628432521	
+98	sentence	3	spaghetti	18.241195398337073	
+98	sentence	4	, but does not	22.37716914967116	
+98	sentence	5	traumatize	22.68347988188627	
+98	sentence	6	it.	6.917416272056313	
+99	sentence	1	The manager	13.095507505190804	
+99	sentence	2	likes	13.173986628432521	
+99	sentence	3	spaghetti	18.241195398337073	
+99	sentence	4	, but does not	22.37716914967116	
+99	sentence	5	immortalize	22.5238602468764	
+99	sentence	6	it.	2.626047209574171	
+100	sentence	1	The manager	13.095507505190804	
+100	sentence	2	likes	13.173986628432521	
+100	sentence	3	spaghetti	18.241195398337073	
+100	sentence	4	, but does not	22.37716914967116	
+100	sentence	5	agonize	19.46636067703065	
+100	sentence	6	it.	14.242546827016211	
+101	sentence	1	The manager	13.095507505190804	
+101	sentence	2	likes	13.173986628432521	
+101	sentence	3	spaghetti	18.241195398337073	
+101	sentence	4	, but does not	22.37716914967116	
+101	sentence	5	electrify	21.556404112692537	
+101	sentence	6	it.	5.821147432644163	
+102	sentence	1	The manager	13.095507505190804	
+102	sentence	2	likes	13.173986628432521	
+102	sentence	3	spaghetti	18.241195398337073	
+102	sentence	4	, but does not	22.37716914967116	
+102	sentence	5	demoralize	24.066988340355017	
+102	sentence	6	it.	7.986509616857679	
+103	sentence	1	The manager	13.095507505190804	
+103	sentence	2	likes	13.173986628432521	
+103	sentence	3	spaghetti	18.241195398337073	
+103	sentence	4	, but does not	22.37716914967116	
+103	sentence	5	sanitize	17.19201963842948	
+103	sentence	6	it.	2.7014795741645283	
+104	sentence	1	The manager	13.095507505190804	
+104	sentence	2	likes	13.173986628432521	
+104	sentence	3	spaghetti	18.241195398337073	
+104	sentence	4	, but does not	22.37716914967116	
+104	sentence	5	anesthetize	23.555171249806584	
+104	sentence	6	it.	3.2291405771726165	
+105	sentence	1	The manager	13.095507505190804	
+105	sentence	2	likes	13.173986628432521	
+105	sentence	3	spaghetti	18.241195398337073	
+105	sentence	4	, but does not	22.37716914967116	
+105	sentence	5	trivialize	20.27563946571044	
+105	sentence	6	it.	2.325294354695669	
+106	sentence	1	The manager	13.095507505190804	
+106	sentence	2	likes	13.173986628432521	
+106	sentence	3	spaghetti	18.241195398337073	
+106	sentence	4	, but does not	22.37716914967116	
+106	sentence	5	romanticize	18.253472207886265	
+106	sentence	6	it.	2.194290096045267	
+107	sentence	1	The manager	13.095507505190804	
+107	sentence	2	likes	13.173986628432521	
+107	sentence	3	spaghetti	18.241195398337073	
+107	sentence	4	, but does not	22.37716914967116	
+107	sentence	5	equalize	27.599342414183354	
+107	sentence	6	it.	5.091754047844367	
+108	sentence	1	The manager	13.095507505190804	
+108	sentence	2	likes	13.173986628432521	
+108	sentence	3	spaghetti	18.241195398337073	
+108	sentence	4	, but does not	22.37716914967116	
+108	sentence	5	demonize	20.031595632681654	
+108	sentence	6	it.	2.6215570005341196	
+109	sentence	1	The manager	13.095507505190804	
+109	sentence	2	likes	13.173986628432521	
+109	sentence	3	spaghetti	18.241195398337073	
+109	sentence	4	, but does not	22.37716914967116	
+109	sentence	5	alphabetize	24.722383201422534	
+109	sentence	6	it.	3.405976320468797	
+110	sentence	1	The manager	13.095507505190804	
+110	sentence	2	likes	13.173986628432521	
+110	sentence	3	spaghetti	18.241195398337073	
+110	sentence	4	, but does not	22.37716914967116	
+110	sentence	5	formalize	18.667489353974332	
+110	sentence	6	it.	3.0308652186459017	
+111	sentence	1	The manager	13.095507505190804	
+111	sentence	2	likes	13.173986628432521	
+111	sentence	3	spaghetti	18.241195398337073	
+111	sentence	4	, but does not	22.37716914967116	
+111	sentence	5	optimize	18.02497055450511	
+111	sentence	6	it.	3.15302948305063	
+112	sentence	1	The manager	13.095507505190804	
+112	sentence	2	likes	13.173986628432521	
+112	sentence	3	spaghetti	18.241195398337073	
+112	sentence	4	, but does not	22.37716914967116	
+112	sentence	5	internalize	18.290872673030123	
+112	sentence	6	it.	2.8498328406946922	
+113	sentence	1	The manager	13.095507505190804	
+113	sentence	2	likes	13.173986628432521	
+113	sentence	3	spaghetti	18.241195398337073	
+113	sentence	4	, but does not	22.37716914967116	
+113	sentence	5	idealize	17.347743893269598	
+113	sentence	6	it.	2.5489295009966844	
+114	sentence	1	The manager	13.095507505190804	
+114	sentence	2	likes	13.173986628432521	
+114	sentence	3	spaghetti	18.241195398337073	
+114	sentence	4	, but does not	22.37716914967116	
+114	sentence	5	sodomize	23.014081250228763	
+114	sentence	6	it.	3.772884193810839	
+115	sentence	1	The manager	13.095507505190804	
+115	sentence	2	likes	13.173986628432521	
+115	sentence	3	spaghetti	18.241195398337073	
+115	sentence	4	, but does not	22.37716914967116	
+115	sentence	5	digitize	25.437148881325	
+115	sentence	6	it.	2.8009792769079516	
+116	sentence	1	The manager	13.095507505190804	
+116	sentence	2	likes	13.173986628432521	
+116	sentence	3	spaghetti	18.241195398337073	
+116	sentence	4	, but does not	22.37716914967116	
+116	sentence	5	galvanize	23.809506019463957	
+116	sentence	6	it.	5.324865438207923	
+117	sentence	1	The manager	13.095507505190804	
+117	sentence	2	likes	13.173986628432521	
+117	sentence	3	spaghetti	18.241195398337073	
+117	sentence	4	, but does not	22.37716914967116	
+117	sentence	5	initialize	23.106147067382135	
+117	sentence	6	it.	4.397222664261692	
+118	sentence	1	The manager	13.095507505190804	
+118	sentence	2	likes	13.173986628432521	
+118	sentence	3	spaghetti	18.241195398337073	
+118	sentence	4	, but does not	22.37716914967116	
+118	sentence	5	exemplify	17.44356704226866	
+118	sentence	6	it.	4.0506476118005565	
+119	sentence	1	The manager	13.095507505190804	
+119	sentence	2	likes	13.173986628432521	
+119	sentence	3	spaghetti	18.241195398337073	
+119	sentence	4	, but does not	22.37716914967116	
+119	sentence	5	depressurize	32.45737081412878	
+119	sentence	6	it.	3.8272606364647364	
+120	sentence	1	The manager	13.095507505190804	
+120	sentence	2	likes	13.173986628432521	
+120	sentence	3	spaghetti	18.241195398337073	
+120	sentence	4	, but does not	22.37716914967116	
+120	sentence	5	itemize	17.81048131658999	
+120	sentence	6	it.	3.3127104728711982	
+121	sentence	1	The manager	13.095507505190804	
+121	sentence	2	likes	13.173986628432521	
+121	sentence	3	spaghetti	18.241195398337073	
+121	sentence	4	, but does not	22.37716914967116	
+121	sentence	5	dehumanize	23.39736202241776	
+121	sentence	6	it.	3.6574815133161076	
+122	sentence	1	The manager	13.095507505190804	
+122	sentence	2	likes	13.173986628432521	
+122	sentence	3	spaghetti	18.241195398337073	
+122	sentence	4	, but does not	22.37716914967116	
+122	sentence	5	mollify	24.34359612629672	
+122	sentence	6	it.	3.6606982768178455	
+123	sentence	1	The manager	13.095507505190804	
+123	sentence	2	likes	13.173986628432521	
+123	sentence	3	spaghetti	18.241195398337073	
+123	sentence	4	, but does not	22.37716914967116	
+123	sentence	5	immunize	21.130709796065343	
+123	sentence	6	it.	4.731005561160326	
+124	sentence	1	The manager	13.095507505190804	
+124	sentence	2	likes	13.173986628432521	
+124	sentence	3	spaghetti	18.241195398337073	
+124	sentence	4	, but does not	22.37716914967116	
+124	sentence	5	oxidize	23.391490222998755	
+124	sentence	6	it.	3.4331806221736016	
+125	sentence	1	The manager	13.095507505190804	
+125	sentence	2	likes	13.173986628432521	
+125	sentence	3	spaghetti	18.241195398337073	
+125	sentence	4	, but does not	22.37716914967116	
+125	sentence	5	dematerialize	27.051360801062575	
+125	sentence	6	it.	3.804619034487322	
+126	sentence	1	The manager	13.095507505190804	
+126	sentence	2	likes	13.173986628432521	
+126	sentence	3	spaghetti	18.241195398337073	
+126	sentence	4	, but does not	22.37716914967116	
+126	sentence	5	ostracize	23.39932883751086	
+126	sentence	6	it.	4.1235715234367545	
+127	sentence	1	The manager	13.095507505190804	
+127	sentence	2	likes	13.173986628432521	
+127	sentence	3	spaghetti	18.241195398337073	
+127	sentence	4	, but does not	22.37716914967116	
+127	sentence	5	overdramatize	25.348234667746517	
+127	sentence	6	it.	2.8182334363557633	
+128	sentence	1	The manager	13.095507505190804	
+128	sentence	2	likes	13.173986628432521	
+128	sentence	3	spaghetti	18.241195398337073	
+128	sentence	4	, but does not	22.37716914967116	
+128	sentence	5	satirize	20.37407835796551	
+128	sentence	6	it.	2.679909166128013	
+129	sentence	1	The manager	13.095507505190804	
+129	sentence	2	likes	13.173986628432521	
+129	sentence	3	spaghetti	18.241195398337073	
+129	sentence	4	, but does not	22.37716914967116	
+129	sentence	5	amortize	19.679384343288614	
+129	sentence	6	it.	3.7649805591077876	
+130	sentence	1	The manager	13.095507505190804	
+130	sentence	2	likes	13.173986628432521	
+130	sentence	3	spaghetti	18.241195398337073	
+130	sentence	4	, but does not	22.37716914967116	
+130	sentence	5	tyrannize	23.288886179662676	
+130	sentence	6	it.	6.44920416800667	
+131	sentence	1	The manager	13.095507505190804	
+131	sentence	2	likes	13.173986628432521	
+131	sentence	3	spaghetti	18.241195398337073	
+131	sentence	4	, but does not	22.37716914967116	
+131	sentence	5	eulogize	21.976382091468185	
+131	sentence	6	it.	3.023845316794309	
+132	sentence	1	The manager	13.095507505190804	
+132	sentence	2	likes	13.173986628432521	
+132	sentence	3	spaghetti	18.241195398337073	
+132	sentence	4	, but does not	22.37716914967116	
+132	sentence	5	resize	20.375029551011767	
+132	sentence	6	it.	3.7727801443070668	
+133	sentence	1	The manager	13.095507505190804	
+133	sentence	2	likes	13.173986628432521	
+133	sentence	3	spaghetti	18.241195398337073	
+133	sentence	4	, but does not	22.37716914967116	
+133	sentence	5	editorialize	22.426357778657444	
+133	sentence	6	it.	4.894992996558499	
+134	sentence	1	The manager	13.095507505190804	
+134	sentence	2	likes	13.173986628432521	
+134	sentence	3	spaghetti	18.241195398337073	
+134	sentence	4	, but does not	22.37716914967116	
+134	sentence	5	acclimatize	25.973977345638534	
+134	sentence	6	it.	10.046557794858726	
+135	sentence	1	The manager	13.095507505190804	
+135	sentence	2	likes	13.173986628432521	
+135	sentence	3	spaghetti	18.241195398337073	
+135	sentence	4	, but does not	22.37716914967116	
+135	sentence	5	desensitize	21.65350713172245	
+135	sentence	6	it.	6.475883750643693	
+136	sentence	1	The manager	13.095507505190804	
+136	sentence	2	likes	13.173986628432521	
+136	sentence	3	spaghetti	18.241195398337073	
+136	sentence	4	, but does not	22.37716914967116	
+136	sentence	5	standardize	18.076848583692094	
+136	sentence	6	it.	2.431061277219184	
+137	sentence	1	The manager	13.095507505190804	
+137	sentence	2	likes	13.173986628432521	
+137	sentence	3	spaghetti	18.241195398337073	
+137	sentence	4	, but does not	22.37716914967116	
+137	sentence	5	stigmatize	21.945894576464912	
+137	sentence	6	it.	2.7357110009922616	
+138	sentence	1	The manager	13.095507505190804	
+138	sentence	2	likes	13.173986628432521	
+138	sentence	3	spaghetti	18.241195398337073	
+138	sentence	4	, but does not	22.37716914967116	
+138	sentence	5	actualize	20.892394984608604	
+138	sentence	6	it.	3.2702003171788814	
+139	sentence	1	The manager	13.095507505190804	
+139	sentence	2	likes	13.173986628432521	
+139	sentence	3	spaghetti	18.241195398337073	
+139	sentence	4	, but does not	22.37716914967116	
+139	sentence	5	industrialize	22.380051492908294	
+139	sentence	6	it.	3.4356379962804553	
+140	sentence	1	The manager	13.095507505190804	
+140	sentence	2	likes	13.173986628432521	
+140	sentence	3	spaghetti	18.241195398337073	
+140	sentence	4	, but does not	22.37716914967116	
+140	sentence	5	sexualize	23.68096829299657	
+140	sentence	6	it.	2.3107896818872016	
+141	sentence	1	The manager	13.095507505190804	
+141	sentence	2	likes	13.173986628432521	
+141	sentence	3	spaghetti	18.241195398337073	
+141	sentence	4	, but does not	22.37716914967116	
+141	sentence	5	demagnetize	28.514760564566018	
+141	sentence	6	it.	3.6425050920963233	
+142	sentence	1	The manager	13.095507505190804	
+142	sentence	2	likes	13.173986628432521	
+142	sentence	3	spaghetti	18.241195398337073	
+142	sentence	4	, but does not	22.37716914967116	
+142	sentence	5	solemnize	22.21182283635286	
+142	sentence	6	it.	3.384144584794296	
+143	sentence	1	The manager	13.095507505190804	
+143	sentence	2	likes	13.173986628432521	
+143	sentence	3	spaghetti	18.241195398337073	
+143	sentence	4	, but does not	22.37716914967116	
+143	sentence	5	atomize	22.457728489066387	
+143	sentence	6	it.	3.6753509406973803	
+144	sentence	1	The manager	13.095507505190804	
+144	sentence	2	likes	13.173986628432521	
+144	sentence	3	spaghetti	18.241195398337073	
+144	sentence	4	, but does not	22.37716914967116	
+144	sentence	5	ionize	22.849217713709262	
+144	sentence	6	it.	4.131255966251281	
+145	sentence	1	The manager	13.095507505190804	
+145	sentence	2	likes	13.173986628432521	
+145	sentence	3	spaghetti	18.241195398337073	
+145	sentence	4	, but does not	22.37716914967116	
+145	sentence	5	radicalize	22.893637349778444	
+145	sentence	6	it.	4.5732194761869644	
+146	sentence	1	The manager	13.095507505190804	
+146	sentence	2	likes	13.173986628432521	
+146	sentence	3	spaghetti	18.241195398337073	
+146	sentence	4	, but does not	22.37716914967116	
+146	sentence	5	reunify	27.657734307769598	
+146	sentence	6	it.	6.418209196694199	
+147	sentence	1	The manager	13.095507505190804	
+147	sentence	2	likes	13.173986628432521	
+147	sentence	3	spaghetti	18.241195398337073	
+147	sentence	4	, but does not	22.37716914967116	
+147	sentence	5	demobilize	31.353361530051416	
+147	sentence	6	it.	5.201307426400603	
+148	sentence	1	The manager	13.095507505190804	
+148	sentence	2	likes	13.173986628432521	
+148	sentence	3	spaghetti	18.241195398337073	
+148	sentence	4	, but does not	22.37716914967116	
+148	sentence	5	democratize	24.702468018911414	
+148	sentence	6	it.	2.7497286189334855	
+149	sentence	1	The manager	13.095507505190804	
+149	sentence	2	likes	13.173986628432521	
+149	sentence	3	spaghetti	18.241195398337073	
+149	sentence	4	, but does not	22.37716914967116	
+149	sentence	5	reclassify	23.101244078482182	
+149	sentence	6	it.	3.560058071125225	
+150	sentence	1	The manager	13.095507505190804	
+150	sentence	2	likes	13.173986628432521	
+150	sentence	3	spaghetti	18.241195398337073	
+150	sentence	4	, but does not	22.37716914967116	
+150	sentence	5	rhapsodize	23.148304266304763	
+150	sentence	6	it.	11.53643988764757	
+151	sentence	1	The manager	13.095507505190804	
+151	sentence	2	likes	13.173986628432521	
+151	sentence	3	spaghetti	18.241195398337073	
+151	sentence	4	, but does not	22.37716914967116	
+151	sentence	5	serialize	20.61807341241494	
+151	sentence	6	it.	3.1691992058934257	
+152	sentence	1	The manager	13.095507505190804	
+152	sentence	2	likes	13.173986628432521	
+152	sentence	3	spaghetti	18.241195398337073	
+152	sentence	4	, but does not	22.37716914967116	
+152	sentence	5	disorganize	24.423483782074545	
+152	sentence	6	it.	3.4357331886777076	
+153	sentence	1	The manager	13.095507505190804	
+153	sentence	2	likes	13.173986628432521	
+153	sentence	3	spaghetti	18.241195398337073	
+153	sentence	4	, but does not	22.37716914967116	
+153	sentence	5	sermonize	20.737536409816062	
+153	sentence	6	it.	7.150111808370083	
+154	sentence	1	The manager	13.095507505190804	
+154	sentence	2	likes	13.173986628432521	
+154	sentence	3	spaghetti	18.241195398337073	
+154	sentence	4	, but does not	22.37716914967116	
+154	sentence	5	deodorize	22.493427744823574	
+154	sentence	6	it.	3.539565564352993	
+155	sentence	1	The manager	13.095507505190804	
+155	sentence	2	likes	13.173986628432521	
+155	sentence	3	spaghetti	18.241195398337073	
+155	sentence	4	, but does not	22.37716914967116	
+155	sentence	5	emulsify	23.905701220681415	
+155	sentence	6	it.	3.624268051798831	
+156	sentence	1	The manager	13.095507505190804	
+156	sentence	2	likes	13.173986628432521	
+156	sentence	3	spaghetti	18.241195398337073	
+156	sentence	4	, but does not	22.37716914967116	
+156	sentence	5	overemphasize	17.401528139529834	
+156	sentence	6	it.	3.43440410675184	
+157	sentence	1	The manager	13.095507505190804	
+157	sentence	2	likes	13.173986628432521	
+157	sentence	3	spaghetti	18.241195398337073	
+157	sentence	4	, but does not	22.37716914967116	
+157	sentence	5	aerosolize	27.0667584615389	
+157	sentence	6	it.	3.7416972038686787	
+158	sentence	1	The manager	13.095507505190804	
+158	sentence	2	likes	13.173986628432521	
+158	sentence	3	spaghetti	18.241195398337073	
+158	sentence	4	, but does not	22.37716914967116	
+158	sentence	5	apostatize	29.539538333550887	
+158	sentence	6	it.	4.85451455791215	
+159	sentence	1	The manager	13.095507505190804	
+159	sentence	2	likes	13.173986628432521	
+159	sentence	3	spaghetti	18.241195398337073	
+159	sentence	4	, but does not	22.37716914967116	
+159	sentence	5	depolarize	32.926565863521596	
+159	sentence	6	it.	4.247743771281631	
+160	sentence	1	The manager	13.095507505190804	
+160	sentence	2	likes	13.173986628432521	
+160	sentence	3	spaghetti	18.241195398337073	
+160	sentence	4	, but does not	22.37716914967116	
+160	sentence	5	evangelize	22.556941023778535	
+160	sentence	6	it.	3.2736978423581533	
+161	sentence	1	The manager	13.095507505190804	
+161	sentence	2	likes	13.173986628432521	
+161	sentence	3	spaghetti	18.241195398337073	
+161	sentence	4	, but does not	22.37716914967116	
+161	sentence	5	anatomize	24.100196771379757	
+161	sentence	6	it.	2.7454390276556655	
+162	sentence	1	The manager	13.095507505190804	
+162	sentence	2	likes	13.173986628432521	
+162	sentence	3	spaghetti	18.241195398337073	
+162	sentence	4	, but does not	22.37716914967116	
+162	sentence	5	anthropomorphize	22.130887330591754	
+162	sentence	6	it.	2.4998236386611286	
+163	sentence	1	The manager	13.095507505190804	
+163	sentence	2	likes	13.173986628432521	
+163	sentence	3	spaghetti	18.241195398337073	
+163	sentence	4	, but does not	22.37716914967116	
+163	sentence	5	federalize	27.32094910973485	
+163	sentence	6	it.	2.5266899944569876	
+164	sentence	1	The manager	13.095507505190804	
+164	sentence	2	likes	13.173986628432521	
+164	sentence	3	spaghetti	18.241195398337073	
+164	sentence	4	, but does not	22.37716914967116	
+164	sentence	5	feminize	25.527730552694923	
+164	sentence	6	it.	2.4601673630772294	
+165	sentence	1	The manager	13.095507505190804	
+165	sentence	2	likes	13.173986628432521	
+165	sentence	3	spaghetti	18.241195398337073	
+165	sentence	4	, but does not	22.37716914967116	
+165	sentence	5	fossilize	23.35778478361085	
+165	sentence	6	it.	3.20728089431735	
+166	sentence	1	The manager	13.095507505190804	
+166	sentence	2	likes	13.173986628432521	
+166	sentence	3	spaghetti	18.241195398337073	
+166	sentence	4	, but does not	22.37716914967116	
+166	sentence	5	regularize	20.39674949796321	
+166	sentence	6	it.	2.83014271898006	
+167	sentence	1	The manager	13.095507505190804	
+167	sentence	2	likes	13.173986628432521	
+167	sentence	3	spaghetti	18.241195398337073	
+167	sentence	4	, but does not	22.37716914967116	
+167	sentence	5	ritualize	21.46618938780606	
+167	sentence	6	it.	2.235862344351103	
+168	sentence	1	The manager	13.095507505190804	
+168	sentence	2	likes	13.173986628432521	
+168	sentence	3	spaghetti	18.241195398337073	
+168	sentence	4	, but does not	22.37716914967116	
+168	sentence	5	sentimentalize	23.80233795455865	
+168	sentence	6	it.	2.387796977602834	
+169	sentence	1	The manager	13.095507505190804	
+169	sentence	2	likes	13.173986628432521	
+169	sentence	3	spaghetti	18.241195398337073	
+169	sentence	4	, but does not	22.37716914967116	
+169	sentence	5	exteriorize	26.306080002941375	
+169	sentence	6	it.	2.870410478879102	
+170	sentence	1	The manager	13.095507505190804	
+170	sentence	2	likes	13.173986628432521	
+170	sentence	3	spaghetti	18.241195398337073	
+170	sentence	4	, but does not	22.37716914967116	
+170	sentence	5	fetishize	16.195542813148183	
+170	sentence	6	it.	2.6859459291559484	
+171	sentence	1	The manager	13.095507505190804	
+171	sentence	2	likes	13.173986628432521	
+171	sentence	3	spaghetti	18.241195398337073	
+171	sentence	4	, but does not	22.37716914967116	
+171	sentence	5	fictionalize	25.2945716091284	
+171	sentence	6	it.	2.1943796990063666	
+172	sentence	1	The manager	13.095507505190804	
+172	sentence	2	likes	13.173986628432521	
+172	sentence	3	spaghetti	18.241195398337073	
+172	sentence	4	, but does not	22.37716914967116	
+172	sentence	5	individualize	21.578499906229602	
+172	sentence	6	it.	2.6950174980410093	
+173	sentence	1	The manager	13.095507505190804	
+173	sentence	2	likes	13.173986628432521	
+173	sentence	3	spaghetti	18.241195398337073	
+173	sentence	4	, but does not	22.37716914967116	
+173	sentence	5	internationalize	26.206883247637446	
+173	sentence	6	it.	2.3651732618211097	
+174	sentence	1	The manager	13.095507505190804	
+174	sentence	2	likes	13.173986628432521	
+174	sentence	3	spaghetti	18.241195398337073	
+174	sentence	4	, but does not	22.37716914967116	
+174	sentence	5	alkalinize	30.032993376599713	
+174	sentence	6	it.	3.740449469736669	
+175	sentence	1	The manager	13.095507505190804	
+175	sentence	2	likes	13.173986628432521	
+175	sentence	3	spaghetti	18.241195398337073	
+175	sentence	4	, but does not	22.37716914967116	
+175	sentence	5	depersonalize	26.707412667370715	
+175	sentence	6	it.	3.4463206986387984	
+176	sentence	1	The manager	13.095507505190804	
+176	sentence	2	likes	13.173986628432521	
+176	sentence	3	spaghetti	18.241195398337073	
+176	sentence	4	, but does not	22.37716914967116	
+176	sentence	5	italicize	22.661354980285545	
+176	sentence	6	it.	3.3081515567621267	
+177	sentence	1	The manager	13.095507505190804	
+177	sentence	2	likes	13.173986628432521	
+177	sentence	3	spaghetti	18.241195398337073	
+177	sentence	4	, but does not	22.37716914967116	
+177	sentence	5	randomize	22.299659127169225	
+177	sentence	6	it.	3.396053007505339	
+178	sentence	1	The manager	13.095507505190804	
+178	sentence	2	likes	13.173986628432521	
+178	sentence	3	spaghetti	18.241195398337073	
+178	sentence	4	, but does not	22.37716914967116	
+178	sentence	5	stylize	20.62979355711895	
+178	sentence	6	it.	3.3133811192182376	
+179	sentence	1	The manager	13.095507505190804	
+179	sentence	2	likes	13.173986628432521	
+179	sentence	3	spaghetti	18.241195398337073	
+179	sentence	4	, but does not	22.37716914967116	
+179	sentence	5	temporize	24.107007499332237	
+179	sentence	6	it.	4.501878922825935	
+180	sentence	1	The manager	13.095507505190804	
+180	sentence	2	likes	13.173986628432521	
+180	sentence	3	spaghetti	18.241195398337073	
+180	sentence	4	, but does not	22.37716914967116	
+180	sentence	5	ramify	24.55699339799139	
+180	sentence	6	it.	3.123173552834823	
+181	sentence	1	The manager	13.095507505190804	
+181	sentence	2	likes	13.173986628432521	
+181	sentence	3	spaghetti	18.241195398337073	
+181	sentence	4	, but does not	22.37716914967116	
+181	sentence	5	reimpose	25.974606489078525	
+181	sentence	6	it.	3.099476493329063	
+182	sentence	1	The manager	13.095507505190804	
+182	sentence	2	likes	13.173986628432521	
+182	sentence	3	spaghetti	18.241195398337073	
+182	sentence	4	, but does not	22.37716914967116	
+182	sentence	5	sensitize	23.8746656023443	
+182	sentence	6	it.	7.437812641900631	
+183	sentence	1	The manager	13.095507505190804	
+183	sentence	2	likes	13.173986628432521	
+183	sentence	3	spaghetti	18.241195398337073	
+183	sentence	4	, but does not	22.37716914967116	
+183	sentence	5	systematize	21.71954709177714	
+183	sentence	6	it.	2.687960103971528	
+184	sentence	1	The manager	13.095507505190804	
+184	sentence	2	likes	13.173986628432521	
+184	sentence	3	spaghetti	18.241195398337073	
+184	sentence	4	, but does not	22.37716914967116	
+184	sentence	5	denationalize	29.9088007568724	
+184	sentence	6	it.	2.551526267042062	
+185	sentence	1	The manager	13.095507505190804	
+185	sentence	2	likes	13.173986628432521	
+185	sentence	3	spaghetti	18.241195398337073	
+185	sentence	4	, but does not	22.37716914967116	
+185	sentence	5	digitalize	26.692433137698877	
+185	sentence	6	it.	2.6677394157789847	
+186	sentence	1	The manager	13.095507505190804	
+186	sentence	2	likes	13.173986628432521	
+186	sentence	3	spaghetti	18.241195398337073	
+186	sentence	4	, but does not	22.37716914967116	
+186	sentence	5	reify	22.325320379032657	
+186	sentence	6	it.	4.169949826920951	
+187	sentence	1	The manager	13.095507505190804	
+187	sentence	2	likes	13.173986628432521	
+187	sentence	3	spaghetti	18.241195398337073	
+187	sentence	4	, but does not	22.37716914967116	
+187	sentence	5	secularize	28.892908116830135	
+187	sentence	6	it.	2.736168560834882	
+188	sentence	1	The manager	13.095507505190804	
+188	sentence	2	likes	13.173986628432521	
+188	sentence	3	spaghetti	18.241195398337073	
+188	sentence	4	, but does not	22.37716914967116	
+188	sentence	5	spiritualize	28.484550016873047	
+188	sentence	6	it.	2.686822868692698	
+189	sentence	1	The manager	13.095507505190804	
+189	sentence	2	likes	13.173986628432521	
+189	sentence	3	spaghetti	18.241195398337073	
+189	sentence	4	, but does not	22.37716914967116	
+189	sentence	5	alkalize	24.952248139779247	
+189	sentence	6	it.	3.4218217700233913	
+190	sentence	1	The manager	13.095507505190804	
+190	sentence	2	likes	13.173986628432521	
+190	sentence	3	spaghetti	18.241195398337073	
+190	sentence	4	, but does not	22.37716914967116	
+190	sentence	5	decentralize	24.91624838733534	
+190	sentence	6	it.	3.1489053390829396	
+191	sentence	1	The manager	13.095507505190804	
+191	sentence	2	likes	13.173986628432521	
+191	sentence	3	spaghetti	18.241195398337073	
+191	sentence	4	, but does not	22.37716914967116	
+191	sentence	5	decolonize	26.9843462670546	
+191	sentence	6	it.	3.6828078504648154	
+192	sentence	1	The manager	13.095507505190804	
+192	sentence	2	likes	13.173986628432521	
+192	sentence	3	spaghetti	18.241195398337073	
+192	sentence	4	, but does not	22.37716914967116	
+192	sentence	5	demilitarize	27.94878797196643	
+192	sentence	6	it.	4.541541991724543	
+193	sentence	1	The manager	13.095507505190804	
+193	sentence	2	likes	13.173986628432521	
+193	sentence	3	spaghetti	18.241195398337073	
+193	sentence	4	, but does not	22.37716914967116	
+193	sentence	5	desexualize	24.794336851436054	
+193	sentence	6	it.	3.4636022033280973	
+194	sentence	1	The manager	13.095507505190804	
+194	sentence	2	likes	13.173986628432521	
+194	sentence	3	spaghetti	18.241195398337073	
+194	sentence	4	, but does not	22.37716914967116	
+194	sentence	5	desynchronize	24.7263428654825	
+194	sentence	6	it.	4.125365216493928	
+195	sentence	1	The manager	13.095507505190804	
+195	sentence	2	likes	13.173986628432521	
+195	sentence	3	spaghetti	18.241195398337073	
+195	sentence	4	, but does not	22.37716914967116	
+195	sentence	5	devitalize	29.354973216972642	
+195	sentence	6	it.	3.173019456517041	
+196	sentence	1	The manager	13.095507505190804	
+196	sentence	2	likes	13.173986628432521	
+196	sentence	3	spaghetti	18.241195398337073	
+196	sentence	4	, but does not	22.37716914967116	
+196	sentence	5	eroticize	25.506219435677288	
+196	sentence	6	it.	2.1597042989654307	
+197	sentence	1	The manager	13.095507505190804	
+197	sentence	2	likes	13.173986628432521	
+197	sentence	3	spaghetti	18.241195398337073	
+197	sentence	4	, but does not	22.37716914967116	
+197	sentence	5	officialize	24.66468497836071	
+197	sentence	6	it.	2.5238730046271804	
+198	sentence	1	The manager	13.095507505190804	
+198	sentence	2	likes	13.173986628432521	
+198	sentence	3	spaghetti	18.241195398337073	
+198	sentence	4	, but does not	22.37716914967116	
+198	sentence	5	quantize	25.542108646272354	
+198	sentence	6	it.	3.1773719074537516	
+199	sentence	1	The manager	13.095507505190804	
+199	sentence	2	likes	13.173986628432521	
+199	sentence	3	spaghetti	18.241195398337073	
+199	sentence	4	, but does not	22.37716914967116	
+199	sentence	5	reharmonize	35.21995699040222	
+199	sentence	6	it.	3.2998392052892997	
+200	sentence	1	The manager	13.095507505190804	
+200	sentence	2	likes	13.173986628432521	
+200	sentence	3	spaghetti	18.241195398337073	
+200	sentence	4	, but does not	22.37716914967116	
+200	sentence	5	remilitarize	29.824412159262213	
+200	sentence	6	it.	5.499126515229363	
+201	sentence	1	The manager	13.095507505190804	
+201	sentence	2	likes	13.173986628432521	
+201	sentence	3	spaghetti	18.241195398337073	
+201	sentence	4	, but does not	22.37716914967116	
+201	sentence	5	solarize	30.16701346658384	
+201	sentence	6	it.	3.727259088346095	
+202	sentence	1	The manager	13.095507505190804	
+202	sentence	2	likes	13.173986628432521	
+202	sentence	3	spaghetti	18.241195398337073	
+202	sentence	4	, but does not	22.37716914967116	
+202	sentence	5	syncretize	37.719839334266325	
+202	sentence	6	it.	4.741511809318884	
+203	sentence	1	The manager	13.095507505190804	
+203	sentence	2	likes	13.173986628432521	
+203	sentence	3	spaghetti	18.241195398337073	
+203	sentence	4	, but does not	22.37716914967116	
+203	sentence	5	totalize	20.708483961047254	
+203	sentence	6	it.	3.782588658851074	
+204	sentence	1	The manager	13.095507505190804	
+204	sentence	2	likes	13.173986628432521	
+204	sentence	3	spaghetti	18.241195398337073	
+204	sentence	4	, but does not	22.37716914967116	
+204	sentence	5	alchemize	24.296670654634347	
+204	sentence	6	it.	3.416740800577626	
+205	sentence	1	The manager	13.095507505190804	
+205	sentence	2	likes	13.173986628432521	
+205	sentence	3	spaghetti	18.241195398337073	
+205	sentence	4	, but does not	22.37716914967116	
+205	sentence	5	aluminize	31.96165070851074	
+205	sentence	6	it.	3.8826333746150823	
+206	sentence	1	The manager	13.095507505190804	
+206	sentence	2	likes	13.173986628432521	
+206	sentence	3	spaghetti	18.241195398337073	
+206	sentence	4	, but does not	22.37716914967116	
+206	sentence	5	analogize	23.266906968865058	
+206	sentence	6	it.	5.127442253716234	
+207	sentence	1	The manager	13.095507505190804	
+207	sentence	2	likes	13.173986628432521	
+207	sentence	3	spaghetti	18.241195398337073	
+207	sentence	4	, but does not	22.37716914967116	
+207	sentence	5	attitudinize	40.78794602009536	
+207	sentence	6	it.	4.888006115375871	
+208	sentence	1	The manager	13.095507505190804	
+208	sentence	2	likes	13.173986628432521	
+208	sentence	3	spaghetti	18.241195398337073	
+208	sentence	4	, but does not	22.37716914967116	
+208	sentence	5	deionize	26.856144325964106	
+208	sentence	6	it.	3.3624108792307865	
+209	sentence	1	The manager	13.095507505190804	
+209	sentence	2	likes	13.173986628432521	
+209	sentence	3	spaghetti	18.241195398337073	
+209	sentence	4	, but does not	22.37716914967116	
+209	sentence	5	demythologize	29.305952658031913	
+209	sentence	6	it.	2.568039439238631	
+210	sentence	1	The manager	13.095507505190804	
+210	sentence	2	likes	13.173986628432521	
+210	sentence	3	spaghetti	18.241195398337073	
+210	sentence	4	, but does not	22.37716914967116	
+210	sentence	5	deoxidize	34.479367379171975	
+210	sentence	6	it.	4.104025953140173	
+211	sentence	1	The manager	13.095507505190804	
+211	sentence	2	likes	13.173986628432521	
+211	sentence	3	spaghetti	18.241195398337073	
+211	sentence	4	, but does not	22.37716914967116	
+211	sentence	5	dichotomize	26.168441298555624	
+211	sentence	6	it.	3.6580893859955816	
+212	sentence	1	The manager	13.095507505190804	
+212	sentence	2	likes	13.173986628432521	
+212	sentence	3	spaghetti	18.241195398337073	
+212	sentence	4	, but does not	22.37716914967116	
+212	sentence	5	dogmatize	27.355136680986615	
+212	sentence	6	it.	3.8256594779852033	
+213	sentence	1	The manager	13.095507505190804	
+213	sentence	2	likes	13.173986628432521	
+213	sentence	3	spaghetti	18.241195398337073	
+213	sentence	4	, but does not	22.37716914967116	
+213	sentence	5	factorize	36.462498595344755	
+213	sentence	6	it.	4.27460505358929	
+214	sentence	1	The manager	13.095507505190804	
+214	sentence	2	likes	13.173986628432521	
+214	sentence	3	spaghetti	18.241195398337073	
+214	sentence	4	, but does not	22.37716914967116	
+214	sentence	5	iodize	24.278885348267174	
+214	sentence	6	it.	2.705916038626185	
+215	sentence	1	The manager	13.095507505190804	
+215	sentence	2	likes	13.173986628432521	
+215	sentence	3	spaghetti	18.241195398337073	
+215	sentence	4	, but does not	22.37716914967116	
+215	sentence	5	overcapitalize	29.078276650361886	
+215	sentence	6	it.	4.478283247092859	
+216	sentence	1	The manager	13.095507505190804	
+216	sentence	2	likes	13.173986628432521	
+216	sentence	3	spaghetti	18.241195398337073	
+216	sentence	4	, but does not	22.37716914967116	
+216	sentence	5	overspecialize	28.198803938152206	
+216	sentence	6	it.	3.358836993754532	
+217	sentence	1	The manager	13.095507505190804	
+217	sentence	2	likes	13.173986628432521	
+217	sentence	3	spaghetti	18.241195398337073	
+217	sentence	4	, but does not	22.37716914967116	
+217	sentence	5	relativize	23.570941962150457	
+217	sentence	6	it.	4.501015569918604	
+218	sentence	1	The manager	13.095507505190804	
+218	sentence	2	likes	13.173986628432521	
+218	sentence	3	spaghetti	18.241195398337073	
+218	sentence	4	, but does not	22.37716914967116	
+218	sentence	5	schematize	27.894855538131516	
+218	sentence	6	it.	3.9048191365763847	
+219	sentence	1	The manager	13.095507505190804	
+219	sentence	2	likes	13.173986628432521	
+219	sentence	3	spaghetti	18.241195398337073	
+219	sentence	4	, but does not	22.37716914967116	
+219	sentence	5	sensualize	24.21651444257274	
+219	sentence	6	it.	3.1281723145734754	
+220	sentence	1	The manager	13.095507505190804	
+220	sentence	2	likes	13.173986628432521	
+220	sentence	3	spaghetti	18.241195398337073	
+220	sentence	4	, but does not	22.37716914967116	
+220	sentence	5	signalize	34.23304484051275	
+220	sentence	6	it.	3.7904651202952895	
+221	sentence	1	The manager	13.095507505190804	
+221	sentence	2	likes	13.173986628432521	
+221	sentence	3	spaghetti	18.241195398337073	
+221	sentence	4	, but does not	22.37716914967116	
+221	sentence	5	singularize	25.017883856628504	
+221	sentence	6	it.	3.364371653433274	
+222	sentence	1	The manager	13.095507505190804	
+222	sentence	2	likes	13.173986628432521	
+222	sentence	3	spaghetti	18.241195398337073	
+222	sentence	4	, but does not	22.37716914967116	
+222	sentence	5	steepen	24.573215489551377	
+222	sentence	6	it.	4.048747289499849	
+223	sentence	1	The manager	13.095507505190804	
+223	sentence	2	likes	13.173986628432521	
+223	sentence	3	spaghetti	18.241195398337073	
+223	sentence	4	, but does not	22.37716914967116	
+223	sentence	5	subtilize	26.483501605137718	
+223	sentence	6	it.	2.9814779926935344	
+224	sentence	1	The manager	13.095507505190804	
+224	sentence	2	likes	13.173986628432521	
+224	sentence	3	spaghetti	18.241195398337073	
+224	sentence	4	, but does not	22.37716914967116	
+224	sentence	5	syllogize	29.83448690294976	
+224	sentence	6	it.	3.2277875036669537	
+225	sentence	1	The manager	13.095507505190804	
+225	sentence	2	likes	13.173986628432521	
+225	sentence	3	spaghetti	18.241195398337073	
+225	sentence	4	, but does not	22.37716914967116	
+225	sentence	5	loathe	14.510306659140182	
+225	sentence	6	it.	3.056633293233351	
+226	sentence	1	The manager	13.095507505190804	
+226	sentence	2	likes	13.173986628432521	
+226	sentence	3	spaghetti	18.241195398337073	
+226	sentence	4	, but does not	22.37716914967116	
+226	sentence	5	love	6.049870857653606	
+226	sentence	6	it.	4.505668818511674	
+227	sentence	1	The manager	13.095507505190804	
+227	sentence	2	likes	13.173986628432521	
+227	sentence	3	spaghetti	18.241195398337073	
+227	sentence	4	, but does not	22.37716914967116	
+227	sentence	5	will	15.050534735416454	
+227	sentence	6	it.	7.134016983971739	
+228	sentence	1	The manager	13.095507505190804	
+228	sentence	2	likes	13.173986628432521	
+228	sentence	3	spaghetti	18.241195398337073	
+228	sentence	4	, but does not	22.37716914967116	
+228	sentence	5	have to	10.040832492411504	
+228	sentence	6	it.	13.697078740337789	
+229	sentence	1	The manager	13.095507505190804	
+229	sentence	2	likes	13.173986628432521	
+229	sentence	3	spaghetti	18.241195398337073	
+229	sentence	4	, but does not	22.37716914967116	
+229	sentence	5	win	14.281593424102802	
+229	sentence	6	it.	6.508934344590601	
+230	sentence	1	The manager	13.095507505190804	
+230	sentence	2	likes	13.173986628432521	
+230	sentence	3	spaghetti	18.241195398337073	
+230	sentence	4	, but does not	22.37716914967116	
+230	sentence	5	finish	13.43399687931295	
+230	sentence	6	it.	3.972202971080338	

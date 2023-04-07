@@ -1,0 +1,1381 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	The dancer	17.229282501329273	
+1	sentence	2	started	8.630240765028496	
+1	sentence	3		0.0	
+1	sentence	4	, but did not	28.347268713933623	
+1	sentence	5	have	5.084485803044928	
+1	sentence	6	.	10.209051130977528	
+2	sentence	1	The dancer	17.229282501329273	
+2	sentence	2	started	8.630240765028496	
+2	sentence	3		0.0	
+2	sentence	4	, but did not	28.347268713933623	
+2	sentence	5	know	5.366042040425449	
+2	sentence	6	.	8.871927296355398	
+3	sentence	1	The dancer	17.229282501329273	
+3	sentence	2	started	8.630240765028496	
+3	sentence	3		0.0	
+3	sentence	4	, but did not	28.347268713933623	
+3	sentence	5	get	4.320937867662334	
+3	sentence	6	.	9.636676358571618	
+4	sentence	1	The dancer	17.229282501329273	
+4	sentence	2	started	8.630240765028496	
+4	sentence	3		0.0	
+4	sentence	4	, but did not	28.347268713933623	
+4	sentence	5	go	5.957794098104072	
+4	sentence	6	.	8.765117815002352	
+5	sentence	1	The dancer	17.229282501329273	
+5	sentence	2	started	8.630240765028496	
+5	sentence	3		0.0	
+5	sentence	4	, but did not	28.347268713933623	
+5	sentence	5	come	6.335110275485005	
+5	sentence	6	.	9.077383274520937	
+6	sentence	1	The dancer	17.229282501329273	
+6	sentence	2	started	8.630240765028496	
+6	sentence	3		0.0	
+6	sentence	4	, but did not	28.347268713933623	
+6	sentence	5	see	5.9610961650006375	
+6	sentence	6	.	9.230401054507801	
+7	sentence	1	The dancer	17.229282501329273	
+7	sentence	2	started	8.630240765028496	
+7	sentence	3		0.0	
+7	sentence	4	, but did not	28.347268713933623	
+7	sentence	5	let	6.996800453998196	
+7	sentence	6	.	14.16906586357387	
+8	sentence	1	The dancer	17.229282501329273	
+8	sentence	2	started	8.630240765028496	
+8	sentence	3		0.0	
+8	sentence	4	, but did not	28.347268713933623	
+8	sentence	5	take	6.763498420866158	
+8	sentence	6	.	10.656111088797555	
+9	sentence	1	The dancer	17.229282501329273	
+9	sentence	2	started	8.630240765028496	
+9	sentence	3		0.0	
+9	sentence	4	, but did not	28.347268713933623	
+9	sentence	5	say	7.04360174881219	
+9	sentence	6	.	7.1068060609348755	
+10	sentence	1	The dancer	17.229282501329273	
+10	sentence	2	started	8.630240765028496	
+10	sentence	3		0.0	
+10	sentence	4	, but did not	28.347268713933623	
+10	sentence	5	make	5.664482846537077	
+10	sentence	6	.	11.526255934976728	
+11	sentence	1	The dancer	17.229282501329273	
+11	sentence	2	started	8.630240765028496	
+11	sentence	3		0.0	
+11	sentence	4	, but did not	28.347268713933623	
+11	sentence	5	give	6.981104629349852	
+11	sentence	6	.	12.801682713428335	
+12	sentence	1	The dancer	17.229282501329273	
+12	sentence	2	started	8.630240765028496	
+12	sentence	3		0.0	
+12	sentence	4	, but did not	28.347268713933623	
+12	sentence	5	find	7.376384050648104	
+12	sentence	6	.	10.348886096810457	
+13	sentence	1	The dancer	17.229282501329273	
+13	sentence	2	started	8.630240765028496	
+13	sentence	3		0.0	
+13	sentence	4	, but did not	28.347268713933623	
+13	sentence	5	keep	8.718674244102154	
+13	sentence	6	.	8.45737549920146	
+14	sentence	1	The dancer	17.229282501329273	
+14	sentence	2	started	8.630240765028496	
+14	sentence	3		0.0	
+14	sentence	4	, but did not	28.347268713933623	
+14	sentence	5	leave	6.019168514821577	
+14	sentence	6	.	6.3781396468002765	
+15	sentence	1	The dancer	17.229282501329273	
+15	sentence	2	started	8.630240765028496	
+15	sentence	3		0.0	
+15	sentence	4	, but did not	28.347268713933623	
+15	sentence	5	believe	9.752265210285909	
+15	sentence	6	.	10.244490563944922	
+16	sentence	1	The dancer	17.229282501329273	
+16	sentence	2	started	8.630240765028496	
+16	sentence	3		0.0	
+16	sentence	4	, but did not	28.347268713933623	
+16	sentence	5	remember	9.918447230300416	
+16	sentence	6	.	6.930120716466875	
+17	sentence	1	The dancer	17.229282501329273	
+17	sentence	2	started	8.630240765028496	
+17	sentence	3		0.0	
+17	sentence	4	, but did not	28.347268713933623	
+17	sentence	5	run	7.04111419175011	
+17	sentence	6	.	7.382441967542095	
+18	sentence	1	The dancer	17.229282501329273	
+18	sentence	2	started	8.630240765028496	
+18	sentence	3		0.0	
+18	sentence	4	, but did not	28.347268713933623	
+18	sentence	5	happen	11.258073756457902	
+18	sentence	6	.	6.959089474178206	
+19	sentence	1	The dancer	17.229282501329273	
+19	sentence	2	started	8.630240765028496	
+19	sentence	3		0.0	
+19	sentence	4	, but did not	28.347268713933623	
+19	sentence	5	buy	11.91410639368831	
+19	sentence	6	.	7.800559996944325	
+20	sentence	1	The dancer	17.229282501329273	
+20	sentence	2	started	8.630240765028496	
+20	sentence	3		0.0	
+20	sentence	4	, but did not	28.347268713933623	
+20	sentence	5	save	9.938479769472917	
+20	sentence	6	.	7.278893277249409	
+21	sentence	1	The dancer	17.229282501329273	
+21	sentence	2	started	8.630240765028496	
+21	sentence	3		0.0	
+21	sentence	4	, but did not	28.347268713933623	
+21	sentence	5	lose	7.803011093684422	
+21	sentence	6	.	7.677138367379139	
+22	sentence	1	The dancer	17.229282501329273	
+22	sentence	2	started	8.630240765028496	
+22	sentence	3		0.0	
+22	sentence	4	, but did not	28.347268713933623	
+22	sentence	5	follow	8.072789959133859	
+22	sentence	6	.	8.799983513846469	
+23	sentence	1	The dancer	17.229282501329273	
+23	sentence	2	started	8.630240765028496	
+23	sentence	3		0.0	
+23	sentence	4	, but did not	28.347268713933623	
+23	sentence	5	expect	9.781345412755	
+23	sentence	6	.	9.821513680690517	
+24	sentence	1	The dancer	17.229282501329273	
+24	sentence	2	started	8.630240765028496	
+24	sentence	3		0.0	
+24	sentence	4	, but did not	28.347268713933623	
+24	sentence	5	realize	7.01053705228791	
+24	sentence	6	.	8.479874957517936	
+25	sentence	1	The dancer	17.229282501329273	
+25	sentence	2	started	8.630240765028496	
+25	sentence	3		0.0	
+25	sentence	4	, but did not	28.347268713933623	
+25	sentence	5	slow	11.777004576142893	
+25	sentence	6	.	9.88204056690457	
+26	sentence	1	The dancer	17.229282501329273	
+26	sentence	2	started	8.630240765028496	
+26	sentence	3		0.0	
+26	sentence	4	, but did not	28.347268713933623	
+26	sentence	5	allow	8.650475555798412	
+26	sentence	6	.	10.532904781511249	
+27	sentence	1	The dancer	17.229282501329273	
+27	sentence	2	started	8.630240765028496	
+27	sentence	3		0.0	
+27	sentence	4	, but did not	28.347268713933623	
+27	sentence	5	consider	11.736631304887547	
+27	sentence	6	.	10.536867949717731	
+28	sentence	1	The dancer	17.229282501329273	
+28	sentence	2	started	8.630240765028496	
+28	sentence	3		0.0	
+28	sentence	4	, but did not	28.347268713933623	
+28	sentence	5	apologize	11.839149475136264	
+28	sentence	6	.	4.444991705452091	
+29	sentence	1	The dancer	17.229282501329273	
+29	sentence	2	started	8.630240765028496	
+29	sentence	3		0.0	
+29	sentence	4	, but did not	28.347268713933623	
+29	sentence	5	recognize	8.94887233435142	
+29	sentence	6	.	10.051024528266934	
+30	sentence	1	The dancer	17.229282501329273	
+30	sentence	2	started	8.630240765028496	
+30	sentence	3		0.0	
+30	sentence	4	, but did not	28.347268713933623	
+30	sentence	5	settle	12.047862116778541	
+30	sentence	6	.	5.823900788893151	
+31	sentence	1	The dancer	17.229282501329273	
+31	sentence	2	started	8.630240765028496	
+31	sentence	3		0.0	
+31	sentence	4	, but did not	28.347268713933623	
+31	sentence	5	add	11.353239324416933	
+31	sentence	6	.	8.429215747879788	
+32	sentence	1	The dancer	17.229282501329273	
+32	sentence	2	started	8.630240765028496	
+32	sentence	3		0.0	
+32	sentence	4	, but did not	28.347268713933623	
+32	sentence	5	assume	15.785559692118754	
+32	sentence	6	.	9.237678672361712	
+33	sentence	1	The dancer	17.229282501329273	
+33	sentence	2	started	8.630240765028496	
+33	sentence	3		0.0	
+33	sentence	4	, but did not	28.347268713933623	
+33	sentence	5	appear	7.4075995897103075	
+33	sentence	6	.	6.9543241788881	
+34	sentence	1	The dancer	17.229282501329273	
+34	sentence	2	started	8.630240765028496	
+34	sentence	3		0.0	
+34	sentence	4	, but did not	28.347268713933623	
+34	sentence	5	remove	10.824534386718106	
+34	sentence	6	.	8.434322256749207	
+35	sentence	1	The dancer	17.229282501329273	
+35	sentence	2	started	8.630240765028496	
+35	sentence	3		0.0	
+35	sentence	4	, but did not	28.347268713933623	
+35	sentence	5	identify	11.58748795005932	
+35	sentence	6	.	9.891999738250734	
+36	sentence	1	The dancer	17.229282501329273	
+36	sentence	2	started	8.630240765028496	
+36	sentence	3		0.0	
+36	sentence	4	, but did not	28.347268713933623	
+36	sentence	5	replace	13.79238808579294	
+36	sentence	6	.	7.9152731130004215	
+37	sentence	1	The dancer	17.229282501329273	
+37	sentence	2	started	8.630240765028496	
+37	sentence	3		0.0	
+37	sentence	4	, but did not	28.347268713933623	
+37	sentence	5	apply	11.773768550584258	
+37	sentence	6	.	6.560794165114424	
+38	sentence	1	The dancer	17.229282501329273	
+38	sentence	2	started	8.630240765028496	
+38	sentence	3		0.0	
+38	sentence	4	, but did not	28.347268713933623	
+38	sentence	5	succeed	6.197832347705105	
+38	sentence	6	.	4.389486368677931	
+39	sentence	1	The dancer	17.229282501329273	
+39	sentence	2	started	8.630240765028496	
+39	sentence	3		0.0	
+39	sentence	4	, but did not	28.347268713933623	
+39	sentence	5	develop	11.974974493481675	
+39	sentence	6	.	8.4201089225513	
+40	sentence	1	The dancer	17.229282501329273	
+40	sentence	2	started	8.630240765028496	
+40	sentence	3		0.0	
+40	sentence	4	, but did not	28.347268713933623	
+40	sentence	5	approve	13.915224974345191	
+40	sentence	6	.	5.423048441776341	
+41	sentence	1	The dancer	17.229282501329273	
+41	sentence	2	started	8.630240765028496	
+41	sentence	3		0.0	
+41	sentence	4	, but did not	28.347268713933623	
+41	sentence	5	expose	14.531610795037498	
+41	sentence	6	.	10.301565414390858	
+42	sentence	1	The dancer	17.229282501329273	
+42	sentence	2	started	8.630240765028496	
+42	sentence	3		0.0	
+42	sentence	4	, but did not	28.347268713933623	
+42	sentence	5	establish	13.673887911764844	
+42	sentence	6	.	8.66385030259071	
+43	sentence	1	The dancer	17.229282501329273	
+43	sentence	2	started	8.630240765028496	
+43	sentence	3		0.0	
+43	sentence	4	, but did not	28.347268713933623	
+43	sentence	5	reduce	13.818606496951674	
+43	sentence	6	.	8.191208269420143	
+44	sentence	1	The dancer	17.229282501329273	
+44	sentence	2	started	8.630240765028496	
+44	sentence	3		0.0	
+44	sentence	4	, but did not	28.347268713933623	
+44	sentence	5	participate	9.695909935251183	
+44	sentence	6	.	6.100296858817185	
+45	sentence	1	The dancer	17.229282501329273	
+45	sentence	2	started	8.630240765028496	
+45	sentence	3		0.0	
+45	sentence	4	, but did not	28.347268713933623	
+45	sentence	5	organize	15.360275489620372	
+45	sentence	6	.	7.302563593452959	
+46	sentence	1	The dancer	17.229282501329273	
+46	sentence	2	started	8.630240765028496	
+46	sentence	3		0.0	
+46	sentence	4	, but did not	28.347268713933623	
+46	sentence	5	obtain	12.365344841993698	
+46	sentence	6	.	9.090597045552029	
+47	sentence	1	The dancer	17.229282501329273	
+47	sentence	2	started	8.630240765028496	
+47	sentence	3		0.0	
+47	sentence	4	, but did not	28.347268713933623	
+47	sentence	5	kitten	23.636445252358552	
+47	sentence	6	.	6.657289502929925	
+48	sentence	1	The dancer	17.229282501329273	
+48	sentence	2	started	8.630240765028496	
+48	sentence	3		0.0	
+48	sentence	4	, but did not	28.347268713933623	
+48	sentence	5	acquire	14.95542007432208	
+48	sentence	6	.	8.270865817785571	
+49	sentence	1	The dancer	17.229282501329273	
+49	sentence	2	started	8.630240765028496	
+49	sentence	3		0.0	
+49	sentence	4	, but did not	28.347268713933623	
+49	sentence	5	qualify	12.292875480503731	
+49	sentence	6	.	4.780209625589524	
+50	sentence	1	The dancer	17.229282501329273	
+50	sentence	2	started	8.630240765028496	
+50	sentence	3		0.0	
+50	sentence	4	, but did not	28.347268713933623	
+50	sentence	5	criticize	16.056219108740606	
+50	sentence	6	.	8.778317827421375	
+51	sentence	1	The dancer	17.229282501329273	
+51	sentence	2	started	8.630240765028496	
+51	sentence	3		0.0	
+51	sentence	4	, but did not	28.347268713933623	
+51	sentence	5	rave	16.908768753875307	
+51	sentence	6	.	6.386336339940398	
+52	sentence	1	The dancer	17.229282501329273	
+52	sentence	2	started	8.630240765028496	
+52	sentence	3		0.0	
+52	sentence	4	, but did not	28.347268713933623	
+52	sentence	5	enlighten	17.279630425056588	
+52	sentence	6	.	9.12499357572459	
+53	sentence	1	The dancer	17.229282501329273	
+53	sentence	2	started	8.630240765028496	
+53	sentence	3		0.0	
+53	sentence	4	, but did not	28.347268713933623	
+53	sentence	5	disclose	12.878508051499354	
+53	sentence	6	.	7.969080981010567	
+54	sentence	1	The dancer	17.229282501329273	
+54	sentence	2	started	8.630240765028496	
+54	sentence	3		0.0	
+54	sentence	4	, but did not	28.347268713933623	
+54	sentence	5	reopen	15.837248045939665	
+54	sentence	6	.	6.471226288475677	
+55	sentence	1	The dancer	17.229282501329273	
+55	sentence	2	started	8.630240765028496	
+55	sentence	3		0.0	
+55	sentence	4	, but did not	28.347268713933623	
+55	sentence	5	stabilize	14.826133148431868	
+55	sentence	6	.	5.055892999408383	
+56	sentence	1	The dancer	17.229282501329273	
+56	sentence	2	started	8.630240765028496	
+56	sentence	3		0.0	
+56	sentence	4	, but did not	28.347268713933623	
+56	sentence	5	soar	15.97423979458853	
+56	sentence	6	.	7.2190639526672555	
+57	sentence	1	The dancer	17.229282501329273	
+57	sentence	2	started	8.630240765028496	
+57	sentence	3		0.0	
+57	sentence	4	, but did not	28.347268713933623	
+57	sentence	5	authorize	16.209743205651613	
+57	sentence	6	.	8.62882018833237	
+58	sentence	1	The dancer	17.229282501329273	
+58	sentence	2	started	8.630240765028496	
+58	sentence	3		0.0	
+58	sentence	4	, but did not	28.347268713933623	
+58	sentence	5	sympathize	20.688044209953176	
+58	sentence	6	.	6.6096702586284275	
+59	sentence	1	The dancer	17.229282501329273	
+59	sentence	2	started	8.630240765028496	
+59	sentence	3		0.0	
+59	sentence	4	, but did not	28.347268713933623	
+59	sentence	5	sharpen	19.51943178614426	
+59	sentence	6	.	7.838404435301384	
+60	sentence	1	The dancer	17.229282501329273	
+60	sentence	2	started	8.630240765028496	
+60	sentence	3		0.0	
+60	sentence	4	, but did not	28.347268713933623	
+60	sentence	5	specialize	19.88503171664673	
+60	sentence	6	.	6.886130306098582	
+61	sentence	1	The dancer	17.229282501329273	
+61	sentence	2	started	8.630240765028496	
+61	sentence	3		0.0	
+61	sentence	4	, but did not	28.347268713933623	
+61	sentence	5	minimize	19.608120386700712	
+61	sentence	6	.	6.821710420599598	
+62	sentence	1	The dancer	17.229282501329273	
+62	sentence	2	started	8.630240765028496	
+62	sentence	3		0.0	
+62	sentence	4	, but did not	28.347268713933623	
+62	sentence	5	socialize	17.447258494010153	
+62	sentence	6	.	6.813409849938355	
+63	sentence	1	The dancer	17.229282501329273	
+63	sentence	2	started	8.630240765028496	
+63	sentence	3		0.0	
+63	sentence	4	, but did not	28.347268713933623	
+63	sentence	5	utilize	15.100556921315807	
+63	sentence	6	.	9.540711415251378	
+64	sentence	1	The dancer	17.229282501329273	
+64	sentence	2	started	8.630240765028496	
+64	sentence	3		0.0	
+64	sentence	4	, but did not	28.347268713933623	
+64	sentence	5	rectify	17.86580297051857	
+64	sentence	6	.	6.825894414529788	
+65	sentence	1	The dancer	17.229282501329273	
+65	sentence	2	started	8.630240765028496	
+65	sentence	3		0.0	
+65	sentence	4	, but did not	28.347268713933623	
+65	sentence	5	terrorize	19.475645396913627	
+65	sentence	6	.	9.013559824855145	
+66	sentence	1	The dancer	17.229282501329273	
+66	sentence	2	started	8.630240765028496	
+66	sentence	3		0.0	
+66	sentence	4	, but did not	28.347268713933623	
+66	sentence	5	enslave	19.504062857519543	
+66	sentence	6	.	8.032521253330236	
+67	sentence	1	The dancer	17.229282501329273	
+67	sentence	2	started	8.630240765028496	
+67	sentence	3		0.0	
+67	sentence	4	, but did not	28.347268713933623	
+67	sentence	5	finalize	13.03661621698212	
+67	sentence	6	.	6.15050478597947	
+68	sentence	1	The dancer	17.229282501329273	
+68	sentence	2	started	8.630240765028496	
+68	sentence	3		0.0	
+68	sentence	4	, but did not	28.347268713933623	
+68	sentence	5	maximize	18.499968749992497	
+68	sentence	6	.	6.900375285104246	
+69	sentence	1	The dancer	17.229282501329273	
+69	sentence	2	started	8.630240765028496	
+69	sentence	3		0.0	
+69	sentence	4	, but did not	28.347268713933623	
+69	sentence	5	summarize	19.566866564272946	
+69	sentence	6	.	6.256547224709667	
+70	sentence	1	The dancer	17.229282501329273	
+70	sentence	2	started	8.630240765028496	
+70	sentence	3		0.0	
+70	sentence	4	, but did not	28.347268713933623	
+70	sentence	5	repose	17.8954848166705	
+70	sentence	6	.	4.389391778219956	
+71	sentence	1	The dancer	17.229282501329273	
+71	sentence	2	started	8.630240765028496	
+71	sentence	3		0.0	
+71	sentence	4	, but did not	28.347268713933623	
+71	sentence	5	symbolize	19.147360634878257	
+71	sentence	6	.	8.233513937740584	
+72	sentence	1	The dancer	17.229282501329273	
+72	sentence	2	started	8.630240765028496	
+72	sentence	3		0.0	
+72	sentence	4	, but did not	28.347268713933623	
+72	sentence	5	sterilize	22.031697279923982	
+72	sentence	6	.	7.092231563170158	
+73	sentence	1	The dancer	17.229282501329273	
+73	sentence	2	started	8.630240765028496	
+73	sentence	3		0.0	
+73	sentence	4	, but did not	28.347268713933623	
+73	sentence	5	revolutionize	19.829677982579305	
+73	sentence	6	.	9.463365313713545	
+74	sentence	1	The dancer	17.229282501329273	
+74	sentence	2	started	8.630240765028496	
+74	sentence	3		0.0	
+74	sentence	4	, but did not	28.347268713933623	
+74	sentence	5	synchronize	16.01164524722926	
+74	sentence	6	.	6.297649014474068	
+75	sentence	1	The dancer	17.229282501329273	
+75	sentence	2	started	8.630240765028496	
+75	sentence	3		0.0	
+75	sentence	4	, but did not	28.347268713933623	
+75	sentence	5	fertilize	21.316750212069433	
+75	sentence	6	.	6.945659692937631	
+76	sentence	1	The dancer	17.229282501329273	
+76	sentence	2	started	8.630240765028496	
+76	sentence	3		0.0	
+76	sentence	4	, but did not	28.347268713933623	
+76	sentence	5	rationalize	20.798317120924956	
+76	sentence	6	.	5.341071535381376	
+77	sentence	1	The dancer	17.229282501329273	
+77	sentence	2	started	8.630240765028496	
+77	sentence	3		0.0	
+77	sentence	4	, but did not	28.347268713933623	
+77	sentence	5	antagonize	18.195905186089224	
+77	sentence	6	.	8.809293278702974	
+78	sentence	1	The dancer	17.229282501329273	
+78	sentence	2	started	8.630240765028496	
+78	sentence	3		0.0	
+78	sentence	4	, but did not	28.347268713933623	
+78	sentence	5	kindle	16.320971781218578	
+78	sentence	6	.	7.1594361917519125	
+79	sentence	1	The dancer	17.229282501329273	
+79	sentence	2	started	8.630240765028496	
+79	sentence	3		0.0	
+79	sentence	4	, but did not	28.347268713933623	
+79	sentence	5	familiarize	18.806212967917386	
+79	sentence	6	.	14.691773422271808	
+80	sentence	1	The dancer	17.229282501329273	
+80	sentence	2	started	8.630240765028496	
+80	sentence	3		0.0	
+80	sentence	4	, but did not	28.347268713933623	
+80	sentence	5	synthesize	20.4311206821926	
+80	sentence	6	.	5.793868490468884	
+81	sentence	1	The dancer	17.229282501329273	
+81	sentence	2	started	8.630240765028496	
+81	sentence	3		0.0	
+81	sentence	4	, but did not	28.347268713933623	
+81	sentence	5	reorganize	19.921162111411796	
+81	sentence	6	.	5.77208104032698	
+82	sentence	1	The dancer	17.229282501329273	
+82	sentence	2	started	8.630240765028496	
+82	sentence	3		0.0	
+82	sentence	4	, but did not	28.347268713933623	
+82	sentence	5	ripen	23.186610182484205	
+82	sentence	6	.	5.759675587754944	
+83	sentence	1	The dancer	17.229282501329273	
+83	sentence	2	started	8.630240765028496	
+83	sentence	3		0.0	
+83	sentence	4	, but did not	28.347268713933623	
+83	sentence	5	deepen	17.776133672485937	
+83	sentence	6	.	6.468297767896785	
+84	sentence	1	The dancer	17.229282501329273	
+84	sentence	2	started	8.630240765028496	
+84	sentence	3		0.0	
+84	sentence	4	, but did not	28.347268713933623	
+84	sentence	5	destabilize	20.205650266028563	
+84	sentence	6	.	7.573581421919211	
+85	sentence	1	The dancer	17.229282501329273	
+85	sentence	2	started	8.630240765028496	
+85	sentence	3		0.0	
+85	sentence	4	, but did not	28.347268713933623	
+85	sentence	5	enclose	19.79657286744484	
+85	sentence	6	.	5.8796383022459775	
+86	sentence	1	The dancer	17.229282501329273	
+86	sentence	2	started	8.630240765028496	
+86	sentence	3		0.0	
+86	sentence	4	, but did not	28.347268713933623	
+86	sentence	5	dampen	20.26739455562181	
+86	sentence	6	.	8.517754480335771	
+87	sentence	1	The dancer	17.229282501329273	
+87	sentence	2	started	8.630240765028496	
+87	sentence	3		0.0	
+87	sentence	4	, but did not	28.347268713933623	
+87	sentence	5	subsidize	23.442450842981454	
+87	sentence	6	.	7.760770778771309	
+88	sentence	1	The dancer	17.229282501329273	
+88	sentence	2	started	8.630240765028496	
+88	sentence	3		0.0	
+88	sentence	4	, but did not	28.347268713933623	
+88	sentence	5	idolize	19.52270159151403	
+88	sentence	6	.	8.618574149924568	
+89	sentence	1	The dancer	17.229282501329273	
+89	sentence	2	started	8.630240765028496	
+89	sentence	3		0.0	
+89	sentence	4	, but did not	28.347268713933623	
+89	sentence	5	quantify	20.578729930277298	
+89	sentence	6	.	6.028707360569032	
+90	sentence	1	The dancer	17.229282501329273	
+90	sentence	2	started	8.630240765028496	
+90	sentence	3		0.0	
+90	sentence	4	, but did not	28.347268713933623	
+90	sentence	5	engrave	21.874418672757656	
+90	sentence	6	.	7.355476463748015	
+91	sentence	1	The dancer	17.229282501329273	
+91	sentence	2	started	8.630240765028496	
+91	sentence	3		0.0	
+91	sentence	4	, but did not	28.347268713933623	
+91	sentence	5	fraternize	21.358798411612618	
+91	sentence	6	.	6.728352046335834	
+92	sentence	1	The dancer	17.229282501329273	
+92	sentence	2	started	8.630240765028496	
+92	sentence	3		0.0	
+92	sentence	4	, but did not	28.347268713933623	
+92	sentence	5	immobilize	18.684090774768624	
+92	sentence	6	.	6.996593386886557	
+93	sentence	1	The dancer	17.229282501329273	
+93	sentence	2	started	8.630240765028496	
+93	sentence	3		0.0	
+93	sentence	4	, but did not	28.347268713933623	
+93	sentence	5	downsize	22.724712937408942	
+93	sentence	6	.	5.1970384730408865	
+94	sentence	1	The dancer	17.229282501329273	
+94	sentence	2	started	8.630240765028496	
+94	sentence	3		0.0	
+94	sentence	4	, but did not	28.347268713933623	
+94	sentence	5	theorize	21.956916063147624	
+94	sentence	6	.	6.379891806047267	
+95	sentence	1	The dancer	17.229282501329273	
+95	sentence	2	started	8.630240765028496	
+95	sentence	3		0.0	
+95	sentence	4	, but did not	28.347268713933623	
+95	sentence	5	dramatize	20.004826758802086	
+95	sentence	6	.	6.313136396149566	
+96	sentence	1	The dancer	17.229282501329273	
+96	sentence	2	started	8.630240765028496	
+96	sentence	3		0.0	
+96	sentence	4	, but did not	28.347268713933623	
+96	sentence	5	modernize	21.172200438603344	
+96	sentence	6	.	6.975199433049827	
+97	sentence	1	The dancer	17.229282501329273	
+97	sentence	2	started	8.630240765028496	
+97	sentence	3		0.0	
+97	sentence	4	, but did not	28.347268713933623	
+97	sentence	5	revitalize	19.713560950646382	
+97	sentence	6	.	6.072148114385167	
+98	sentence	1	The dancer	17.229282501329273	
+98	sentence	2	started	8.630240765028496	
+98	sentence	3		0.0	
+98	sentence	4	, but did not	28.347268713933623	
+98	sentence	5	traumatize	19.30673295883619	
+98	sentence	6	.	8.417711484398273	
+99	sentence	1	The dancer	17.229282501329273	
+99	sentence	2	started	8.630240765028496	
+99	sentence	3		0.0	
+99	sentence	4	, but did not	28.347268713933623	
+99	sentence	5	immortalize	20.13513959345144	
+99	sentence	6	.	7.003403899860724	
+100	sentence	1	The dancer	17.229282501329273	
+100	sentence	2	started	8.630240765028496	
+100	sentence	3		0.0	
+100	sentence	4	, but did not	28.347268713933623	
+100	sentence	5	agonize	18.624172578151637	
+100	sentence	6	.	5.347168320354463	
+101	sentence	1	The dancer	17.229282501329273	
+101	sentence	2	started	8.630240765028496	
+101	sentence	3		0.0	
+101	sentence	4	, but did not	28.347268713933623	
+101	sentence	5	electrify	18.229921290638075	
+101	sentence	6	.	6.937758809956994	
+102	sentence	1	The dancer	17.229282501329273	
+102	sentence	2	started	8.630240765028496	
+102	sentence	3		0.0	
+102	sentence	4	, but did not	28.347268713933623	
+102	sentence	5	demoralize	19.37943974237567	
+102	sentence	6	.	8.819026808811206	
+103	sentence	1	The dancer	17.229282501329273	
+103	sentence	2	started	8.630240765028496	
+103	sentence	3		0.0	
+103	sentence	4	, but did not	28.347268713933623	
+103	sentence	5	sanitize	20.360772920181507	
+103	sentence	6	.	7.193029218979643	
+104	sentence	1	The dancer	17.229282501329273	
+104	sentence	2	started	8.630240765028496	
+104	sentence	3		0.0	
+104	sentence	4	, but did not	28.347268713933623	
+104	sentence	5	anesthetize	23.755954190625285	
+104	sentence	6	.	5.318166541974166	
+105	sentence	1	The dancer	17.229282501329273	
+105	sentence	2	started	8.630240765028496	
+105	sentence	3		0.0	
+105	sentence	4	, but did not	28.347268713933623	
+105	sentence	5	trivialize	22.276819057212716	
+105	sentence	6	.	7.674213286453265	
+106	sentence	1	The dancer	17.229282501329273	
+106	sentence	2	started	8.630240765028496	
+106	sentence	3		0.0	
+106	sentence	4	, but did not	28.347268713933623	
+106	sentence	5	romanticize	19.06898255144392	
+106	sentence	6	.	7.382633212249855	
+107	sentence	1	The dancer	17.229282501329273	
+107	sentence	2	started	8.630240765028496	
+107	sentence	3		0.0	
+107	sentence	4	, but did not	28.347268713933623	
+107	sentence	5	equalize	18.87738914885985	
+107	sentence	6	.	5.76012136678598	
+108	sentence	1	The dancer	17.229282501329273	
+108	sentence	2	started	8.630240765028496	
+108	sentence	3		0.0	
+108	sentence	4	, but did not	28.347268713933623	
+108	sentence	5	demonize	21.681085235703485	
+108	sentence	6	.	8.509397499365045	
+109	sentence	1	The dancer	17.229282501329273	
+109	sentence	2	started	8.630240765028496	
+109	sentence	3		0.0	
+109	sentence	4	, but did not	28.347268713933623	
+109	sentence	5	alphabetize	27.54808229716309	
+109	sentence	6	.	5.653648283498023	
+110	sentence	1	The dancer	17.229282501329273	
+110	sentence	2	started	8.630240765028496	
+110	sentence	3		0.0	
+110	sentence	4	, but did not	28.347268713933623	
+110	sentence	5	formalize	18.160042063112513	
+110	sentence	6	.	7.2502478469217	
+111	sentence	1	The dancer	17.229282501329273	
+111	sentence	2	started	8.630240765028496	
+111	sentence	3		0.0	
+111	sentence	4	, but did not	28.347268713933623	
+111	sentence	5	optimize	18.870438642007883	
+111	sentence	6	.	5.918473360672007	
+112	sentence	1	The dancer	17.229282501329273	
+112	sentence	2	started	8.630240765028496	
+112	sentence	3		0.0	
+112	sentence	4	, but did not	28.347268713933623	
+112	sentence	5	internalize	17.737192156799022	
+112	sentence	6	.	6.033481598956984	
+113	sentence	1	The dancer	17.229282501329273	
+113	sentence	2	started	8.630240765028496	
+113	sentence	3		0.0	
+113	sentence	4	, but did not	28.347268713933623	
+113	sentence	5	idealize	20.68343761165415	
+113	sentence	6	.	7.067316780504965	
+114	sentence	1	The dancer	17.229282501329273	
+114	sentence	2	started	8.630240765028496	
+114	sentence	3		0.0	
+114	sentence	4	, but did not	28.347268713933623	
+114	sentence	5	sodomize	22.126745695451028	
+114	sentence	6	.	9.592907461857637	
+115	sentence	1	The dancer	17.229282501329273	
+115	sentence	2	started	8.630240765028496	
+115	sentence	3		0.0	
+115	sentence	4	, but did not	28.347268713933623	
+115	sentence	5	digitize	22.61113525081384	
+115	sentence	6	.	6.112145775531029	
+116	sentence	1	The dancer	17.229282501329273	
+116	sentence	2	started	8.630240765028496	
+116	sentence	3		0.0	
+116	sentence	4	, but did not	28.347268713933623	
+116	sentence	5	galvanize	22.06663596390556	
+116	sentence	6	.	7.295984225161551	
+117	sentence	1	The dancer	17.229282501329273	
+117	sentence	2	started	8.630240765028496	
+117	sentence	3		0.0	
+117	sentence	4	, but did not	28.347268713933623	
+117	sentence	5	initialize	18.976368948049718	
+117	sentence	6	.	4.921368169903494	
+118	sentence	1	The dancer	17.229282501329273	
+118	sentence	2	started	8.630240765028496	
+118	sentence	3		0.0	
+118	sentence	4	, but did not	28.347268713933623	
+118	sentence	5	exemplify	21.225556527000276	
+118	sentence	6	.	7.444173420242792	
+119	sentence	1	The dancer	17.229282501329273	
+119	sentence	2	started	8.630240765028496	
+119	sentence	3		0.0	
+119	sentence	4	, but did not	28.347268713933623	
+119	sentence	5	depressurize	30.681181893185958	
+119	sentence	6	.	5.78221288225461	
+120	sentence	1	The dancer	17.229282501329273	
+120	sentence	2	started	8.630240765028496	
+120	sentence	3		0.0	
+120	sentence	4	, but did not	28.347268713933623	
+120	sentence	5	itemize	18.837751963350197	
+120	sentence	6	.	5.304299580835098	
+121	sentence	1	The dancer	17.229282501329273	
+121	sentence	2	started	8.630240765028496	
+121	sentence	3		0.0	
+121	sentence	4	, but did not	28.347268713933623	
+121	sentence	5	dehumanize	23.351566783115654	
+121	sentence	6	.	8.434995052879382	
+122	sentence	1	The dancer	17.229282501329273	
+122	sentence	2	started	8.630240765028496	
+122	sentence	3		0.0	
+122	sentence	4	, but did not	28.347268713933623	
+122	sentence	5	mollify	22.892044204615555	
+122	sentence	6	.	7.7119098197305815	
+123	sentence	1	The dancer	17.229282501329273	
+123	sentence	2	started	8.630240765028496	
+123	sentence	3		0.0	
+123	sentence	4	, but did not	28.347268713933623	
+123	sentence	5	immunize	22.4628081901401	
+123	sentence	6	.	7.160716430604936	
+124	sentence	1	The dancer	17.229282501329273	
+124	sentence	2	started	8.630240765028496	
+124	sentence	3		0.0	
+124	sentence	4	, but did not	28.347268713933623	
+124	sentence	5	oxidize	21.486627521188332	
+124	sentence	6	.	5.915840650252599	
+125	sentence	1	The dancer	17.229282501329273	
+125	sentence	2	started	8.630240765028496	
+125	sentence	3		0.0	
+125	sentence	4	, but did not	28.347268713933623	
+125	sentence	5	dematerialize	19.830111142383334	
+125	sentence	6	.	4.3601819008321145	
+126	sentence	1	The dancer	17.229282501329273	
+126	sentence	2	started	8.630240765028496	
+126	sentence	3		0.0	
+126	sentence	4	, but did not	28.347268713933623	
+126	sentence	5	ostracize	23.482675096644286	
+126	sentence	6	.	8.912738779405142	
+127	sentence	1	The dancer	17.229282501329273	
+127	sentence	2	started	8.630240765028496	
+127	sentence	3		0.0	
+127	sentence	4	, but did not	28.347268713933623	
+127	sentence	5	overdramatize	23.520092410713467	
+127	sentence	6	.	5.276323163019245	
+128	sentence	1	The dancer	17.229282501329273	
+128	sentence	2	started	8.630240765028496	
+128	sentence	3		0.0	
+128	sentence	4	, but did not	28.347268713933623	
+128	sentence	5	satirize	23.09450152015294	
+128	sentence	6	.	8.11743803115905	
+129	sentence	1	The dancer	17.229282501329273	
+129	sentence	2	started	8.630240765028496	
+129	sentence	3		0.0	
+129	sentence	4	, but did not	28.347268713933623	
+129	sentence	5	amortize	20.004930776059112	
+129	sentence	6	.	5.5441269797061725	
+130	sentence	1	The dancer	17.229282501329273	
+130	sentence	2	started	8.630240765028496	
+130	sentence	3		0.0	
+130	sentence	4	, but did not	28.347268713933623	
+130	sentence	5	tyrannize	24.76138095543628	
+130	sentence	6	.	6.036674972818204	
+131	sentence	1	The dancer	17.229282501329273	
+131	sentence	2	started	8.630240765028496	
+131	sentence	3		0.0	
+131	sentence	4	, but did not	28.347268713933623	
+131	sentence	5	eulogize	22.061427302715988	
+131	sentence	6	.	7.007966943553416	
+132	sentence	1	The dancer	17.229282501329273	
+132	sentence	2	started	8.630240765028496	
+132	sentence	3		0.0	
+132	sentence	4	, but did not	28.347268713933623	
+132	sentence	5	resize	19.28746767726485	
+132	sentence	6	.	5.24774239816826	
+133	sentence	1	The dancer	17.229282501329273	
+133	sentence	2	started	8.630240765028496	
+133	sentence	3		0.0	
+133	sentence	4	, but did not	28.347268713933623	
+133	sentence	5	editorialize	24.45942610306198	
+133	sentence	6	.	4.977425914952226	
+134	sentence	1	The dancer	17.229282501329273	
+134	sentence	2	started	8.630240765028496	
+134	sentence	3		0.0	
+134	sentence	4	, but did not	28.347268713933623	
+134	sentence	5	acclimatize	18.915019969984783	
+134	sentence	6	.	5.9334179651013805	
+135	sentence	1	The dancer	17.229282501329273	
+135	sentence	2	started	8.630240765028496	
+135	sentence	3		0.0	
+135	sentence	4	, but did not	28.347268713933623	
+135	sentence	5	desensitize	26.09563515741406	
+135	sentence	6	.	7.024202793725469	
+136	sentence	1	The dancer	17.229282501329273	
+136	sentence	2	started	8.630240765028496	
+136	sentence	3		0.0	
+136	sentence	4	, but did not	28.347268713933623	
+136	sentence	5	standardize	20.94914607771429	
+136	sentence	6	.	7.173368850263611	
+137	sentence	1	The dancer	17.229282501329273	
+137	sentence	2	started	8.630240765028496	
+137	sentence	3		0.0	
+137	sentence	4	, but did not	28.347268713933623	
+137	sentence	5	stigmatize	24.29273895925297	
+137	sentence	6	.	8.26638051025107	
+138	sentence	1	The dancer	17.229282501329273	
+138	sentence	2	started	8.630240765028496	
+138	sentence	3		0.0	
+138	sentence	4	, but did not	28.347268713933623	
+138	sentence	5	actualize	20.422327531721454	
+138	sentence	6	.	6.566582413211862	
+139	sentence	1	The dancer	17.229282501329273	
+139	sentence	2	started	8.630240765028496	
+139	sentence	3		0.0	
+139	sentence	4	, but did not	28.347268713933623	
+139	sentence	5	industrialize	23.17147603167575	
+139	sentence	6	.	4.941850959655953	
+140	sentence	1	The dancer	17.229282501329273	
+140	sentence	2	started	8.630240765028496	
+140	sentence	3		0.0	
+140	sentence	4	, but did not	28.347268713933623	
+140	sentence	5	sexualize	21.315934767079284	
+140	sentence	6	.	8.600286202762419	
+141	sentence	1	The dancer	17.229282501329273	
+141	sentence	2	started	8.630240765028496	
+141	sentence	3		0.0	
+141	sentence	4	, but did not	28.347268713933623	
+141	sentence	5	demagnetize	30.415632038125576	
+141	sentence	6	.	5.615137584351521	
+142	sentence	1	The dancer	17.229282501329273	
+142	sentence	2	started	8.630240765028496	
+142	sentence	3		0.0	
+142	sentence	4	, but did not	28.347268713933623	
+142	sentence	5	solemnize	21.964595024015157	
+142	sentence	6	.	5.556842688980365	
+143	sentence	1	The dancer	17.229282501329273	
+143	sentence	2	started	8.630240765028496	
+143	sentence	3		0.0	
+143	sentence	4	, but did not	28.347268713933623	
+143	sentence	5	atomize	22.673947012535933	
+143	sentence	6	.	4.839093733522536	
+144	sentence	1	The dancer	17.229282501329273	
+144	sentence	2	started	8.630240765028496	
+144	sentence	3		0.0	
+144	sentence	4	, but did not	28.347268713933623	
+144	sentence	5	ionize	22.46384217133492	
+144	sentence	6	.	5.609483826687057	
+145	sentence	1	The dancer	17.229282501329273	
+145	sentence	2	started	8.630240765028496	
+145	sentence	3		0.0	
+145	sentence	4	, but did not	28.347268713933623	
+145	sentence	5	radicalize	19.66679643862184	
+145	sentence	6	.	6.941995086613046	
+146	sentence	1	The dancer	17.229282501329273	
+146	sentence	2	started	8.630240765028496	
+146	sentence	3		0.0	
+146	sentence	4	, but did not	28.347268713933623	
+146	sentence	5	reunify	23.772795161754402	
+146	sentence	6	.	7.497103488802933	
+147	sentence	1	The dancer	17.229282501329273	
+147	sentence	2	started	8.630240765028496	
+147	sentence	3		0.0	
+147	sentence	4	, but did not	28.347268713933623	
+147	sentence	5	demobilize	25.719680109851094	
+147	sentence	6	.	4.361714954181906	
+148	sentence	1	The dancer	17.229282501329273	
+148	sentence	2	started	8.630240765028496	
+148	sentence	3		0.0	
+148	sentence	4	, but did not	28.347268713933623	
+148	sentence	5	democratize	24.208529739547636	
+148	sentence	6	.	7.078735740591652	
+149	sentence	1	The dancer	17.229282501329273	
+149	sentence	2	started	8.630240765028496	
+149	sentence	3		0.0	
+149	sentence	4	, but did not	28.347268713933623	
+149	sentence	5	reclassify	23.152265698561358	
+149	sentence	6	.	5.832266025031118	
+150	sentence	1	The dancer	17.229282501329273	
+150	sentence	2	started	8.630240765028496	
+150	sentence	3		0.0	
+150	sentence	4	, but did not	28.347268713933623	
+150	sentence	5	rhapsodize	23.48355029485669	
+150	sentence	6	.	4.943098865770613	
+151	sentence	1	The dancer	17.229282501329273	
+151	sentence	2	started	8.630240765028496	
+151	sentence	3		0.0	
+151	sentence	4	, but did not	28.347268713933623	
+151	sentence	5	serialize	21.187760568940156	
+151	sentence	6	.	4.9562242377191605	
+152	sentence	1	The dancer	17.229282501329273	
+152	sentence	2	started	8.630240765028496	
+152	sentence	3		0.0	
+152	sentence	4	, but did not	28.347268713933623	
+152	sentence	5	disorganize	24.968969840939987	
+152	sentence	6	.	5.5417412363734035	
+153	sentence	1	The dancer	17.229282501329273	
+153	sentence	2	started	8.630240765028496	
+153	sentence	3		0.0	
+153	sentence	4	, but did not	28.347268713933623	
+153	sentence	5	sermonize	22.69104668856761	
+153	sentence	6	.	4.427298474296627	
+154	sentence	1	The dancer	17.229282501329273	
+154	sentence	2	started	8.630240765028496	
+154	sentence	3		0.0	
+154	sentence	4	, but did not	28.347268713933623	
+154	sentence	5	deodorize	24.97876756357265	
+154	sentence	6	.	5.953729804098882	
+155	sentence	1	The dancer	17.229282501329273	
+155	sentence	2	started	8.630240765028496	
+155	sentence	3		0.0	
+155	sentence	4	, but did not	28.347268713933623	
+155	sentence	5	emulsify	24.89437967001645	
+155	sentence	6	.	5.796728217987431	
+156	sentence	1	The dancer	17.229282501329273	
+156	sentence	2	started	8.630240765028496	
+156	sentence	3		0.0	
+156	sentence	4	, but did not	28.347268713933623	
+156	sentence	5	overemphasize	21.21179616924016	
+156	sentence	6	.	6.556732622831648	
+157	sentence	1	The dancer	17.229282501329273	
+157	sentence	2	started	8.630240765028496	
+157	sentence	3		0.0	
+157	sentence	4	, but did not	28.347268713933623	
+157	sentence	5	aerosolize	23.884687697842853	
+157	sentence	6	.	5.1820126928003045	
+158	sentence	1	The dancer	17.229282501329273	
+158	sentence	2	started	8.630240765028496	
+158	sentence	3		0.0	
+158	sentence	4	, but did not	28.347268713933623	
+158	sentence	5	apostatize	22.44144222110534	
+158	sentence	6	.	4.845829949991531	
+159	sentence	1	The dancer	17.229282501329273	
+159	sentence	2	started	8.630240765028496	
+159	sentence	3		0.0	
+159	sentence	4	, but did not	28.347268713933623	
+159	sentence	5	depolarize	25.0793526703235	
+159	sentence	6	.	5.054792310442861	
+160	sentence	1	The dancer	17.229282501329273	
+160	sentence	2	started	8.630240765028496	
+160	sentence	3		0.0	
+160	sentence	4	, but did not	28.347268713933623	
+160	sentence	5	evangelize	23.687227945540023	
+160	sentence	6	.	5.794160860975351	
+161	sentence	1	The dancer	17.229282501329273	
+161	sentence	2	started	8.630240765028496	
+161	sentence	3		0.0	
+161	sentence	4	, but did not	28.347268713933623	
+161	sentence	5	anatomize	29.002463258208547	
+161	sentence	6	.	6.023984716976339	
+162	sentence	1	The dancer	17.229282501329273	
+162	sentence	2	started	8.630240765028496	
+162	sentence	3		0.0	
+162	sentence	4	, but did not	28.347268713933623	
+162	sentence	5	anthropomorphize	23.519494115317865	
+162	sentence	6	.	7.926807645428489	
+163	sentence	1	The dancer	17.229282501329273	
+163	sentence	2	started	8.630240765028496	
+163	sentence	3		0.0	
+163	sentence	4	, but did not	28.347268713933623	
+163	sentence	5	federalize	26.469008971114807	
+163	sentence	6	.	6.347759943421266	
+164	sentence	1	The dancer	17.229282501329273	
+164	sentence	2	started	8.630240765028496	
+164	sentence	3		0.0	
+164	sentence	4	, but did not	28.347268713933623	
+164	sentence	5	feminize	22.39290674460583	
+164	sentence	6	.	5.971530008463183	
+165	sentence	1	The dancer	17.229282501329273	
+165	sentence	2	started	8.630240765028496	
+165	sentence	3		0.0	
+165	sentence	4	, but did not	28.347268713933623	
+165	sentence	5	fossilize	23.454273306613814	
+165	sentence	6	.	5.194843286485273	
+166	sentence	1	The dancer	17.229282501329273	
+166	sentence	2	started	8.630240765028496	
+166	sentence	3		0.0	
+166	sentence	4	, but did not	28.347268713933623	
+166	sentence	5	regularize	22.024219087303504	
+166	sentence	6	.	5.973411498663622	
+167	sentence	1	The dancer	17.229282501329273	
+167	sentence	2	started	8.630240765028496	
+167	sentence	3		0.0	
+167	sentence	4	, but did not	28.347268713933623	
+167	sentence	5	ritualize	22.249457627858515	
+167	sentence	6	.	5.441422724229222	
+168	sentence	1	The dancer	17.229282501329273	
+168	sentence	2	started	8.630240765028496	
+168	sentence	3		0.0	
+168	sentence	4	, but did not	28.347268713933623	
+168	sentence	5	sentimentalize	25.957806750789953	
+168	sentence	6	.	6.997731224104665	
+169	sentence	1	The dancer	17.229282501329273	
+169	sentence	2	started	8.630240765028496	
+169	sentence	3		0.0	
+169	sentence	4	, but did not	28.347268713933623	
+169	sentence	5	exteriorize	27.287370701032447	
+169	sentence	6	.	6.024873523315998	
+170	sentence	1	The dancer	17.229282501329273	
+170	sentence	2	started	8.630240765028496	
+170	sentence	3		0.0	
+170	sentence	4	, but did not	28.347268713933623	
+170	sentence	5	fetishize	21.429940131531417	
+170	sentence	6	.	7.968879417343756	
+171	sentence	1	The dancer	17.229282501329273	
+171	sentence	2	started	8.630240765028496	
+171	sentence	3		0.0	
+171	sentence	4	, but did not	28.347268713933623	
+171	sentence	5	fictionalize	27.51447658621486	
+171	sentence	6	.	8.224720120836666	
+172	sentence	1	The dancer	17.229282501329273	
+172	sentence	2	started	8.630240765028496	
+172	sentence	3		0.0	
+172	sentence	4	, but did not	28.347268713933623	
+172	sentence	5	individualize	21.89579766410376	
+172	sentence	6	.	6.6219580750672735	
+173	sentence	1	The dancer	17.229282501329273	
+173	sentence	2	started	8.630240765028496	
+173	sentence	3		0.0	
+173	sentence	4	, but did not	28.347268713933623	
+173	sentence	5	internationalize	23.948294427870724	
+173	sentence	6	.	5.5265297148698895	
+174	sentence	1	The dancer	17.229282501329273	
+174	sentence	2	started	8.630240765028496	
+174	sentence	3		0.0	
+174	sentence	4	, but did not	28.347268713933623	
+174	sentence	5	alkalinize	28.8189844539211	
+174	sentence	6	.	5.811828294733186	
+175	sentence	1	The dancer	17.229282501329273	
+175	sentence	2	started	8.630240765028496	
+175	sentence	3		0.0	
+175	sentence	4	, but did not	28.347268713933623	
+175	sentence	5	depersonalize	22.861325196933375	
+175	sentence	6	.	6.119433712343992	
+176	sentence	1	The dancer	17.229282501329273	
+176	sentence	2	started	8.630240765028496	
+176	sentence	3		0.0	
+176	sentence	4	, but did not	28.347268713933623	
+176	sentence	5	italicize	23.174225303336776	
+176	sentence	6	.	5.631150888973357	
+177	sentence	1	The dancer	17.229282501329273	
+177	sentence	2	started	8.630240765028496	
+177	sentence	3		0.0	
+177	sentence	4	, but did not	28.347268713933623	
+177	sentence	5	randomize	22.28715699884957	
+177	sentence	6	.	6.795420464658106	
+178	sentence	1	The dancer	17.229282501329273	
+178	sentence	2	started	8.630240765028496	
+178	sentence	3		0.0	
+178	sentence	4	, but did not	28.347268713933623	
+178	sentence	5	stylize	21.64135750132815	
+178	sentence	6	.	6.295806048387422	
+179	sentence	1	The dancer	17.229282501329273	
+179	sentence	2	started	8.630240765028496	
+179	sentence	3		0.0	
+179	sentence	4	, but did not	28.347268713933623	
+179	sentence	5	temporize	23.86078440964088	
+179	sentence	6	.	5.078425134428523	
+180	sentence	1	The dancer	17.229282501329273	
+180	sentence	2	started	8.630240765028496	
+180	sentence	3		0.0	
+180	sentence	4	, but did not	28.347268713933623	
+180	sentence	5	ramify	27.946537550092177	
+180	sentence	6	.	7.2253991055944375	
+181	sentence	1	The dancer	17.229282501329273	
+181	sentence	2	started	8.630240765028496	
+181	sentence	3		0.0	
+181	sentence	4	, but did not	28.347268713933623	
+181	sentence	5	reimpose	25.085807544673514	
+181	sentence	6	.	6.455680432698886	
+182	sentence	1	The dancer	17.229282501329273	
+182	sentence	2	started	8.630240765028496	
+182	sentence	3		0.0	
+182	sentence	4	, but did not	28.347268713933623	
+182	sentence	5	sensitize	23.945712667311636	
+182	sentence	6	.	9.28953556918047	
+183	sentence	1	The dancer	17.229282501329273	
+183	sentence	2	started	8.630240765028496	
+183	sentence	3		0.0	
+183	sentence	4	, but did not	28.347268713933623	
+183	sentence	5	systematize	23.437509308469874	
+183	sentence	6	.	5.396108391414587	
+184	sentence	1	The dancer	17.229282501329273	
+184	sentence	2	started	8.630240765028496	
+184	sentence	3		0.0	
+184	sentence	4	, but did not	28.347268713933623	
+184	sentence	5	denationalize	30.007030969678475	
+184	sentence	6	.	6.972763470783006	
+185	sentence	1	The dancer	17.229282501329273	
+185	sentence	2	started	8.630240765028496	
+185	sentence	3		0.0	
+185	sentence	4	, but did not	28.347268713933623	
+185	sentence	5	digitalize	25.10494448419165	
+185	sentence	6	.	6.146351748926435	
+186	sentence	1	The dancer	17.229282501329273	
+186	sentence	2	started	8.630240765028496	
+186	sentence	3		0.0	
+186	sentence	4	, but did not	28.347268713933623	
+186	sentence	5	reify	23.841720992705987	
+186	sentence	6	.	5.75005728602279	
+187	sentence	1	The dancer	17.229282501329273	
+187	sentence	2	started	8.630240765028496	
+187	sentence	3		0.0	
+187	sentence	4	, but did not	28.347268713933623	
+187	sentence	5	secularize	27.56041813975719	
+187	sentence	6	.	6.375743584508456	
+188	sentence	1	The dancer	17.229282501329273	
+188	sentence	2	started	8.630240765028496	
+188	sentence	3		0.0	
+188	sentence	4	, but did not	28.347268713933623	
+188	sentence	5	spiritualize	24.90617355765647	
+188	sentence	6	.	5.284551500967125	
+189	sentence	1	The dancer	17.229282501329273	
+189	sentence	2	started	8.630240765028496	
+189	sentence	3		0.0	
+189	sentence	4	, but did not	28.347268713933623	
+189	sentence	5	alkalize	26.136853761019605	
+189	sentence	6	.	5.3983465736329155	
+190	sentence	1	The dancer	17.229282501329273	
+190	sentence	2	started	8.630240765028496	
+190	sentence	3		0.0	
+190	sentence	4	, but did not	28.347268713933623	
+190	sentence	5	decentralize	24.333891526895037	
+190	sentence	6	.	6.461780313359688	
+191	sentence	1	The dancer	17.229282501329273	
+191	sentence	2	started	8.630240765028496	
+191	sentence	3		0.0	
+191	sentence	4	, but did not	28.347268713933623	
+191	sentence	5	decolonize	27.776629934405523	
+191	sentence	6	.	6.202883822126247	
+192	sentence	1	The dancer	17.229282501329273	
+192	sentence	2	started	8.630240765028496	
+192	sentence	3		0.0	
+192	sentence	4	, but did not	28.347268713933623	
+192	sentence	5	demilitarize	24.83127798887657	
+192	sentence	6	.	6.868440858561437	
+193	sentence	1	The dancer	17.229282501329273	
+193	sentence	2	started	8.630240765028496	
+193	sentence	3		0.0	
+193	sentence	4	, but did not	28.347268713933623	
+193	sentence	5	desexualize	27.005712391948634	
+193	sentence	6	.	6.338817533507004	
+194	sentence	1	The dancer	17.229282501329273	
+194	sentence	2	started	8.630240765028496	
+194	sentence	3		0.0	
+194	sentence	4	, but did not	28.347268713933623	
+194	sentence	5	desynchronize	24.105391206379426	
+194	sentence	6	.	5.326847882224419	
+195	sentence	1	The dancer	17.229282501329273	
+195	sentence	2	started	8.630240765028496	
+195	sentence	3		0.0	
+195	sentence	4	, but did not	28.347268713933623	
+195	sentence	5	devitalize	32.14597668321296	
+195	sentence	6	.	6.94499171232168	
+196	sentence	1	The dancer	17.229282501329273	
+196	sentence	2	started	8.630240765028496	
+196	sentence	3		0.0	
+196	sentence	4	, but did not	28.347268713933623	
+196	sentence	5	eroticize	21.88610803256716	
+196	sentence	6	.	7.365092357723055	
+197	sentence	1	The dancer	17.229282501329273	
+197	sentence	2	started	8.630240765028496	
+197	sentence	3		0.0	
+197	sentence	4	, but did not	28.347268713933623	
+197	sentence	5	officialize	22.7233890149626	
+197	sentence	6	.	7.191835659382655	
+198	sentence	1	The dancer	17.229282501329273	
+198	sentence	2	started	8.630240765028496	
+198	sentence	3		0.0	
+198	sentence	4	, but did not	28.347268713933623	
+198	sentence	5	quantize	27.44166596814992	
+198	sentence	6	.	5.117043150749163	
+199	sentence	1	The dancer	17.229282501329273	
+199	sentence	2	started	8.630240765028496	
+199	sentence	3		0.0	
+199	sentence	4	, but did not	28.347268713933623	
+199	sentence	5	reharmonize	29.261674827032827	
+199	sentence	6	.	4.875018157565363	
+200	sentence	1	The dancer	17.229282501329273	
+200	sentence	2	started	8.630240765028496	
+200	sentence	3		0.0	
+200	sentence	4	, but did not	28.347268713933623	
+200	sentence	5	remilitarize	24.190409609831526	
+200	sentence	6	.	5.278072226578519	
+201	sentence	1	The dancer	17.229282501329273	
+201	sentence	2	started	8.630240765028496	
+201	sentence	3		0.0	
+201	sentence	4	, but did not	28.347268713933623	
+201	sentence	5	solarize	26.927862123269797	
+201	sentence	6	.	5.40893382562003	
+202	sentence	1	The dancer	17.229282501329273	
+202	sentence	2	started	8.630240765028496	
+202	sentence	3		0.0	
+202	sentence	4	, but did not	28.347268713933623	
+202	sentence	5	syncretize	29.049508768386765	
+202	sentence	6	.	4.657524425735333	
+203	sentence	1	The dancer	17.229282501329273	
+203	sentence	2	started	8.630240765028496	
+203	sentence	3		0.0	
+203	sentence	4	, but did not	28.347268713933623	
+203	sentence	5	totalize	24.49966607701399	
+203	sentence	6	.	4.9623309976859975	
+204	sentence	1	The dancer	17.229282501329273	
+204	sentence	2	started	8.630240765028496	
+204	sentence	3		0.0	
+204	sentence	4	, but did not	28.347268713933623	
+204	sentence	5	alchemize	26.458566614511046	
+204	sentence	6	.	5.621212011579995	
+205	sentence	1	The dancer	17.229282501329273	
+205	sentence	2	started	8.630240765028496	
+205	sentence	3		0.0	
+205	sentence	4	, but did not	28.347268713933623	
+205	sentence	5	aluminize	31.558060311600865	
+205	sentence	6	.	5.03040035503629	
+206	sentence	1	The dancer	17.229282501329273	
+206	sentence	2	started	8.630240765028496	
+206	sentence	3		0.0	
+206	sentence	4	, but did not	28.347268713933623	
+206	sentence	5	analogize	25.36789297267074	
+206	sentence	6	.	6.923187751845293	
+207	sentence	1	The dancer	17.229282501329273	
+207	sentence	2	started	8.630240765028496	
+207	sentence	3		0.0	
+207	sentence	4	, but did not	28.347268713933623	
+207	sentence	5	attitudinize	42.176500406544754	
+207	sentence	6	.	5.804821721537035	
+208	sentence	1	The dancer	17.229282501329273	
+208	sentence	2	started	8.630240765028496	
+208	sentence	3		0.0	
+208	sentence	4	, but did not	28.347268713933623	
+208	sentence	5	deionize	27.913568131956474	
+208	sentence	6	.	5.900690354572792	
+209	sentence	1	The dancer	17.229282501329273	
+209	sentence	2	started	8.630240765028496	
+209	sentence	3		0.0	
+209	sentence	4	, but did not	28.347268713933623	
+209	sentence	5	demythologize	30.51557698245425	
+209	sentence	6	.	5.806898584028854	
+210	sentence	1	The dancer	17.229282501329273	
+210	sentence	2	started	8.630240765028496	
+210	sentence	3		0.0	
+210	sentence	4	, but did not	28.347268713933623	
+210	sentence	5	deoxidize	32.74415792533312	
+210	sentence	6	.	5.426778401508254	
+211	sentence	1	The dancer	17.229282501329273	
+211	sentence	2	started	8.630240765028496	
+211	sentence	3		0.0	
+211	sentence	4	, but did not	28.347268713933623	
+211	sentence	5	dichotomize	28.422870524430742	
+211	sentence	6	.	6.373480292823101	
+212	sentence	1	The dancer	17.229282501329273	
+212	sentence	2	started	8.630240765028496	
+212	sentence	3		0.0	
+212	sentence	4	, but did not	28.347268713933623	
+212	sentence	5	dogmatize	32.300513327980916	
+212	sentence	6	.	6.072674381296808	
+213	sentence	1	The dancer	17.229282501329273	
+213	sentence	2	started	8.630240765028496	
+213	sentence	3		0.0	
+213	sentence	4	, but did not	28.347268713933623	
+213	sentence	5	factorize	34.86436150702236	
+213	sentence	6	.	5.629296915997056	
+214	sentence	1	The dancer	17.229282501329273	
+214	sentence	2	started	8.630240765028496	
+214	sentence	3		0.0	
+214	sentence	4	, but did not	28.347268713933623	
+214	sentence	5	iodize	30.74492289866849	
+214	sentence	6	.	5.635846703272515	
+215	sentence	1	The dancer	17.229282501329273	
+215	sentence	2	started	8.630240765028496	
+215	sentence	3		0.0	
+215	sentence	4	, but did not	28.347268713933623	
+215	sentence	5	overcapitalize	29.61384347010291	
+215	sentence	6	.	4.8590299624105535	
+216	sentence	1	The dancer	17.229282501329273	
+216	sentence	2	started	8.630240765028496	
+216	sentence	3		0.0	
+216	sentence	4	, but did not	28.347268713933623	
+216	sentence	5	overspecialize	28.91217748298943	
+216	sentence	6	.	6.312668603339219	
+217	sentence	1	The dancer	17.229282501329273	
+217	sentence	2	started	8.630240765028496	
+217	sentence	3		0.0	
+217	sentence	4	, but did not	28.347268713933623	
+217	sentence	5	relativize	26.085085456763874	
+217	sentence	6	.	5.654731774198458	
+218	sentence	1	The dancer	17.229282501329273	
+218	sentence	2	started	8.630240765028496	
+218	sentence	3		0.0	
+218	sentence	4	, but did not	28.347268713933623	
+218	sentence	5	schematize	29.914803445837627	
+218	sentence	6	.	5.315943150263811	
+219	sentence	1	The dancer	17.229282501329273	
+219	sentence	2	started	8.630240765028496	
+219	sentence	3		0.0	
+219	sentence	4	, but did not	28.347268713933623	
+219	sentence	5	sensualize	22.240281278543417	
+219	sentence	6	.	8.304425136413734	
+220	sentence	1	The dancer	17.229282501329273	
+220	sentence	2	started	8.630240765028496	
+220	sentence	3		0.0	
+220	sentence	4	, but did not	28.347268713933623	
+220	sentence	5	signalize	29.41563330374979	
+220	sentence	6	.	4.625351631238427	
+221	sentence	1	The dancer	17.229282501329273	
+221	sentence	2	started	8.630240765028496	
+221	sentence	3		0.0	
+221	sentence	4	, but did not	28.347268713933623	
+221	sentence	5	singularize	26.642430256852084	
+221	sentence	6	.	5.789460231161969	
+222	sentence	1	The dancer	17.229282501329273	
+222	sentence	2	started	8.630240765028496	
+222	sentence	3		0.0	
+222	sentence	4	, but did not	28.347268713933623	
+222	sentence	5	steepen	25.323505626344257	
+222	sentence	6	.	6.564869466009269	
+223	sentence	1	The dancer	17.229282501329273	
+223	sentence	2	started	8.630240765028496	
+223	sentence	3		0.0	
+223	sentence	4	, but did not	28.347268713933623	
+223	sentence	5	subtilize	31.11241035354394	
+223	sentence	6	.	5.207763999079295	
+224	sentence	1	The dancer	17.229282501329273	
+224	sentence	2	started	8.630240765028496	
+224	sentence	3		0.0	
+224	sentence	4	, but did not	28.347268713933623	
+224	sentence	5	syllogize	28.379654272467473	
+224	sentence	6	.	4.431161548600308	
+225	sentence	1	The dancer	17.229282501329273	
+225	sentence	2	started	8.630240765028496	
+225	sentence	3		0.0	
+225	sentence	4	, but did not	28.347268713933623	
+225	sentence	5	loathe	19.85831111614748	
+225	sentence	6	.	7.401192204069763	
+226	sentence	1	The dancer	17.229282501329273	
+226	sentence	2	started	8.630240765028496	
+226	sentence	3		0.0	
+226	sentence	4	, but did not	28.347268713933623	
+226	sentence	5	love	10.857863248594112	
+226	sentence	6	.	7.736115345943617	
+227	sentence	1	The dancer	17.229282501329273	
+227	sentence	2	started	8.630240765028496	
+227	sentence	3		0.0	
+227	sentence	4	, but did not	28.347268713933623	
+227	sentence	5	will	14.373661928485095	
+227	sentence	6	.	5.861675058328658	
+228	sentence	1	The dancer	17.229282501329273	
+228	sentence	2	started	8.630240765028496	
+228	sentence	3		0.0	
+228	sentence	4	, but did not	28.347268713933623	
+228	sentence	5	have to	9.272999093334711	
+228	sentence	6	.	9.665230982059672	
+229	sentence	1	The dancer	17.229282501329273	
+229	sentence	2	started	8.630240765028496	
+229	sentence	3		0.0	
+229	sentence	4	, but did not	28.347268713933623	
+229	sentence	5	win	6.778952093942086	
+229	sentence	6	.	5.357088623621531	
+230	sentence	1	The dancer	17.229282501329273	
+230	sentence	2	started	8.630240765028496	
+230	sentence	3		0.0	
+230	sentence	4	, but did not	28.347268713933623	
+230	sentence	5	finish	3.037864740553367	
+230	sentence	6	.	4.191773049454235	

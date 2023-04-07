@@ -1,0 +1,1417 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	The teacher	14.008138257508524	
+1	sentence	2	believes	10.367383862806658	
+1	sentence	3	it is true	14.807346623564868	
+1	sentence	4	, but does not	20.927470308806292	
+1	sentence	5	have	5.953751129947589	
+1	sentence	6	.	11.531641743671148	
+2	sentence	1	The teacher	14.008138257508524	
+2	sentence	2	believes	10.367383862806658	
+2	sentence	3	it is true	14.807346623564868	
+2	sentence	4	, but does not	20.927470308806292	
+2	sentence	5	know	2.296403677107829	
+2	sentence	6	.	6.139912030547528	
+3	sentence	1	The teacher	14.008138257508524	
+3	sentence	2	believes	10.367383862806658	
+3	sentence	3	it is true	14.807346623564868	
+3	sentence	4	, but does not	20.927470308806292	
+3	sentence	5	get	8.698957465076637	
+3	sentence	6	.	12.471444378963982	
+4	sentence	1	The teacher	14.008138257508524	
+4	sentence	2	believes	10.367383862806658	
+4	sentence	3	it is true	14.807346623564868	
+4	sentence	4	, but does not	20.927470308806292	
+4	sentence	5	go	8.272022229129973	
+4	sentence	6	.	15.721924735438307	
+5	sentence	1	The teacher	14.008138257508524	
+5	sentence	2	believes	10.367383862806658	
+5	sentence	3	it is true	14.807346623564868	
+5	sentence	4	, but does not	20.927470308806292	
+5	sentence	5	come	10.022227753206467	
+5	sentence	6	.	14.74691793944446	
+6	sentence	1	The teacher	14.008138257508524	
+6	sentence	2	believes	10.367383862806658	
+6	sentence	3	it is true	14.807346623564868	
+6	sentence	4	, but does not	20.927470308806292	
+6	sentence	5	see	6.741338112337183	
+6	sentence	6	.	11.391341736750286	
+7	sentence	1	The teacher	14.008138257508524	
+7	sentence	2	believes	10.367383862806658	
+7	sentence	3	it is true	14.807346623564868	
+7	sentence	4	, but does not	20.927470308806292	
+7	sentence	5	let	8.225242948095289	
+7	sentence	6	.	15.888321389801092	
+8	sentence	1	The teacher	14.008138257508524	
+8	sentence	2	believes	10.367383862806658	
+8	sentence	3	it is true	14.807346623564868	
+8	sentence	4	, but does not	20.927470308806292	
+8	sentence	5	take	6.599679442474505	
+8	sentence	6	.	13.062185522620833	
+9	sentence	1	The teacher	14.008138257508524	
+9	sentence	2	believes	10.367383862806658	
+9	sentence	3	it is true	14.807346623564868	
+9	sentence	4	, but does not	20.927470308806292	
+9	sentence	5	say	6.43314520199103	
+9	sentence	6	.	7.004946928204265	
+10	sentence	1	The teacher	14.008138257508524	
+10	sentence	2	believes	10.367383862806658	
+10	sentence	3	it is true	14.807346623564868	
+10	sentence	4	, but does not	20.927470308806292	
+10	sentence	5	make	8.593731599972736	
+10	sentence	6	.	14.367978245839382	
+11	sentence	1	The teacher	14.008138257508524	
+11	sentence	2	believes	10.367383862806658	
+11	sentence	3	it is true	14.807346623564868	
+11	sentence	4	, but does not	20.927470308806292	
+11	sentence	5	give	6.06500877058255	
+11	sentence	6	.	13.915562060340884	
+12	sentence	1	The teacher	14.008138257508524	
+12	sentence	2	believes	10.367383862806658	
+12	sentence	3	it is true	14.807346623564868	
+12	sentence	4	, but does not	20.927470308806292	
+12	sentence	5	find	8.765923381738995	
+12	sentence	6	.	11.956349460323837	
+13	sentence	1	The teacher	14.008138257508524	
+13	sentence	2	believes	10.367383862806658	
+13	sentence	3	it is true	14.807346623564868	
+13	sentence	4	, but does not	20.927470308806292	
+13	sentence	5	keep	10.716806518009454	
+13	sentence	6	.	11.806813985051642	
+14	sentence	1	The teacher	14.008138257508524	
+14	sentence	2	believes	10.367383862806658	
+14	sentence	3	it is true	14.807346623564868	
+14	sentence	4	, but does not	20.927470308806292	
+14	sentence	5	leave	10.457264059939371	
+14	sentence	6	.	10.153181534948839	
+15	sentence	1	The teacher	14.008138257508524	
+15	sentence	2	believes	10.367383862806658	
+15	sentence	3	it is true	14.807346623564868	
+15	sentence	4	, but does not	20.927470308806292	
+15	sentence	5	believe	2.2807959075767275	
+15	sentence	6	.	8.660537916735093	
+16	sentence	1	The teacher	14.008138257508524	
+16	sentence	2	believes	10.367383862806658	
+16	sentence	3	it is true	14.807346623564868	
+16	sentence	4	, but does not	20.927470308806292	
+16	sentence	5	remember	8.773187928911439	
+16	sentence	6	.	4.978782858067534	
+17	sentence	1	The teacher	14.008138257508524	
+17	sentence	2	believes	10.367383862806658	
+17	sentence	3	it is true	14.807346623564868	
+17	sentence	4	, but does not	20.927470308806292	
+17	sentence	5	run	13.304019271096873	
+17	sentence	6	.	10.410141501533566	
+18	sentence	1	The teacher	14.008138257508524	
+18	sentence	2	believes	10.367383862806658	
+18	sentence	3	it is true	14.807346623564868	
+18	sentence	4	, but does not	20.927470308806292	
+18	sentence	5	happen	12.711870621425362	
+18	sentence	6	.	4.13135348041432	
+19	sentence	1	The teacher	14.008138257508524	
+19	sentence	2	believes	10.367383862806658	
+19	sentence	3	it is true	14.807346623564868	
+19	sentence	4	, but does not	20.927470308806292	
+19	sentence	5	buy	10.476966392422215	
+19	sentence	6	.	9.590096577411936	
+20	sentence	1	The teacher	14.008138257508524	
+20	sentence	2	believes	10.367383862806658	
+20	sentence	3	it is true	14.807346623564868	
+20	sentence	4	, but does not	20.927470308806292	
+20	sentence	5	save	13.198088965055039	
+20	sentence	6	.	9.146091031471233	
+21	sentence	1	The teacher	14.008138257508524	
+21	sentence	2	believes	10.367383862806658	
+21	sentence	3	it is true	14.807346623564868	
+21	sentence	4	, but does not	20.927470308806292	
+21	sentence	5	lose	14.036373681196576	
+21	sentence	6	.	10.036226453056095	
+22	sentence	1	The teacher	14.008138257508524	
+22	sentence	2	believes	10.367383862806658	
+22	sentence	3	it is true	14.807346623564868	
+22	sentence	4	, but does not	20.927470308806292	
+22	sentence	5	follow	8.203185141226228	
+22	sentence	6	.	8.340142493344922	
+23	sentence	1	The teacher	14.008138257508524	
+23	sentence	2	believes	10.367383862806658	
+23	sentence	3	it is true	14.807346623564868	
+23	sentence	4	, but does not	20.927470308806292	
+23	sentence	5	expect	9.494183228886953	
+23	sentence	6	.	12.348943200546215	
+24	sentence	1	The teacher	14.008138257508524	
+24	sentence	2	believes	10.367383862806658	
+24	sentence	3	it is true	14.807346623564868	
+24	sentence	4	, but does not	20.927470308806292	
+24	sentence	5	realize	7.09778522693182	
+24	sentence	6	.	7.1100799226767	
+25	sentence	1	The teacher	14.008138257508524	
+25	sentence	2	believes	10.367383862806658	
+25	sentence	3	it is true	14.807346623564868	
+25	sentence	4	, but does not	20.927470308806292	
+25	sentence	5	slow	18.585763327271316	
+25	sentence	6	.	10.888243639903726	
+26	sentence	1	The teacher	14.008138257508524	
+26	sentence	2	believes	10.367383862806658	
+26	sentence	3	it is true	14.807346623564868	
+26	sentence	4	, but does not	20.927470308806292	
+26	sentence	5	allow	7.70338429576201	
+26	sentence	6	.	13.246087259119038	
+27	sentence	1	The teacher	14.008138257508524	
+27	sentence	2	believes	10.367383862806658	
+27	sentence	3	it is true	14.807346623564868	
+27	sentence	4	, but does not	20.927470308806292	
+27	sentence	5	consider	7.623342194189252	
+27	sentence	6	.	12.205050132083526	
+28	sentence	1	The teacher	14.008138257508524	
+28	sentence	2	believes	10.367383862806658	
+28	sentence	3	it is true	14.807346623564868	
+28	sentence	4	, but does not	20.927470308806292	
+28	sentence	5	apologize	10.749034690919936	
+28	sentence	6	.	4.131285375284579	
+29	sentence	1	The teacher	14.008138257508524	
+29	sentence	2	believes	10.367383862806658	
+29	sentence	3	it is true	14.807346623564868	
+29	sentence	4	, but does not	20.927470308806292	
+29	sentence	5	recognize	8.438490428275516	
+29	sentence	6	.	8.936202028497053	
+30	sentence	1	The teacher	14.008138257508524	
+30	sentence	2	believes	10.367383862806658	
+30	sentence	3	it is true	14.807346623564868	
+30	sentence	4	, but does not	20.927470308806292	
+30	sentence	5	settle	14.7057246549098	
+30	sentence	6	.	7.1124519073974	
+31	sentence	1	The teacher	14.008138257508524	
+31	sentence	2	believes	10.367383862806658	
+31	sentence	3	it is true	14.807346623564868	
+31	sentence	4	, but does not	20.927470308806292	
+31	sentence	5	add	11.492065783985202	
+31	sentence	6	.	8.995798832535241	
+32	sentence	1	The teacher	14.008138257508524	
+32	sentence	2	believes	10.367383862806658	
+32	sentence	3	it is true	14.807346623564868	
+32	sentence	4	, but does not	20.927470308806292	
+32	sentence	5	assume	11.807368457118024	
+32	sentence	6	.	8.621083032835354	
+33	sentence	1	The teacher	14.008138257508524	
+33	sentence	2	believes	10.367383862806658	
+33	sentence	3	it is true	14.807346623564868	
+33	sentence	4	, but does not	20.927470308806292	
+33	sentence	5	appear	9.489626376569692	
+33	sentence	6	.	8.147812919023835	
+34	sentence	1	The teacher	14.008138257508524	
+34	sentence	2	believes	10.367383862806658	
+34	sentence	3	it is true	14.807346623564868	
+34	sentence	4	, but does not	20.927470308806292	
+34	sentence	5	remove	12.554119878886752	
+34	sentence	6	.	10.080798164784305	
+35	sentence	1	The teacher	14.008138257508524	
+35	sentence	2	believes	10.367383862806658	
+35	sentence	3	it is true	14.807346623564868	
+35	sentence	4	, but does not	20.927470308806292	
+35	sentence	5	identify	10.413676776904701	
+35	sentence	6	.	9.08574988652011	
+36	sentence	1	The teacher	14.008138257508524	
+36	sentence	2	believes	10.367383862806658	
+36	sentence	3	it is true	14.807346623564868	
+36	sentence	4	, but does not	20.927470308806292	
+36	sentence	5	replace	16.058295283301824	
+36	sentence	6	.	10.306100252928807	
+37	sentence	1	The teacher	14.008138257508524	
+37	sentence	2	believes	10.367383862806658	
+37	sentence	3	it is true	14.807346623564868	
+37	sentence	4	, but does not	20.927470308806292	
+37	sentence	5	apply	11.675527932827801	
+37	sentence	6	.	5.48438571024126	
+38	sentence	1	The teacher	14.008138257508524	
+38	sentence	2	believes	10.367383862806658	
+38	sentence	3	it is true	14.807346623564868	
+38	sentence	4	, but does not	20.927470308806292	
+38	sentence	5	succeed	11.516258927447375	
+38	sentence	6	.	4.723453974943591	
+39	sentence	1	The teacher	14.008138257508524	
+39	sentence	2	believes	10.367383862806658	
+39	sentence	3	it is true	14.807346623564868	
+39	sentence	4	, but does not	20.927470308806292	
+39	sentence	5	develop	14.349321567873783	
+39	sentence	6	.	8.940529799923366	
+40	sentence	1	The teacher	14.008138257508524	
+40	sentence	2	believes	10.367383862806658	
+40	sentence	3	it is true	14.807346623564868	
+40	sentence	4	, but does not	20.927470308806292	
+40	sentence	5	approve	9.261189388665262	
+40	sentence	6	.	5.631734254125083	
+41	sentence	1	The teacher	14.008138257508524	
+41	sentence	2	believes	10.367383862806658	
+41	sentence	3	it is true	14.807346623564868	
+41	sentence	4	, but does not	20.927470308806292	
+41	sentence	5	expose	15.01281687629043	
+41	sentence	6	.	11.675020240042453	
+42	sentence	1	The teacher	14.008138257508524	
+42	sentence	2	believes	10.367383862806658	
+42	sentence	3	it is true	14.807346623564868	
+42	sentence	4	, but does not	20.927470308806292	
+42	sentence	5	establish	13.662029364022551	
+42	sentence	6	.	8.563563779219589	
+43	sentence	1	The teacher	14.008138257508524	
+43	sentence	2	believes	10.367383862806658	
+43	sentence	3	it is true	14.807346623564868	
+43	sentence	4	, but does not	20.927470308806292	
+43	sentence	5	reduce	16.43994817520691	
+43	sentence	6	.	9.136272197968173	
+44	sentence	1	The teacher	14.008138257508524	
+44	sentence	2	believes	10.367383862806658	
+44	sentence	3	it is true	14.807346623564868	
+44	sentence	4	, but does not	20.927470308806292	
+44	sentence	5	participate	11.294932390260216	
+44	sentence	6	.	5.6338668389957824	
+45	sentence	1	The teacher	14.008138257508524	
+45	sentence	2	believes	10.367383862806658	
+45	sentence	3	it is true	14.807346623564868	
+45	sentence	4	, but does not	20.927470308806292	
+45	sentence	5	organize	16.83249788787067	
+45	sentence	6	.	7.88395232055589	
+46	sentence	1	The teacher	14.008138257508524	
+46	sentence	2	believes	10.367383862806658	
+46	sentence	3	it is true	14.807346623564868	
+46	sentence	4	, but does not	20.927470308806292	
+46	sentence	5	obtain	13.717504087884858	
+46	sentence	6	.	10.586778002928721	
+47	sentence	1	The teacher	14.008138257508524	
+47	sentence	2	believes	10.367383862806658	
+47	sentence	3	it is true	14.807346623564868	
+47	sentence	4	, but does not	20.927470308806292	
+47	sentence	5	kitten	27.93994648698051	
+47	sentence	6	.	8.59656862578137	
+48	sentence	1	The teacher	14.008138257508524	
+48	sentence	2	believes	10.367383862806658	
+48	sentence	3	it is true	14.807346623564868	
+48	sentence	4	, but does not	20.927470308806292	
+48	sentence	5	acquire	16.253293340433697	
+48	sentence	6	.	9.726956243384938	
+49	sentence	1	The teacher	14.008138257508524	
+49	sentence	2	believes	10.367383862806658	
+49	sentence	3	it is true	14.807346623564868	
+49	sentence	4	, but does not	20.927470308806292	
+49	sentence	5	qualify	13.686112438588172	
+49	sentence	6	.	5.72966977465891	
+50	sentence	1	The teacher	14.008138257508524	
+50	sentence	2	believes	10.367383862806658	
+50	sentence	3	it is true	14.807346623564868	
+50	sentence	4	, but does not	20.927470308806292	
+50	sentence	5	criticize	14.359866168163483	
+50	sentence	6	.	8.080551192201995	
+51	sentence	1	The teacher	14.008138257508524	
+51	sentence	2	believes	10.367383862806658	
+51	sentence	3	it is true	14.807346623564868	
+51	sentence	4	, but does not	20.927470308806292	
+51	sentence	5	rave	19.332118501012456	
+51	sentence	6	.	8.646466296241497	
+52	sentence	1	The teacher	14.008138257508524	
+52	sentence	2	believes	10.367383862806658	
+52	sentence	3	it is true	14.807346623564868	
+52	sentence	4	, but does not	20.927470308806292	
+52	sentence	5	enlighten	15.068704207022279	
+52	sentence	6	.	6.310976294054729	
+53	sentence	1	The teacher	14.008138257508524	
+53	sentence	2	believes	10.367383862806658	
+53	sentence	3	it is true	14.807346623564868	
+53	sentence	4	, but does not	20.927470308806292	
+53	sentence	5	disclose	10.219163022917659	
+53	sentence	6	.	7.696573782787843	
+54	sentence	1	The teacher	14.008138257508524	
+54	sentence	2	believes	10.367383862806658	
+54	sentence	3	it is true	14.807346623564868	
+54	sentence	4	, but does not	20.927470308806292	
+54	sentence	5	reopen	17.68491545032951	
+54	sentence	6	.	7.395439728363703	
+55	sentence	1	The teacher	14.008138257508524	
+55	sentence	2	believes	10.367383862806658	
+55	sentence	3	it is true	14.807346623564868	
+55	sentence	4	, but does not	20.927470308806292	
+55	sentence	5	stabilize	20.20483276799552	
+55	sentence	6	.	5.913101998520259	
+56	sentence	1	The teacher	14.008138257508524	
+56	sentence	2	believes	10.367383862806658	
+56	sentence	3	it is true	14.807346623564868	
+56	sentence	4	, but does not	20.927470308806292	
+56	sentence	5	soar	22.18226452211437	
+56	sentence	6	.	7.8420855519604515	
+57	sentence	1	The teacher	14.008138257508524	
+57	sentence	2	believes	10.367383862806658	
+57	sentence	3	it is true	14.807346623564868	
+57	sentence	4	, but does not	20.927470308806292	
+57	sentence	5	authorize	13.195953628461927	
+57	sentence	6	.	11.458251931033763	
+58	sentence	1	The teacher	14.008138257508524	
+58	sentence	2	believes	10.367383862806658	
+58	sentence	3	it is true	14.807346623564868	
+58	sentence	4	, but does not	20.927470308806292	
+58	sentence	5	sympathize	15.961850852350977	
+58	sentence	6	.	5.781456846521417	
+59	sentence	1	The teacher	14.008138257508524	
+59	sentence	2	believes	10.367383862806658	
+59	sentence	3	it is true	14.807346623564868	
+59	sentence	4	, but does not	20.927470308806292	
+59	sentence	5	sharpen	20.604558409740022	
+59	sentence	6	.	8.354143256986362	
+60	sentence	1	The teacher	14.008138257508524	
+60	sentence	2	believes	10.367383862806658	
+60	sentence	3	it is true	14.807346623564868	
+60	sentence	4	, but does not	20.927470308806292	
+60	sentence	5	specialize	16.575002711276458	
+60	sentence	6	.	5.89396652085466	
+61	sentence	1	The teacher	14.008138257508524	
+61	sentence	2	believes	10.367383862806658	
+61	sentence	3	it is true	14.807346623564868	
+61	sentence	4	, but does not	20.927470308806292	
+61	sentence	5	minimize	19.989339882325627	
+61	sentence	6	.	7.500666969328811	
+62	sentence	1	The teacher	14.008138257508524	
+62	sentence	2	believes	10.367383862806658	
+62	sentence	3	it is true	14.807346623564868	
+62	sentence	4	, but does not	20.927470308806292	
+62	sentence	5	socialize	19.315335058080056	
+62	sentence	6	.	6.521152164090546	
+63	sentence	1	The teacher	14.008138257508524	
+63	sentence	2	believes	10.367383862806658	
+63	sentence	3	it is true	14.807346623564868	
+63	sentence	4	, but does not	20.927470308806292	
+63	sentence	5	utilize	16.139239949826308	
+63	sentence	6	.	10.813629998722801	
+64	sentence	1	The teacher	14.008138257508524	
+64	sentence	2	believes	10.367383862806658	
+64	sentence	3	it is true	14.807346623564868	
+64	sentence	4	, but does not	20.927470308806292	
+64	sentence	5	rectify	17.593814254977115	
+64	sentence	6	.	6.700173032957265	
+65	sentence	1	The teacher	14.008138257508524	
+65	sentence	2	believes	10.367383862806658	
+65	sentence	3	it is true	14.807346623564868	
+65	sentence	4	, but does not	20.927470308806292	
+65	sentence	5	terrorize	19.85453850471815	
+65	sentence	6	.	8.428310431205645	
+66	sentence	1	The teacher	14.008138257508524	
+66	sentence	2	believes	10.367383862806658	
+66	sentence	3	it is true	14.807346623564868	
+66	sentence	4	, but does not	20.927470308806292	
+66	sentence	5	enslave	21.344630297431166	
+66	sentence	6	.	7.530750862548337	
+67	sentence	1	The teacher	14.008138257508524	
+67	sentence	2	believes	10.367383862806658	
+67	sentence	3	it is true	14.807346623564868	
+67	sentence	4	, but does not	20.927470308806292	
+67	sentence	5	finalize	15.840760060657272	
+67	sentence	6	.	6.249394810225585	
+68	sentence	1	The teacher	14.008138257508524	
+68	sentence	2	believes	10.367383862806658	
+68	sentence	3	it is true	14.807346623564868	
+68	sentence	4	, but does not	20.927470308806292	
+68	sentence	5	maximize	20.84651242111552	
+68	sentence	6	.	6.00220414614047	
+69	sentence	1	The teacher	14.008138257508524	
+69	sentence	2	believes	10.367383862806658	
+69	sentence	3	it is true	14.807346623564868	
+69	sentence	4	, but does not	20.927470308806292	
+69	sentence	5	summarize	17.632654738246526	
+69	sentence	6	.	7.429960773975489	
+70	sentence	1	The teacher	14.008138257508524	
+70	sentence	2	believes	10.367383862806658	
+70	sentence	3	it is true	14.807346623564868	
+70	sentence	4	, but does not	20.927470308806292	
+70	sentence	5	repose	21.128015687839575	
+70	sentence	6	.	6.232784725805255	
+71	sentence	1	The teacher	14.008138257508524	
+71	sentence	2	believes	10.367383862806658	
+71	sentence	3	it is true	14.807346623564868	
+71	sentence	4	, but does not	20.927470308806292	
+71	sentence	5	symbolize	19.936096246397298	
+71	sentence	6	.	8.472872511905406	
+72	sentence	1	The teacher	14.008138257508524	
+72	sentence	2	believes	10.367383862806658	
+72	sentence	3	it is true	14.807346623564868	
+72	sentence	4	, but does not	20.927470308806292	
+72	sentence	5	sterilize	21.29357878528929	
+72	sentence	6	.	6.885364639336941	
+73	sentence	1	The teacher	14.008138257508524	
+73	sentence	2	believes	10.367383862806658	
+73	sentence	3	it is true	14.807346623564868	
+73	sentence	4	, but does not	20.927470308806292	
+73	sentence	5	revolutionize	21.91252271892619	
+73	sentence	6	.	8.149102100974703	
+74	sentence	1	The teacher	14.008138257508524	
+74	sentence	2	believes	10.367383862806658	
+74	sentence	3	it is true	14.807346623564868	
+74	sentence	4	, but does not	20.927470308806292	
+74	sentence	5	synchronize	20.5628645952287	
+74	sentence	6	.	5.700708584184216	
+75	sentence	1	The teacher	14.008138257508524	
+75	sentence	2	believes	10.367383862806658	
+75	sentence	3	it is true	14.807346623564868	
+75	sentence	4	, but does not	20.927470308806292	
+75	sentence	5	fertilize	23.911387251965206	
+75	sentence	6	.	7.001344923564594	
+76	sentence	1	The teacher	14.008138257508524	
+76	sentence	2	believes	10.367383862806658	
+76	sentence	3	it is true	14.807346623564868	
+76	sentence	4	, but does not	20.927470308806292	
+76	sentence	5	rationalize	15.050695926155976	
+76	sentence	6	.	6.142726354646246	
+77	sentence	1	The teacher	14.008138257508524	
+77	sentence	2	believes	10.367383862806658	
+77	sentence	3	it is true	14.807346623564868	
+77	sentence	4	, but does not	20.927470308806292	
+77	sentence	5	antagonize	19.299250294666788	
+77	sentence	6	.	8.057833659884224	
+78	sentence	1	The teacher	14.008138257508524	
+78	sentence	2	believes	10.367383862806658	
+78	sentence	3	it is true	14.807346623564868	
+78	sentence	4	, but does not	20.927470308806292	
+78	sentence	5	kindle	17.897838227264906	
+78	sentence	6	.	8.779024332151119	
+79	sentence	1	The teacher	14.008138257508524	
+79	sentence	2	believes	10.367383862806658	
+79	sentence	3	it is true	14.807346623564868	
+79	sentence	4	, but does not	20.927470308806292	
+79	sentence	5	familiarize	17.12196818640245	
+79	sentence	6	.	14.416636953282694	
+80	sentence	1	The teacher	14.008138257508524	
+80	sentence	2	believes	10.367383862806658	
+80	sentence	3	it is true	14.807346623564868	
+80	sentence	4	, but does not	20.927470308806292	
+80	sentence	5	synthesize	20.999328218227863	
+80	sentence	6	.	7.072362063550676	
+81	sentence	1	The teacher	14.008138257508524	
+81	sentence	2	believes	10.367383862806658	
+81	sentence	3	it is true	14.807346623564868	
+81	sentence	4	, but does not	20.927470308806292	
+81	sentence	5	reorganize	22.305380119301258	
+81	sentence	6	.	5.419942435101759	
+82	sentence	1	The teacher	14.008138257508524	
+82	sentence	2	believes	10.367383862806658	
+82	sentence	3	it is true	14.807346623564868	
+82	sentence	4	, but does not	20.927470308806292	
+82	sentence	5	ripen	26.11845552998259	
+82	sentence	6	.	5.862456547494179	
+83	sentence	1	The teacher	14.008138257508524	
+83	sentence	2	believes	10.367383862806658	
+83	sentence	3	it is true	14.807346623564868	
+83	sentence	4	, but does not	20.927470308806292	
+83	sentence	5	deepen	20.604889179404136	
+83	sentence	6	.	7.746901409875129	
+84	sentence	1	The teacher	14.008138257508524	
+84	sentence	2	believes	10.367383862806658	
+84	sentence	3	it is true	14.807346623564868	
+84	sentence	4	, but does not	20.927470308806292	
+84	sentence	5	destabilize	23.007475310617796	
+84	sentence	6	.	8.085804230289948	
+85	sentence	1	The teacher	14.008138257508524	
+85	sentence	2	believes	10.367383862806658	
+85	sentence	3	it is true	14.807346623564868	
+85	sentence	4	, but does not	20.927470308806292	
+85	sentence	5	enclose	18.809184846934897	
+85	sentence	6	.	7.781028271251137	
+86	sentence	1	The teacher	14.008138257508524	
+86	sentence	2	believes	10.367383862806658	
+86	sentence	3	it is true	14.807346623564868	
+86	sentence	4	, but does not	20.927470308806292	
+86	sentence	5	dampen	23.589920339038954	
+86	sentence	6	.	11.13762467503023	
+87	sentence	1	The teacher	14.008138257508524	
+87	sentence	2	believes	10.367383862806658	
+87	sentence	3	it is true	14.807346623564868	
+87	sentence	4	, but does not	20.927470308806292	
+87	sentence	5	subsidize	21.886940536086495	
+87	sentence	6	.	7.797407898919311	
+88	sentence	1	The teacher	14.008138257508524	
+88	sentence	2	believes	10.367383862806658	
+88	sentence	3	it is true	14.807346623564868	
+88	sentence	4	, but does not	20.927470308806292	
+88	sentence	5	idolize	20.68263410870932	
+88	sentence	6	.	8.088134251243838	
+89	sentence	1	The teacher	14.008138257508524	
+89	sentence	2	believes	10.367383862806658	
+89	sentence	3	it is true	14.807346623564868	
+89	sentence	4	, but does not	20.927470308806292	
+89	sentence	5	quantify	16.063534562777708	
+89	sentence	6	.	5.93539920523932	
+90	sentence	1	The teacher	14.008138257508524	
+90	sentence	2	believes	10.367383862806658	
+90	sentence	3	it is true	14.807346623564868	
+90	sentence	4	, but does not	20.927470308806292	
+90	sentence	5	engrave	24.507401168719195	
+90	sentence	6	.	10.022656333972417	
+91	sentence	1	The teacher	14.008138257508524	
+91	sentence	2	believes	10.367383862806658	
+91	sentence	3	it is true	14.807346623564868	
+91	sentence	4	, but does not	20.927470308806292	
+91	sentence	5	fraternize	22.411117235081598	
+91	sentence	6	.	5.5256612024830325	
+92	sentence	1	The teacher	14.008138257508524	
+92	sentence	2	believes	10.367383862806658	
+92	sentence	3	it is true	14.807346623564868	
+92	sentence	4	, but does not	20.927470308806292	
+92	sentence	5	immobilize	23.96946702928688	
+92	sentence	6	.	7.523159548339253	
+93	sentence	1	The teacher	14.008138257508524	
+93	sentence	2	believes	10.367383862806658	
+93	sentence	3	it is true	14.807346623564868	
+93	sentence	4	, but does not	20.927470308806292	
+93	sentence	5	downsize	25.117584607090784	
+93	sentence	6	.	5.232329312997934	
+94	sentence	1	The teacher	14.008138257508524	
+94	sentence	2	believes	10.367383862806658	
+94	sentence	3	it is true	14.807346623564868	
+94	sentence	4	, but does not	20.927470308806292	
+94	sentence	5	theorize	17.1543433184881	
+94	sentence	6	.	5.49573346951049	
+95	sentence	1	The teacher	14.008138257508524	
+95	sentence	2	believes	10.367383862806658	
+95	sentence	3	it is true	14.807346623564868	
+95	sentence	4	, but does not	20.927470308806292	
+95	sentence	5	dramatize	20.416283163835676	
+95	sentence	6	.	6.2236111712082325	
+96	sentence	1	The teacher	14.008138257508524	
+96	sentence	2	believes	10.367383862806658	
+96	sentence	3	it is true	14.807346623564868	
+96	sentence	4	, but does not	20.927470308806292	
+96	sentence	5	modernize	22.509389196676175	
+96	sentence	6	.	7.354586969477752	
+97	sentence	1	The teacher	14.008138257508524	
+97	sentence	2	believes	10.367383862806658	
+97	sentence	3	it is true	14.807346623564868	
+97	sentence	4	, but does not	20.927470308806292	
+97	sentence	5	revitalize	25.212449054925987	
+97	sentence	6	.	7.390025714514542	
+98	sentence	1	The teacher	14.008138257508524	
+98	sentence	2	believes	10.367383862806658	
+98	sentence	3	it is true	14.807346623564868	
+98	sentence	4	, but does not	20.927470308806292	
+98	sentence	5	traumatize	20.668715251805352	
+98	sentence	6	.	7.885004854379171	
+99	sentence	1	The teacher	14.008138257508524	
+99	sentence	2	believes	10.367383862806658	
+99	sentence	3	it is true	14.807346623564868	
+99	sentence	4	, but does not	20.927470308806292	
+99	sentence	5	immortalize	22.348385273309507	
+99	sentence	6	.	7.564670656812707	
+100	sentence	1	The teacher	14.008138257508524	
+100	sentence	2	believes	10.367383862806658	
+100	sentence	3	it is true	14.807346623564868	
+100	sentence	4	, but does not	20.927470308806292	
+100	sentence	5	agonize	20.42660138658672	
+100	sentence	6	.	6.9082816715297115	
+101	sentence	1	The teacher	14.008138257508524	
+101	sentence	2	believes	10.367383862806658	
+101	sentence	3	it is true	14.807346623564868	
+101	sentence	4	, but does not	20.927470308806292	
+101	sentence	5	electrify	21.45371322886669	
+101	sentence	6	.	5.9657933551610025	
+102	sentence	1	The teacher	14.008138257508524	
+102	sentence	2	believes	10.367383862806658	
+102	sentence	3	it is true	14.807346623564868	
+102	sentence	4	, but does not	20.927470308806292	
+102	sentence	5	demoralize	22.65922641550931	
+102	sentence	6	.	8.434953777043175	
+103	sentence	1	The teacher	14.008138257508524	
+103	sentence	2	believes	10.367383862806658	
+103	sentence	3	it is true	14.807346623564868	
+103	sentence	4	, but does not	20.927470308806292	
+103	sentence	5	sanitize	20.87035111908318	
+103	sentence	6	.	7.063317839907103	
+104	sentence	1	The teacher	14.008138257508524	
+104	sentence	2	believes	10.367383862806658	
+104	sentence	3	it is true	14.807346623564868	
+104	sentence	4	, but does not	20.927470308806292	
+104	sentence	5	anesthetize	25.301229068292216	
+104	sentence	6	.	5.474432042339924	
+105	sentence	1	The teacher	14.008138257508524	
+105	sentence	2	believes	10.367383862806658	
+105	sentence	3	it is true	14.807346623564868	
+105	sentence	4	, but does not	20.927470308806292	
+105	sentence	5	trivialize	19.796115998220053	
+105	sentence	6	.	8.208590211977546	
+106	sentence	1	The teacher	14.008138257508524	
+106	sentence	2	believes	10.367383862806658	
+106	sentence	3	it is true	14.807346623564868	
+106	sentence	4	, but does not	20.927470308806292	
+106	sentence	5	romanticize	20.67698695087908	
+106	sentence	6	.	8.568413689973921	
+107	sentence	1	The teacher	14.008138257508524	
+107	sentence	2	believes	10.367383862806658	
+107	sentence	3	it is true	14.807346623564868	
+107	sentence	4	, but does not	20.927470308806292	
+107	sentence	5	equalize	25.03609165987535	
+107	sentence	6	.	5.274525944317728	
+108	sentence	1	The teacher	14.008138257508524	
+108	sentence	2	believes	10.367383862806658	
+108	sentence	3	it is true	14.807346623564868	
+108	sentence	4	, but does not	20.927470308806292	
+108	sentence	5	demonize	19.295088486498557	
+108	sentence	6	.	9.214784341878856	
+109	sentence	1	The teacher	14.008138257508524	
+109	sentence	2	believes	10.367383862806658	
+109	sentence	3	it is true	14.807346623564868	
+109	sentence	4	, but does not	20.927470308806292	
+109	sentence	5	alphabetize	29.880012258477002	
+109	sentence	6	.	5.685183022360227	
+110	sentence	1	The teacher	14.008138257508524	
+110	sentence	2	believes	10.367383862806658	
+110	sentence	3	it is true	14.807346623564868	
+110	sentence	4	, but does not	20.927470308806292	
+110	sentence	5	formalize	17.313401720363625	
+110	sentence	6	.	7.595338603114563	
+111	sentence	1	The teacher	14.008138257508524	
+111	sentence	2	believes	10.367383862806658	
+111	sentence	3	it is true	14.807346623564868	
+111	sentence	4	, but does not	20.927470308806292	
+111	sentence	5	optimize	21.529555965559837	
+111	sentence	6	.	5.708069097675843	
+112	sentence	1	The teacher	14.008138257508524	
+112	sentence	2	believes	10.367383862806658	
+112	sentence	3	it is true	14.807346623564868	
+112	sentence	4	, but does not	20.927470308806292	
+112	sentence	5	internalize	17.64613699031899	
+112	sentence	6	.	7.4733458054127455	
+113	sentence	1	The teacher	14.008138257508524	
+113	sentence	2	believes	10.367383862806658	
+113	sentence	3	it is true	14.807346623564868	
+113	sentence	4	, but does not	20.927470308806292	
+113	sentence	5	idealize	21.470697182072165	
+113	sentence	6	.	6.746550562519533	
+114	sentence	1	The teacher	14.008138257508524	
+114	sentence	2	believes	10.367383862806658	
+114	sentence	3	it is true	14.807346623564868	
+114	sentence	4	, but does not	20.927470308806292	
+114	sentence	5	sodomize	24.236817994156254	
+114	sentence	6	.	7.473038300433003	
+115	sentence	1	The teacher	14.008138257508524	
+115	sentence	2	believes	10.367383862806658	
+115	sentence	3	it is true	14.807346623564868	
+115	sentence	4	, but does not	20.927470308806292	
+115	sentence	5	digitize	24.24970966318011	
+115	sentence	6	.	6.533952488828963	
+116	sentence	1	The teacher	14.008138257508524	
+116	sentence	2	believes	10.367383862806658	
+116	sentence	3	it is true	14.807346623564868	
+116	sentence	4	, but does not	20.927470308806292	
+116	sentence	5	galvanize	22.904641863923302	
+116	sentence	6	.	7.646001940336332	
+117	sentence	1	The teacher	14.008138257508524	
+117	sentence	2	believes	10.367383862806658	
+117	sentence	3	it is true	14.807346623564868	
+117	sentence	4	, but does not	20.927470308806292	
+117	sentence	5	initialize	21.43747232670427	
+117	sentence	6	.	5.667395200746789	
+118	sentence	1	The teacher	14.008138257508524	
+118	sentence	2	believes	10.367383862806658	
+118	sentence	3	it is true	14.807346623564868	
+118	sentence	4	, but does not	20.927470308806292	
+118	sentence	5	exemplify	19.80103162650123	
+118	sentence	6	.	6.923861235906072	
+119	sentence	1	The teacher	14.008138257508524	
+119	sentence	2	believes	10.367383862806658	
+119	sentence	3	it is true	14.807346623564868	
+119	sentence	4	, but does not	20.927470308806292	
+119	sentence	5	depressurize	35.72905514810412	
+119	sentence	6	.	6.478136551387344	
+120	sentence	1	The teacher	14.008138257508524	
+120	sentence	2	believes	10.367383862806658	
+120	sentence	3	it is true	14.807346623564868	
+120	sentence	4	, but does not	20.927470308806292	
+120	sentence	5	itemize	18.056375661444225	
+120	sentence	6	.	5.761599041722194	
+121	sentence	1	The teacher	14.008138257508524	
+121	sentence	2	believes	10.367383862806658	
+121	sentence	3	it is true	14.807346623564868	
+121	sentence	4	, but does not	20.927470308806292	
+121	sentence	5	dehumanize	23.046676735085825	
+121	sentence	6	.	8.139483455277249	
+122	sentence	1	The teacher	14.008138257508524	
+122	sentence	2	believes	10.367383862806658	
+122	sentence	3	it is true	14.807346623564868	
+122	sentence	4	, but does not	20.927470308806292	
+122	sentence	5	mollify	23.01308559160557	
+122	sentence	6	.	7.662724845375629	
+123	sentence	1	The teacher	14.008138257508524	
+123	sentence	2	believes	10.367383862806658	
+123	sentence	3	it is true	14.807346623564868	
+123	sentence	4	, but does not	20.927470308806292	
+123	sentence	5	immunize	19.635688915413297	
+123	sentence	6	.	7.236262217753536	
+124	sentence	1	The teacher	14.008138257508524	
+124	sentence	2	believes	10.367383862806658	
+124	sentence	3	it is true	14.807346623564868	
+124	sentence	4	, but does not	20.927470308806292	
+124	sentence	5	oxidize	25.78893462652077	
+124	sentence	6	.	5.818245999332782	
+125	sentence	1	The teacher	14.008138257508524	
+125	sentence	2	believes	10.367383862806658	
+125	sentence	3	it is true	14.807346623564868	
+125	sentence	4	, but does not	20.927470308806292	
+125	sentence	5	dematerialize	27.055347509394394	
+125	sentence	6	.	4.759536623025212	
+126	sentence	1	The teacher	14.008138257508524	
+126	sentence	2	believes	10.367383862806658	
+126	sentence	3	it is true	14.807346623564868	
+126	sentence	4	, but does not	20.927470308806292	
+126	sentence	5	ostracize	21.673286150664687	
+126	sentence	6	.	9.67884444077137	
+127	sentence	1	The teacher	14.008138257508524	
+127	sentence	2	believes	10.367383862806658	
+127	sentence	3	it is true	14.807346623564868	
+127	sentence	4	, but does not	20.927470308806292	
+127	sentence	5	overdramatize	28.201759417011623	
+127	sentence	6	.	5.817351689548295	
+128	sentence	1	The teacher	14.008138257508524	
+128	sentence	2	believes	10.367383862806658	
+128	sentence	3	it is true	14.807346623564868	
+128	sentence	4	, but does not	20.927470308806292	
+128	sentence	5	satirize	24.01094519233378	
+128	sentence	6	.	7.571721945498082	
+129	sentence	1	The teacher	14.008138257508524	
+129	sentence	2	believes	10.367383862806658	
+129	sentence	3	it is true	14.807346623564868	
+129	sentence	4	, but does not	20.927470308806292	
+129	sentence	5	amortize	21.51239649331024	
+129	sentence	6	.	5.909345897425415	
+130	sentence	1	The teacher	14.008138257508524	
+130	sentence	2	believes	10.367383862806658	
+130	sentence	3	it is true	14.807346623564868	
+130	sentence	4	, but does not	20.927470308806292	
+130	sentence	5	tyrannize	23.233863469202497	
+130	sentence	6	.	6.336398081574666	
+131	sentence	1	The teacher	14.008138257508524	
+131	sentence	2	believes	10.367383862806658	
+131	sentence	3	it is true	14.807346623564868	
+131	sentence	4	, but does not	20.927470308806292	
+131	sentence	5	eulogize	21.147996546225492	
+131	sentence	6	.	7.060008893704502	
+132	sentence	1	The teacher	14.008138257508524	
+132	sentence	2	believes	10.367383862806658	
+132	sentence	3	it is true	14.807346623564868	
+132	sentence	4	, but does not	20.927470308806292	
+132	sentence	5	resize	22.904756759082993	
+132	sentence	6	.	5.324899318790143	
+133	sentence	1	The teacher	14.008138257508524	
+133	sentence	2	believes	10.367383862806658	
+133	sentence	3	it is true	14.807346623564868	
+133	sentence	4	, but does not	20.927470308806292	
+133	sentence	5	editorialize	22.962350567177907	
+133	sentence	6	.	4.85386085185622	
+134	sentence	1	The teacher	14.008138257508524	
+134	sentence	2	believes	10.367383862806658	
+134	sentence	3	it is true	14.807346623564868	
+134	sentence	4	, but does not	20.927470308806292	
+134	sentence	5	acclimatize	23.96218608464357	
+134	sentence	6	.	6.6168522541284585	
+135	sentence	1	The teacher	14.008138257508524	
+135	sentence	2	believes	10.367383862806658	
+135	sentence	3	it is true	14.807346623564868	
+135	sentence	4	, but does not	20.927470308806292	
+135	sentence	5	desensitize	26.037482288809386	
+135	sentence	6	.	7.514180678103007	
+136	sentence	1	The teacher	14.008138257508524	
+136	sentence	2	believes	10.367383862806658	
+136	sentence	3	it is true	14.807346623564868	
+136	sentence	4	, but does not	20.927470308806292	
+136	sentence	5	standardize	20.337824318423387	
+136	sentence	6	.	6.254808136144143	
+137	sentence	1	The teacher	14.008138257508524	
+137	sentence	2	believes	10.367383862806658	
+137	sentence	3	it is true	14.807346623564868	
+137	sentence	4	, but does not	20.927470308806292	
+137	sentence	5	stigmatize	20.434708154298274	
+137	sentence	6	.	9.059746109709655	
+138	sentence	1	The teacher	14.008138257508524	
+138	sentence	2	believes	10.367383862806658	
+138	sentence	3	it is true	14.807346623564868	
+138	sentence	4	, but does not	20.927470308806292	
+138	sentence	5	actualize	17.387111495974025	
+138	sentence	6	.	6.298475907059417	
+139	sentence	1	The teacher	14.008138257508524	
+139	sentence	2	believes	10.367383862806658	
+139	sentence	3	it is true	14.807346623564868	
+139	sentence	4	, but does not	20.927470308806292	
+139	sentence	5	industrialize	24.548154887096082	
+139	sentence	6	.	4.903783631783375	
+140	sentence	1	The teacher	14.008138257508524	
+140	sentence	2	believes	10.367383862806658	
+140	sentence	3	it is true	14.807346623564868	
+140	sentence	4	, but does not	20.927470308806292	
+140	sentence	5	sexualize	25.016647989299404	
+140	sentence	6	.	8.399136670174485	
+141	sentence	1	The teacher	14.008138257508524	
+141	sentence	2	believes	10.367383862806658	
+141	sentence	3	it is true	14.807346623564868	
+141	sentence	4	, but does not	20.927470308806292	
+141	sentence	5	demagnetize	29.95235987237353	
+141	sentence	6	.	5.810069256180161	
+142	sentence	1	The teacher	14.008138257508524	
+142	sentence	2	believes	10.367383862806658	
+142	sentence	3	it is true	14.807346623564868	
+142	sentence	4	, but does not	20.927470308806292	
+142	sentence	5	solemnize	20.201934172397877	
+142	sentence	6	.	7.217057947027591	
+143	sentence	1	The teacher	14.008138257508524	
+143	sentence	2	believes	10.367383862806658	
+143	sentence	3	it is true	14.807346623564868	
+143	sentence	4	, but does not	20.927470308806292	
+143	sentence	5	atomize	23.988114559925233	
+143	sentence	6	.	5.610041050475852	
+144	sentence	1	The teacher	14.008138257508524	
+144	sentence	2	believes	10.367383862806658	
+144	sentence	3	it is true	14.807346623564868	
+144	sentence	4	, but does not	20.927470308806292	
+144	sentence	5	ionize	25.48010838468836	
+144	sentence	6	.	5.857352790347174	
+145	sentence	1	The teacher	14.008138257508524	
+145	sentence	2	believes	10.367383862806658	
+145	sentence	3	it is true	14.807346623564868	
+145	sentence	4	, but does not	20.927470308806292	
+145	sentence	5	radicalize	19.74146387812574	
+145	sentence	6	.	7.17515471811017	
+146	sentence	1	The teacher	14.008138257508524	
+146	sentence	2	believes	10.367383862806658	
+146	sentence	3	it is true	14.807346623564868	
+146	sentence	4	, but does not	20.927470308806292	
+146	sentence	5	reunify	22.993712205502018	
+146	sentence	6	.	6.941419976628561	
+147	sentence	1	The teacher	14.008138257508524	
+147	sentence	2	believes	10.367383862806658	
+147	sentence	3	it is true	14.807346623564868	
+147	sentence	4	, but does not	20.927470308806292	
+147	sentence	5	demobilize	31.445914283833957	
+147	sentence	6	.	5.805579821062038	
+148	sentence	1	The teacher	14.008138257508524	
+148	sentence	2	believes	10.367383862806658	
+148	sentence	3	it is true	14.807346623564868	
+148	sentence	4	, but does not	20.927470308806292	
+148	sentence	5	democratize	24.411192354000033	
+148	sentence	6	.	6.871420286004984	
+149	sentence	1	The teacher	14.008138257508524	
+149	sentence	2	believes	10.367383862806658	
+149	sentence	3	it is true	14.807346623564868	
+149	sentence	4	, but does not	20.927470308806292	
+149	sentence	5	reclassify	21.265497186646293	
+149	sentence	6	.	6.028866272538429	
+150	sentence	1	The teacher	14.008138257508524	
+150	sentence	2	believes	10.367383862806658	
+150	sentence	3	it is true	14.807346623564868	
+150	sentence	4	, but does not	20.927470308806292	
+150	sentence	5	rhapsodize	24.507420449586693	
+150	sentence	6	.	4.910214751029739	
+151	sentence	1	The teacher	14.008138257508524	
+151	sentence	2	believes	10.367383862806658	
+151	sentence	3	it is true	14.807346623564868	
+151	sentence	4	, but does not	20.927470308806292	
+151	sentence	5	serialize	21.577317525504924	
+151	sentence	6	.	5.609510655980591	
+152	sentence	1	The teacher	14.008138257508524	
+152	sentence	2	believes	10.367383862806658	
+152	sentence	3	it is true	14.807346623564868	
+152	sentence	4	, but does not	20.927470308806292	
+152	sentence	5	disorganize	26.39498497245237	
+152	sentence	6	.	5.498987381264814	
+153	sentence	1	The teacher	14.008138257508524	
+153	sentence	2	believes	10.367383862806658	
+153	sentence	3	it is true	14.807346623564868	
+153	sentence	4	, but does not	20.927470308806292	
+153	sentence	5	sermonize	19.34731776875209	
+153	sentence	6	.	4.760806198953881	
+154	sentence	1	The teacher	14.008138257508524	
+154	sentence	2	believes	10.367383862806658	
+154	sentence	3	it is true	14.807346623564868	
+154	sentence	4	, but does not	20.927470308806292	
+154	sentence	5	deodorize	29.122920723790447	
+154	sentence	6	.	5.301376907666335	
+155	sentence	1	The teacher	14.008138257508524	
+155	sentence	2	believes	10.367383862806658	
+155	sentence	3	it is true	14.807346623564868	
+155	sentence	4	, but does not	20.927470308806292	
+155	sentence	5	emulsify	27.987242602753327	
+155	sentence	6	.	5.3614102036724125	
+156	sentence	1	The teacher	14.008138257508524	
+156	sentence	2	believes	10.367383862806658	
+156	sentence	3	it is true	14.807346623564868	
+156	sentence	4	, but does not	20.927470308806292	
+156	sentence	5	overemphasize	21.209231389868446	
+156	sentence	6	.	6.0921063570524945	
+157	sentence	1	The teacher	14.008138257508524	
+157	sentence	2	believes	10.367383862806658	
+157	sentence	3	it is true	14.807346623564868	
+157	sentence	4	, but does not	20.927470308806292	
+157	sentence	5	aerosolize	28.91649188276464	
+157	sentence	6	.	4.846988425127742	
+158	sentence	1	The teacher	14.008138257508524	
+158	sentence	2	believes	10.367383862806658	
+158	sentence	3	it is true	14.807346623564868	
+158	sentence	4	, but does not	20.927470308806292	
+158	sentence	5	apostatize	23.84801808909721	
+158	sentence	6	.	4.792481275659189	
+159	sentence	1	The teacher	14.008138257508524	
+159	sentence	2	believes	10.367383862806658	
+159	sentence	3	it is true	14.807346623564868	
+159	sentence	4	, but does not	20.927470308806292	
+159	sentence	5	depolarize	29.034251467251373	
+159	sentence	6	.	6.370077100127828	
+160	sentence	1	The teacher	14.008138257508524	
+160	sentence	2	believes	10.367383862806658	
+160	sentence	3	it is true	14.807346623564868	
+160	sentence	4	, but does not	20.927470308806292	
+160	sentence	5	evangelize	21.042676542118073	
+160	sentence	6	.	5.503177222605134	
+161	sentence	1	The teacher	14.008138257508524	
+161	sentence	2	believes	10.367383862806658	
+161	sentence	3	it is true	14.807346623564868	
+161	sentence	4	, but does not	20.927470308806292	
+161	sentence	5	anatomize	24.105221889459656	
+161	sentence	6	.	6.231086913075937	
+162	sentence	1	The teacher	14.008138257508524	
+162	sentence	2	believes	10.367383862806658	
+162	sentence	3	it is true	14.807346623564868	
+162	sentence	4	, but does not	20.927470308806292	
+162	sentence	5	anthropomorphize	21.266898235249855	
+162	sentence	6	.	7.418047191784921	
+163	sentence	1	The teacher	14.008138257508524	
+163	sentence	2	believes	10.367383862806658	
+163	sentence	3	it is true	14.807346623564868	
+163	sentence	4	, but does not	20.927470308806292	
+163	sentence	5	federalize	29.011138880035656	
+163	sentence	6	.	6.1195375898651125	
+164	sentence	1	The teacher	14.008138257508524	
+164	sentence	2	believes	10.367383862806658	
+164	sentence	3	it is true	14.807346623564868	
+164	sentence	4	, but does not	20.927470308806292	
+164	sentence	5	feminize	26.644511483403672	
+164	sentence	6	.	6.795665367952934	
+165	sentence	1	The teacher	14.008138257508524	
+165	sentence	2	believes	10.367383862806658	
+165	sentence	3	it is true	14.807346623564868	
+165	sentence	4	, but does not	20.927470308806292	
+165	sentence	5	fossilize	24.62178149834587	
+165	sentence	6	.	6.057486249433811	
+166	sentence	1	The teacher	14.008138257508524	
+166	sentence	2	believes	10.367383862806658	
+166	sentence	3	it is true	14.807346623564868	
+166	sentence	4	, but does not	20.927470308806292	
+166	sentence	5	regularize	23.142363388979142	
+166	sentence	6	.	6.5559332474704375	
+167	sentence	1	The teacher	14.008138257508524	
+167	sentence	2	believes	10.367383862806658	
+167	sentence	3	it is true	14.807346623564868	
+167	sentence	4	, but does not	20.927470308806292	
+167	sentence	5	ritualize	23.10373716048692	
+167	sentence	6	.	6.973853152858873	
+168	sentence	1	The teacher	14.008138257508524	
+168	sentence	2	believes	10.367383862806658	
+168	sentence	3	it is true	14.807346623564868	
+168	sentence	4	, but does not	20.927470308806292	
+168	sentence	5	sentimentalize	26.227941276361374	
+168	sentence	6	.	6.811578578671968	
+169	sentence	1	The teacher	14.008138257508524	
+169	sentence	2	believes	10.367383862806658	
+169	sentence	3	it is true	14.807346623564868	
+169	sentence	4	, but does not	20.927470308806292	
+169	sentence	5	exteriorize	28.25686751685795	
+169	sentence	6	.	6.680994903594251	
+170	sentence	1	The teacher	14.008138257508524	
+170	sentence	2	believes	10.367383862806658	
+170	sentence	3	it is true	14.807346623564868	
+170	sentence	4	, but does not	20.927470308806292	
+170	sentence	5	fetishize	20.591235175782497	
+170	sentence	6	.	9.315707888988772	
+171	sentence	1	The teacher	14.008138257508524	
+171	sentence	2	believes	10.367383862806658	
+171	sentence	3	it is true	14.807346623564868	
+171	sentence	4	, but does not	20.927470308806292	
+171	sentence	5	fictionalize	25.362652704294614	
+171	sentence	6	.	8.256263802796717	
+172	sentence	1	The teacher	14.008138257508524	
+172	sentence	2	believes	10.367383862806658	
+172	sentence	3	it is true	14.807346623564868	
+172	sentence	4	, but does not	20.927470308806292	
+172	sentence	5	individualize	21.196406996712284	
+172	sentence	6	.	6.436579351563458	
+173	sentence	1	The teacher	14.008138257508524	
+173	sentence	2	believes	10.367383862806658	
+173	sentence	3	it is true	14.807346623564868	
+173	sentence	4	, but does not	20.927470308806292	
+173	sentence	5	internationalize	27.567573133981035	
+173	sentence	6	.	5.952313354986376	
+174	sentence	1	The teacher	14.008138257508524	
+174	sentence	2	believes	10.367383862806658	
+174	sentence	3	it is true	14.807346623564868	
+174	sentence	4	, but does not	20.927470308806292	
+174	sentence	5	alkalinize	31.676469189713643	
+174	sentence	6	.	6.0686437958911865	
+175	sentence	1	The teacher	14.008138257508524	
+175	sentence	2	believes	10.367383862806658	
+175	sentence	3	it is true	14.807346623564868	
+175	sentence	4	, but does not	20.927470308806292	
+175	sentence	5	depersonalize	22.783608746880287	
+175	sentence	6	.	7.017578022014233	
+176	sentence	1	The teacher	14.008138257508524	
+176	sentence	2	believes	10.367383862806658	
+176	sentence	3	it is true	14.807346623564868	
+176	sentence	4	, but does not	20.927470308806292	
+176	sentence	5	italicize	23.681622633238522	
+176	sentence	6	.	5.596770869135278	
+177	sentence	1	The teacher	14.008138257508524	
+177	sentence	2	believes	10.367383862806658	
+177	sentence	3	it is true	14.807346623564868	
+177	sentence	4	, but does not	20.927470308806292	
+177	sentence	5	randomize	21.669697253991785	
+177	sentence	6	.	6.110138394030158	
+178	sentence	1	The teacher	14.008138257508524	
+178	sentence	2	believes	10.367383862806658	
+178	sentence	3	it is true	14.807346623564868	
+178	sentence	4	, but does not	20.927470308806292	
+178	sentence	5	stylize	25.530822499787792	
+178	sentence	6	.	6.5520884033277484	
+179	sentence	1	The teacher	14.008138257508524	
+179	sentence	2	believes	10.367383862806658	
+179	sentence	3	it is true	14.807346623564868	
+179	sentence	4	, but does not	20.927470308806292	
+179	sentence	5	temporize	23.65507561697857	
+179	sentence	6	.	5.220502410063401	
+180	sentence	1	The teacher	14.008138257508524	
+180	sentence	2	believes	10.367383862806658	
+180	sentence	3	it is true	14.807346623564868	
+180	sentence	4	, but does not	20.927470308806292	
+180	sentence	5	ramify	24.006146037959283	
+180	sentence	6	.	6.877335801264061	
+181	sentence	1	The teacher	14.008138257508524	
+181	sentence	2	believes	10.367383862806658	
+181	sentence	3	it is true	14.807346623564868	
+181	sentence	4	, but does not	20.927470308806292	
+181	sentence	5	reimpose	24.52298382878327	
+181	sentence	6	.	8.136473070956546	
+182	sentence	1	The teacher	14.008138257508524	
+182	sentence	2	believes	10.367383862806658	
+182	sentence	3	it is true	14.807346623564868	
+182	sentence	4	, but does not	20.927470308806292	
+182	sentence	5	sensitize	22.659124945745297	
+182	sentence	6	.	8.9371678830643	
+183	sentence	1	The teacher	14.008138257508524	
+183	sentence	2	believes	10.367383862806658	
+183	sentence	3	it is true	14.807346623564868	
+183	sentence	4	, but does not	20.927470308806292	
+183	sentence	5	systematize	20.254469669761274	
+183	sentence	6	.	6.744270760499695	
+184	sentence	1	The teacher	14.008138257508524	
+184	sentence	2	believes	10.367383862806658	
+184	sentence	3	it is true	14.807346623564868	
+184	sentence	4	, but does not	20.927470308806292	
+184	sentence	5	denationalize	28.042649968535535	
+184	sentence	6	.	7.19248644173352	
+185	sentence	1	The teacher	14.008138257508524	
+185	sentence	2	believes	10.367383862806658	
+185	sentence	3	it is true	14.807346623564868	
+185	sentence	4	, but does not	20.927470308806292	
+185	sentence	5	digitalize	27.73487222430856	
+185	sentence	6	.	6.801280945468907	
+186	sentence	1	The teacher	14.008138257508524	
+186	sentence	2	believes	10.367383862806658	
+186	sentence	3	it is true	14.807346623564868	
+186	sentence	4	, but does not	20.927470308806292	
+186	sentence	5	reify	21.82119451386454	
+186	sentence	6	.	6.013279828856034	
+187	sentence	1	The teacher	14.008138257508524	
+187	sentence	2	believes	10.367383862806658	
+187	sentence	3	it is true	14.807346623564868	
+187	sentence	4	, but does not	20.927470308806292	
+187	sentence	5	secularize	27.653012782064135	
+187	sentence	6	.	6.9718643454842955	
+188	sentence	1	The teacher	14.008138257508524	
+188	sentence	2	believes	10.367383862806658	
+188	sentence	3	it is true	14.807346623564868	
+188	sentence	4	, but does not	20.927470308806292	
+188	sentence	5	spiritualize	28.315243932005618	
+188	sentence	6	.	6.2945925388029345	
+189	sentence	1	The teacher	14.008138257508524	
+189	sentence	2	believes	10.367383862806658	
+189	sentence	3	it is true	14.807346623564868	
+189	sentence	4	, but does not	20.927470308806292	
+189	sentence	5	alkalize	28.776412830554477	
+189	sentence	6	.	5.495435251593894	
+190	sentence	1	The teacher	14.008138257508524	
+190	sentence	2	believes	10.367383862806658	
+190	sentence	3	it is true	14.807346623564868	
+190	sentence	4	, but does not	20.927470308806292	
+190	sentence	5	decentralize	24.780553355627234	
+190	sentence	6	.	5.743129480880735	
+191	sentence	1	The teacher	14.008138257508524	
+191	sentence	2	believes	10.367383862806658	
+191	sentence	3	it is true	14.807346623564868	
+191	sentence	4	, but does not	20.927470308806292	
+191	sentence	5	decolonize	28.722518122054556	
+191	sentence	6	.	6.277661190790792	
+192	sentence	1	The teacher	14.008138257508524	
+192	sentence	2	believes	10.367383862806658	
+192	sentence	3	it is true	14.807346623564868	
+192	sentence	4	, but does not	20.927470308806292	
+192	sentence	5	demilitarize	28.18532107759035	
+192	sentence	6	.	6.655922584820868	
+193	sentence	1	The teacher	14.008138257508524	
+193	sentence	2	believes	10.367383862806658	
+193	sentence	3	it is true	14.807346623564868	
+193	sentence	4	, but does not	20.927470308806292	
+193	sentence	5	desexualize	27.53519482021635	
+193	sentence	6	.	6.733457867274649	
+194	sentence	1	The teacher	14.008138257508524	
+194	sentence	2	believes	10.367383862806658	
+194	sentence	3	it is true	14.807346623564868	
+194	sentence	4	, but does not	20.927470308806292	
+194	sentence	5	desynchronize	28.266988427138333	
+194	sentence	6	.	5.002135006366988	
+195	sentence	1	The teacher	14.008138257508524	
+195	sentence	2	believes	10.367383862806658	
+195	sentence	3	it is true	14.807346623564868	
+195	sentence	4	, but does not	20.927470308806292	
+195	sentence	5	devitalize	35.14066221256649	
+195	sentence	6	.	7.119541720196568	
+196	sentence	1	The teacher	14.008138257508524	
+196	sentence	2	believes	10.367383862806658	
+196	sentence	3	it is true	14.807346623564868	
+196	sentence	4	, but does not	20.927470308806292	
+196	sentence	5	eroticize	26.7281671769472	
+196	sentence	6	.	8.140979704339754	
+197	sentence	1	The teacher	14.008138257508524	
+197	sentence	2	believes	10.367383862806658	
+197	sentence	3	it is true	14.807346623564868	
+197	sentence	4	, but does not	20.927470308806292	
+197	sentence	5	officialize	23.409670992722663	
+197	sentence	6	.	7.0554362189833615	
+198	sentence	1	The teacher	14.008138257508524	
+198	sentence	2	believes	10.367383862806658	
+198	sentence	3	it is true	14.807346623564868	
+198	sentence	4	, but does not	20.927470308806292	
+198	sentence	5	quantize	26.061234838248723	
+198	sentence	6	.	5.212117223937934	
+199	sentence	1	The teacher	14.008138257508524	
+199	sentence	2	believes	10.367383862806658	
+199	sentence	3	it is true	14.807346623564868	
+199	sentence	4	, but does not	20.927470308806292	
+199	sentence	5	reharmonize	34.23171766114496	
+199	sentence	6	.	5.528947446975719	
+200	sentence	1	The teacher	14.008138257508524	
+200	sentence	2	believes	10.367383862806658	
+200	sentence	3	it is true	14.807346623564868	
+200	sentence	4	, but does not	20.927470308806292	
+200	sentence	5	remilitarize	27.604716863961134	
+200	sentence	6	.	5.528002574291879	
+201	sentence	1	The teacher	14.008138257508524	
+201	sentence	2	believes	10.367383862806658	
+201	sentence	3	it is true	14.807346623564868	
+201	sentence	4	, but does not	20.927470308806292	
+201	sentence	5	solarize	32.88975164423887	
+201	sentence	6	.	5.841513188202709	
+202	sentence	1	The teacher	14.008138257508524	
+202	sentence	2	believes	10.367383862806658	
+202	sentence	3	it is true	14.807346623564868	
+202	sentence	4	, but does not	20.927470308806292	
+202	sentence	5	syncretize	30.307451898040814	
+202	sentence	6	.	4.71936147578366	
+203	sentence	1	The teacher	14.008138257508524	
+203	sentence	2	believes	10.367383862806658	
+203	sentence	3	it is true	14.807346623564868	
+203	sentence	4	, but does not	20.927470308806292	
+203	sentence	5	totalize	20.831679089461254	
+203	sentence	6	.	4.85358774340665	
+204	sentence	1	The teacher	14.008138257508524	
+204	sentence	2	believes	10.367383862806658	
+204	sentence	3	it is true	14.807346623564868	
+204	sentence	4	, but does not	20.927470308806292	
+204	sentence	5	alchemize	23.550860837879092	
+204	sentence	6	.	5.997086630381396	
+205	sentence	1	The teacher	14.008138257508524	
+205	sentence	2	believes	10.367383862806658	
+205	sentence	3	it is true	14.807346623564868	
+205	sentence	4	, but does not	20.927470308806292	
+205	sentence	5	aluminize	29.928811518741732	
+205	sentence	6	.	5.597814459860714	
+206	sentence	1	The teacher	14.008138257508524	
+206	sentence	2	believes	10.367383862806658	
+206	sentence	3	it is true	14.807346623564868	
+206	sentence	4	, but does not	20.927470308806292	
+206	sentence	5	analogize	23.3625806165704	
+206	sentence	6	.	6.856803824473456	
+207	sentence	1	The teacher	14.008138257508524	
+207	sentence	2	believes	10.367383862806658	
+207	sentence	3	it is true	14.807346623564868	
+207	sentence	4	, but does not	20.927470308806292	
+207	sentence	5	attitudinize	38.00301255253026	
+207	sentence	6	.	5.978310940421402	
+208	sentence	1	The teacher	14.008138257508524	
+208	sentence	2	believes	10.367383862806658	
+208	sentence	3	it is true	14.807346623564868	
+208	sentence	4	, but does not	20.927470308806292	
+208	sentence	5	deionize	30.066848190981574	
+208	sentence	6	.	6.325864488174621	
+209	sentence	1	The teacher	14.008138257508524	
+209	sentence	2	believes	10.367383862806658	
+209	sentence	3	it is true	14.807346623564868	
+209	sentence	4	, but does not	20.927470308806292	
+209	sentence	5	demythologize	29.02044224391288	
+209	sentence	6	.	6.121328961156499	
+210	sentence	1	The teacher	14.008138257508524	
+210	sentence	2	believes	10.367383862806658	
+210	sentence	3	it is true	14.807346623564868	
+210	sentence	4	, but does not	20.927470308806292	
+210	sentence	5	deoxidize	36.645086169412046	
+210	sentence	6	.	5.260471866054521	
+211	sentence	1	The teacher	14.008138257508524	
+211	sentence	2	believes	10.367383862806658	
+211	sentence	3	it is true	14.807346623564868	
+211	sentence	4	, but does not	20.927470308806292	
+211	sentence	5	dichotomize	25.5206982895903	
+211	sentence	6	.	6.663734036823056	
+212	sentence	1	The teacher	14.008138257508524	
+212	sentence	2	believes	10.367383862806658	
+212	sentence	3	it is true	14.807346623564868	
+212	sentence	4	, but does not	20.927470308806292	
+212	sentence	5	dogmatize	25.267348948275618	
+212	sentence	6	.	5.582163694666896	
+213	sentence	1	The teacher	14.008138257508524	
+213	sentence	2	believes	10.367383862806658	
+213	sentence	3	it is true	14.807346623564868	
+213	sentence	4	, but does not	20.927470308806292	
+213	sentence	5	factorize	32.54967590214516	
+213	sentence	6	.	5.268898328016196	
+214	sentence	1	The teacher	14.008138257508524	
+214	sentence	2	believes	10.367383862806658	
+214	sentence	3	it is true	14.807346623564868	
+214	sentence	4	, but does not	20.927470308806292	
+214	sentence	5	iodize	29.094479823830277	
+214	sentence	6	.	5.475272005606738	
+215	sentence	1	The teacher	14.008138257508524	
+215	sentence	2	believes	10.367383862806658	
+215	sentence	3	it is true	14.807346623564868	
+215	sentence	4	, but does not	20.927470308806292	
+215	sentence	5	overcapitalize	32.76244823725672	
+215	sentence	6	.	4.662464455398716	
+216	sentence	1	The teacher	14.008138257508524	
+216	sentence	2	believes	10.367383862806658	
+216	sentence	3	it is true	14.807346623564868	
+216	sentence	4	, but does not	20.927470308806292	
+216	sentence	5	overspecialize	31.44486382455141	
+216	sentence	6	.	5.267996107029769	
+217	sentence	1	The teacher	14.008138257508524	
+217	sentence	2	believes	10.367383862806658	
+217	sentence	3	it is true	14.807346623564868	
+217	sentence	4	, but does not	20.927470308806292	
+217	sentence	5	relativize	23.34135653859706	
+217	sentence	6	.	5.896857205250361	
+218	sentence	1	The teacher	14.008138257508524	
+218	sentence	2	believes	10.367383862806658	
+218	sentence	3	it is true	14.807346623564868	
+218	sentence	4	, but does not	20.927470308806292	
+218	sentence	5	schematize	29.847356235726835	
+218	sentence	6	.	5.174315437278288	
+219	sentence	1	The teacher	14.008138257508524	
+219	sentence	2	believes	10.367383862806658	
+219	sentence	3	it is true	14.807346623564868	
+219	sentence	4	, but does not	20.927470308806292	
+219	sentence	5	sensualize	25.400780914025596	
+219	sentence	6	.	7.907876483152114	
+220	sentence	1	The teacher	14.008138257508524	
+220	sentence	2	believes	10.367383862806658	
+220	sentence	3	it is true	14.807346623564868	
+220	sentence	4	, but does not	20.927470308806292	
+220	sentence	5	signalize	33.418947764388555	
+220	sentence	6	.	5.235768966015191	
+221	sentence	1	The teacher	14.008138257508524	
+221	sentence	2	believes	10.367383862806658	
+221	sentence	3	it is true	14.807346623564868	
+221	sentence	4	, but does not	20.927470308806292	
+221	sentence	5	singularize	28.275564094798547	
+221	sentence	6	.	6.152093905673442	
+222	sentence	1	The teacher	14.008138257508524	
+222	sentence	2	believes	10.367383862806658	
+222	sentence	3	it is true	14.807346623564868	
+222	sentence	4	, but does not	20.927470308806292	
+222	sentence	5	steepen	28.045121445219756	
+222	sentence	6	.	8.668024665492453	
+223	sentence	1	The teacher	14.008138257508524	
+223	sentence	2	believes	10.367383862806658	
+223	sentence	3	it is true	14.807346623564868	
+223	sentence	4	, but does not	20.927470308806292	
+223	sentence	5	subtilize	28.106264029323896	
+223	sentence	6	.	5.569627191314902	
+224	sentence	1	The teacher	14.008138257508524	
+224	sentence	2	believes	10.367383862806658	
+224	sentence	3	it is true	14.807346623564868	
+224	sentence	4	, but does not	20.927470308806292	
+224	sentence	5	syllogize	24.840902873983666	
+224	sentence	6	.	5.330895665895126	
+225	sentence	1	The teacher	14.008138257508524	
+225	sentence	2	believes	10.367383862806658	
+225	sentence	3	it is true	14.807346623564868	
+225	sentence	4	, but does not	20.927470308806292	
+225	sentence	5	complete	12.343756203796191	
+225	sentence	6	.	8.029848642935828	
+226	sentence	1	The teacher	14.008138257508524	
+226	sentence	2	believes	10.367383862806658	
+226	sentence	3	it is true	14.807346623564868	
+226	sentence	4	, but does not	20.927470308806292	
+226	sentence	5	loathe	18.246721974831225	
+226	sentence	6	.	9.503751655650357	
+227	sentence	1	The teacher	14.008138257508524	
+227	sentence	2	believes	10.367383862806658	
+227	sentence	3	it is true	14.807346623564868	
+227	sentence	4	, but does not	20.927470308806292	
+227	sentence	5	triple	21.09848213910281	
+227	sentence	6	.	9.441442341242762	
+228	sentence	1	The teacher	14.008138257508524	
+228	sentence	2	believes	10.367383862806658	
+228	sentence	3	it is true	14.807346623564868	
+228	sentence	4	, but does not	20.927470308806292	
+228	sentence	5	love	11.665621732138103	
+228	sentence	6	.	7.7512883433333375	
+229	sentence	1	The teacher	14.008138257508524	
+229	sentence	2	believes	10.367383862806658	
+229	sentence	3	it is true	14.807346623564868	
+229	sentence	4	, but does not	20.927470308806292	
+229	sentence	5	exceed	17.823228025737	
+229	sentence	6	.	5.794979498393458	
+230	sentence	1	The teacher	14.008138257508524	
+230	sentence	2	believes	10.367383862806658	
+230	sentence	3	it is true	14.807346623564868	
+230	sentence	4	, but does not	20.927470308806292	
+230	sentence	5	require	11.47397045739202	
+230	sentence	6	.	9.205821294046489	
+231	sentence	1	The teacher	14.008138257508524	
+231	sentence	2	believes	10.367383862806658	
+231	sentence	3	it is true	14.807346623564868	
+231	sentence	4	, but does not	20.927470308806292	
+231	sentence	5	eliminate	15.314163501271036	
+231	sentence	6	.	9.084059641027432	
+232	sentence	1	The teacher	14.008138257508524	
+232	sentence	2	believes	10.367383862806658	
+232	sentence	3	it is true	14.807346623564868	
+232	sentence	4	, but does not	20.927470308806292	
+232	sentence	5	stop	9.76497472818467	
+232	sentence	6	.	8.550931309548414	
+233	sentence	1	The teacher	14.008138257508524	
+233	sentence	2	believes	10.367383862806658	
+233	sentence	3	it is true	14.807346623564868	
+233	sentence	4	, but does not	20.927470308806292	
+233	sentence	5	finish	12.607701417728363	
+233	sentence	6	.	7.101894236426234	
+234	sentence	1	The teacher	14.008138257508524	
+234	sentence	2	believes	10.367383862806658	
+234	sentence	3	it is true	14.807346623564868	
+234	sentence	4	, but does not	20.927470308806292	
+234	sentence	5	thrive	17.694205265198516	
+234	sentence	6	.	4.96654732435455	
+235	sentence	1	The teacher	14.008138257508524	
+235	sentence	2	believes	10.367383862806658	
+235	sentence	3	it is true	14.807346623564868	
+235	sentence	4	, but does not	20.927470308806292	
+235	sentence	5	encourage	11.880498231987303	
+235	sentence	6	.	11.117710459921522	
+236	sentence	1	The teacher	14.008138257508524	
+236	sentence	2	believes	10.367383862806658	
+236	sentence	3	it is true	14.807346623564868	
+236	sentence	4	, but does not	20.927470308806292	
+236	sentence	5	need	9.557935133769986	
+236	sentence	6	.	10.036950156050926	

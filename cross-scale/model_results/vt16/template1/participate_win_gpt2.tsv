@@ -1,0 +1,1381 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	The freshman	15.822040652019773	
+1	sentence	2	participated	12.993993713623126	
+1	sentence	3		0.0	
+1	sentence	4	, but did not	25.293128835921394	
+1	sentence	5	have	5.086906286873171	
+1	sentence	6	.	12.77003652980837	
+2	sentence	1	The freshman	15.822040652019773	
+2	sentence	2	participated	12.993993713623126	
+2	sentence	3		0.0	
+2	sentence	4	, but did not	25.293128835921394	
+2	sentence	5	know	8.21427183083145	
+2	sentence	6	.	8.7566156806743	
+3	sentence	1	The freshman	15.822040652019773	
+3	sentence	2	participated	12.993993713623126	
+3	sentence	3		0.0	
+3	sentence	4	, but did not	25.293128835921394	
+3	sentence	5	get	5.837245954669502	
+3	sentence	6	.	12.351784353938468	
+4	sentence	1	The freshman	15.822040652019773	
+4	sentence	2	participated	12.993993713623126	
+4	sentence	3		0.0	
+4	sentence	4	, but did not	25.293128835921394	
+4	sentence	5	go	6.763915994742453	
+4	sentence	6	.	12.408508359776643	
+5	sentence	1	The freshman	15.822040652019773	
+5	sentence	2	participated	12.993993713623126	
+5	sentence	3		0.0	
+5	sentence	4	, but did not	25.293128835921394	
+5	sentence	5	come	8.245531397452273	
+5	sentence	6	.	12.572019833188554	
+6	sentence	1	The freshman	15.822040652019773	
+6	sentence	2	participated	12.993993713623126	
+6	sentence	3		0.0	
+6	sentence	4	, but did not	25.293128835921394	
+6	sentence	5	see	6.956360453474315	
+6	sentence	6	.	12.46462285910016	
+7	sentence	1	The freshman	15.822040652019773	
+7	sentence	2	participated	12.993993713623126	
+7	sentence	3		0.0	
+7	sentence	4	, but did not	25.293128835921394	
+7	sentence	5	let	11.395284954969268	
+7	sentence	6	.	14.26208096046651	
+8	sentence	1	The freshman	15.822040652019773	
+8	sentence	2	participated	12.993993713623126	
+8	sentence	3		0.0	
+8	sentence	4	, but did not	25.293128835921394	
+8	sentence	5	take	5.111979981507762	
+8	sentence	6	.	13.648035479687147	
+9	sentence	1	The freshman	15.822040652019773	
+9	sentence	2	participated	12.993993713623126	
+9	sentence	3		0.0	
+9	sentence	4	, but did not	25.293128835921394	
+9	sentence	5	say	8.222262832721139	
+9	sentence	6	.	9.117614144141369	
+10	sentence	1	The freshman	15.822040652019773	
+10	sentence	2	participated	12.993993713623126	
+10	sentence	3		0.0	
+10	sentence	4	, but did not	25.293128835921394	
+10	sentence	5	make	4.841122440872114	
+10	sentence	6	.	14.687282611292478	
+11	sentence	1	The freshman	15.822040652019773	
+11	sentence	2	participated	12.993993713623126	
+11	sentence	3		0.0	
+11	sentence	4	, but did not	25.293128835921394	
+11	sentence	5	give	8.021409110292689	
+11	sentence	6	.	15.346908997995316	
+12	sentence	1	The freshman	15.822040652019773	
+12	sentence	2	participated	12.993993713623126	
+12	sentence	3		0.0	
+12	sentence	4	, but did not	25.293128835921394	
+12	sentence	5	find	8.706632018888739	
+12	sentence	6	.	12.868845378243279	
+13	sentence	1	The freshman	15.822040652019773	
+13	sentence	2	participated	12.993993713623126	
+13	sentence	3		0.0	
+13	sentence	4	, but did not	25.293128835921394	
+13	sentence	5	keep	10.70911545386287	
+13	sentence	6	.	10.884460021584744	
+14	sentence	1	The freshman	15.822040652019773	
+14	sentence	2	participated	12.993993713623126	
+14	sentence	3		0.0	
+14	sentence	4	, but did not	25.293128835921394	
+14	sentence	5	leave	8.382787311452864	
+14	sentence	6	.	8.2421082547695	
+15	sentence	1	The freshman	15.822040652019773	
+15	sentence	2	participated	12.993993713623126	
+15	sentence	3		0.0	
+15	sentence	4	, but did not	25.293128835921394	
+15	sentence	5	believe	11.933543184958221	
+15	sentence	6	.	10.895268099295565	
+16	sentence	1	The freshman	15.822040652019773	
+16	sentence	2	participated	12.993993713623126	
+16	sentence	3		0.0	
+16	sentence	4	, but did not	25.293128835921394	
+16	sentence	5	remember	10.224239950771128	
+16	sentence	6	.	8.331931353662128	
+17	sentence	1	The freshman	15.822040652019773	
+17	sentence	2	participated	12.993993713623126	
+17	sentence	3		0.0	
+17	sentence	4	, but did not	25.293128835921394	
+17	sentence	5	run	8.129937042293156	
+17	sentence	6	.	7.943980457082442	
+18	sentence	1	The freshman	15.822040652019773	
+18	sentence	2	participated	12.993993713623126	
+18	sentence	3		0.0	
+18	sentence	4	, but did not	25.293128835921394	
+18	sentence	5	happen	12.6567838904234	
+18	sentence	6	.	9.34634625427468	
+19	sentence	1	The freshman	15.822040652019773	
+19	sentence	2	participated	12.993993713623126	
+19	sentence	3		0.0	
+19	sentence	4	, but did not	25.293128835921394	
+19	sentence	5	buy	12.63620100676814	
+19	sentence	6	.	8.851177933494101	
+20	sentence	1	The freshman	15.822040652019773	
+20	sentence	2	participated	12.993993713623126	
+20	sentence	3		0.0	
+20	sentence	4	, but did not	25.293128835921394	
+20	sentence	5	save	11.810464144833555	
+20	sentence	6	.	6.252709947803616	
+21	sentence	1	The freshman	15.822040652019773	
+21	sentence	2	participated	12.993993713623126	
+21	sentence	3		0.0	
+21	sentence	4	, but did not	25.293128835921394	
+21	sentence	5	lose	9.249976119829007	
+21	sentence	6	.	8.136246053857407	
+22	sentence	1	The freshman	15.822040652019773	
+22	sentence	2	participated	12.993993713623126	
+22	sentence	3		0.0	
+22	sentence	4	, but did not	25.293128835921394	
+22	sentence	5	follow	9.345185715346657	
+22	sentence	6	.	10.078400038700673	
+23	sentence	1	The freshman	15.822040652019773	
+23	sentence	2	participated	12.993993713623126	
+23	sentence	3		0.0	
+23	sentence	4	, but did not	25.293128835921394	
+23	sentence	5	expect	11.55186827927382	
+23	sentence	6	.	12.901028147733934	
+24	sentence	1	The freshman	15.822040652019773	
+24	sentence	2	participated	12.993993713623126	
+24	sentence	3		0.0	
+24	sentence	4	, but did not	25.293128835921394	
+24	sentence	5	realize	9.798383390010676	
+24	sentence	6	.	9.536903031430672	
+25	sentence	1	The freshman	15.822040652019773	
+25	sentence	2	participated	12.993993713623126	
+25	sentence	3		0.0	
+25	sentence	4	, but did not	25.293128835921394	
+25	sentence	5	slow	15.7696423538161	
+25	sentence	6	.	12.49729268345806	
+26	sentence	1	The freshman	15.822040652019773	
+26	sentence	2	participated	12.993993713623126	
+26	sentence	3		0.0	
+26	sentence	4	, but did not	25.293128835921394	
+26	sentence	5	allow	9.52061352267155	
+26	sentence	6	.	12.031903502639679	
+27	sentence	1	The freshman	15.822040652019773	
+27	sentence	2	participated	12.993993713623126	
+27	sentence	3		0.0	
+27	sentence	4	, but did not	25.293128835921394	
+27	sentence	5	consider	9.893284792617981	
+27	sentence	6	.	11.502641341152058	
+28	sentence	1	The freshman	15.822040652019773	
+28	sentence	2	participated	12.993993713623126	
+28	sentence	3		0.0	
+28	sentence	4	, but did not	25.293128835921394	
+28	sentence	5	apologize	12.091536079069245	
+28	sentence	6	.	4.201729813043286	
+29	sentence	1	The freshman	15.822040652019773	
+29	sentence	2	participated	12.993993713623126	
+29	sentence	3		0.0	
+29	sentence	4	, but did not	25.293128835921394	
+29	sentence	5	recognize	11.102743841712838	
+29	sentence	6	.	8.091749326564974	
+30	sentence	1	The freshman	15.822040652019773	
+30	sentence	2	participated	12.993993713623126	
+30	sentence	3		0.0	
+30	sentence	4	, but did not	25.293128835921394	
+30	sentence	5	settle	13.40556057988869	
+30	sentence	6	.	6.495045885620176	
+31	sentence	1	The freshman	15.822040652019773	
+31	sentence	2	participated	12.993993713623126	
+31	sentence	3		0.0	
+31	sentence	4	, but did not	25.293128835921394	
+31	sentence	5	add	10.732339991035383	
+31	sentence	6	.	9.334597087498336	
+32	sentence	1	The freshman	15.822040652019773	
+32	sentence	2	participated	12.993993713623126	
+32	sentence	3		0.0	
+32	sentence	4	, but did not	25.293128835921394	
+32	sentence	5	assume	13.602605918496433	
+32	sentence	6	.	11.259322350503167	
+33	sentence	1	The freshman	15.822040652019773	
+33	sentence	2	participated	12.993993713623126	
+33	sentence	3		0.0	
+33	sentence	4	, but did not	25.293128835921394	
+33	sentence	5	appear	6.047191367953164	
+33	sentence	6	.	7.4327682187681745	
+34	sentence	1	The freshman	15.822040652019773	
+34	sentence	2	participated	12.993993713623126	
+34	sentence	3		0.0	
+34	sentence	4	, but did not	25.293128835921394	
+34	sentence	5	remove	12.64720789642336	
+34	sentence	6	.	8.403970070594333	
+35	sentence	1	The freshman	15.822040652019773	
+35	sentence	2	participated	12.993993713623126	
+35	sentence	3		0.0	
+35	sentence	4	, but did not	25.293128835921394	
+35	sentence	5	identify	10.058740357915244	
+35	sentence	6	.	8.264212152988991	
+36	sentence	1	The freshman	15.822040652019773	
+36	sentence	2	participated	12.993993713623126	
+36	sentence	3		0.0	
+36	sentence	4	, but did not	25.293128835921394	
+36	sentence	5	replace	12.933563137693557	
+36	sentence	6	.	7.343657815980722	
+37	sentence	1	The freshman	15.822040652019773	
+37	sentence	2	participated	12.993993713623126	
+37	sentence	3		0.0	
+37	sentence	4	, but did not	25.293128835921394	
+37	sentence	5	apply	8.651949791081607	
+37	sentence	6	.	5.50758754570386	
+38	sentence	1	The freshman	15.822040652019773	
+38	sentence	2	participated	12.993993713623126	
+38	sentence	3		0.0	
+38	sentence	4	, but did not	25.293128835921394	
+38	sentence	5	succeed	8.996619533745159	
+38	sentence	6	.	4.197336000279043	
+39	sentence	1	The freshman	15.822040652019773	
+39	sentence	2	participated	12.993993713623126	
+39	sentence	3		0.0	
+39	sentence	4	, but did not	25.293128835921394	
+39	sentence	5	develop	10.47830097779291	
+39	sentence	6	.	8.835325260668172	
+40	sentence	1	The freshman	15.822040652019773	
+40	sentence	2	participated	12.993993713623126	
+40	sentence	3		0.0	
+40	sentence	4	, but did not	25.293128835921394	
+40	sentence	5	approve	13.726191275545242	
+40	sentence	6	.	4.7962322172745075	
+41	sentence	1	The freshman	15.822040652019773	
+41	sentence	2	participated	12.993993713623126	
+41	sentence	3		0.0	
+41	sentence	4	, but did not	25.293128835921394	
+41	sentence	5	expose	14.972237225854048	
+41	sentence	6	.	11.857133356971685	
+42	sentence	1	The freshman	15.822040652019773	
+42	sentence	2	participated	12.993993713623126	
+42	sentence	3		0.0	
+42	sentence	4	, but did not	25.293128835921394	
+42	sentence	5	establish	11.95207878713761	
+42	sentence	6	.	9.900096681453356	
+43	sentence	1	The freshman	15.822040652019773	
+43	sentence	2	participated	12.993993713623126	
+43	sentence	3		0.0	
+43	sentence	4	, but did not	25.293128835921394	
+43	sentence	5	reduce	13.14564388757033	
+43	sentence	6	.	11.359929449535496	
+44	sentence	1	The freshman	15.822040652019773	
+44	sentence	2	participated	12.993993713623126	
+44	sentence	3		0.0	
+44	sentence	4	, but did not	25.293128835921394	
+44	sentence	5	participate	2.424405720613444	
+44	sentence	6	.	5.554850785918072	
+45	sentence	1	The freshman	15.822040652019773	
+45	sentence	2	participated	12.993993713623126	
+45	sentence	3		0.0	
+45	sentence	4	, but did not	25.293128835921394	
+45	sentence	5	organize	14.066898537932914	
+45	sentence	6	.	7.7473877768117685	
+46	sentence	1	The freshman	15.822040652019773	
+46	sentence	2	participated	12.993993713623126	
+46	sentence	3		0.0	
+46	sentence	4	, but did not	25.293128835921394	
+46	sentence	5	obtain	11.358477915962213	
+46	sentence	6	.	11.077299352482987	
+47	sentence	1	The freshman	15.822040652019773	
+47	sentence	2	participated	12.993993713623126	
+47	sentence	3		0.0	
+47	sentence	4	, but did not	25.293128835921394	
+47	sentence	5	kitten	27.176412310209987	
+47	sentence	6	.	7.038828886285446	
+48	sentence	1	The freshman	15.822040652019773	
+48	sentence	2	participated	12.993993713623126	
+48	sentence	3		0.0	
+48	sentence	4	, but did not	25.293128835921394	
+48	sentence	5	acquire	14.21346628058182	
+48	sentence	6	.	7.776576672316205	
+49	sentence	1	The freshman	15.822040652019773	
+49	sentence	2	participated	12.993993713623126	
+49	sentence	3		0.0	
+49	sentence	4	, but did not	25.293128835921394	
+49	sentence	5	qualify	7.738554059932851	
+49	sentence	6	.	4.597916958772792	
+50	sentence	1	The freshman	15.822040652019773	
+50	sentence	2	participated	12.993993713623126	
+50	sentence	3		0.0	
+50	sentence	4	, but did not	25.293128835921394	
+50	sentence	5	criticize	14.409388916444732	
+50	sentence	6	.	9.225421124869419	
+51	sentence	1	The freshman	15.822040652019773	
+51	sentence	2	participated	12.993993713623126	
+51	sentence	3		0.0	
+51	sentence	4	, but did not	25.293128835921394	
+51	sentence	5	rave	18.07582788815705	
+51	sentence	6	.	10.744881653866901	
+52	sentence	1	The freshman	15.822040652019773	
+52	sentence	2	participated	12.993993713623126	
+52	sentence	3		0.0	
+52	sentence	4	, but did not	25.293128835921394	
+52	sentence	5	enlighten	19.188270966972002	
+52	sentence	6	.	8.520796509464233	
+53	sentence	1	The freshman	15.822040652019773	
+53	sentence	2	participated	12.993993713623126	
+53	sentence	3		0.0	
+53	sentence	4	, but did not	25.293128835921394	
+53	sentence	5	disclose	9.334465004822475	
+53	sentence	6	.	8.0947445764124	
+54	sentence	1	The freshman	15.822040652019773	
+54	sentence	2	participated	12.993993713623126	
+54	sentence	3		0.0	
+54	sentence	4	, but did not	25.293128835921394	
+54	sentence	5	reopen	17.466090228816498	
+54	sentence	6	.	7.863450612711837	
+55	sentence	1	The freshman	15.822040652019773	
+55	sentence	2	participated	12.993993713623126	
+55	sentence	3		0.0	
+55	sentence	4	, but did not	25.293128835921394	
+55	sentence	5	stabilize	16.590338060288595	
+55	sentence	6	.	4.869212023272235	
+56	sentence	1	The freshman	15.822040652019773	
+56	sentence	2	participated	12.993993713623126	
+56	sentence	3		0.0	
+56	sentence	4	, but did not	25.293128835921394	
+56	sentence	5	soar	18.603454150669666	
+56	sentence	6	.	9.27306307088083	
+57	sentence	1	The freshman	15.822040652019773	
+57	sentence	2	participated	12.993993713623126	
+57	sentence	3		0.0	
+57	sentence	4	, but did not	25.293128835921394	
+57	sentence	5	authorize	14.5491323875074	
+57	sentence	6	.	9.32406143030648	
+58	sentence	1	The freshman	15.822040652019773	
+58	sentence	2	participated	12.993993713623126	
+58	sentence	3		0.0	
+58	sentence	4	, but did not	25.293128835921394	
+58	sentence	5	sympathize	21.454305655354336	
+58	sentence	6	.	6.907562096118502	
+59	sentence	1	The freshman	15.822040652019773	
+59	sentence	2	participated	12.993993713623126	
+59	sentence	3		0.0	
+59	sentence	4	, but did not	25.293128835921394	
+59	sentence	5	sharpen	17.150418524582395	
+59	sentence	6	.	8.977413199227403	
+60	sentence	1	The freshman	15.822040652019773	
+60	sentence	2	participated	12.993993713623126	
+60	sentence	3		0.0	
+60	sentence	4	, but did not	25.293128835921394	
+60	sentence	5	specialize	16.060554447403558	
+60	sentence	6	.	7.270675946191184	
+61	sentence	1	The freshman	15.822040652019773	
+61	sentence	2	participated	12.993993713623126	
+61	sentence	3		0.0	
+61	sentence	4	, but did not	25.293128835921394	
+61	sentence	5	minimize	17.806929573880034	
+61	sentence	6	.	8.377658788804135	
+62	sentence	1	The freshman	15.822040652019773	
+62	sentence	2	participated	12.993993713623126	
+62	sentence	3		0.0	
+62	sentence	4	, but did not	25.293128835921394	
+62	sentence	5	socialize	16.30888132562051	
+62	sentence	6	.	6.785377365778321	
+63	sentence	1	The freshman	15.822040652019773	
+63	sentence	2	participated	12.993993713623126	
+63	sentence	3		0.0	
+63	sentence	4	, but did not	25.293128835921394	
+63	sentence	5	utilize	12.425991428132752	
+63	sentence	6	.	9.52504241989657	
+64	sentence	1	The freshman	15.822040652019773	
+64	sentence	2	participated	12.993993713623126	
+64	sentence	3		0.0	
+64	sentence	4	, but did not	25.293128835921394	
+64	sentence	5	rectify	17.207763075399825	
+64	sentence	6	.	7.668633481328672	
+65	sentence	1	The freshman	15.822040652019773	
+65	sentence	2	participated	12.993993713623126	
+65	sentence	3		0.0	
+65	sentence	4	, but did not	25.293128835921394	
+65	sentence	5	terrorize	18.43099251737529	
+65	sentence	6	.	9.405176015690019	
+66	sentence	1	The freshman	15.822040652019773	
+66	sentence	2	participated	12.993993713623126	
+66	sentence	3		0.0	
+66	sentence	4	, but did not	25.293128835921394	
+66	sentence	5	enslave	21.624586015556734	
+66	sentence	6	.	7.022527682706065	
+67	sentence	1	The freshman	15.822040652019773	
+67	sentence	2	participated	12.993993713623126	
+67	sentence	3		0.0	
+67	sentence	4	, but did not	25.293128835921394	
+67	sentence	5	finalize	11.705986232278256	
+67	sentence	6	.	6.254802632699315	
+68	sentence	1	The freshman	15.822040652019773	
+68	sentence	2	participated	12.993993713623126	
+68	sentence	3		0.0	
+68	sentence	4	, but did not	25.293128835921394	
+68	sentence	5	maximize	15.656249376588026	
+68	sentence	6	.	7.883443251909337	
+69	sentence	1	The freshman	15.822040652019773	
+69	sentence	2	participated	12.993993713623126	
+69	sentence	3		0.0	
+69	sentence	4	, but did not	25.293128835921394	
+69	sentence	5	summarize	15.241641857055207	
+69	sentence	6	.	6.1087824828107555	
+70	sentence	1	The freshman	15.822040652019773	
+70	sentence	2	participated	12.993993713623126	
+70	sentence	3		0.0	
+70	sentence	4	, but did not	25.293128835921394	
+70	sentence	5	repose	23.16454687217032	
+70	sentence	6	.	4.1253505979686045	
+71	sentence	1	The freshman	15.822040652019773	
+71	sentence	2	participated	12.993993713623126	
+71	sentence	3		0.0	
+71	sentence	4	, but did not	25.293128835921394	
+71	sentence	5	symbolize	19.863655133057737	
+71	sentence	6	.	9.555237757873854	
+72	sentence	1	The freshman	15.822040652019773	
+72	sentence	2	participated	12.993993713623126	
+72	sentence	3		0.0	
+72	sentence	4	, but did not	25.293128835921394	
+72	sentence	5	sterilize	20.68719551856683	
+72	sentence	6	.	6.2328934188406	
+73	sentence	1	The freshman	15.822040652019773	
+73	sentence	2	participated	12.993993713623126	
+73	sentence	3		0.0	
+73	sentence	4	, but did not	25.293128835921394	
+73	sentence	5	revolutionize	20.698842914609525	
+73	sentence	6	.	11.371415826821321	
+74	sentence	1	The freshman	15.822040652019773	
+74	sentence	2	participated	12.993993713623126	
+74	sentence	3		0.0	
+74	sentence	4	, but did not	25.293128835921394	
+74	sentence	5	synchronize	18.809231876128223	
+74	sentence	6	.	6.699368154151227	
+75	sentence	1	The freshman	15.822040652019773	
+75	sentence	2	participated	12.993993713623126	
+75	sentence	3		0.0	
+75	sentence	4	, but did not	25.293128835921394	
+75	sentence	5	fertilize	21.2516729202003	
+75	sentence	6	.	6.494411613603794	
+76	sentence	1	The freshman	15.822040652019773	
+76	sentence	2	participated	12.993993713623126	
+76	sentence	3		0.0	
+76	sentence	4	, but did not	25.293128835921394	
+76	sentence	5	rationalize	21.404476960686118	
+76	sentence	6	.	6.210623041415073	
+77	sentence	1	The freshman	15.822040652019773	
+77	sentence	2	participated	12.993993713623126	
+77	sentence	3		0.0	
+77	sentence	4	, but did not	25.293128835921394	
+77	sentence	5	antagonize	17.403024115502696	
+77	sentence	6	.	8.29859974006371	
+78	sentence	1	The freshman	15.822040652019773	
+78	sentence	2	participated	12.993993713623126	
+78	sentence	3		0.0	
+78	sentence	4	, but did not	25.293128835921394	
+78	sentence	5	kindle	17.29395683516021	
+78	sentence	6	.	7.628505801298758	
+79	sentence	1	The freshman	15.822040652019773	
+79	sentence	2	participated	12.993993713623126	
+79	sentence	3		0.0	
+79	sentence	4	, but did not	25.293128835921394	
+79	sentence	5	familiarize	18.629972542567167	
+79	sentence	6	.	16.01589949607233	
+80	sentence	1	The freshman	15.822040652019773	
+80	sentence	2	participated	12.993993713623126	
+80	sentence	3		0.0	
+80	sentence	4	, but did not	25.293128835921394	
+80	sentence	5	synthesize	18.985914710724412	
+80	sentence	6	.	5.750483459031629	
+81	sentence	1	The freshman	15.822040652019773	
+81	sentence	2	participated	12.993993713623126	
+81	sentence	3		0.0	
+81	sentence	4	, but did not	25.293128835921394	
+81	sentence	5	reorganize	21.13574332517176	
+81	sentence	6	.	6.128779249591877	
+82	sentence	1	The freshman	15.822040652019773	
+82	sentence	2	participated	12.993993713623126	
+82	sentence	3		0.0	
+82	sentence	4	, but did not	25.293128835921394	
+82	sentence	5	ripen	26.175013744545332	
+82	sentence	6	.	6.326044038062121	
+83	sentence	1	The freshman	15.822040652019773	
+83	sentence	2	participated	12.993993713623126	
+83	sentence	3		0.0	
+83	sentence	4	, but did not	25.293128835921394	
+83	sentence	5	deepen	17.998955770804997	
+83	sentence	6	.	8.10286903683916	
+84	sentence	1	The freshman	15.822040652019773	
+84	sentence	2	participated	12.993993713623126	
+84	sentence	3		0.0	
+84	sentence	4	, but did not	25.293128835921394	
+84	sentence	5	destabilize	20.32732930288171	
+84	sentence	6	.	9.152841006552297	
+85	sentence	1	The freshman	15.822040652019773	
+85	sentence	2	participated	12.993993713623126	
+85	sentence	3		0.0	
+85	sentence	4	, but did not	25.293128835921394	
+85	sentence	5	enclose	20.702578693535663	
+85	sentence	6	.	5.474510466428717	
+86	sentence	1	The freshman	15.822040652019773	
+86	sentence	2	participated	12.993993713623126	
+86	sentence	3		0.0	
+86	sentence	4	, but did not	25.293128835921394	
+86	sentence	5	dampen	20.70151318711477	
+86	sentence	6	.	12.022547646432741	
+87	sentence	1	The freshman	15.822040652019773	
+87	sentence	2	participated	12.993993713623126	
+87	sentence	3		0.0	
+87	sentence	4	, but did not	25.293128835921394	
+87	sentence	5	subsidize	19.75092961109236	
+87	sentence	6	.	7.515702380597841	
+88	sentence	1	The freshman	15.822040652019773	
+88	sentence	2	participated	12.993993713623126	
+88	sentence	3		0.0	
+88	sentence	4	, but did not	25.293128835921394	
+88	sentence	5	idolize	20.431912350581268	
+88	sentence	6	.	8.519317458666812	
+89	sentence	1	The freshman	15.822040652019773	
+89	sentence	2	participated	12.993993713623126	
+89	sentence	3		0.0	
+89	sentence	4	, but did not	25.293128835921394	
+89	sentence	5	quantify	15.929396350271958	
+89	sentence	6	.	6.670635356636879	
+90	sentence	1	The freshman	15.822040652019773	
+90	sentence	2	participated	12.993993713623126	
+90	sentence	3		0.0	
+90	sentence	4	, but did not	25.293128835921394	
+90	sentence	5	engrave	22.867231520525934	
+90	sentence	6	.	8.446347283697534	
+91	sentence	1	The freshman	15.822040652019773	
+91	sentence	2	participated	12.993993713623126	
+91	sentence	3		0.0	
+91	sentence	4	, but did not	25.293128835921394	
+91	sentence	5	fraternize	19.407241814122823	
+91	sentence	6	.	5.275466689417947	
+92	sentence	1	The freshman	15.822040652019773	
+92	sentence	2	participated	12.993993713623126	
+92	sentence	3		0.0	
+92	sentence	4	, but did not	25.293128835921394	
+92	sentence	5	immobilize	19.897100341197053	
+92	sentence	6	.	5.392013140532242	
+93	sentence	1	The freshman	15.822040652019773	
+93	sentence	2	participated	12.993993713623126	
+93	sentence	3		0.0	
+93	sentence	4	, but did not	25.293128835921394	
+93	sentence	5	downsize	21.804912228376754	
+93	sentence	6	.	4.869801235834091	
+94	sentence	1	The freshman	15.822040652019773	
+94	sentence	2	participated	12.993993713623126	
+94	sentence	3		0.0	
+94	sentence	4	, but did not	25.293128835921394	
+94	sentence	5	theorize	19.206530674717243	
+94	sentence	6	.	6.586394814591258	
+95	sentence	1	The freshman	15.822040652019773	
+95	sentence	2	participated	12.993993713623126	
+95	sentence	3		0.0	
+95	sentence	4	, but did not	25.293128835921394	
+95	sentence	5	dramatize	18.904357409750805	
+95	sentence	6	.	6.508631827107734	
+96	sentence	1	The freshman	15.822040652019773	
+96	sentence	2	participated	12.993993713623126	
+96	sentence	3		0.0	
+96	sentence	4	, but did not	25.293128835921394	
+96	sentence	5	modernize	22.099657836749774	
+96	sentence	6	.	7.043448340287621	
+97	sentence	1	The freshman	15.822040652019773	
+97	sentence	2	participated	12.993993713623126	
+97	sentence	3		0.0	
+97	sentence	4	, but did not	25.293128835921394	
+97	sentence	5	revitalize	20.83801078123759	
+97	sentence	6	.	8.441476047094495	
+98	sentence	1	The freshman	15.822040652019773	
+98	sentence	2	participated	12.993993713623126	
+98	sentence	3		0.0	
+98	sentence	4	, but did not	25.293128835921394	
+98	sentence	5	traumatize	18.99253352753636	
+98	sentence	6	.	7.882392781877867	
+99	sentence	1	The freshman	15.822040652019773	
+99	sentence	2	participated	12.993993713623126	
+99	sentence	3		0.0	
+99	sentence	4	, but did not	25.293128835921394	
+99	sentence	5	immortalize	21.195699814800854	
+99	sentence	6	.	6.7697434548842885	
+100	sentence	1	The freshman	15.822040652019773	
+100	sentence	2	participated	12.993993713623126	
+100	sentence	3		0.0	
+100	sentence	4	, but did not	25.293128835921394	
+100	sentence	5	agonize	18.947566524434063	
+100	sentence	6	.	5.685244936114538	
+101	sentence	1	The freshman	15.822040652019773	
+101	sentence	2	participated	12.993993713623126	
+101	sentence	3		0.0	
+101	sentence	4	, but did not	25.293128835921394	
+101	sentence	5	electrify	19.083675093800625	
+101	sentence	6	.	7.713084805201277	
+102	sentence	1	The freshman	15.822040652019773	
+102	sentence	2	participated	12.993993713623126	
+102	sentence	3		0.0	
+102	sentence	4	, but did not	25.293128835921394	
+102	sentence	5	demoralize	21.31226889775711	
+102	sentence	6	.	7.480711478383897	
+103	sentence	1	The freshman	15.822040652019773	
+103	sentence	2	participated	12.993993713623126	
+103	sentence	3		0.0	
+103	sentence	4	, but did not	25.293128835921394	
+103	sentence	5	sanitize	21.710481751888718	
+103	sentence	6	.	7.386674116614528	
+104	sentence	1	The freshman	15.822040652019773	
+104	sentence	2	participated	12.993993713623126	
+104	sentence	3		0.0	
+104	sentence	4	, but did not	25.293128835921394	
+104	sentence	5	anesthetize	23.642409957343006	
+104	sentence	6	.	4.11064504942393	
+105	sentence	1	The freshman	15.822040652019773	
+105	sentence	2	participated	12.993993713623126	
+105	sentence	3		0.0	
+105	sentence	4	, but did not	25.293128835921394	
+105	sentence	5	trivialize	20.69175132823927	
+105	sentence	6	.	8.670609220769618	
+106	sentence	1	The freshman	15.822040652019773	
+106	sentence	2	participated	12.993993713623126	
+106	sentence	3		0.0	
+106	sentence	4	, but did not	25.293128835921394	
+106	sentence	5	romanticize	20.24165645707296	
+106	sentence	6	.	7.528195888287119	
+107	sentence	1	The freshman	15.822040652019773	
+107	sentence	2	participated	12.993993713623126	
+107	sentence	3		0.0	
+107	sentence	4	, but did not	25.293128835921394	
+107	sentence	5	equalize	25.410198640991183	
+107	sentence	6	.	5.5164023444911825	
+108	sentence	1	The freshman	15.822040652019773	
+108	sentence	2	participated	12.993993713623126	
+108	sentence	3		0.0	
+108	sentence	4	, but did not	25.293128835921394	
+108	sentence	5	demonize	21.679196866197014	
+108	sentence	6	.	9.13233654698583	
+109	sentence	1	The freshman	15.822040652019773	
+109	sentence	2	participated	12.993993713623126	
+109	sentence	3		0.0	
+109	sentence	4	, but did not	25.293128835921394	
+109	sentence	5	alphabetize	27.322164855093803	
+109	sentence	6	.	5.198476591967401	
+110	sentence	1	The freshman	15.822040652019773	
+110	sentence	2	participated	12.993993713623126	
+110	sentence	3		0.0	
+110	sentence	4	, but did not	25.293128835921394	
+110	sentence	5	formalize	16.382547460633255	
+110	sentence	6	.	8.412168139595662	
+111	sentence	1	The freshman	15.822040652019773	
+111	sentence	2	participated	12.993993713623126	
+111	sentence	3		0.0	
+111	sentence	4	, but did not	25.293128835921394	
+111	sentence	5	optimize	18.25462380371644	
+111	sentence	6	.	5.737963466014118	
+112	sentence	1	The freshman	15.822040652019773	
+112	sentence	2	participated	12.993993713623126	
+112	sentence	3		0.0	
+112	sentence	4	, but did not	25.293128835921394	
+112	sentence	5	internalize	18.206692066938327	
+112	sentence	6	.	5.974407622177419	
+113	sentence	1	The freshman	15.822040652019773	
+113	sentence	2	participated	12.993993713623126	
+113	sentence	3		0.0	
+113	sentence	4	, but did not	25.293128835921394	
+113	sentence	5	idealize	20.49025177871008	
+113	sentence	6	.	7.378805566372252	
+114	sentence	1	The freshman	15.822040652019773	
+114	sentence	2	participated	12.993993713623126	
+114	sentence	3		0.0	
+114	sentence	4	, but did not	25.293128835921394	
+114	sentence	5	sodomize	21.620798276036297	
+114	sentence	6	.	7.973493367901103	
+115	sentence	1	The freshman	15.822040652019773	
+115	sentence	2	participated	12.993993713623126	
+115	sentence	3		0.0	
+115	sentence	4	, but did not	25.293128835921394	
+115	sentence	5	digitize	21.651922900769694	
+115	sentence	6	.	6.792165177042574	
+116	sentence	1	The freshman	15.822040652019773	
+116	sentence	2	participated	12.993993713623126	
+116	sentence	3		0.0	
+116	sentence	4	, but did not	25.293128835921394	
+116	sentence	5	galvanize	19.832972643472967	
+116	sentence	6	.	9.950636879097107	
+117	sentence	1	The freshman	15.822040652019773	
+117	sentence	2	participated	12.993993713623126	
+117	sentence	3		0.0	
+117	sentence	4	, but did not	25.293128835921394	
+117	sentence	5	initialize	17.266227126457018	
+117	sentence	6	.	4.442545080260917	
+118	sentence	1	The freshman	15.822040652019773	
+118	sentence	2	participated	12.993993713623126	
+118	sentence	3		0.0	
+118	sentence	4	, but did not	25.293128835921394	
+118	sentence	5	exemplify	18.4245375247872	
+118	sentence	6	.	8.099154899511127	
+119	sentence	1	The freshman	15.822040652019773	
+119	sentence	2	participated	12.993993713623126	
+119	sentence	3		0.0	
+119	sentence	4	, but did not	25.293128835921394	
+119	sentence	5	depressurize	34.70353502675572	
+119	sentence	6	.	5.02998759667422	
+120	sentence	1	The freshman	15.822040652019773	
+120	sentence	2	participated	12.993993713623126	
+120	sentence	3		0.0	
+120	sentence	4	, but did not	25.293128835921394	
+120	sentence	5	itemize	16.355862310057912	
+120	sentence	6	.	5.056601567929937	
+121	sentence	1	The freshman	15.822040652019773	
+121	sentence	2	participated	12.993993713623126	
+121	sentence	3		0.0	
+121	sentence	4	, but did not	25.293128835921394	
+121	sentence	5	dehumanize	25.26891647339799	
+121	sentence	6	.	7.873019727405843	
+122	sentence	1	The freshman	15.822040652019773	
+122	sentence	2	participated	12.993993713623126	
+122	sentence	3		0.0	
+122	sentence	4	, but did not	25.293128835921394	
+122	sentence	5	mollify	23.93417211549079	
+122	sentence	6	.	6.688295223158076	
+123	sentence	1	The freshman	15.822040652019773	
+123	sentence	2	participated	12.993993713623126	
+123	sentence	3		0.0	
+123	sentence	4	, but did not	25.293128835921394	
+123	sentence	5	immunize	19.078395355406126	
+123	sentence	6	.	6.302121939257708	
+124	sentence	1	The freshman	15.822040652019773	
+124	sentence	2	participated	12.993993713623126	
+124	sentence	3		0.0	
+124	sentence	4	, but did not	25.293128835921394	
+124	sentence	5	oxidize	22.705366262360855	
+124	sentence	6	.	5.636924002597519	
+125	sentence	1	The freshman	15.822040652019773	
+125	sentence	2	participated	12.993993713623126	
+125	sentence	3		0.0	
+125	sentence	4	, but did not	25.293128835921394	
+125	sentence	5	dematerialize	26.116821866782043	
+125	sentence	6	.	4.170177187985392	
+126	sentence	1	The freshman	15.822040652019773	
+126	sentence	2	participated	12.993993713623126	
+126	sentence	3		0.0	
+126	sentence	4	, but did not	25.293128835921394	
+126	sentence	5	ostracize	22.360506423779906	
+126	sentence	6	.	8.585957296223134	
+127	sentence	1	The freshman	15.822040652019773	
+127	sentence	2	participated	12.993993713623126	
+127	sentence	3		0.0	
+127	sentence	4	, but did not	25.293128835921394	
+127	sentence	5	overdramatize	24.554422429343646	
+127	sentence	6	.	4.97875430894749	
+128	sentence	1	The freshman	15.822040652019773	
+128	sentence	2	participated	12.993993713623126	
+128	sentence	3		0.0	
+128	sentence	4	, but did not	25.293128835921394	
+128	sentence	5	satirize	23.751675369760978	
+128	sentence	6	.	8.662352677666997	
+129	sentence	1	The freshman	15.822040652019773	
+129	sentence	2	participated	12.993993713623126	
+129	sentence	3		0.0	
+129	sentence	4	, but did not	25.293128835921394	
+129	sentence	5	amortize	22.47710748879115	
+129	sentence	6	.	4.828611390952449	
+130	sentence	1	The freshman	15.822040652019773	
+130	sentence	2	participated	12.993993713623126	
+130	sentence	3		0.0	
+130	sentence	4	, but did not	25.293128835921394	
+130	sentence	5	tyrannize	25.18722564939382	
+130	sentence	6	.	6.2608137703122715	
+131	sentence	1	The freshman	15.822040652019773	
+131	sentence	2	participated	12.993993713623126	
+131	sentence	3		0.0	
+131	sentence	4	, but did not	25.293128835921394	
+131	sentence	5	eulogize	21.648811460518232	
+131	sentence	6	.	6.483934430513231	
+132	sentence	1	The freshman	15.822040652019773	
+132	sentence	2	participated	12.993993713623126	
+132	sentence	3		0.0	
+132	sentence	4	, but did not	25.293128835921394	
+132	sentence	5	resize	20.24905019546295	
+132	sentence	6	.	5.534345982386302	
+133	sentence	1	The freshman	15.822040652019773	
+133	sentence	2	participated	12.993993713623126	
+133	sentence	3		0.0	
+133	sentence	4	, but did not	25.293128835921394	
+133	sentence	5	editorialize	22.607242915274455	
+133	sentence	6	.	4.27794186098133	
+134	sentence	1	The freshman	15.822040652019773	
+134	sentence	2	participated	12.993993713623126	
+134	sentence	3		0.0	
+134	sentence	4	, but did not	25.293128835921394	
+134	sentence	5	acclimatize	18.774625716571247	
+134	sentence	6	.	5.991536406272751	
+135	sentence	1	The freshman	15.822040652019773	
+135	sentence	2	participated	12.993993713623126	
+135	sentence	3		0.0	
+135	sentence	4	, but did not	25.293128835921394	
+135	sentence	5	desensitize	27.49128717985782	
+135	sentence	6	.	7.065292888669611	
+136	sentence	1	The freshman	15.822040652019773	
+136	sentence	2	participated	12.993993713623126	
+136	sentence	3		0.0	
+136	sentence	4	, but did not	25.293128835921394	
+136	sentence	5	standardize	20.96642233693274	
+136	sentence	6	.	7.25077411383334	
+137	sentence	1	The freshman	15.822040652019773	
+137	sentence	2	participated	12.993993713623126	
+137	sentence	3		0.0	
+137	sentence	4	, but did not	25.293128835921394	
+137	sentence	5	stigmatize	22.873933550068614	
+137	sentence	6	.	7.824244759690548	
+138	sentence	1	The freshman	15.822040652019773	
+138	sentence	2	participated	12.993993713623126	
+138	sentence	3		0.0	
+138	sentence	4	, but did not	25.293128835921394	
+138	sentence	5	actualize	20.734252121626028	
+138	sentence	6	.	6.442042208485465	
+139	sentence	1	The freshman	15.822040652019773	
+139	sentence	2	participated	12.993993713623126	
+139	sentence	3		0.0	
+139	sentence	4	, but did not	25.293128835921394	
+139	sentence	5	industrialize	23.167962608850186	
+139	sentence	6	.	4.733086379253115	
+140	sentence	1	The freshman	15.822040652019773	
+140	sentence	2	participated	12.993993713623126	
+140	sentence	3		0.0	
+140	sentence	4	, but did not	25.293128835921394	
+140	sentence	5	sexualize	23.29699152851736	
+140	sentence	6	.	7.166302427104959	
+141	sentence	1	The freshman	15.822040652019773	
+141	sentence	2	participated	12.993993713623126	
+141	sentence	3		0.0	
+141	sentence	4	, but did not	25.293128835921394	
+141	sentence	5	demagnetize	34.03076392543058	
+141	sentence	6	.	4.923121361046389	
+142	sentence	1	The freshman	15.822040652019773	
+142	sentence	2	participated	12.993993713623126	
+142	sentence	3		0.0	
+142	sentence	4	, but did not	25.293128835921394	
+142	sentence	5	solemnize	22.29496397930284	
+142	sentence	6	.	5.765346199719192	
+143	sentence	1	The freshman	15.822040652019773	
+143	sentence	2	participated	12.993993713623126	
+143	sentence	3		0.0	
+143	sentence	4	, but did not	25.293128835921394	
+143	sentence	5	atomize	22.381885924355892	
+143	sentence	6	.	4.049939989183582	
+144	sentence	1	The freshman	15.822040652019773	
+144	sentence	2	participated	12.993993713623126	
+144	sentence	3		0.0	
+144	sentence	4	, but did not	25.293128835921394	
+144	sentence	5	ionize	22.184136166308047	
+144	sentence	6	.	5.390472863911115	
+145	sentence	1	The freshman	15.822040652019773	
+145	sentence	2	participated	12.993993713623126	
+145	sentence	3		0.0	
+145	sentence	4	, but did not	25.293128835921394	
+145	sentence	5	radicalize	18.86125379030048	
+145	sentence	6	.	6.684012855151592	
+146	sentence	1	The freshman	15.822040652019773	
+146	sentence	2	participated	12.993993713623126	
+146	sentence	3		0.0	
+146	sentence	4	, but did not	25.293128835921394	
+146	sentence	5	reunify	23.455452774382344	
+146	sentence	6	.	7.621793662400884	
+147	sentence	1	The freshman	15.822040652019773	
+147	sentence	2	participated	12.993993713623126	
+147	sentence	3		0.0	
+147	sentence	4	, but did not	25.293128835921394	
+147	sentence	5	demobilize	27.738007107945116	
+147	sentence	6	.	3.4974102948607317	
+148	sentence	1	The freshman	15.822040652019773	
+148	sentence	2	participated	12.993993713623126	
+148	sentence	3		0.0	
+148	sentence	4	, but did not	25.293128835921394	
+148	sentence	5	democratize	24.143734899623027	
+148	sentence	6	.	7.936254996405684	
+149	sentence	1	The freshman	15.822040652019773	
+149	sentence	2	participated	12.993993713623126	
+149	sentence	3		0.0	
+149	sentence	4	, but did not	25.293128835921394	
+149	sentence	5	reclassify	16.75713335834355	
+149	sentence	6	.	4.884250874194282	
+150	sentence	1	The freshman	15.822040652019773	
+150	sentence	2	participated	12.993993713623126	
+150	sentence	3		0.0	
+150	sentence	4	, but did not	25.293128835921394	
+150	sentence	5	rhapsodize	28.31122740886893	
+150	sentence	6	.	5.652020295724955	
+151	sentence	1	The freshman	15.822040652019773	
+151	sentence	2	participated	12.993993713623126	
+151	sentence	3		0.0	
+151	sentence	4	, but did not	25.293128835921394	
+151	sentence	5	serialize	19.202549566570493	
+151	sentence	6	.	4.543163186182902	
+152	sentence	1	The freshman	15.822040652019773	
+152	sentence	2	participated	12.993993713623126	
+152	sentence	3		0.0	
+152	sentence	4	, but did not	25.293128835921394	
+152	sentence	5	disorganize	23.276966008386797	
+152	sentence	6	.	5.6501628830956365	
+153	sentence	1	The freshman	15.822040652019773	
+153	sentence	2	participated	12.993993713623126	
+153	sentence	3		0.0	
+153	sentence	4	, but did not	25.293128835921394	
+153	sentence	5	sermonize	20.9991984680667	
+153	sentence	6	.	4.1207084422565154	
+154	sentence	1	The freshman	15.822040652019773	
+154	sentence	2	participated	12.993993713623126	
+154	sentence	3		0.0	
+154	sentence	4	, but did not	25.293128835921394	
+154	sentence	5	deodorize	30.072724451200592	
+154	sentence	6	.	5.05030528308185	
+155	sentence	1	The freshman	15.822040652019773	
+155	sentence	2	participated	12.993993713623126	
+155	sentence	3		0.0	
+155	sentence	4	, but did not	25.293128835921394	
+155	sentence	5	emulsify	26.970897777326282	
+155	sentence	6	.	4.699686660524954	
+156	sentence	1	The freshman	15.822040652019773	
+156	sentence	2	participated	12.993993713623126	
+156	sentence	3		0.0	
+156	sentence	4	, but did not	25.293128835921394	
+156	sentence	5	overemphasize	21.48053033832692	
+156	sentence	6	.	7.220304979475881	
+157	sentence	1	The freshman	15.822040652019773	
+157	sentence	2	participated	12.993993713623126	
+157	sentence	3		0.0	
+157	sentence	4	, but did not	25.293128835921394	
+157	sentence	5	aerosolize	22.779641981817893	
+157	sentence	6	.	4.46098953163535	
+158	sentence	1	The freshman	15.822040652019773	
+158	sentence	2	participated	12.993993713623126	
+158	sentence	3		0.0	
+158	sentence	4	, but did not	25.293128835921394	
+158	sentence	5	apostatize	24.858303025204233	
+158	sentence	6	.	3.9240277068686007	
+159	sentence	1	The freshman	15.822040652019773	
+159	sentence	2	participated	12.993993713623126	
+159	sentence	3		0.0	
+159	sentence	4	, but did not	25.293128835921394	
+159	sentence	5	depolarize	27.372344136395803	
+159	sentence	6	.	5.075309840690794	
+160	sentence	1	The freshman	15.822040652019773	
+160	sentence	2	participated	12.993993713623126	
+160	sentence	3		0.0	
+160	sentence	4	, but did not	25.293128835921394	
+160	sentence	5	evangelize	22.090994914766537	
+160	sentence	6	.	5.465755173638594	
+161	sentence	1	The freshman	15.822040652019773	
+161	sentence	2	participated	12.993993713623126	
+161	sentence	3		0.0	
+161	sentence	4	, but did not	25.293128835921394	
+161	sentence	5	anatomize	29.93033046951415	
+161	sentence	6	.	4.988461353727489	
+162	sentence	1	The freshman	15.822040652019773	
+162	sentence	2	participated	12.993993713623126	
+162	sentence	3		0.0	
+162	sentence	4	, but did not	25.293128835921394	
+162	sentence	5	anthropomorphize	23.24532766072636	
+162	sentence	6	.	6.858409454501911	
+163	sentence	1	The freshman	15.822040652019773	
+163	sentence	2	participated	12.993993713623126	
+163	sentence	3		0.0	
+163	sentence	4	, but did not	25.293128835921394	
+163	sentence	5	federalize	25.96408889006501	
+163	sentence	6	.	5.722497754152629	
+164	sentence	1	The freshman	15.822040652019773	
+164	sentence	2	participated	12.993993713623126	
+164	sentence	3		0.0	
+164	sentence	4	, but did not	25.293128835921394	
+164	sentence	5	feminize	23.486074070390153	
+164	sentence	6	.	5.286930708959161	
+165	sentence	1	The freshman	15.822040652019773	
+165	sentence	2	participated	12.993993713623126	
+165	sentence	3		0.0	
+165	sentence	4	, but did not	25.293128835921394	
+165	sentence	5	fossilize	22.429249881910014	
+165	sentence	6	.	4.867089069429984	
+166	sentence	1	The freshman	15.822040652019773	
+166	sentence	2	participated	12.993993713623126	
+166	sentence	3		0.0	
+166	sentence	4	, but did not	25.293128835921394	
+166	sentence	5	regularize	21.936371037173387	
+166	sentence	6	.	5.739254711756796	
+167	sentence	1	The freshman	15.822040652019773	
+167	sentence	2	participated	12.993993713623126	
+167	sentence	3		0.0	
+167	sentence	4	, but did not	25.293128835921394	
+167	sentence	5	ritualize	22.741476000397213	
+167	sentence	6	.	5.404131726042639	
+168	sentence	1	The freshman	15.822040652019773	
+168	sentence	2	participated	12.993993713623126	
+168	sentence	3		0.0	
+168	sentence	4	, but did not	25.293128835921394	
+168	sentence	5	sentimentalize	27.32395471078808	
+168	sentence	6	.	7.760630440928205	
+169	sentence	1	The freshman	15.822040652019773	
+169	sentence	2	participated	12.993993713623126	
+169	sentence	3		0.0	
+169	sentence	4	, but did not	25.293128835921394	
+169	sentence	5	exteriorize	27.953111586921406	
+169	sentence	6	.	5.7989646803792505	
+170	sentence	1	The freshman	15.822040652019773	
+170	sentence	2	participated	12.993993713623126	
+170	sentence	3		0.0	
+170	sentence	4	, but did not	25.293128835921394	
+170	sentence	5	fetishize	23.69959872211008	
+170	sentence	6	.	8.07846332282052	
+171	sentence	1	The freshman	15.822040652019773	
+171	sentence	2	participated	12.993993713623126	
+171	sentence	3		0.0	
+171	sentence	4	, but did not	25.293128835921394	
+171	sentence	5	fictionalize	26.511186963814815	
+171	sentence	6	.	8.988351295822278	
+172	sentence	1	The freshman	15.822040652019773	
+172	sentence	2	participated	12.993993713623126	
+172	sentence	3		0.0	
+172	sentence	4	, but did not	25.293128835921394	
+172	sentence	5	individualize	19.97736586973111	
+172	sentence	6	.	6.715083240856467	
+173	sentence	1	The freshman	15.822040652019773	
+173	sentence	2	participated	12.993993713623126	
+173	sentence	3		0.0	
+173	sentence	4	, but did not	25.293128835921394	
+173	sentence	5	internationalize	24.50325346312834	
+173	sentence	6	.	4.663125556708633	
+174	sentence	1	The freshman	15.822040652019773	
+174	sentence	2	participated	12.993993713623126	
+174	sentence	3		0.0	
+174	sentence	4	, but did not	25.293128835921394	
+174	sentence	5	alkalinize	29.10677522094191	
+174	sentence	6	.	4.877791205827875	
+175	sentence	1	The freshman	15.822040652019773	
+175	sentence	2	participated	12.993993713623126	
+175	sentence	3		0.0	
+175	sentence	4	, but did not	25.293128835921394	
+175	sentence	5	depersonalize	22.546593270732988	
+175	sentence	6	.	4.863623275049797	
+176	sentence	1	The freshman	15.822040652019773	
+176	sentence	2	participated	12.993993713623126	
+176	sentence	3		0.0	
+176	sentence	4	, but did not	25.293128835921394	
+176	sentence	5	italicize	23.528816993851496	
+176	sentence	6	.	4.738088322670809	
+177	sentence	1	The freshman	15.822040652019773	
+177	sentence	2	participated	12.993993713623126	
+177	sentence	3		0.0	
+177	sentence	4	, but did not	25.293128835921394	
+177	sentence	5	randomize	20.35869993804825	
+177	sentence	6	.	6.137295830462603	
+178	sentence	1	The freshman	15.822040652019773	
+178	sentence	2	participated	12.993993713623126	
+178	sentence	3		0.0	
+178	sentence	4	, but did not	25.293128835921394	
+178	sentence	5	stylize	25.97227182459306	
+178	sentence	6	.	6.792280749383954	
+179	sentence	1	The freshman	15.822040652019773	
+179	sentence	2	participated	12.993993713623126	
+179	sentence	3		0.0	
+179	sentence	4	, but did not	25.293128835921394	
+179	sentence	5	temporize	28.682843433578103	
+179	sentence	6	.	5.421995563987759	
+180	sentence	1	The freshman	15.822040652019773	
+180	sentence	2	participated	12.993993713623126	
+180	sentence	3		0.0	
+180	sentence	4	, but did not	25.293128835921394	
+180	sentence	5	ramify	25.472244477977657	
+180	sentence	6	.	5.821559073119003	
+181	sentence	1	The freshman	15.822040652019773	
+181	sentence	2	participated	12.993993713623126	
+181	sentence	3		0.0	
+181	sentence	4	, but did not	25.293128835921394	
+181	sentence	5	reimpose	21.363906747797703	
+181	sentence	6	.	6.008524164594377	
+182	sentence	1	The freshman	15.822040652019773	
+182	sentence	2	participated	12.993993713623126	
+182	sentence	3		0.0	
+182	sentence	4	, but did not	25.293128835921394	
+182	sentence	5	sensitize	22.902946125734708	
+182	sentence	6	.	9.410282524559438	
+183	sentence	1	The freshman	15.822040652019773	
+183	sentence	2	participated	12.993993713623126	
+183	sentence	3		0.0	
+183	sentence	4	, but did not	25.293128835921394	
+183	sentence	5	systematize	23.212367078199346	
+183	sentence	6	.	5.531613865994696	
+184	sentence	1	The freshman	15.822040652019773	
+184	sentence	2	participated	12.993993713623126	
+184	sentence	3		0.0	
+184	sentence	4	, but did not	25.293128835921394	
+184	sentence	5	denationalize	30.652499497337228	
+184	sentence	6	.	6.857976058221737	
+185	sentence	1	The freshman	15.822040652019773	
+185	sentence	2	participated	12.993993713623126	
+185	sentence	3		0.0	
+185	sentence	4	, but did not	25.293128835921394	
+185	sentence	5	digitalize	25.100153649477885	
+185	sentence	6	.	6.836993486885871	
+186	sentence	1	The freshman	15.822040652019773	
+186	sentence	2	participated	12.993993713623126	
+186	sentence	3		0.0	
+186	sentence	4	, but did not	25.293128835921394	
+186	sentence	5	reify	25.904570338132963	
+186	sentence	6	.	4.940544923405301	
+187	sentence	1	The freshman	15.822040652019773	
+187	sentence	2	participated	12.993993713623126	
+187	sentence	3		0.0	
+187	sentence	4	, but did not	25.293128835921394	
+187	sentence	5	secularize	27.81860195638329	
+187	sentence	6	.	5.690118236509386	
+188	sentence	1	The freshman	15.822040652019773	
+188	sentence	2	participated	12.993993713623126	
+188	sentence	3		0.0	
+188	sentence	4	, but did not	25.293128835921394	
+188	sentence	5	spiritualize	28.03422066886012	
+188	sentence	6	.	4.4931141709900135	
+189	sentence	1	The freshman	15.822040652019773	
+189	sentence	2	participated	12.993993713623126	
+189	sentence	3		0.0	
+189	sentence	4	, but did not	25.293128835921394	
+189	sentence	5	alkalize	26.924736897533982	
+189	sentence	6	.	4.323796563284976	
+190	sentence	1	The freshman	15.822040652019773	
+190	sentence	2	participated	12.993993713623126	
+190	sentence	3		0.0	
+190	sentence	4	, but did not	25.293128835921394	
+190	sentence	5	decentralize	23.858809522112104	
+190	sentence	6	.	7.2696626244123	
+191	sentence	1	The freshman	15.822040652019773	
+191	sentence	2	participated	12.993993713623126	
+191	sentence	3		0.0	
+191	sentence	4	, but did not	25.293128835921394	
+191	sentence	5	decolonize	27.45800172949321	
+191	sentence	6	.	6.073722787536467	
+192	sentence	1	The freshman	15.822040652019773	
+192	sentence	2	participated	12.993993713623126	
+192	sentence	3		0.0	
+192	sentence	4	, but did not	25.293128835921394	
+192	sentence	5	demilitarize	27.199419070907833	
+192	sentence	6	.	7.587770678545996	
+193	sentence	1	The freshman	15.822040652019773	
+193	sentence	2	participated	12.993993713623126	
+193	sentence	3		0.0	
+193	sentence	4	, but did not	25.293128835921394	
+193	sentence	5	desexualize	29.134118277711984	
+193	sentence	6	.	5.073223003205224	
+194	sentence	1	The freshman	15.822040652019773	
+194	sentence	2	participated	12.993993713623126	
+194	sentence	3		0.0	
+194	sentence	4	, but did not	25.293128835921394	
+194	sentence	5	desynchronize	25.688373817693815	
+194	sentence	6	.	5.018024827445505	
+195	sentence	1	The freshman	15.822040652019773	
+195	sentence	2	participated	12.993993713623126	
+195	sentence	3		0.0	
+195	sentence	4	, but did not	25.293128835921394	
+195	sentence	5	devitalize	34.3019459704561	
+195	sentence	6	.	7.0824037865692535	
+196	sentence	1	The freshman	15.822040652019773	
+196	sentence	2	participated	12.993993713623126	
+196	sentence	3		0.0	
+196	sentence	4	, but did not	25.293128835921394	
+196	sentence	5	eroticize	27.527879796135878	
+196	sentence	6	.	6.66155398474072	
+197	sentence	1	The freshman	15.822040652019773	
+197	sentence	2	participated	12.993993713623126	
+197	sentence	3		0.0	
+197	sentence	4	, but did not	25.293128835921394	
+197	sentence	5	officialize	22.304127816880086	
+197	sentence	6	.	7.320244097892259	
+198	sentence	1	The freshman	15.822040652019773	
+198	sentence	2	participated	12.993993713623126	
+198	sentence	3		0.0	
+198	sentence	4	, but did not	25.293128835921394	
+198	sentence	5	quantize	27.792057229642374	
+198	sentence	6	.	4.90551068156334	
+199	sentence	1	The freshman	15.822040652019773	
+199	sentence	2	participated	12.993993713623126	
+199	sentence	3		0.0	
+199	sentence	4	, but did not	25.293128835921394	
+199	sentence	5	reharmonize	35.20854845138928	
+199	sentence	6	.	3.9913513474447524	
+200	sentence	1	The freshman	15.822040652019773	
+200	sentence	2	participated	12.993993713623126	
+200	sentence	3		0.0	
+200	sentence	4	, but did not	25.293128835921394	
+200	sentence	5	remilitarize	26.796729607213905	
+200	sentence	6	.	4.960181214550213	
+201	sentence	1	The freshman	15.822040652019773	
+201	sentence	2	participated	12.993993713623126	
+201	sentence	3		0.0	
+201	sentence	4	, but did not	25.293128835921394	
+201	sentence	5	solarize	27.512046084397205	
+201	sentence	6	.	5.479119601471841	
+202	sentence	1	The freshman	15.822040652019773	
+202	sentence	2	participated	12.993993713623126	
+202	sentence	3		0.0	
+202	sentence	4	, but did not	25.293128835921394	
+202	sentence	5	syncretize	31.305782830659858	
+202	sentence	6	.	4.709109589965728	
+203	sentence	1	The freshman	15.822040652019773	
+203	sentence	2	participated	12.993993713623126	
+203	sentence	3		0.0	
+203	sentence	4	, but did not	25.293128835921394	
+203	sentence	5	totalize	28.843251652037843	
+203	sentence	6	.	4.335701890308302	
+204	sentence	1	The freshman	15.822040652019773	
+204	sentence	2	participated	12.993993713623126	
+204	sentence	3		0.0	
+204	sentence	4	, but did not	25.293128835921394	
+204	sentence	5	alchemize	24.918734826510192	
+204	sentence	6	.	4.646791676425589	
+205	sentence	1	The freshman	15.822040652019773	
+205	sentence	2	participated	12.993993713623126	
+205	sentence	3		0.0	
+205	sentence	4	, but did not	25.293128835921394	
+205	sentence	5	aluminize	30.222810485933863	
+205	sentence	6	.	4.3238440304966135	
+206	sentence	1	The freshman	15.822040652019773	
+206	sentence	2	participated	12.993993713623126	
+206	sentence	3		0.0	
+206	sentence	4	, but did not	25.293128835921394	
+206	sentence	5	analogize	25.63501947868291	
+206	sentence	6	.	8.160056019973457	
+207	sentence	1	The freshman	15.822040652019773	
+207	sentence	2	participated	12.993993713623126	
+207	sentence	3		0.0	
+207	sentence	4	, but did not	25.293128835921394	
+207	sentence	5	attitudinize	44.96733889842723	
+207	sentence	6	.	4.732149761736516	
+208	sentence	1	The freshman	15.822040652019773	
+208	sentence	2	participated	12.993993713623126	
+208	sentence	3		0.0	
+208	sentence	4	, but did not	25.293128835921394	
+208	sentence	5	deionize	28.843438511188005	
+208	sentence	6	.	4.570712743059313	
+209	sentence	1	The freshman	15.822040652019773	
+209	sentence	2	participated	12.993993713623126	
+209	sentence	3		0.0	
+209	sentence	4	, but did not	25.293128835921394	
+209	sentence	5	demythologize	32.014855954686716	
+209	sentence	6	.	5.5466042178092	
+210	sentence	1	The freshman	15.822040652019773	
+210	sentence	2	participated	12.993993713623126	
+210	sentence	3		0.0	
+210	sentence	4	, but did not	25.293128835921394	
+210	sentence	5	deoxidize	36.25317756507504	
+210	sentence	6	.	4.470231535327415	
+211	sentence	1	The freshman	15.822040652019773	
+211	sentence	2	participated	12.993993713623126	
+211	sentence	3		0.0	
+211	sentence	4	, but did not	25.293128835921394	
+211	sentence	5	dichotomize	27.539987192025052	
+211	sentence	6	.	5.58767986621067	
+212	sentence	1	The freshman	15.822040652019773	
+212	sentence	2	participated	12.993993713623126	
+212	sentence	3		0.0	
+212	sentence	4	, but did not	25.293128835921394	
+212	sentence	5	dogmatize	29.439629505578893	
+212	sentence	6	.	5.656635966108811	
+213	sentence	1	The freshman	15.822040652019773	
+213	sentence	2	participated	12.993993713623126	
+213	sentence	3		0.0	
+213	sentence	4	, but did not	25.293128835921394	
+213	sentence	5	factorize	30.504222945818263	
+213	sentence	6	.	4.975444330848985	
+214	sentence	1	The freshman	15.822040652019773	
+214	sentence	2	participated	12.993993713623126	
+214	sentence	3		0.0	
+214	sentence	4	, but did not	25.293128835921394	
+214	sentence	5	iodize	29.44697387419917	
+214	sentence	6	.	4.9585263974836105	
+215	sentence	1	The freshman	15.822040652019773	
+215	sentence	2	participated	12.993993713623126	
+215	sentence	3		0.0	
+215	sentence	4	, but did not	25.293128835921394	
+215	sentence	5	overcapitalize	30.163514334441675	
+215	sentence	6	.	4.68439533907144	
+216	sentence	1	The freshman	15.822040652019773	
+216	sentence	2	participated	12.993993713623126	
+216	sentence	3		0.0	
+216	sentence	4	, but did not	25.293128835921394	
+216	sentence	5	overspecialize	28.664059273472553	
+216	sentence	6	.	5.967192606008423	
+217	sentence	1	The freshman	15.822040652019773	
+217	sentence	2	participated	12.993993713623126	
+217	sentence	3		0.0	
+217	sentence	4	, but did not	25.293128835921394	
+217	sentence	5	relativize	27.484209977552165	
+217	sentence	6	.	5.347599652842827	
+218	sentence	1	The freshman	15.822040652019773	
+218	sentence	2	participated	12.993993713623126	
+218	sentence	3		0.0	
+218	sentence	4	, but did not	25.293128835921394	
+218	sentence	5	schematize	27.28200988356698	
+218	sentence	6	.	4.9584465975336105	
+219	sentence	1	The freshman	15.822040652019773	
+219	sentence	2	participated	12.993993713623126	
+219	sentence	3		0.0	
+219	sentence	4	, but did not	25.293128835921394	
+219	sentence	5	sensualize	29.81518208686655	
+219	sentence	6	.	7.393173684955935	
+220	sentence	1	The freshman	15.822040652019773	
+220	sentence	2	participated	12.993993713623126	
+220	sentence	3		0.0	
+220	sentence	4	, but did not	25.293128835921394	
+220	sentence	5	signalize	33.86202873159822	
+220	sentence	6	.	3.6375734035915066	
+221	sentence	1	The freshman	15.822040652019773	
+221	sentence	2	participated	12.993993713623126	
+221	sentence	3		0.0	
+221	sentence	4	, but did not	25.293128835921394	
+221	sentence	5	singularize	28.908488111163123	
+221	sentence	6	.	5.665045229805399	
+222	sentence	1	The freshman	15.822040652019773	
+222	sentence	2	participated	12.993993713623126	
+222	sentence	3		0.0	
+222	sentence	4	, but did not	25.293128835921394	
+222	sentence	5	steepen	24.878100829556136	
+222	sentence	6	.	7.026550012944444	
+223	sentence	1	The freshman	15.822040652019773	
+223	sentence	2	participated	12.993993713623126	
+223	sentence	3		0.0	
+223	sentence	4	, but did not	25.293128835921394	
+223	sentence	5	subtilize	32.90459125325989	
+223	sentence	6	.	4.3376335994427935	
+224	sentence	1	The freshman	15.822040652019773	
+224	sentence	2	participated	12.993993713623126	
+224	sentence	3		0.0	
+224	sentence	4	, but did not	25.293128835921394	
+224	sentence	5	syllogize	29.078684034266118	
+224	sentence	6	.	3.500282061164839	
+225	sentence	1	The freshman	15.822040652019773	
+225	sentence	2	participated	12.993993713623126	
+225	sentence	3		0.0	
+225	sentence	4	, but did not	25.293128835921394	
+225	sentence	5	loathe	22.03826086880718	
+225	sentence	6	.	8.500655965186992	
+226	sentence	1	The freshman	15.822040652019773	
+226	sentence	2	participated	12.993993713623126	
+226	sentence	3		0.0	
+226	sentence	4	, but did not	25.293128835921394	
+226	sentence	5	love	14.564696129479882	
+226	sentence	6	.	8.781416954789924	
+227	sentence	1	The freshman	15.822040652019773	
+227	sentence	2	participated	12.993993713623126	
+227	sentence	3		0.0	
+227	sentence	4	, but did not	25.293128835921394	
+227	sentence	5	will	14.03519869572588	
+227	sentence	6	.	7.0146921531327555	
+228	sentence	1	The freshman	15.822040652019773	
+228	sentence	2	participated	12.993993713623126	
+228	sentence	3		0.0	
+228	sentence	4	, but did not	25.293128835921394	
+228	sentence	5	have to	10.110047254216543	
+228	sentence	6	.	12.585767438367922	
+229	sentence	1	The freshman	15.822040652019773	
+229	sentence	2	participated	12.993993713623126	
+229	sentence	3		0.0	
+229	sentence	4	, but did not	25.293128835921394	
+229	sentence	5	win	6.204633917581426	
+229	sentence	6	.	6.184784367949445	
+230	sentence	1	The freshman	15.822040652019773	
+230	sentence	2	participated	12.993993713623126	
+230	sentence	3		0.0	
+230	sentence	4	, but did not	25.293128835921394	
+230	sentence	5	finish	5.929703827773348	
+230	sentence	6	.	5.915564102150011	

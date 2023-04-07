@@ -1,0 +1,1417 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	John	0.0	
+1	sentence	2	began	12.35827704297384	
+1	sentence	3	the race	12.983913466490755	
+1	sentence	4	, but did not	24.728951885291757	
+1	sentence	5	have	4.680277042513879	
+1	sentence	6	it.	11.178251792678248	
+2	sentence	1	John	0.0	
+2	sentence	2	began	12.35827704297384	
+2	sentence	3	the race	12.983913466490755	
+2	sentence	4	, but did not	24.728951885291757	
+2	sentence	5	know	6.530887070059985	
+2	sentence	6	it.	7.779889918085077	
+3	sentence	1	John	0.0	
+3	sentence	2	began	12.35827704297384	
+3	sentence	3	the race	12.983913466490755	
+3	sentence	4	, but did not	24.728951885291757	
+3	sentence	5	get	4.157449783890941	
+3	sentence	6	it.	8.078519561147353	
+4	sentence	1	John	0.0	
+4	sentence	2	began	12.35827704297384	
+4	sentence	3	the race	12.983913466490755	
+4	sentence	4	, but did not	24.728951885291757	
+4	sentence	5	go	6.117138087920274	
+4	sentence	6	it.	18.80372038036277	
+5	sentence	1	John	0.0	
+5	sentence	2	began	12.35827704297384	
+5	sentence	3	the race	12.983913466490755	
+5	sentence	4	, but did not	24.728951885291757	
+5	sentence	5	come	6.059329903451061	
+5	sentence	6	it.	13.480211885270153	
+6	sentence	1	John	0.0	
+6	sentence	2	began	12.35827704297384	
+6	sentence	3	the race	12.983913466490755	
+6	sentence	4	, but did not	24.728951885291757	
+6	sentence	5	see	5.969843890554124	
+6	sentence	6	it.	7.333157931180246	
+7	sentence	1	John	0.0	
+7	sentence	2	began	12.35827704297384	
+7	sentence	3	the race	12.983913466490755	
+7	sentence	4	, but did not	24.728951885291757	
+7	sentence	5	let	8.322544540578036	
+7	sentence	6	it.	13.142621120498767	
+8	sentence	1	John	0.0	
+8	sentence	2	began	12.35827704297384	
+8	sentence	3	the race	12.983913466490755	
+8	sentence	4	, but did not	24.728951885291757	
+8	sentence	5	take	6.198853236720626	
+8	sentence	6	it.	6.609142099907627	
+9	sentence	1	John	0.0	
+9	sentence	2	began	12.35827704297384	
+9	sentence	3	the race	12.983913466490755	
+9	sentence	4	, but did not	24.728951885291757	
+9	sentence	5	say	9.402364443313715	
+9	sentence	6	it.	9.039143276066895	
+10	sentence	1	John	0.0	
+10	sentence	2	began	12.35827704297384	
+10	sentence	3	the race	12.983913466490755	
+10	sentence	4	, but did not	24.728951885291757	
+10	sentence	5	make	4.203766775560106	
+10	sentence	6	it.	3.561517386913459	
+11	sentence	1	John	0.0	
+11	sentence	2	began	12.35827704297384	
+11	sentence	3	the race	12.983913466490755	
+11	sentence	4	, but did not	24.728951885291757	
+11	sentence	5	give	6.905451525027114	
+11	sentence	6	it.	10.581622307021156	
+12	sentence	1	John	0.0	
+12	sentence	2	began	12.35827704297384	
+12	sentence	3	the race	12.983913466490755	
+12	sentence	4	, but did not	24.728951885291757	
+12	sentence	5	find	6.722869239426328	
+12	sentence	6	it.	7.95761214595513	
+13	sentence	1	John	0.0	
+13	sentence	2	began	12.35827704297384	
+13	sentence	3	the race	12.983913466490755	
+13	sentence	4	, but did not	24.728951885291757	
+13	sentence	5	keep	8.811734744414622	
+13	sentence	6	it.	6.26238208010549	
+14	sentence	1	John	0.0	
+14	sentence	2	began	12.35827704297384	
+14	sentence	3	the race	12.983913466490755	
+14	sentence	4	, but did not	24.728951885291757	
+14	sentence	5	leave	7.849688560989795	
+14	sentence	6	it.	7.8896717755929835	
+15	sentence	1	John	0.0	
+15	sentence	2	began	12.35827704297384	
+15	sentence	3	the race	12.983913466490755	
+15	sentence	4	, but did not	24.728951885291757	
+15	sentence	5	believe	9.299383983699478	
+15	sentence	6	it.	6.809591835089201	
+16	sentence	1	John	0.0	
+16	sentence	2	began	12.35827704297384	
+16	sentence	3	the race	12.983913466490755	
+16	sentence	4	, but did not	24.728951885291757	
+16	sentence	5	remember	12.326564818015946	
+16	sentence	6	it.	6.543372666547324	
+17	sentence	1	John	0.0	
+17	sentence	2	began	12.35827704297384	
+17	sentence	3	the race	12.983913466490755	
+17	sentence	4	, but did not	24.728951885291757	
+17	sentence	5	run	5.175807214791872	
+17	sentence	6	it.	9.112636106312145	
+18	sentence	1	John	0.0	
+18	sentence	2	began	12.35827704297384	
+18	sentence	3	the race	12.983913466490755	
+18	sentence	4	, but did not	24.728951885291757	
+18	sentence	5	happen	11.412552701046497	
+18	sentence	6	it.	16.26037661789213	
+19	sentence	1	John	0.0	
+19	sentence	2	began	12.35827704297384	
+19	sentence	3	the race	12.983913466490755	
+19	sentence	4	, but did not	24.728951885291757	
+19	sentence	5	buy	13.320685077896083	
+19	sentence	6	it.	5.486059617382108	
+20	sentence	1	John	0.0	
+20	sentence	2	began	12.35827704297384	
+20	sentence	3	the race	12.983913466490755	
+20	sentence	4	, but did not	24.728951885291757	
+20	sentence	5	save	10.59476281344298	
+20	sentence	6	it.	5.7866830553158355	
+21	sentence	1	John	0.0	
+21	sentence	2	began	12.35827704297384	
+21	sentence	3	the race	12.983913466490755	
+21	sentence	4	, but did not	24.728951885291757	
+21	sentence	5	lose	6.905385483689182	
+21	sentence	6	it.	6.973174165353267	
+22	sentence	1	John	0.0	
+22	sentence	2	began	12.35827704297384	
+22	sentence	3	the race	12.983913466490755	
+22	sentence	4	, but did not	24.728951885291757	
+22	sentence	5	follow	8.493349454247735	
+22	sentence	6	it.	8.035570849695336	
+23	sentence	1	John	0.0	
+23	sentence	2	began	12.35827704297384	
+23	sentence	3	the race	12.983913466490755	
+23	sentence	4	, but did not	24.728951885291757	
+23	sentence	5	expect	8.555846573710074	
+23	sentence	6	it.	7.431956460656101	
+24	sentence	1	John	0.0	
+24	sentence	2	began	12.35827704297384	
+24	sentence	3	the race	12.983913466490755	
+24	sentence	4	, but did not	24.728951885291757	
+24	sentence	5	realize	8.369411876729961	
+24	sentence	6	it.	6.331066275432617	
+25	sentence	1	John	0.0	
+25	sentence	2	began	12.35827704297384	
+25	sentence	3	the race	12.983913466490755	
+25	sentence	4	, but did not	24.728951885291757	
+25	sentence	5	slow	11.592317222895547	
+25	sentence	6	it.	10.841769456091672	
+26	sentence	1	John	0.0	
+26	sentence	2	began	12.35827704297384	
+26	sentence	3	the race	12.983913466490755	
+26	sentence	4	, but did not	24.728951885291757	
+26	sentence	5	allow	8.344602347447095	
+26	sentence	6	it.	8.04696332445379	
+27	sentence	1	John	0.0	
+27	sentence	2	began	12.35827704297384	
+27	sentence	3	the race	12.983913466490755	
+27	sentence	4	, but did not	24.728951885291757	
+27	sentence	5	consider	9.78234428799121	
+27	sentence	6	it.	7.143238177763049	
+28	sentence	1	John	0.0	
+28	sentence	2	began	12.35827704297384	
+28	sentence	3	the race	12.983913466490755	
+28	sentence	4	, but did not	24.728951885291757	
+28	sentence	5	apologize	14.253959251762167	
+28	sentence	6	it.	14.811319766765102	
+29	sentence	1	John	0.0	
+29	sentence	2	began	12.35827704297384	
+29	sentence	3	the race	12.983913466490755	
+29	sentence	4	, but did not	24.728951885291757	
+29	sentence	5	recognize	10.381735471055856	
+29	sentence	6	it.	6.6105833145218575	
+30	sentence	1	John	0.0	
+30	sentence	2	began	12.35827704297384	
+30	sentence	3	the race	12.983913466490755	
+30	sentence	4	, but did not	24.728951885291757	
+30	sentence	5	settle	10.034071854406086	
+30	sentence	6	it.	7.935068832062684	
+31	sentence	1	John	0.0	
+31	sentence	2	began	12.35827704297384	
+31	sentence	3	the race	12.983913466490755	
+31	sentence	4	, but did not	24.728951885291757	
+31	sentence	5	add	11.752929756744514	
+31	sentence	6	it.	9.331735468170631	
+32	sentence	1	John	0.0	
+32	sentence	2	began	12.35827704297384	
+32	sentence	3	the race	12.983913466490755	
+32	sentence	4	, but did not	24.728951885291757	
+32	sentence	5	assume	13.686399993580416	
+32	sentence	6	it.	7.926642714066311	
+33	sentence	1	John	0.0	
+33	sentence	2	began	12.35827704297384	
+33	sentence	3	the race	12.983913466490755	
+33	sentence	4	, but did not	24.728951885291757	
+33	sentence	5	appear	7.134108650724649	
+33	sentence	6	it.	15.929809796564633	
+34	sentence	1	John	0.0	
+34	sentence	2	began	12.35827704297384	
+34	sentence	3	the race	12.983913466490755	
+34	sentence	4	, but did not	24.728951885291757	
+34	sentence	5	remove	13.206521618392145	
+34	sentence	6	it.	6.278547417390689	
+35	sentence	1	John	0.0	
+35	sentence	2	began	12.35827704297384	
+35	sentence	3	the race	12.983913466490755	
+35	sentence	4	, but did not	24.728951885291757	
+35	sentence	5	identify	12.407597539657674	
+35	sentence	6	it.	8.09136786904536	
+36	sentence	1	John	0.0	
+36	sentence	2	began	12.35827704297384	
+36	sentence	3	the race	12.983913466490755	
+36	sentence	4	, but did not	24.728951885291757	
+36	sentence	5	replace	14.23212158268621	
+36	sentence	6	it.	5.15432314204609	
+37	sentence	1	John	0.0	
+37	sentence	2	began	12.35827704297384	
+37	sentence	3	the race	12.983913466490755	
+37	sentence	4	, but did not	24.728951885291757	
+37	sentence	5	apply	11.041246285417314	
+37	sentence	6	it.	9.269376450776935	
+38	sentence	1	John	0.0	
+38	sentence	2	began	12.35827704297384	
+38	sentence	3	the race	12.983913466490755	
+38	sentence	4	, but did not	24.728951885291757	
+38	sentence	5	succeed	6.374831388528279	
+38	sentence	6	it.	10.065350683083807	
+39	sentence	1	John	0.0	
+39	sentence	2	began	12.35827704297384	
+39	sentence	3	the race	12.983913466490755	
+39	sentence	4	, but did not	24.728951885291757	
+39	sentence	5	develop	11.503909885184822	
+39	sentence	6	it.	8.352135187554888	
+40	sentence	1	John	0.0	
+40	sentence	2	began	12.35827704297384	
+40	sentence	3	the race	12.983913466490755	
+40	sentence	4	, but did not	24.728951885291757	
+40	sentence	5	approve	14.932908233254741	
+40	sentence	6	it.	5.61928735373419	
+41	sentence	1	John	0.0	
+41	sentence	2	began	12.35827704297384	
+41	sentence	3	the race	12.983913466490755	
+41	sentence	4	, but did not	24.728951885291757	
+41	sentence	5	expose	15.485101873477806	
+41	sentence	6	it.	7.695118121630941	
+42	sentence	1	John	0.0	
+42	sentence	2	began	12.35827704297384	
+42	sentence	3	the race	12.983913466490755	
+42	sentence	4	, but did not	24.728951885291757	
+42	sentence	5	establish	11.649773186895795	
+42	sentence	6	it.	7.381336291079698	
+43	sentence	1	John	0.0	
+43	sentence	2	began	12.35827704297384	
+43	sentence	3	the race	12.983913466490755	
+43	sentence	4	, but did not	24.728951885291757	
+43	sentence	5	reduce	13.166522581385076	
+43	sentence	6	it.	6.2427442411167196	
+44	sentence	1	John	0.0	
+44	sentence	2	began	12.35827704297384	
+44	sentence	3	the race	12.983913466490755	
+44	sentence	4	, but did not	24.728951885291757	
+44	sentence	5	participate	9.493347393203761	
+44	sentence	6	it.	14.232384888124681	
+45	sentence	1	John	0.0	
+45	sentence	2	began	12.35827704297384	
+45	sentence	3	the race	12.983913466490755	
+45	sentence	4	, but did not	24.728951885291757	
+45	sentence	5	organize	14.890685804537318	
+45	sentence	6	it.	5.8722569788535965	
+46	sentence	1	John	0.0	
+46	sentence	2	began	12.35827704297384	
+46	sentence	3	the race	12.983913466490755	
+46	sentence	4	, but did not	24.728951885291757	
+46	sentence	5	obtain	11.465517854067414	
+46	sentence	6	it.	7.059518571166892	
+47	sentence	1	John	0.0	
+47	sentence	2	began	12.35827704297384	
+47	sentence	3	the race	12.983913466490755	
+47	sentence	4	, but did not	24.728951885291757	
+47	sentence	5	kitten	26.1797714725988	
+47	sentence	6	it.	7.386427321510539	
+48	sentence	1	John	0.0	
+48	sentence	2	began	12.35827704297384	
+48	sentence	3	the race	12.983913466490755	
+48	sentence	4	, but did not	24.728951885291757	
+48	sentence	5	acquire	14.514360247225355	
+48	sentence	6	it.	7.0036133747294755	
+49	sentence	1	John	0.0	
+49	sentence	2	began	12.35827704297384	
+49	sentence	3	the race	12.983913466490755	
+49	sentence	4	, but did not	24.728951885291757	
+49	sentence	5	qualify	8.436113628040593	
+49	sentence	6	it.	11.21400389010491	
+50	sentence	1	John	0.0	
+50	sentence	2	began	12.35827704297384	
+50	sentence	3	the race	12.983913466490755	
+50	sentence	4	, but did not	24.728951885291757	
+50	sentence	5	criticize	17.326752636809864	
+50	sentence	6	it.	6.583721516266246	
+51	sentence	1	John	0.0	
+51	sentence	2	began	12.35827704297384	
+51	sentence	3	the race	12.983913466490755	
+51	sentence	4	, but did not	24.728951885291757	
+51	sentence	5	rave	20.154312520339268	
+51	sentence	6	it.	10.833199560599178	
+52	sentence	1	John	0.0	
+52	sentence	2	began	12.35827704297384	
+52	sentence	3	the race	12.983913466490755	
+52	sentence	4	, but did not	24.728951885291757	
+52	sentence	5	enlighten	20.15255916796264	
+52	sentence	6	it.	9.796431386923382	
+53	sentence	1	John	0.0	
+53	sentence	2	began	12.35827704297384	
+53	sentence	3	the race	12.983913466490755	
+53	sentence	4	, but did not	24.728951885291757	
+53	sentence	5	disclose	13.044742354239725	
+53	sentence	6	it.	6.498681770842067	
+54	sentence	1	John	0.0	
+54	sentence	2	began	12.35827704297384	
+54	sentence	3	the race	12.983913466490755	
+54	sentence	4	, but did not	24.728951885291757	
+54	sentence	5	reopen	17.335756272547833	
+54	sentence	6	it.	5.6886035853032375	
+55	sentence	1	John	0.0	
+55	sentence	2	began	12.35827704297384	
+55	sentence	3	the race	12.983913466490755	
+55	sentence	4	, but did not	24.728951885291757	
+55	sentence	5	stabilize	16.252348123784554	
+55	sentence	6	it.	6.986010434465714	
+56	sentence	1	John	0.0	
+56	sentence	2	began	12.35827704297384	
+56	sentence	3	the race	12.983913466490755	
+56	sentence	4	, but did not	24.728951885291757	
+56	sentence	5	soar	16.368646919881606	
+56	sentence	6	it.	12.763441855061036	
+57	sentence	1	John	0.0	
+57	sentence	2	began	12.35827704297384	
+57	sentence	3	the race	12.983913466490755	
+57	sentence	4	, but did not	24.728951885291757	
+57	sentence	5	authorize	17.186194655912708	
+57	sentence	6	it.	4.0333741043045235	
+58	sentence	1	John	0.0	
+58	sentence	2	began	12.35827704297384	
+58	sentence	3	the race	12.983913466490755	
+58	sentence	4	, but did not	24.728951885291757	
+58	sentence	5	sympathize	21.91679356409507	
+58	sentence	6	it.	13.959129393388054	
+59	sentence	1	John	0.0	
+59	sentence	2	began	12.35827704297384	
+59	sentence	3	the race	12.983913466490755	
+59	sentence	4	, but did not	24.728951885291757	
+59	sentence	5	sharpen	19.35126801944916	
+59	sentence	6	it.	7.882273597900819	
+60	sentence	1	John	0.0	
+60	sentence	2	began	12.35827704297384	
+60	sentence	3	the race	12.983913466490755	
+60	sentence	4	, but did not	24.728951885291757	
+60	sentence	5	specialize	19.757316024254802	
+60	sentence	6	it.	10.975802587197744	
+61	sentence	1	John	0.0	
+61	sentence	2	began	12.35827704297384	
+61	sentence	3	the race	12.983913466490755	
+61	sentence	4	, but did not	24.728951885291757	
+61	sentence	5	minimize	18.390722618442027	
+61	sentence	6	it.	5.352559288528409	
+62	sentence	1	John	0.0	
+62	sentence	2	began	12.35827704297384	
+62	sentence	3	the race	12.983913466490755	
+62	sentence	4	, but did not	24.728951885291757	
+62	sentence	5	socialize	18.78623292644906	
+62	sentence	6	it.	10.872948190866591	
+63	sentence	1	John	0.0	
+63	sentence	2	began	12.35827704297384	
+63	sentence	3	the race	12.983913466490755	
+63	sentence	4	, but did not	24.728951885291757	
+63	sentence	5	utilize	14.542758022535823	
+63	sentence	6	it.	6.2650517667948336	
+64	sentence	1	John	0.0	
+64	sentence	2	began	12.35827704297384	
+64	sentence	3	the race	12.983913466490755	
+64	sentence	4	, but did not	24.728951885291757	
+64	sentence	5	rectify	17.852785394742714	
+64	sentence	6	it.	4.125999832475612	
+65	sentence	1	John	0.0	
+65	sentence	2	began	12.35827704297384	
+65	sentence	3	the race	12.983913466490755	
+65	sentence	4	, but did not	24.728951885291757	
+65	sentence	5	terrorize	18.38572566252121	
+65	sentence	6	it.	7.779904192645098	
+66	sentence	1	John	0.0	
+66	sentence	2	began	12.35827704297384	
+66	sentence	3	the race	12.983913466490755	
+66	sentence	4	, but did not	24.728951885291757	
+66	sentence	5	enslave	20.528598328142117	
+66	sentence	6	it.	7.610844988872981	
+67	sentence	1	John	0.0	
+67	sentence	2	began	12.35827704297384	
+67	sentence	3	the race	12.983913466490755	
+67	sentence	4	, but did not	24.728951885291757	
+67	sentence	5	finalize	12.058926190665172	
+67	sentence	6	it.	4.624914451339934	
+68	sentence	1	John	0.0	
+68	sentence	2	began	12.35827704297384	
+68	sentence	3	the race	12.983913466490755	
+68	sentence	4	, but did not	24.728951885291757	
+68	sentence	5	maximize	16.05129627734231	
+68	sentence	6	it.	5.830463646850077	
+69	sentence	1	John	0.0	
+69	sentence	2	began	12.35827704297384	
+69	sentence	3	the race	12.983913466490755	
+69	sentence	4	, but did not	24.728951885291757	
+69	sentence	5	summarize	19.21837467917662	
+69	sentence	6	it.	5.261922195749247	
+70	sentence	1	John	0.0	
+70	sentence	2	began	12.35827704297384	
+70	sentence	3	the race	12.983913466490755	
+70	sentence	4	, but did not	24.728951885291757	
+70	sentence	5	repose	18.8624686220016	
+70	sentence	6	it.	9.10280626591943	
+71	sentence	1	John	0.0	
+71	sentence	2	began	12.35827704297384	
+71	sentence	3	the race	12.983913466490755	
+71	sentence	4	, but did not	24.728951885291757	
+71	sentence	5	symbolize	20.742537213848696	
+71	sentence	6	it.	7.525797934186139	
+72	sentence	1	John	0.0	
+72	sentence	2	began	12.35827704297384	
+72	sentence	3	the race	12.983913466490755	
+72	sentence	4	, but did not	24.728951885291757	
+72	sentence	5	sterilize	20.886631297783495	
+72	sentence	6	it.	6.324605575170304	
+73	sentence	1	John	0.0	
+73	sentence	2	began	12.35827704297384	
+73	sentence	3	the race	12.983913466490755	
+73	sentence	4	, but did not	24.728951885291757	
+73	sentence	5	revolutionize	20.254559917657318	
+73	sentence	6	it.	5.465044025377276	
+74	sentence	1	John	0.0	
+74	sentence	2	began	12.35827704297384	
+74	sentence	3	the race	12.983913466490755	
+74	sentence	4	, but did not	24.728951885291757	
+74	sentence	5	synchronize	18.60055628599829	
+74	sentence	6	it.	8.160131004409234	
+75	sentence	1	John	0.0	
+75	sentence	2	began	12.35827704297384	
+75	sentence	3	the race	12.983913466490755	
+75	sentence	4	, but did not	24.728951885291757	
+75	sentence	5	fertilize	20.52071733367862	
+75	sentence	6	it.	5.2859098199436385	
+76	sentence	1	John	0.0	
+76	sentence	2	began	12.35827704297384	
+76	sentence	3	the race	12.983913466490755	
+76	sentence	4	, but did not	24.728951885291757	
+76	sentence	5	rationalize	20.841675882012293	
+76	sentence	6	it.	4.128305087927777	
+77	sentence	1	John	0.0	
+77	sentence	2	began	12.35827704297384	
+77	sentence	3	the race	12.983913466490755	
+77	sentence	4	, but did not	24.728951885291757	
+77	sentence	5	antagonize	18.45545613580269	
+77	sentence	6	it.	8.886942585654278	
+78	sentence	1	John	0.0	
+78	sentence	2	began	12.35827704297384	
+78	sentence	3	the race	12.983913466490755	
+78	sentence	4	, but did not	24.728951885291757	
+78	sentence	5	kindle	16.07662803194452	
+78	sentence	6	it.	7.44501819902383	
+79	sentence	1	John	0.0	
+79	sentence	2	began	12.35827704297384	
+79	sentence	3	the race	12.983913466490755	
+79	sentence	4	, but did not	24.728951885291757	
+79	sentence	5	familiarize	19.194774574890285	
+79	sentence	6	it.	17.180122292476042	
+80	sentence	1	John	0.0	
+80	sentence	2	began	12.35827704297384	
+80	sentence	3	the race	12.983913466490755	
+80	sentence	4	, but did not	24.728951885291757	
+80	sentence	5	synthesize	19.888520556702133	
+80	sentence	6	it.	5.99044190868266	
+81	sentence	1	John	0.0	
+81	sentence	2	began	12.35827704297384	
+81	sentence	3	the race	12.983913466490755	
+81	sentence	4	, but did not	24.728951885291757	
+81	sentence	5	reorganize	19.35732507374267	
+81	sentence	6	it.	5.957172208838552	
+82	sentence	1	John	0.0	
+82	sentence	2	began	12.35827704297384	
+82	sentence	3	the race	12.983913466490755	
+82	sentence	4	, but did not	24.728951885291757	
+82	sentence	5	ripen	22.793651839042	
+82	sentence	6	it.	8.802626371242276	
+83	sentence	1	John	0.0	
+83	sentence	2	began	12.35827704297384	
+83	sentence	3	the race	12.983913466490755	
+83	sentence	4	, but did not	24.728951885291757	
+83	sentence	5	deepen	19.659200609868172	
+83	sentence	6	it.	5.888076631010561	
+84	sentence	1	John	0.0	
+84	sentence	2	began	12.35827704297384	
+84	sentence	3	the race	12.983913466490755	
+84	sentence	4	, but did not	24.728951885291757	
+84	sentence	5	destabilize	21.550651465003824	
+84	sentence	6	it.	6.122875085187756	
+85	sentence	1	John	0.0	
+85	sentence	2	began	12.35827704297384	
+85	sentence	3	the race	12.983913466490755	
+85	sentence	4	, but did not	24.728951885291757	
+85	sentence	5	enclose	20.65833169714481	
+85	sentence	6	it.	5.770357602182684	
+86	sentence	1	John	0.0	
+86	sentence	2	began	12.35827704297384	
+86	sentence	3	the race	12.983913466490755	
+86	sentence	4	, but did not	24.728951885291757	
+86	sentence	5	dampen	18.748778877960543	
+86	sentence	6	it.	7.69046169135883	
+87	sentence	1	John	0.0	
+87	sentence	2	began	12.35827704297384	
+87	sentence	3	the race	12.983913466490755	
+87	sentence	4	, but did not	24.728951885291757	
+87	sentence	5	subsidize	21.966599825776264	
+87	sentence	6	it.	4.904765996685104	
+88	sentence	1	John	0.0	
+88	sentence	2	began	12.35827704297384	
+88	sentence	3	the race	12.983913466490755	
+88	sentence	4	, but did not	24.728951885291757	
+88	sentence	5	idolize	20.3056398828508	
+88	sentence	6	it.	7.707399832685681	
+89	sentence	1	John	0.0	
+89	sentence	2	began	12.35827704297384	
+89	sentence	3	the race	12.983913466490755	
+89	sentence	4	, but did not	24.728951885291757	
+89	sentence	5	quantify	18.930148266665036	
+89	sentence	6	it.	4.162609435399476	
+90	sentence	1	John	0.0	
+90	sentence	2	began	12.35827704297384	
+90	sentence	3	the race	12.983913466490755	
+90	sentence	4	, but did not	24.728951885291757	
+90	sentence	5	engrave	21.672430208798815	
+90	sentence	6	it.	6.143156311273403	
+91	sentence	1	John	0.0	
+91	sentence	2	began	12.35827704297384	
+91	sentence	3	the race	12.983913466490755	
+91	sentence	4	, but did not	24.728951885291757	
+91	sentence	5	fraternize	22.333442308089772	
+91	sentence	6	it.	13.574546777025516	
+92	sentence	1	John	0.0	
+92	sentence	2	began	12.35827704297384	
+92	sentence	3	the race	12.983913466490755	
+92	sentence	4	, but did not	24.728951885291757	
+92	sentence	5	immobilize	18.308665804607905	
+92	sentence	6	it.	7.301707807782266	
+93	sentence	1	John	0.0	
+93	sentence	2	began	12.35827704297384	
+93	sentence	3	the race	12.983913466490755	
+93	sentence	4	, but did not	24.728951885291757	
+93	sentence	5	downsize	20.65602787667289	
+93	sentence	6	it.	7.087487077780806	
+94	sentence	1	John	0.0	
+94	sentence	2	began	12.35827704297384	
+94	sentence	3	the race	12.983913466490755	
+94	sentence	4	, but did not	24.728951885291757	
+94	sentence	5	theorize	21.197401228416922	
+94	sentence	6	it.	7.940822511647299	
+95	sentence	1	John	0.0	
+95	sentence	2	began	12.35827704297384	
+95	sentence	3	the race	12.983913466490755	
+95	sentence	4	, but did not	24.728951885291757	
+95	sentence	5	dramatize	21.757851691214412	
+95	sentence	6	it.	4.551041883401577	
+96	sentence	1	John	0.0	
+96	sentence	2	began	12.35827704297384	
+96	sentence	3	the race	12.983913466490755	
+96	sentence	4	, but did not	24.728951885291757	
+96	sentence	5	modernize	21.395051086042447	
+96	sentence	6	it.	3.9424897004734216	
+97	sentence	1	John	0.0	
+97	sentence	2	began	12.35827704297384	
+97	sentence	3	the race	12.983913466490755	
+97	sentence	4	, but did not	24.728951885291757	
+97	sentence	5	revitalize	21.173609234487888	
+97	sentence	6	it.	5.11203553190399	
+98	sentence	1	John	0.0	
+98	sentence	2	began	12.35827704297384	
+98	sentence	3	the race	12.983913466490755	
+98	sentence	4	, but did not	24.728951885291757	
+98	sentence	5	traumatize	22.547743649584365	
+98	sentence	6	it.	8.98194511406029	
+99	sentence	1	John	0.0	
+99	sentence	2	began	12.35827704297384	
+99	sentence	3	the race	12.983913466490755	
+99	sentence	4	, but did not	24.728951885291757	
+99	sentence	5	immortalize	20.82168792934203	
+99	sentence	6	it.	4.769133254943356	
+100	sentence	1	John	0.0	
+100	sentence	2	began	12.35827704297384	
+100	sentence	3	the race	12.983913466490755	
+100	sentence	4	, but did not	24.728951885291757	
+100	sentence	5	agonize	18.38464038750077	
+100	sentence	6	it.	11.926919789108194	
+101	sentence	1	John	0.0	
+101	sentence	2	began	12.35827704297384	
+101	sentence	3	the race	12.983913466490755	
+101	sentence	4	, but did not	24.728951885291757	
+101	sentence	5	electrify	17.161964826401324	
+101	sentence	6	it.	7.799120674139255	
+102	sentence	1	John	0.0	
+102	sentence	2	began	12.35827704297384	
+102	sentence	3	the race	12.983913466490755	
+102	sentence	4	, but did not	24.728951885291757	
+102	sentence	5	demoralize	18.721221248648458	
+102	sentence	6	it.	9.004078421313078	
+103	sentence	1	John	0.0	
+103	sentence	2	began	12.35827704297384	
+103	sentence	3	the race	12.983913466490755	
+103	sentence	4	, but did not	24.728951885291757	
+103	sentence	5	sanitize	23.349209793132324	
+103	sentence	6	it.	5.172518906507376	
+104	sentence	1	John	0.0	
+104	sentence	2	began	12.35827704297384	
+104	sentence	3	the race	12.983913466490755	
+104	sentence	4	, but did not	24.728951885291757	
+104	sentence	5	anesthetize	25.22267261197665	
+104	sentence	6	it.	7.8002277264628574	
+105	sentence	1	John	0.0	
+105	sentence	2	began	12.35827704297384	
+105	sentence	3	the race	12.983913466490755	
+105	sentence	4	, but did not	24.728951885291757	
+105	sentence	5	trivialize	22.579601070895254	
+105	sentence	6	it.	4.322064697990787	
+106	sentence	1	John	0.0	
+106	sentence	2	began	12.35827704297384	
+106	sentence	3	the race	12.983913466490755	
+106	sentence	4	, but did not	24.728951885291757	
+106	sentence	5	romanticize	21.4792528460003	
+106	sentence	6	it.	4.758660715384368	
+107	sentence	1	John	0.0	
+107	sentence	2	began	12.35827704297384	
+107	sentence	3	the race	12.983913466490755	
+107	sentence	4	, but did not	24.728951885291757	
+107	sentence	5	equalize	17.03556640287693	
+107	sentence	6	it.	7.672982750586341	
+108	sentence	1	John	0.0	
+108	sentence	2	began	12.35827704297384	
+108	sentence	3	the race	12.983913466490755	
+108	sentence	4	, but did not	24.728951885291757	
+108	sentence	5	demonize	20.970927465467753	
+108	sentence	6	it.	7.270135060754221	
+109	sentence	1	John	0.0	
+109	sentence	2	began	12.35827704297384	
+109	sentence	3	the race	12.983913466490755	
+109	sentence	4	, but did not	24.728951885291757	
+109	sentence	5	alphabetize	28.213264067454098	
+109	sentence	6	it.	5.618931177664252	
+110	sentence	1	John	0.0	
+110	sentence	2	began	12.35827704297384	
+110	sentence	3	the race	12.983913466490755	
+110	sentence	4	, but did not	24.728951885291757	
+110	sentence	5	formalize	18.779794884900998	
+110	sentence	6	it.	4.576136559919574	
+111	sentence	1	John	0.0	
+111	sentence	2	began	12.35827704297384	
+111	sentence	3	the race	12.983913466490755	
+111	sentence	4	, but did not	24.728951885291757	
+111	sentence	5	optimize	17.55882189830052	
+111	sentence	6	it.	5.124018423102857	
+112	sentence	1	John	0.0	
+112	sentence	2	began	12.35827704297384	
+112	sentence	3	the race	12.983913466490755	
+112	sentence	4	, but did not	24.728951885291757	
+112	sentence	5	internalize	18.69986323918576	
+112	sentence	6	it.	4.11696197219012	
+113	sentence	1	John	0.0	
+113	sentence	2	began	12.35827704297384	
+113	sentence	3	the race	12.983913466490755	
+113	sentence	4	, but did not	24.728951885291757	
+113	sentence	5	idealize	19.303485195461633	
+113	sentence	6	it.	4.371188618504684	
+114	sentence	1	John	0.0	
+114	sentence	2	began	12.35827704297384	
+114	sentence	3	the race	12.983913466490755	
+114	sentence	4	, but did not	24.728951885291757	
+114	sentence	5	sodomize	25.216718577978234	
+114	sentence	6	it.	8.28829471160666	
+115	sentence	1	John	0.0	
+115	sentence	2	began	12.35827704297384	
+115	sentence	3	the race	12.983913466490755	
+115	sentence	4	, but did not	24.728951885291757	
+115	sentence	5	digitize	23.640472527098147	
+115	sentence	6	it.	4.360974052921989	
+116	sentence	1	John	0.0	
+116	sentence	2	began	12.35827704297384	
+116	sentence	3	the race	12.983913466490755	
+116	sentence	4	, but did not	24.728951885291757	
+116	sentence	5	galvanize	19.455351508605307	
+116	sentence	6	it.	8.485372726918069	
+117	sentence	1	John	0.0	
+117	sentence	2	began	12.35827704297384	
+117	sentence	3	the race	12.983913466490755	
+117	sentence	4	, but did not	24.728951885291757	
+117	sentence	5	initialize	19.40408292143949	
+117	sentence	6	it.	4.7881283947658515	
+118	sentence	1	John	0.0	
+118	sentence	2	began	12.35827704297384	
+118	sentence	3	the race	12.983913466490755	
+118	sentence	4	, but did not	24.728951885291757	
+118	sentence	5	exemplify	21.22271392116079	
+118	sentence	6	it.	5.209564485451177	
+119	sentence	1	John	0.0	
+119	sentence	2	began	12.35827704297384	
+119	sentence	3	the race	12.983913466490755	
+119	sentence	4	, but did not	24.728951885291757	
+119	sentence	5	depressurize	33.39598356595379	
+119	sentence	6	it.	7.487731122261514	
+120	sentence	1	John	0.0	
+120	sentence	2	began	12.35827704297384	
+120	sentence	3	the race	12.983913466490755	
+120	sentence	4	, but did not	24.728951885291757	
+120	sentence	5	itemize	18.696759597272624	
+120	sentence	6	it.	5.341214796929545	
+121	sentence	1	John	0.0	
+121	sentence	2	began	12.35827704297384	
+121	sentence	3	the race	12.983913466490755	
+121	sentence	4	, but did not	24.728951885291757	
+121	sentence	5	dehumanize	23.71671512345455	
+121	sentence	6	it.	7.579255129571175	
+122	sentence	1	John	0.0	
+122	sentence	2	began	12.35827704297384	
+122	sentence	3	the race	12.983913466490755	
+122	sentence	4	, but did not	24.728951885291757	
+122	sentence	5	mollify	23.64045135173426	
+122	sentence	6	it.	9.092839355353979	
+123	sentence	1	John	0.0	
+123	sentence	2	began	12.35827704297384	
+123	sentence	3	the race	12.983913466490755	
+123	sentence	4	, but did not	24.728951885291757	
+123	sentence	5	immunize	20.17391781161136	
+123	sentence	6	it.	9.037929078551802	
+124	sentence	1	John	0.0	
+124	sentence	2	began	12.35827704297384	
+124	sentence	3	the race	12.983913466490755	
+124	sentence	4	, but did not	24.728951885291757	
+124	sentence	5	oxidize	22.315648660564037	
+124	sentence	6	it.	7.72588065839077	
+125	sentence	1	John	0.0	
+125	sentence	2	began	12.35827704297384	
+125	sentence	3	the race	12.983913466490755	
+125	sentence	4	, but did not	24.728951885291757	
+125	sentence	5	dematerialize	22.7757043100394	
+125	sentence	6	it.	7.714146196131076	
+126	sentence	1	John	0.0	
+126	sentence	2	began	12.35827704297384	
+126	sentence	3	the race	12.983913466490755	
+126	sentence	4	, but did not	24.728951885291757	
+126	sentence	5	ostracize	23.850399763965395	
+126	sentence	6	it.	8.536354576009234	
+127	sentence	1	John	0.0	
+127	sentence	2	began	12.35827704297384	
+127	sentence	3	the race	12.983913466490755	
+127	sentence	4	, but did not	24.728951885291757	
+127	sentence	5	overdramatize	26.210253312174594	
+127	sentence	6	it.	5.112819600809274	
+128	sentence	1	John	0.0	
+128	sentence	2	began	12.35827704297384	
+128	sentence	3	the race	12.983913466490755	
+128	sentence	4	, but did not	24.728951885291757	
+128	sentence	5	satirize	25.508162796636377	
+128	sentence	6	it.	5.276566346487565	
+129	sentence	1	John	0.0	
+129	sentence	2	began	12.35827704297384	
+129	sentence	3	the race	12.983913466490755	
+129	sentence	4	, but did not	24.728951885291757	
+129	sentence	5	amortize	20.25839532425204	
+129	sentence	6	it.	5.471680835874071	
+130	sentence	1	John	0.0	
+130	sentence	2	began	12.35827704297384	
+130	sentence	3	the race	12.983913466490755	
+130	sentence	4	, but did not	24.728951885291757	
+130	sentence	5	tyrannize	24.387100938275847	
+130	sentence	6	it.	7.015683117167027	
+131	sentence	1	John	0.0	
+131	sentence	2	began	12.35827704297384	
+131	sentence	3	the race	12.983913466490755	
+131	sentence	4	, but did not	24.728951885291757	
+131	sentence	5	eulogize	22.17124314023358	
+131	sentence	6	it.	6.955973492509873	
+132	sentence	1	John	0.0	
+132	sentence	2	began	12.35827704297384	
+132	sentence	3	the race	12.983913466490755	
+132	sentence	4	, but did not	24.728951885291757	
+132	sentence	5	resize	21.738071859049526	
+132	sentence	6	it.	6.458672070910644	
+133	sentence	1	John	0.0	
+133	sentence	2	began	12.35827704297384	
+133	sentence	3	the race	12.983913466490755	
+133	sentence	4	, but did not	24.728951885291757	
+133	sentence	5	editorialize	24.424925104177934	
+133	sentence	6	it.	6.217151674824476	
+134	sentence	1	John	0.0	
+134	sentence	2	began	12.35827704297384	
+134	sentence	3	the race	12.983913466490755	
+134	sentence	4	, but did not	24.728951885291757	
+134	sentence	5	acclimatize	17.80866132631061	
+134	sentence	6	it.	12.951257400744925	
+135	sentence	1	John	0.0	
+135	sentence	2	began	12.35827704297384	
+135	sentence	3	the race	12.983913466490755	
+135	sentence	4	, but did not	24.728951885291757	
+135	sentence	5	desensitize	31.15915457430291	
+135	sentence	6	it.	10.02327908315119	
+136	sentence	1	John	0.0	
+136	sentence	2	began	12.35827704297384	
+136	sentence	3	the race	12.983913466490755	
+136	sentence	4	, but did not	24.728951885291757	
+136	sentence	5	standardize	21.112179009400176	
+136	sentence	6	it.	5.176493253586164	
+137	sentence	1	John	0.0	
+137	sentence	2	began	12.35827704297384	
+137	sentence	3	the race	12.983913466490755	
+137	sentence	4	, but did not	24.728951885291757	
+137	sentence	5	stigmatize	23.98790065650322	
+137	sentence	6	it.	6.72699372735932	
+138	sentence	1	John	0.0	
+138	sentence	2	began	12.35827704297384	
+138	sentence	3	the race	12.983913466490755	
+138	sentence	4	, but did not	24.728951885291757	
+138	sentence	5	actualize	20.685889224342198	
+138	sentence	6	it.	4.507743015272404	
+139	sentence	1	John	0.0	
+139	sentence	2	began	12.35827704297384	
+139	sentence	3	the race	12.983913466490755	
+139	sentence	4	, but did not	24.728951885291757	
+139	sentence	5	industrialize	21.378723085416283	
+139	sentence	6	it.	5.816328736740964	
+140	sentence	1	John	0.0	
+140	sentence	2	began	12.35827704297384	
+140	sentence	3	the race	12.983913466490755	
+140	sentence	4	, but did not	24.728951885291757	
+140	sentence	5	sexualize	26.809191600426026	
+140	sentence	6	it.	7.052171300339381	
+141	sentence	1	John	0.0	
+141	sentence	2	began	12.35827704297384	
+141	sentence	3	the race	12.983913466490755	
+141	sentence	4	, but did not	24.728951885291757	
+141	sentence	5	demagnetize	31.02019186416672	
+141	sentence	6	it.	7.396156380069849	
+142	sentence	1	John	0.0	
+142	sentence	2	began	12.35827704297384	
+142	sentence	3	the race	12.983913466490755	
+142	sentence	4	, but did not	24.728951885291757	
+142	sentence	5	solemnize	26.177133602699868	
+142	sentence	6	it.	4.233499308223919	
+143	sentence	1	John	0.0	
+143	sentence	2	began	12.35827704297384	
+143	sentence	3	the race	12.983913466490755	
+143	sentence	4	, but did not	24.728951885291757	
+143	sentence	5	atomize	22.209654565082104	
+143	sentence	6	it.	6.597597936451113	
+144	sentence	1	John	0.0	
+144	sentence	2	began	12.35827704297384	
+144	sentence	3	the race	12.983913466490755	
+144	sentence	4	, but did not	24.728951885291757	
+144	sentence	5	ionize	23.663390978147785	
+144	sentence	6	it.	7.615158399747946	
+145	sentence	1	John	0.0	
+145	sentence	2	began	12.35827704297384	
+145	sentence	3	the race	12.983913466490755	
+145	sentence	4	, but did not	24.728951885291757	
+145	sentence	5	radicalize	20.850436807234235	
+145	sentence	6	it.	8.006829625031097	
+146	sentence	1	John	0.0	
+146	sentence	2	began	12.35827704297384	
+146	sentence	3	the race	12.983913466490755	
+146	sentence	4	, but did not	24.728951885291757	
+146	sentence	5	reunify	25.004267990159697	
+146	sentence	6	it.	8.956868839685937	
+147	sentence	1	John	0.0	
+147	sentence	2	began	12.35827704297384	
+147	sentence	3	the race	12.983913466490755	
+147	sentence	4	, but did not	24.728951885291757	
+147	sentence	5	demobilize	24.349072994430312	
+147	sentence	6	it.	8.233468534320757	
+148	sentence	1	John	0.0	
+148	sentence	2	began	12.35827704297384	
+148	sentence	3	the race	12.983913466490755	
+148	sentence	4	, but did not	24.728951885291757	
+148	sentence	5	democratize	24.98178568711264	
+148	sentence	6	it.	4.680190535240495	
+149	sentence	1	John	0.0	
+149	sentence	2	began	12.35827704297384	
+149	sentence	3	the race	12.983913466490755	
+149	sentence	4	, but did not	24.728951885291757	
+149	sentence	5	reclassify	25.266967873686124	
+149	sentence	6	it.	6.189897584142248	
+150	sentence	1	John	0.0	
+150	sentence	2	began	12.35827704297384	
+150	sentence	3	the race	12.983913466490755	
+150	sentence	4	, but did not	24.728951885291757	
+150	sentence	5	rhapsodize	24.59871208683721	
+150	sentence	6	it.	12.661093087723419	
+151	sentence	1	John	0.0	
+151	sentence	2	began	12.35827704297384	
+151	sentence	3	the race	12.983913466490755	
+151	sentence	4	, but did not	24.728951885291757	
+151	sentence	5	serialize	20.599293723858313	
+151	sentence	6	it.	4.379646897256768	
+152	sentence	1	John	0.0	
+152	sentence	2	began	12.35827704297384	
+152	sentence	3	the race	12.983913466490755	
+152	sentence	4	, but did not	24.728951885291757	
+152	sentence	5	disorganize	24.278915595715898	
+152	sentence	6	it.	6.430745872028843	
+153	sentence	1	John	0.0	
+153	sentence	2	began	12.35827704297384	
+153	sentence	3	the race	12.983913466490755	
+153	sentence	4	, but did not	24.728951885291757	
+153	sentence	5	sermonize	22.614250759529885	
+153	sentence	6	it.	10.707324942484735	
+154	sentence	1	John	0.0	
+154	sentence	2	began	12.35827704297384	
+154	sentence	3	the race	12.983913466490755	
+154	sentence	4	, but did not	24.728951885291757	
+154	sentence	5	deodorize	28.804606182986557	
+154	sentence	6	it.	6.741087877580178	
+155	sentence	1	John	0.0	
+155	sentence	2	began	12.35827704297384	
+155	sentence	3	the race	12.983913466490755	
+155	sentence	4	, but did not	24.728951885291757	
+155	sentence	5	emulsify	26.10818730043837	
+155	sentence	6	it.	7.11399871935926	
+156	sentence	1	John	0.0	
+156	sentence	2	began	12.35827704297384	
+156	sentence	3	the race	12.983913466490755	
+156	sentence	4	, but did not	24.728951885291757	
+156	sentence	5	overemphasize	22.125816798888962	
+156	sentence	6	it.	5.838237606634377	
+157	sentence	1	John	0.0	
+157	sentence	2	began	12.35827704297384	
+157	sentence	3	the race	12.983913466490755	
+157	sentence	4	, but did not	24.728951885291757	
+157	sentence	5	aerosolize	26.052971469584648	
+157	sentence	6	it.	6.8639687936910505	
+158	sentence	1	John	0.0	
+158	sentence	2	began	12.35827704297384	
+158	sentence	3	the race	12.983913466490755	
+158	sentence	4	, but did not	24.728951885291757	
+158	sentence	5	apostatize	24.752080208920027	
+158	sentence	6	it.	8.951149040683541	
+159	sentence	1	John	0.0	
+159	sentence	2	began	12.35827704297384	
+159	sentence	3	the race	12.983913466490755	
+159	sentence	4	, but did not	24.728951885291757	
+159	sentence	5	depolarize	28.04676172975236	
+159	sentence	6	it.	8.515783559156883	
+160	sentence	1	John	0.0	
+160	sentence	2	began	12.35827704297384	
+160	sentence	3	the race	12.983913466490755	
+160	sentence	4	, but did not	24.728951885291757	
+160	sentence	5	evangelize	22.751820670855288	
+160	sentence	6	it.	7.783511872712246	
+161	sentence	1	John	0.0	
+161	sentence	2	began	12.35827704297384	
+161	sentence	3	the race	12.983913466490755	
+161	sentence	4	, but did not	24.728951885291757	
+161	sentence	5	anatomize	30.25256004488011	
+161	sentence	6	it.	7.238080590321109	
+162	sentence	1	John	0.0	
+162	sentence	2	began	12.35827704297384	
+162	sentence	3	the race	12.983913466490755	
+162	sentence	4	, but did not	24.728951885291757	
+162	sentence	5	anthropomorphize	25.762336268065074	
+162	sentence	6	it.	6.304573035997804	
+163	sentence	1	John	0.0	
+163	sentence	2	began	12.35827704297384	
+163	sentence	3	the race	12.983913466490755	
+163	sentence	4	, but did not	24.728951885291757	
+163	sentence	5	federalize	25.387421344702236	
+163	sentence	6	it.	4.042779319532258	
+164	sentence	1	John	0.0	
+164	sentence	2	began	12.35827704297384	
+164	sentence	3	the race	12.983913466490755	
+164	sentence	4	, but did not	24.728951885291757	
+164	sentence	5	feminize	25.539841914933984	
+164	sentence	6	it.	6.490503307862937	
+165	sentence	1	John	0.0	
+165	sentence	2	began	12.35827704297384	
+165	sentence	3	the race	12.983913466490755	
+165	sentence	4	, but did not	24.728951885291757	
+165	sentence	5	fossilize	23.02530747150841	
+165	sentence	6	it.	5.269762540836781	
+166	sentence	1	John	0.0	
+166	sentence	2	began	12.35827704297384	
+166	sentence	3	the race	12.983913466490755	
+166	sentence	4	, but did not	24.728951885291757	
+166	sentence	5	regularize	22.754588043690323	
+166	sentence	6	it.	4.551856565218714	
+167	sentence	1	John	0.0	
+167	sentence	2	began	12.35827704297384	
+167	sentence	3	the race	12.983913466490755	
+167	sentence	4	, but did not	24.728951885291757	
+167	sentence	5	ritualize	26.095903358983627	
+167	sentence	6	it.	3.529602523397185	
+168	sentence	1	John	0.0	
+168	sentence	2	began	12.35827704297384	
+168	sentence	3	the race	12.983913466490755	
+168	sentence	4	, but did not	24.728951885291757	
+168	sentence	5	sentimentalize	27.881418211152134	
+168	sentence	6	it.	4.357129896709903	
+169	sentence	1	John	0.0	
+169	sentence	2	began	12.35827704297384	
+169	sentence	3	the race	12.983913466490755	
+169	sentence	4	, but did not	24.728951885291757	
+169	sentence	5	exteriorize	29.113609755055386	
+169	sentence	6	it.	5.074919096108033	
+170	sentence	1	John	0.0	
+170	sentence	2	began	12.35827704297384	
+170	sentence	3	the race	12.983913466490755	
+170	sentence	4	, but did not	24.728951885291757	
+170	sentence	5	fetishize	24.138810316151474	
+170	sentence	6	it.	5.186316042690193	
+171	sentence	1	John	0.0	
+171	sentence	2	began	12.35827704297384	
+171	sentence	3	the race	12.983913466490755	
+171	sentence	4	, but did not	24.728951885291757	
+171	sentence	5	fictionalize	28.531492939400025	
+171	sentence	6	it.	3.5189259264229467	
+172	sentence	1	John	0.0	
+172	sentence	2	began	12.35827704297384	
+172	sentence	3	the race	12.983913466490755	
+172	sentence	4	, but did not	24.728951885291757	
+172	sentence	5	individualize	21.61953604161704	
+172	sentence	6	it.	4.62205317597753	
+173	sentence	1	John	0.0	
+173	sentence	2	began	12.35827704297384	
+173	sentence	3	the race	12.983913466490755	
+173	sentence	4	, but did not	24.728951885291757	
+173	sentence	5	internationalize	24.61744400989979	
+173	sentence	6	it.	4.696506701310501	
+174	sentence	1	John	0.0	
+174	sentence	2	began	12.35827704297384	
+174	sentence	3	the race	12.983913466490755	
+174	sentence	4	, but did not	24.728951885291757	
+174	sentence	5	alkalinize	33.344398648948456	
+174	sentence	6	it.	6.585333165687483	
+175	sentence	1	John	0.0	
+175	sentence	2	began	12.35827704297384	
+175	sentence	3	the race	12.983913466490755	
+175	sentence	4	, but did not	24.728951885291757	
+175	sentence	5	depersonalize	25.798761462591553	
+175	sentence	6	it.	7.430223563466008	
+176	sentence	1	John	0.0	
+176	sentence	2	began	12.35827704297384	
+176	sentence	3	the race	12.983913466490755	
+176	sentence	4	, but did not	24.728951885291757	
+176	sentence	5	italicize	25.208722771323234	
+176	sentence	6	it.	4.720674563322997	
+177	sentence	1	John	0.0	
+177	sentence	2	began	12.35827704297384	
+177	sentence	3	the race	12.983913466490755	
+177	sentence	4	, but did not	24.728951885291757	
+177	sentence	5	randomize	21.30012844357776	
+177	sentence	6	it.	4.671646781110933	
+178	sentence	1	John	0.0	
+178	sentence	2	began	12.35827704297384	
+178	sentence	3	the race	12.983913466490755	
+178	sentence	4	, but did not	24.728951885291757	
+178	sentence	5	stylize	26.058187133692783	
+178	sentence	6	it.	6.314905581678991	
+179	sentence	1	John	0.0	
+179	sentence	2	began	12.35827704297384	
+179	sentence	3	the race	12.983913466490755	
+179	sentence	4	, but did not	24.728951885291757	
+179	sentence	5	temporize	23.09348673652152	
+179	sentence	6	it.	6.575563175257268	
+180	sentence	1	John	0.0	
+180	sentence	2	began	12.35827704297384	
+180	sentence	3	the race	12.983913466490755	
+180	sentence	4	, but did not	24.728951885291757	
+180	sentence	5	ramify	26.92145146995889	
+180	sentence	6	it.	7.7411888341440696	
+181	sentence	1	John	0.0	
+181	sentence	2	began	12.35827704297384	
+181	sentence	3	the race	12.983913466490755	
+181	sentence	4	, but did not	24.728951885291757	
+181	sentence	5	reimpose	23.80501361764511	
+181	sentence	6	it.	5.640205431575982	
+182	sentence	1	John	0.0	
+182	sentence	2	began	12.35827704297384	
+182	sentence	3	the race	12.983913466490755	
+182	sentence	4	, but did not	24.728951885291757	
+182	sentence	5	sensitize	25.083186464580873	
+182	sentence	6	it.	11.377917286971886	
+183	sentence	1	John	0.0	
+183	sentence	2	began	12.35827704297384	
+183	sentence	3	the race	12.983913466490755	
+183	sentence	4	, but did not	24.728951885291757	
+183	sentence	5	systematize	21.506213190314856	
+183	sentence	6	it.	4.486799827963586	
+184	sentence	1	John	0.0	
+184	sentence	2	began	12.35827704297384	
+184	sentence	3	the race	12.983913466490755	
+184	sentence	4	, but did not	24.728951885291757	
+184	sentence	5	denationalize	29.512094546004754	
+184	sentence	6	it.	4.911047663007867	
+185	sentence	1	John	0.0	
+185	sentence	2	began	12.35827704297384	
+185	sentence	3	the race	12.983913466490755	
+185	sentence	4	, but did not	24.728951885291757	
+185	sentence	5	digitalize	25.728737425673966	
+185	sentence	6	it.	4.141296657373953	
+186	sentence	1	John	0.0	
+186	sentence	2	began	12.35827704297384	
+186	sentence	3	the race	12.983913466490755	
+186	sentence	4	, but did not	24.728951885291757	
+186	sentence	5	reify	26.529465860389962	
+186	sentence	6	it.	6.361121103584147	
+187	sentence	1	John	0.0	
+187	sentence	2	began	12.35827704297384	
+187	sentence	3	the race	12.983913466490755	
+187	sentence	4	, but did not	24.728951885291757	
+187	sentence	5	secularize	28.86936261703545	
+187	sentence	6	it.	4.517151670153156	
+188	sentence	1	John	0.0	
+188	sentence	2	began	12.35827704297384	
+188	sentence	3	the race	12.983913466490755	
+188	sentence	4	, but did not	24.728951885291757	
+188	sentence	5	spiritualize	28.091951633119095	
+188	sentence	6	it.	6.201273032618265	
+189	sentence	1	John	0.0	
+189	sentence	2	began	12.35827704297384	
+189	sentence	3	the race	12.983913466490755	
+189	sentence	4	, but did not	24.728951885291757	
+189	sentence	5	alkalize	29.901612870966574	
+189	sentence	6	it.	5.936458790351286	
+190	sentence	1	John	0.0	
+190	sentence	2	began	12.35827704297384	
+190	sentence	3	the race	12.983913466490755	
+190	sentence	4	, but did not	24.728951885291757	
+190	sentence	5	decentralize	24.263919160015117	
+190	sentence	6	it.	4.852022185335846	
+191	sentence	1	John	0.0	
+191	sentence	2	began	12.35827704297384	
+191	sentence	3	the race	12.983913466490755	
+191	sentence	4	, but did not	24.728951885291757	
+191	sentence	5	decolonize	27.57238911040857	
+191	sentence	6	it.	6.128960347323234	
+192	sentence	1	John	0.0	
+192	sentence	2	began	12.35827704297384	
+192	sentence	3	the race	12.983913466490755	
+192	sentence	4	, but did not	24.728951885291757	
+192	sentence	5	demilitarize	25.713518588861525	
+192	sentence	6	it.	7.362216291852676	
+193	sentence	1	John	0.0	
+193	sentence	2	began	12.35827704297384	
+193	sentence	3	the race	12.983913466490755	
+193	sentence	4	, but did not	24.728951885291757	
+193	sentence	5	desexualize	30.350645039835367	
+193	sentence	6	it.	7.6853427997385495	
+194	sentence	1	John	0.0	
+194	sentence	2	began	12.35827704297384	
+194	sentence	3	the race	12.983913466490755	
+194	sentence	4	, but did not	24.728951885291757	
+194	sentence	5	desynchronize	26.848935350685718	
+194	sentence	6	it.	7.153019691030871	
+195	sentence	1	John	0.0	
+195	sentence	2	began	12.35827704297384	
+195	sentence	3	the race	12.983913466490755	
+195	sentence	4	, but did not	24.728951885291757	
+195	sentence	5	devitalize	34.141959732928086	
+195	sentence	6	it.	6.306902369021091	
+196	sentence	1	John	0.0	
+196	sentence	2	began	12.35827704297384	
+196	sentence	3	the race	12.983913466490755	
+196	sentence	4	, but did not	24.728951885291757	
+196	sentence	5	eroticize	28.40509214036527	
+196	sentence	6	it.	5.408818769226603	
+197	sentence	1	John	0.0	
+197	sentence	2	began	12.35827704297384	
+197	sentence	3	the race	12.983913466490755	
+197	sentence	4	, but did not	24.728951885291757	
+197	sentence	5	officialize	23.026360188063258	
+197	sentence	6	it.	4.126118672487358	
+198	sentence	1	John	0.0	
+198	sentence	2	began	12.35827704297384	
+198	sentence	3	the race	12.983913466490755	
+198	sentence	4	, but did not	24.728951885291757	
+198	sentence	5	quantize	28.044846272978376	
+198	sentence	6	it.	4.990381540024372	
+199	sentence	1	John	0.0	
+199	sentence	2	began	12.35827704297384	
+199	sentence	3	the race	12.983913466490755	
+199	sentence	4	, but did not	24.728951885291757	
+199	sentence	5	reharmonize	40.375518531147044	
+199	sentence	6	it.	6.671081135667915	
+200	sentence	1	John	0.0	
+200	sentence	2	began	12.35827704297384	
+200	sentence	3	the race	12.983913466490755	
+200	sentence	4	, but did not	24.728951885291757	
+200	sentence	5	remilitarize	24.734878305325786	
+200	sentence	6	it.	8.883884390156634	
+201	sentence	1	John	0.0	
+201	sentence	2	began	12.35827704297384	
+201	sentence	3	the race	12.983913466490755	
+201	sentence	4	, but did not	24.728951885291757	
+201	sentence	5	solarize	27.659513812258076	
+201	sentence	6	it.	6.419317280913708	
+202	sentence	1	John	0.0	
+202	sentence	2	began	12.35827704297384	
+202	sentence	3	the race	12.983913466490755	
+202	sentence	4	, but did not	24.728951885291757	
+202	sentence	5	syncretize	27.587162172892626	
+202	sentence	6	it.	9.25048312468375	
+203	sentence	1	John	0.0	
+203	sentence	2	began	12.35827704297384	
+203	sentence	3	the race	12.983913466490755	
+203	sentence	4	, but did not	24.728951885291757	
+203	sentence	5	totalize	28.215958003697217	
+203	sentence	6	it.	5.834444701252249	
+204	sentence	1	John	0.0	
+204	sentence	2	began	12.35827704297384	
+204	sentence	3	the race	12.983913466490755	
+204	sentence	4	, but did not	24.728951885291757	
+204	sentence	5	alchemize	26.766090512345343	
+204	sentence	6	it.	5.705320814915055	
+205	sentence	1	John	0.0	
+205	sentence	2	began	12.35827704297384	
+205	sentence	3	the race	12.983913466490755	
+205	sentence	4	, but did not	24.728951885291757	
+205	sentence	5	aluminize	32.358330240569664	
+205	sentence	6	it.	7.308371619555247	
+206	sentence	1	John	0.0	
+206	sentence	2	began	12.35827704297384	
+206	sentence	3	the race	12.983913466490755	
+206	sentence	4	, but did not	24.728951885291757	
+206	sentence	5	analogize	26.053002265228063	
+206	sentence	6	it.	7.10178003994606	
+207	sentence	1	John	0.0	
+207	sentence	2	began	12.35827704297384	
+207	sentence	3	the race	12.983913466490755	
+207	sentence	4	, but did not	24.728951885291757	
+207	sentence	5	attitudinize	45.0056635123455	
+207	sentence	6	it.	8.179729459370956	
+208	sentence	1	John	0.0	
+208	sentence	2	began	12.35827704297384	
+208	sentence	3	the race	12.983913466490755	
+208	sentence	4	, but did not	24.728951885291757	
+208	sentence	5	deionize	29.296683395089687	
+208	sentence	6	it.	6.548880754906507	
+209	sentence	1	John	0.0	
+209	sentence	2	began	12.35827704297384	
+209	sentence	3	the race	12.983913466490755	
+209	sentence	4	, but did not	24.728951885291757	
+209	sentence	5	demythologize	34.572635075583065	
+209	sentence	6	it.	5.818117012344635	
+210	sentence	1	John	0.0	
+210	sentence	2	began	12.35827704297384	
+210	sentence	3	the race	12.983913466490755	
+210	sentence	4	, but did not	24.728951885291757	
+210	sentence	5	deoxidize	34.66991676107398	
+210	sentence	6	it.	7.5122285030330636	
+211	sentence	1	John	0.0	
+211	sentence	2	began	12.35827704297384	
+211	sentence	3	the race	12.983913466490755	
+211	sentence	4	, but did not	24.728951885291757	
+211	sentence	5	dichotomize	27.91140534263272	
+211	sentence	6	it.	6.783207632655036	
+212	sentence	1	John	0.0	
+212	sentence	2	began	12.35827704297384	
+212	sentence	3	the race	12.983913466490755	
+212	sentence	4	, but did not	24.728951885291757	
+212	sentence	5	dogmatize	30.06877394521678	
+212	sentence	6	it.	7.202799037427207	
+213	sentence	1	John	0.0	
+213	sentence	2	began	12.35827704297384	
+213	sentence	3	the race	12.983913466490755	
+213	sentence	4	, but did not	24.728951885291757	
+213	sentence	5	factorize	30.966402242440942	
+213	sentence	6	it.	7.3426197287001145	
+214	sentence	1	John	0.0	
+214	sentence	2	began	12.35827704297384	
+214	sentence	3	the race	12.983913466490755	
+214	sentence	4	, but did not	24.728951885291757	
+214	sentence	5	iodize	31.49274839508752	
+214	sentence	6	it.	4.914826121847323	
+215	sentence	1	John	0.0	
+215	sentence	2	began	12.35827704297384	
+215	sentence	3	the race	12.983913466490755	
+215	sentence	4	, but did not	24.728951885291757	
+215	sentence	5	overcapitalize	25.863226246311324	
+215	sentence	6	it.	8.239721651523476	
+216	sentence	1	John	0.0	
+216	sentence	2	began	12.35827704297384	
+216	sentence	3	the race	12.983913466490755	
+216	sentence	4	, but did not	24.728951885291757	
+216	sentence	5	overspecialize	27.911111617762877	
+216	sentence	6	it.	8.37016309694893	
+217	sentence	1	John	0.0	
+217	sentence	2	began	12.35827704297384	
+217	sentence	3	the race	12.983913466490755	
+217	sentence	4	, but did not	24.728951885291757	
+217	sentence	5	relativize	27.247646696530854	
+217	sentence	6	it.	6.659627263103102	
+218	sentence	1	John	0.0	
+218	sentence	2	began	12.35827704297384	
+218	sentence	3	the race	12.983913466490755	
+218	sentence	4	, but did not	24.728951885291757	
+218	sentence	5	schematize	29.024332185131293	
+218	sentence	6	it.	6.012541851301183	
+219	sentence	1	John	0.0	
+219	sentence	2	began	12.35827704297384	
+219	sentence	3	the race	12.983913466490755	
+219	sentence	4	, but did not	24.728951885291757	
+219	sentence	5	sensualize	28.068766221999653	
+219	sentence	6	it.	6.265362367462291	
+220	sentence	1	John	0.0	
+220	sentence	2	began	12.35827704297384	
+220	sentence	3	the race	12.983913466490755	
+220	sentence	4	, but did not	24.728951885291757	
+220	sentence	5	signalize	31.405667946523863	
+220	sentence	6	it.	7.293774764045917	
+221	sentence	1	John	0.0	
+221	sentence	2	began	12.35827704297384	
+221	sentence	3	the race	12.983913466490755	
+221	sentence	4	, but did not	24.728951885291757	
+221	sentence	5	singularize	29.47226856654012	
+221	sentence	6	it.	4.313570130899372	
+222	sentence	1	John	0.0	
+222	sentence	2	began	12.35827704297384	
+222	sentence	3	the race	12.983913466490755	
+222	sentence	4	, but did not	24.728951885291757	
+222	sentence	5	steepen	25.54336411962365	
+222	sentence	6	it.	7.71513862201788	
+223	sentence	1	John	0.0	
+223	sentence	2	began	12.35827704297384	
+223	sentence	3	the race	12.983913466490755	
+223	sentence	4	, but did not	24.728951885291757	
+223	sentence	5	subtilize	31.768535689423164	
+223	sentence	6	it.	5.817042808707345	
+224	sentence	1	John	0.0	
+224	sentence	2	began	12.35827704297384	
+224	sentence	3	the race	12.983913466490755	
+224	sentence	4	, but did not	24.728951885291757	
+224	sentence	5	syllogize	27.931870353678644	
+224	sentence	6	it.	5.6816995137670006	
+225	sentence	1	John	0.0	
+225	sentence	2	began	12.35827704297384	
+225	sentence	3	the race	12.983913466490755	
+225	sentence	4	, but did not	24.728951885291757	
+225	sentence	5	complete	7.074847556820945	
+225	sentence	6	it.	3.180344971539217	
+226	sentence	1	John	0.0	
+226	sentence	2	began	12.35827704297384	
+226	sentence	3	the race	12.983913466490755	
+226	sentence	4	, but did not	24.728951885291757	
+226	sentence	5	loathe	19.401113640972344	
+226	sentence	6	it.	4.972736206037173	
+227	sentence	1	John	0.0	
+227	sentence	2	began	12.35827704297384	
+227	sentence	3	the race	12.983913466490755	
+227	sentence	4	, but did not	24.728951885291757	
+227	sentence	5	triple	17.964998140357437	
+227	sentence	6	it.	5.144537501194647	
+228	sentence	1	John	0.0	
+228	sentence	2	began	12.35827704297384	
+228	sentence	3	the race	12.983913466490755	
+228	sentence	4	, but did not	24.728951885291757	
+228	sentence	5	love	13.670748196490692	
+228	sentence	6	it.	3.9172263089749295	
+229	sentence	1	John	0.0	
+229	sentence	2	began	12.35827704297384	
+229	sentence	3	the race	12.983913466490755	
+229	sentence	4	, but did not	24.728951885291757	
+229	sentence	5	exceed	11.006090279858542	
+229	sentence	6	it.	7.244627969839456	
+230	sentence	1	John	0.0	
+230	sentence	2	began	12.35827704297384	
+230	sentence	3	the race	12.983913466490755	
+230	sentence	4	, but did not	24.728951885291757	
+230	sentence	5	require	11.075257574451944	
+230	sentence	6	it.	6.510111565835758	
+231	sentence	1	John	0.0	
+231	sentence	2	began	12.35827704297384	
+231	sentence	3	the race	12.983913466490755	
+231	sentence	4	, but did not	24.728951885291757	
+231	sentence	5	eliminate	13.445503206586276	
+231	sentence	6	it.	5.085702408317132	
+232	sentence	1	John	0.0	
+232	sentence	2	began	12.35827704297384	
+232	sentence	3	the race	12.983913466490755	
+232	sentence	4	, but did not	24.728951885291757	
+232	sentence	5	stop	6.576609689687768	
+232	sentence	6	it.	7.038300555581995	
+233	sentence	1	John	0.0	
+233	sentence	2	began	12.35827704297384	
+233	sentence	3	the race	12.983913466490755	
+233	sentence	4	, but did not	24.728951885291757	
+233	sentence	5	finish	3.4018047952807944	
+233	sentence	6	it.	6.1966164303635045	
+234	sentence	1	John	0.0	
+234	sentence	2	began	12.35827704297384	
+234	sentence	3	the race	12.983913466490755	
+234	sentence	4	, but did not	24.728951885291757	
+234	sentence	5	thrive	13.358702874765212	
+234	sentence	6	it.	13.318349209532064	
+235	sentence	1	John	0.0	
+235	sentence	2	began	12.35827704297384	
+235	sentence	3	the race	12.983913466490755	
+235	sentence	4	, but did not	24.728951885291757	
+235	sentence	5	encourage	15.133541817890087	
+235	sentence	6	it.	5.766588430406374	
+236	sentence	1	John	0.0	
+236	sentence	2	began	12.35827704297384	
+236	sentence	3	the race	12.983913466490755	
+236	sentence	4	, but did not	24.728951885291757	
+236	sentence	5	need	8.97340393967049	
+236	sentence	6	it.	6.086006476391693	

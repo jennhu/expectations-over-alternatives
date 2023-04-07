@@ -1,0 +1,1381 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	The runner	15.341232194655635	
+1	sentence	2	participated	16.55457529993758	
+1	sentence	3		0.0	
+1	sentence	4	, but did not	25.32818660713978	
+1	sentence	5	have	4.724473488097906	
+1	sentence	6	.	11.042997068803098	
+2	sentence	1	The runner	15.341232194655635	
+2	sentence	2	participated	16.55457529993758	
+2	sentence	3		0.0	
+2	sentence	4	, but did not	25.32818660713978	
+2	sentence	5	know	6.503230883940039	
+2	sentence	6	.	8.201745302473206	
+3	sentence	1	The runner	15.341232194655635	
+3	sentence	2	participated	16.55457529993758	
+3	sentence	3		0.0	
+3	sentence	4	, but did not	25.32818660713978	
+3	sentence	5	get	5.115019946844413	
+3	sentence	6	.	10.927292644747428	
+4	sentence	1	The runner	15.341232194655635	
+4	sentence	2	participated	16.55457529993758	
+4	sentence	3		0.0	
+4	sentence	4	, but did not	25.32818660713978	
+4	sentence	5	go	6.704062592589178	
+4	sentence	6	.	12.23492833405262	
+5	sentence	1	The runner	15.341232194655635	
+5	sentence	2	participated	16.55457529993758	
+5	sentence	3		0.0	
+5	sentence	4	, but did not	25.32818660713978	
+5	sentence	5	come	8.072923417670927	
+5	sentence	6	.	12.329293150789233	
+6	sentence	1	The runner	15.341232194655635	
+6	sentence	2	participated	16.55457529993758	
+6	sentence	3		0.0	
+6	sentence	4	, but did not	25.32818660713978	
+6	sentence	5	see	6.18323858788349	
+6	sentence	6	.	9.197846802491283	
+7	sentence	1	The runner	15.341232194655635	
+7	sentence	2	participated	16.55457529993758	
+7	sentence	3		0.0	
+7	sentence	4	, but did not	25.32818660713978	
+7	sentence	5	let	10.125862434824585	
+7	sentence	6	.	13.699130837327884	
+8	sentence	1	The runner	15.341232194655635	
+8	sentence	2	participated	16.55457529993758	
+8	sentence	3		0.0	
+8	sentence	4	, but did not	25.32818660713978	
+8	sentence	5	take	5.7258142675918675	
+8	sentence	6	.	12.402067953467133	
+9	sentence	1	The runner	15.341232194655635	
+9	sentence	2	participated	16.55457529993758	
+9	sentence	3		0.0	
+9	sentence	4	, but did not	25.32818660713978	
+9	sentence	5	say	8.41512761705171	
+9	sentence	6	.	8.164872222128219	
+10	sentence	1	The runner	15.341232194655635	
+10	sentence	2	participated	16.55457529993758	
+10	sentence	3		0.0	
+10	sentence	4	, but did not	25.32818660713978	
+10	sentence	5	make	5.293067393907248	
+10	sentence	6	.	13.238235219211246	
+11	sentence	1	The runner	15.341232194655635	
+11	sentence	2	participated	16.55457529993758	
+11	sentence	3		0.0	
+11	sentence	4	, but did not	25.32818660713978	
+11	sentence	5	give	6.873414596824389	
+11	sentence	6	.	13.700827274195994	
+12	sentence	1	The runner	15.341232194655635	
+12	sentence	2	participated	16.55457529993758	
+12	sentence	3		0.0	
+12	sentence	4	, but did not	25.32818660713978	
+12	sentence	5	find	8.044591683698393	
+12	sentence	6	.	10.34956026880184	
+13	sentence	1	The runner	15.341232194655635	
+13	sentence	2	participated	16.55457529993758	
+13	sentence	3		0.0	
+13	sentence	4	, but did not	25.32818660713978	
+13	sentence	5	keep	9.640744780160428	
+13	sentence	6	.	8.774286554085151	
+14	sentence	1	The runner	15.341232194655635	
+14	sentence	2	participated	16.55457529993758	
+14	sentence	3		0.0	
+14	sentence	4	, but did not	25.32818660713978	
+14	sentence	5	leave	8.08205913608476	
+14	sentence	6	.	7.006705278826686	
+15	sentence	1	The runner	15.341232194655635	
+15	sentence	2	participated	16.55457529993758	
+15	sentence	3		0.0	
+15	sentence	4	, but did not	25.32818660713978	
+15	sentence	5	believe	10.60602698914389	
+15	sentence	6	.	9.999115348722315	
+16	sentence	1	The runner	15.341232194655635	
+16	sentence	2	participated	16.55457529993758	
+16	sentence	3		0.0	
+16	sentence	4	, but did not	25.32818660713978	
+16	sentence	5	remember	10.155933257362644	
+16	sentence	6	.	7.197439542078369	
+17	sentence	1	The runner	15.341232194655635	
+17	sentence	2	participated	16.55457529993758	
+17	sentence	3		0.0	
+17	sentence	4	, but did not	25.32818660713978	
+17	sentence	5	run	5.180070664706761	
+17	sentence	6	.	5.23961381015788	
+18	sentence	1	The runner	15.341232194655635	
+18	sentence	2	participated	16.55457529993758	
+18	sentence	3		0.0	
+18	sentence	4	, but did not	25.32818660713978	
+18	sentence	5	happen	11.205660323780952	
+18	sentence	6	.	6.6413405198195115	
+19	sentence	1	The runner	15.341232194655635	
+19	sentence	2	participated	16.55457529993758	
+19	sentence	3		0.0	
+19	sentence	4	, but did not	25.32818660713978	
+19	sentence	5	buy	12.261551248406183	
+19	sentence	6	.	5.69751005084347	
+20	sentence	1	The runner	15.341232194655635	
+20	sentence	2	participated	16.55457529993758	
+20	sentence	3		0.0	
+20	sentence	4	, but did not	25.32818660713978	
+20	sentence	5	save	10.849323278082869	
+20	sentence	6	.	5.420448408060597	
+21	sentence	1	The runner	15.341232194655635	
+21	sentence	2	participated	16.55457529993758	
+21	sentence	3		0.0	
+21	sentence	4	, but did not	25.32818660713978	
+21	sentence	5	lose	6.549085586243684	
+21	sentence	6	.	4.602836350518072	
+22	sentence	1	The runner	15.341232194655635	
+22	sentence	2	participated	16.55457529993758	
+22	sentence	3		0.0	
+22	sentence	4	, but did not	25.32818660713978	
+22	sentence	5	follow	8.450988063548415	
+22	sentence	6	.	7.38411914235331	
+23	sentence	1	The runner	15.341232194655635	
+23	sentence	2	participated	16.55457529993758	
+23	sentence	3		0.0	
+23	sentence	4	, but did not	25.32818660713978	
+23	sentence	5	expect	10.592246363295557	
+23	sentence	6	.	10.937077081720314	
+24	sentence	1	The runner	15.341232194655635	
+24	sentence	2	participated	16.55457529993758	
+24	sentence	3		0.0	
+24	sentence	4	, but did not	25.32818660713978	
+24	sentence	5	realize	8.845717140363906	
+24	sentence	6	.	8.713081368296095	
+25	sentence	1	The runner	15.341232194655635	
+25	sentence	2	participated	16.55457529993758	
+25	sentence	3		0.0	
+25	sentence	4	, but did not	25.32818660713978	
+25	sentence	5	slow	13.853059437433718	
+25	sentence	6	.	9.533140051029793	
+26	sentence	1	The runner	15.341232194655635	
+26	sentence	2	participated	16.55457529993758	
+26	sentence	3		0.0	
+26	sentence	4	, but did not	25.32818660713978	
+26	sentence	5	allow	9.139160818572066	
+26	sentence	6	.	9.67875707358473	
+27	sentence	1	The runner	15.341232194655635	
+27	sentence	2	participated	16.55457529993758	
+27	sentence	3		0.0	
+27	sentence	4	, but did not	25.32818660713978	
+27	sentence	5	consider	9.93423248592721	
+27	sentence	6	.	9.453965429947988	
+28	sentence	1	The runner	15.341232194655635	
+28	sentence	2	participated	16.55457529993758	
+28	sentence	3		0.0	
+28	sentence	4	, but did not	25.32818660713978	
+28	sentence	5	apologize	12.006301477301637	
+28	sentence	6	.	3.9472763216122355	
+29	sentence	1	The runner	15.341232194655635	
+29	sentence	2	participated	16.55457529993758	
+29	sentence	3		0.0	
+29	sentence	4	, but did not	25.32818660713978	
+29	sentence	5	recognize	10.283216929335605	
+29	sentence	6	.	7.358073401776043	
+30	sentence	1	The runner	15.341232194655635	
+30	sentence	2	participated	16.55457529993758	
+30	sentence	3		0.0	
+30	sentence	4	, but did not	25.32818660713978	
+30	sentence	5	settle	12.601333932062817	
+30	sentence	6	.	5.535926846913034	
+31	sentence	1	The runner	15.341232194655635	
+31	sentence	2	participated	16.55457529993758	
+31	sentence	3		0.0	
+31	sentence	4	, but did not	25.32818660713978	
+31	sentence	5	add	10.74966689914451	
+31	sentence	6	.	7.82740648874401	
+32	sentence	1	The runner	15.341232194655635	
+32	sentence	2	participated	16.55457529993758	
+32	sentence	3		0.0	
+32	sentence	4	, but did not	25.32818660713978	
+32	sentence	5	assume	13.672678529763976	
+32	sentence	6	.	9.25713472568852	
+33	sentence	1	The runner	15.341232194655635	
+33	sentence	2	participated	16.55457529993758	
+33	sentence	3		0.0	
+33	sentence	4	, but did not	25.32818660713978	
+33	sentence	5	appear	6.5562180507402665	
+33	sentence	6	.	6.179622136701147	
+34	sentence	1	The runner	15.341232194655635	
+34	sentence	2	participated	16.55457529993758	
+34	sentence	3		0.0	
+34	sentence	4	, but did not	25.32818660713978	
+34	sentence	5	remove	11.134797968180647	
+34	sentence	6	.	6.24232563534452	
+35	sentence	1	The runner	15.341232194655635	
+35	sentence	2	participated	16.55457529993758	
+35	sentence	3		0.0	
+35	sentence	4	, but did not	25.32818660713978	
+35	sentence	5	identify	10.153181534948839	
+35	sentence	6	.	7.634693049146198	
+36	sentence	1	The runner	15.341232194655635	
+36	sentence	2	participated	16.55457529993758	
+36	sentence	3		0.0	
+36	sentence	4	, but did not	25.32818660713978	
+36	sentence	5	replace	13.1288941532375	
+36	sentence	6	.	5.243775102378156	
+37	sentence	1	The runner	15.341232194655635	
+37	sentence	2	participated	16.55457529993758	
+37	sentence	3		0.0	
+37	sentence	4	, but did not	25.32818660713978	
+37	sentence	5	apply	9.615605044187907	
+37	sentence	6	.	5.0127325773131535	
+38	sentence	1	The runner	15.341232194655635	
+38	sentence	2	participated	16.55457529993758	
+38	sentence	3		0.0	
+38	sentence	4	, but did not	25.32818660713978	
+38	sentence	5	succeed	7.648960041931173	
+38	sentence	6	.	3.525804974483483	
+39	sentence	1	The runner	15.341232194655635	
+39	sentence	2	participated	16.55457529993758	
+39	sentence	3		0.0	
+39	sentence	4	, but did not	25.32818660713978	
+39	sentence	5	develop	11.136977332332382	
+39	sentence	6	.	7.737581326059572	
+40	sentence	1	The runner	15.341232194655635	
+40	sentence	2	participated	16.55457529993758	
+40	sentence	3		0.0	
+40	sentence	4	, but did not	25.32818660713978	
+40	sentence	5	approve	14.136002542910797	
+40	sentence	6	.	3.9341898177427823	
+41	sentence	1	The runner	15.341232194655635	
+41	sentence	2	participated	16.55457529993758	
+41	sentence	3		0.0	
+41	sentence	4	, but did not	25.32818660713978	
+41	sentence	5	expose	14.106504078634808	
+41	sentence	6	.	9.758389856448435	
+42	sentence	1	The runner	15.341232194655635	
+42	sentence	2	participated	16.55457529993758	
+42	sentence	3		0.0	
+42	sentence	4	, but did not	25.32818660713978	
+42	sentence	5	establish	12.21525627051633	
+42	sentence	6	.	7.872950934345498	
+43	sentence	1	The runner	15.341232194655635	
+43	sentence	2	participated	16.55457529993758	
+43	sentence	3		0.0	
+43	sentence	4	, but did not	25.32818660713978	
+43	sentence	5	reduce	12.31097218295812	
+43	sentence	6	.	7.882220111296401	
+44	sentence	1	The runner	15.341232194655635	
+44	sentence	2	participated	16.55457529993758	
+44	sentence	3		0.0	
+44	sentence	4	, but did not	25.32818660713978	
+44	sentence	5	participate	4.381124572192981	
+44	sentence	6	.	4.78020274628349	
+45	sentence	1	The runner	15.341232194655635	
+45	sentence	2	participated	16.55457529993758	
+45	sentence	3		0.0	
+45	sentence	4	, but did not	25.32818660713978	
+45	sentence	5	organize	14.455488522043206	
+45	sentence	6	.	6.473322413024393	
+46	sentence	1	The runner	15.341232194655635	
+46	sentence	2	participated	16.55457529993758	
+46	sentence	3		0.0	
+46	sentence	4	, but did not	25.32818660713978	
+46	sentence	5	obtain	10.651969746564777	
+46	sentence	6	.	8.711156538467637	
+47	sentence	1	The runner	15.341232194655635	
+47	sentence	2	participated	16.55457529993758	
+47	sentence	3		0.0	
+47	sentence	4	, but did not	25.32818660713978	
+47	sentence	5	kitten	26.343919969749507	
+47	sentence	6	.	6.4451654134251335	
+48	sentence	1	The runner	15.341232194655635	
+48	sentence	2	participated	16.55457529993758	
+48	sentence	3		0.0	
+48	sentence	4	, but did not	25.32818660713978	
+48	sentence	5	acquire	13.587991520756717	
+48	sentence	6	.	7.017142561942249	
+49	sentence	1	The runner	15.341232194655635	
+49	sentence	2	participated	16.55457529993758	
+49	sentence	3		0.0	
+49	sentence	4	, but did not	25.32818660713978	
+49	sentence	5	qualify	7.109446338590922	
+49	sentence	6	.	4.01193560696122	
+50	sentence	1	The runner	15.341232194655635	
+50	sentence	2	participated	16.55457529993758	
+50	sentence	3		0.0	
+50	sentence	4	, but did not	25.32818660713978	
+50	sentence	5	criticize	14.353938958084148	
+50	sentence	6	.	6.795400514670606	
+51	sentence	1	The runner	15.341232194655635	
+51	sentence	2	participated	16.55457529993758	
+51	sentence	3		0.0	
+51	sentence	4	, but did not	25.32818660713978	
+51	sentence	5	rave	20.090795887722614	
+51	sentence	6	.	8.709501377435734	
+52	sentence	1	The runner	15.341232194655635	
+52	sentence	2	participated	16.55457529993758	
+52	sentence	3		0.0	
+52	sentence	4	, but did not	25.32818660713978	
+52	sentence	5	enlighten	18.090844652744607	
+52	sentence	6	.	7.564718811954949	
+53	sentence	1	The runner	15.341232194655635	
+53	sentence	2	participated	16.55457529993758	
+53	sentence	3		0.0	
+53	sentence	4	, but did not	25.32818660713978	
+53	sentence	5	disclose	10.165421196245445	
+53	sentence	6	.	6.739861813262177	
+54	sentence	1	The runner	15.341232194655635	
+54	sentence	2	participated	16.55457529993758	
+54	sentence	3		0.0	
+54	sentence	4	, but did not	25.32818660713978	
+54	sentence	5	reopen	17.41645190819387	
+54	sentence	6	.	5.6934203034059525	
+55	sentence	1	The runner	15.341232194655635	
+55	sentence	2	participated	16.55457529993758	
+55	sentence	3		0.0	
+55	sentence	4	, but did not	25.32818660713978	
+55	sentence	5	stabilize	15.657991216875963	
+55	sentence	6	.	4.311153774654748	
+56	sentence	1	The runner	15.341232194655635	
+56	sentence	2	participated	16.55457529993758	
+56	sentence	3		0.0	
+56	sentence	4	, but did not	25.32818660713978	
+56	sentence	5	soar	18.152790812348762	
+56	sentence	6	.	8.036329637150942	
+57	sentence	1	The runner	15.341232194655635	
+57	sentence	2	participated	16.55457529993758	
+57	sentence	3		0.0	
+57	sentence	4	, but did not	25.32818660713978	
+57	sentence	5	authorize	15.395322802143799	
+57	sentence	6	.	7.282358383698993	
+58	sentence	1	The runner	15.341232194655635	
+58	sentence	2	participated	16.55457529993758	
+58	sentence	3		0.0	
+58	sentence	4	, but did not	25.32818660713978	
+58	sentence	5	sympathize	21.034109247863174	
+58	sentence	6	.	6.170304804608003	
+59	sentence	1	The runner	15.341232194655635	
+59	sentence	2	participated	16.55457529993758	
+59	sentence	3		0.0	
+59	sentence	4	, but did not	25.32818660713978	
+59	sentence	5	sharpen	19.49690695098148	
+59	sentence	6	.	8.184436280559769	
+60	sentence	1	The runner	15.341232194655635	
+60	sentence	2	participated	16.55457529993758	
+60	sentence	3		0.0	
+60	sentence	4	, but did not	25.32818660713978	
+60	sentence	5	specialize	17.5164605076012	
+60	sentence	6	.	5.563975841407551	
+61	sentence	1	The runner	15.341232194655635	
+61	sentence	2	participated	16.55457529993758	
+61	sentence	3		0.0	
+61	sentence	4	, but did not	25.32818660713978	
+61	sentence	5	minimize	16.89446117318473	
+61	sentence	6	.	6.160384157375633	
+62	sentence	1	The runner	15.341232194655635	
+62	sentence	2	participated	16.55457529993758	
+62	sentence	3		0.0	
+62	sentence	4	, but did not	25.32818660713978	
+62	sentence	5	socialize	17.452000507148902	
+62	sentence	6	.	5.583638961845997	
+63	sentence	1	The runner	15.341232194655635	
+63	sentence	2	participated	16.55457529993758	
+63	sentence	3		0.0	
+63	sentence	4	, but did not	25.32818660713978	
+63	sentence	5	utilize	12.2303797369026	
+63	sentence	6	.	7.86528119604762	
+64	sentence	1	The runner	15.341232194655635	
+64	sentence	2	participated	16.55457529993758	
+64	sentence	3		0.0	
+64	sentence	4	, but did not	25.32818660713978	
+64	sentence	5	rectify	16.379839626042166	
+64	sentence	6	.	6.03201974642465	
+65	sentence	1	The runner	15.341232194655635	
+65	sentence	2	participated	16.55457529993758	
+65	sentence	3		0.0	
+65	sentence	4	, but did not	25.32818660713978	
+65	sentence	5	terrorize	18.837235176982187	
+65	sentence	6	.	7.4077660689163425	
+66	sentence	1	The runner	15.341232194655635	
+66	sentence	2	participated	16.55457529993758	
+66	sentence	3		0.0	
+66	sentence	4	, but did not	25.32818660713978	
+66	sentence	5	enslave	19.986099522938552	
+66	sentence	6	.	6.9875457235899665	
+67	sentence	1	The runner	15.341232194655635	
+67	sentence	2	participated	16.55457529993758	
+67	sentence	3		0.0	
+67	sentence	4	, but did not	25.32818660713978	
+67	sentence	5	finalize	11.833566660315281	
+67	sentence	6	.	5.2454660358014396	
+68	sentence	1	The runner	15.341232194655635	
+68	sentence	2	participated	16.55457529993758	
+68	sentence	3		0.0	
+68	sentence	4	, but did not	25.32818660713978	
+68	sentence	5	maximize	15.892085746063177	
+68	sentence	6	.	5.856530025345447	
+69	sentence	1	The runner	15.341232194655635	
+69	sentence	2	participated	16.55457529993758	
+69	sentence	3		0.0	
+69	sentence	4	, but did not	25.32818660713978	
+69	sentence	5	summarize	16.586686524645476	
+69	sentence	6	.	5.36189209906013	
+70	sentence	1	The runner	15.341232194655635	
+70	sentence	2	participated	16.55457529993758	
+70	sentence	3		0.0	
+70	sentence	4	, but did not	25.32818660713978	
+70	sentence	5	repose	20.509956819919676	
+70	sentence	6	.	3.7752413880235642	
+71	sentence	1	The runner	15.341232194655635	
+71	sentence	2	participated	16.55457529993758	
+71	sentence	3		0.0	
+71	sentence	4	, but did not	25.32818660713978	
+71	sentence	5	symbolize	19.9017142917544	
+71	sentence	6	.	6.662021777551066	
+72	sentence	1	The runner	15.341232194655635	
+72	sentence	2	participated	16.55457529993758	
+72	sentence	3		0.0	
+72	sentence	4	, but did not	25.32818660713978	
+72	sentence	5	sterilize	19.84716615667036	
+72	sentence	6	.	5.745396556184408	
+73	sentence	1	The runner	15.341232194655635	
+73	sentence	2	participated	16.55457529993758	
+73	sentence	3		0.0	
+73	sentence	4	, but did not	25.32818660713978	
+73	sentence	5	revolutionize	21.010510003490097	
+73	sentence	6	.	9.253174309204452	
+74	sentence	1	The runner	15.341232194655635	
+74	sentence	2	participated	16.55457529993758	
+74	sentence	3		0.0	
+74	sentence	4	, but did not	25.32818660713978	
+74	sentence	5	synchronize	17.866559033124055	
+74	sentence	6	.	5.200023403929261	
+75	sentence	1	The runner	15.341232194655635	
+75	sentence	2	participated	16.55457529993758	
+75	sentence	3		0.0	
+75	sentence	4	, but did not	25.32818660713978	
+75	sentence	5	fertilize	20.401478085706273	
+75	sentence	6	.	5.916122701800013	
+76	sentence	1	The runner	15.341232194655635	
+76	sentence	2	participated	16.55457529993758	
+76	sentence	3		0.0	
+76	sentence	4	, but did not	25.32818660713978	
+76	sentence	5	rationalize	20.367906395076165	
+76	sentence	6	.	5.56582740662674	
+77	sentence	1	The runner	15.341232194655635	
+77	sentence	2	participated	16.55457529993758	
+77	sentence	3		0.0	
+77	sentence	4	, but did not	25.32818660713978	
+77	sentence	5	antagonize	17.17796675867037	
+77	sentence	6	.	6.601763184272359	
+78	sentence	1	The runner	15.341232194655635	
+78	sentence	2	participated	16.55457529993758	
+78	sentence	3		0.0	
+78	sentence	4	, but did not	25.32818660713978	
+78	sentence	5	kindle	17.362642793309508	
+78	sentence	6	.	6.564941010792028	
+79	sentence	1	The runner	15.341232194655635	
+79	sentence	2	participated	16.55457529993758	
+79	sentence	3		0.0	
+79	sentence	4	, but did not	25.32818660713978	
+79	sentence	5	familiarize	18.48492422364297	
+79	sentence	6	.	14.820483862316328	
+80	sentence	1	The runner	15.341232194655635	
+80	sentence	2	participated	16.55457529993758	
+80	sentence	3		0.0	
+80	sentence	4	, but did not	25.32818660713978	
+80	sentence	5	synthesize	19.450504080850497	
+80	sentence	6	.	5.229016927142317	
+81	sentence	1	The runner	15.341232194655635	
+81	sentence	2	participated	16.55457529993758	
+81	sentence	3		0.0	
+81	sentence	4	, but did not	25.32818660713978	
+81	sentence	5	reorganize	20.00746968069139	
+81	sentence	6	.	4.986041901795152	
+82	sentence	1	The runner	15.341232194655635	
+82	sentence	2	participated	16.55457529993758	
+82	sentence	3		0.0	
+82	sentence	4	, but did not	25.32818660713978	
+82	sentence	5	ripen	24.445034756071514	
+82	sentence	6	.	5.694735282754449	
+83	sentence	1	The runner	15.341232194655635	
+83	sentence	2	participated	16.55457529993758	
+83	sentence	3		0.0	
+83	sentence	4	, but did not	25.32818660713978	
+83	sentence	5	deepen	18.90592623011752	
+83	sentence	6	.	6.354527804698019	
+84	sentence	1	The runner	15.341232194655635	
+84	sentence	2	participated	16.55457529993758	
+84	sentence	3		0.0	
+84	sentence	4	, but did not	25.32818660713978	
+84	sentence	5	destabilize	19.61751843240169	
+84	sentence	6	.	6.86182778167046	
+85	sentence	1	The runner	15.341232194655635	
+85	sentence	2	participated	16.55457529993758	
+85	sentence	3		0.0	
+85	sentence	4	, but did not	25.32818660713978	
+85	sentence	5	enclose	19.91289047011349	
+85	sentence	6	.	4.966523590748731	
+86	sentence	1	The runner	15.341232194655635	
+86	sentence	2	participated	16.55457529993758	
+86	sentence	3		0.0	
+86	sentence	4	, but did not	25.32818660713978	
+86	sentence	5	dampen	20.28205163461846	
+86	sentence	6	.	8.230154772603932	
+87	sentence	1	The runner	15.341232194655635	
+87	sentence	2	participated	16.55457529993758	
+87	sentence	3		0.0	
+87	sentence	4	, but did not	25.32818660713978	
+87	sentence	5	subsidize	20.054457673421812	
+87	sentence	6	.	6.890240691454203	
+88	sentence	1	The runner	15.341232194655635	
+88	sentence	2	participated	16.55457529993758	
+88	sentence	3		0.0	
+88	sentence	4	, but did not	25.32818660713978	
+88	sentence	5	idolize	20.973820213655262	
+88	sentence	6	.	7.099582789598638	
+89	sentence	1	The runner	15.341232194655635	
+89	sentence	2	participated	16.55457529993758	
+89	sentence	3		0.0	
+89	sentence	4	, but did not	25.32818660713978	
+89	sentence	5	quantify	15.536937444447856	
+89	sentence	6	.	5.440382229191502	
+90	sentence	1	The runner	15.341232194655635	
+90	sentence	2	participated	16.55457529993758	
+90	sentence	3		0.0	
+90	sentence	4	, but did not	25.32818660713978	
+90	sentence	5	engrave	21.40759687645759	
+90	sentence	6	.	7.21928821804398	
+91	sentence	1	The runner	15.341232194655635	
+91	sentence	2	participated	16.55457529993758	
+91	sentence	3		0.0	
+91	sentence	4	, but did not	25.32818660713978	
+91	sentence	5	fraternize	21.387207105134188	
+91	sentence	6	.	5.808560624366792	
+92	sentence	1	The runner	15.341232194655635	
+92	sentence	2	participated	16.55457529993758	
+92	sentence	3		0.0	
+92	sentence	4	, but did not	25.32818660713978	
+92	sentence	5	immobilize	17.43234575474131	
+92	sentence	6	.	5.202434600694358	
+93	sentence	1	The runner	15.341232194655635	
+93	sentence	2	participated	16.55457529993758	
+93	sentence	3		0.0	
+93	sentence	4	, but did not	25.32818660713978	
+93	sentence	5	downsize	21.434578890586153	
+93	sentence	6	.	4.339627222331595	
+94	sentence	1	The runner	15.341232194655635	
+94	sentence	2	participated	16.55457529993758	
+94	sentence	3		0.0	
+94	sentence	4	, but did not	25.32818660713978	
+94	sentence	5	theorize	19.296173611034174	
+94	sentence	6	.	5.950529550931627	
+95	sentence	1	The runner	15.341232194655635	
+95	sentence	2	participated	16.55457529993758	
+95	sentence	3		0.0	
+95	sentence	4	, but did not	25.32818660713978	
+95	sentence	5	dramatize	20.058966961787192	
+95	sentence	6	.	5.819494593378046	
+96	sentence	1	The runner	15.341232194655635	
+96	sentence	2	participated	16.55457529993758	
+96	sentence	3		0.0	
+96	sentence	4	, but did not	25.32818660713978	
+96	sentence	5	modernize	21.55765113739611	
+96	sentence	6	.	6.237358776387602	
+97	sentence	1	The runner	15.341232194655635	
+97	sentence	2	participated	16.55457529993758	
+97	sentence	3		0.0	
+97	sentence	4	, but did not	25.32818660713978	
+97	sentence	5	revitalize	21.020728610665085	
+97	sentence	6	.	5.7173396504879515	
+98	sentence	1	The runner	15.341232194655635	
+98	sentence	2	participated	16.55457529993758	
+98	sentence	3		0.0	
+98	sentence	4	, but did not	25.32818660713978	
+98	sentence	5	traumatize	18.758240406757523	
+98	sentence	6	.	6.791508203316278	
+99	sentence	1	The runner	15.341232194655635	
+99	sentence	2	participated	16.55457529993758	
+99	sentence	3		0.0	
+99	sentence	4	, but did not	25.32818660713978	
+99	sentence	5	immortalize	19.76512476753024	
+99	sentence	6	.	5.5256921593601875	
+100	sentence	1	The runner	15.341232194655635	
+100	sentence	2	participated	16.55457529993758	
+100	sentence	3		0.0	
+100	sentence	4	, but did not	25.32818660713978	
+100	sentence	5	agonize	18.637671829634247	
+100	sentence	6	.	4.277350584627664	
+101	sentence	1	The runner	15.341232194655635	
+101	sentence	2	participated	16.55457529993758	
+101	sentence	3		0.0	
+101	sentence	4	, but did not	25.32818660713978	
+101	sentence	5	electrify	18.480048429499686	
+101	sentence	6	.	5.449392744235506	
+102	sentence	1	The runner	15.341232194655635	
+102	sentence	2	participated	16.55457529993758	
+102	sentence	3		0.0	
+102	sentence	4	, but did not	25.32818660713978	
+102	sentence	5	demoralize	19.183775677053873	
+102	sentence	6	.	6.3674897931282475	
+103	sentence	1	The runner	15.341232194655635	
+103	sentence	2	participated	16.55457529993758	
+103	sentence	3		0.0	
+103	sentence	4	, but did not	25.32818660713978	
+103	sentence	5	sanitize	20.223786417003492	
+103	sentence	6	.	5.955024489494577	
+104	sentence	1	The runner	15.341232194655635	
+104	sentence	2	participated	16.55457529993758	
+104	sentence	3		0.0	
+104	sentence	4	, but did not	25.32818660713978	
+104	sentence	5	anesthetize	23.18225085224146	
+104	sentence	6	.	4.263470896772431	
+105	sentence	1	The runner	15.341232194655635	
+105	sentence	2	participated	16.55457529993758	
+105	sentence	3		0.0	
+105	sentence	4	, but did not	25.32818660713978	
+105	sentence	5	trivialize	19.216546546593612	
+105	sentence	6	.	6.818905727529327	
+106	sentence	1	The runner	15.341232194655635	
+106	sentence	2	participated	16.55457529993758	
+106	sentence	3		0.0	
+106	sentence	4	, but did not	25.32818660713978	
+106	sentence	5	romanticize	21.146743760103114	
+106	sentence	6	.	6.724249916147454	
+107	sentence	1	The runner	15.341232194655635	
+107	sentence	2	participated	16.55457529993758	
+107	sentence	3		0.0	
+107	sentence	4	, but did not	25.32818660713978	
+107	sentence	5	equalize	20.558105770785833	
+107	sentence	6	.	4.3414722522100515	
+108	sentence	1	The runner	15.341232194655635	
+108	sentence	2	participated	16.55457529993758	
+108	sentence	3		0.0	
+108	sentence	4	, but did not	25.32818660713978	
+108	sentence	5	demonize	22.34436238412751	
+108	sentence	6	.	7.2142670125693895	
+109	sentence	1	The runner	15.341232194655635	
+109	sentence	2	participated	16.55457529993758	
+109	sentence	3		0.0	
+109	sentence	4	, but did not	25.32818660713978	
+109	sentence	5	alphabetize	27.326160184055997	
+109	sentence	6	.	4.9551242366842425	
+110	sentence	1	The runner	15.341232194655635	
+110	sentence	2	participated	16.55457529993758	
+110	sentence	3		0.0	
+110	sentence	4	, but did not	25.32818660713978	
+110	sentence	5	formalize	17.424371015961043	
+110	sentence	6	.	7.003562123899518	
+111	sentence	1	The runner	15.341232194655635	
+111	sentence	2	participated	16.55457529993758	
+111	sentence	3		0.0	
+111	sentence	4	, but did not	25.32818660713978	
+111	sentence	5	optimize	16.222094311705977	
+111	sentence	6	.	4.346330418131624	
+112	sentence	1	The runner	15.341232194655635	
+112	sentence	2	participated	16.55457529993758	
+112	sentence	3		0.0	
+112	sentence	4	, but did not	25.32818660713978	
+112	sentence	5	internalize	17.77265501165368	
+112	sentence	6	.	5.319678613440551	
+113	sentence	1	The runner	15.341232194655635	
+113	sentence	2	participated	16.55457529993758	
+113	sentence	3		0.0	
+113	sentence	4	, but did not	25.32818660713978	
+113	sentence	5	idealize	20.26965268514041	
+113	sentence	6	.	6.455012452082935	
+114	sentence	1	The runner	15.341232194655635	
+114	sentence	2	participated	16.55457529993758	
+114	sentence	3		0.0	
+114	sentence	4	, but did not	25.32818660713978	
+114	sentence	5	sodomize	21.57544785911173	
+114	sentence	6	.	7.516269923345688	
+115	sentence	1	The runner	15.341232194655635	
+115	sentence	2	participated	16.55457529993758	
+115	sentence	3		0.0	
+115	sentence	4	, but did not	25.32818660713978	
+115	sentence	5	digitize	21.608532075666883	
+115	sentence	6	.	5.729981751187575	
+116	sentence	1	The runner	15.341232194655635	
+116	sentence	2	participated	16.55457529993758	
+116	sentence	3		0.0	
+116	sentence	4	, but did not	25.32818660713978	
+116	sentence	5	galvanize	19.918982371048013	
+116	sentence	6	.	6.832888604975077	
+117	sentence	1	The runner	15.341232194655635	
+117	sentence	2	participated	16.55457529993758	
+117	sentence	3		0.0	
+117	sentence	4	, but did not	25.32818660713978	
+117	sentence	5	initialize	16.99858634932311	
+117	sentence	6	.	4.367222182627835	
+118	sentence	1	The runner	15.341232194655635	
+118	sentence	2	participated	16.55457529993758	
+118	sentence	3		0.0	
+118	sentence	4	, but did not	25.32818660713978	
+118	sentence	5	exemplify	18.417610192597436	
+118	sentence	6	.	6.009639300102571	
+119	sentence	1	The runner	15.341232194655635	
+119	sentence	2	participated	16.55457529993758	
+119	sentence	3		0.0	
+119	sentence	4	, but did not	25.32818660713978	
+119	sentence	5	depressurize	30.86427399985739	
+119	sentence	6	.	4.925554227625494	
+120	sentence	1	The runner	15.341232194655635	
+120	sentence	2	participated	16.55457529993758	
+120	sentence	3		0.0	
+120	sentence	4	, but did not	25.32818660713978	
+120	sentence	5	itemize	15.494068188980538	
+120	sentence	6	.	4.398084813290467	
+121	sentence	1	The runner	15.341232194655635	
+121	sentence	2	participated	16.55457529993758	
+121	sentence	3		0.0	
+121	sentence	4	, but did not	25.32818660713978	
+121	sentence	5	dehumanize	21.918053132783243	
+121	sentence	6	.	7.1041850453357265	
+122	sentence	1	The runner	15.341232194655635	
+122	sentence	2	participated	16.55457529993758	
+122	sentence	3		0.0	
+122	sentence	4	, but did not	25.32818660713978	
+122	sentence	5	mollify	23.70808606593016	
+122	sentence	6	.	5.786462229592128	
+123	sentence	1	The runner	15.341232194655635	
+123	sentence	2	participated	16.55457529993758	
+123	sentence	3		0.0	
+123	sentence	4	, but did not	25.32818660713978	
+123	sentence	5	immunize	19.710801295532807	
+123	sentence	6	.	5.627362799105453	
+124	sentence	1	The runner	15.341232194655635	
+124	sentence	2	participated	16.55457529993758	
+124	sentence	3		0.0	
+124	sentence	4	, but did not	25.32818660713978	
+124	sentence	5	oxidize	20.15835216170635	
+124	sentence	6	.	4.876784075424423	
+125	sentence	1	The runner	15.341232194655635	
+125	sentence	2	participated	16.55457529993758	
+125	sentence	3		0.0	
+125	sentence	4	, but did not	25.32818660713978	
+125	sentence	5	dematerialize	23.260013366772693	
+125	sentence	6	.	3.7566129152127083	
+126	sentence	1	The runner	15.341232194655635	
+126	sentence	2	participated	16.55457529993758	
+126	sentence	3		0.0	
+126	sentence	4	, but did not	25.32818660713978	
+126	sentence	5	ostracize	21.86124110138734	
+126	sentence	6	.	7.168809934154539	
+127	sentence	1	The runner	15.341232194655635	
+127	sentence	2	participated	16.55457529993758	
+127	sentence	3		0.0	
+127	sentence	4	, but did not	25.32818660713978	
+127	sentence	5	overdramatize	23.75480070298595	
+127	sentence	6	.	4.5098350122375	
+128	sentence	1	The runner	15.341232194655635	
+128	sentence	2	participated	16.55457529993758	
+128	sentence	3		0.0	
+128	sentence	4	, but did not	25.32818660713978	
+128	sentence	5	satirize	23.46518464915756	
+128	sentence	6	.	7.353336311640677	
+129	sentence	1	The runner	15.341232194655635	
+129	sentence	2	participated	16.55457529993758	
+129	sentence	3		0.0	
+129	sentence	4	, but did not	25.32818660713978	
+129	sentence	5	amortize	20.852951999758524	
+129	sentence	6	.	4.696609546935717	
+130	sentence	1	The runner	15.341232194655635	
+130	sentence	2	participated	16.55457529993758	
+130	sentence	3		0.0	
+130	sentence	4	, but did not	25.32818660713978	
+130	sentence	5	tyrannize	24.50240597562055	
+130	sentence	6	.	5.455524269704067	
+131	sentence	1	The runner	15.341232194655635	
+131	sentence	2	participated	16.55457529993758	
+131	sentence	3		0.0	
+131	sentence	4	, but did not	25.32818660713978	
+131	sentence	5	eulogize	21.697068083272743	
+131	sentence	6	.	5.869192763963174	
+132	sentence	1	The runner	15.341232194655635	
+132	sentence	2	participated	16.55457529993758	
+132	sentence	3		0.0	
+132	sentence	4	, but did not	25.32818660713978	
+132	sentence	5	resize	19.97440903650832	
+132	sentence	6	.	4.641383509986556	
+133	sentence	1	The runner	15.341232194655635	
+133	sentence	2	participated	16.55457529993758	
+133	sentence	3		0.0	
+133	sentence	4	, but did not	25.32818660713978	
+133	sentence	5	editorialize	21.95029334985374	
+133	sentence	6	.	4.205213493619164	
+134	sentence	1	The runner	15.341232194655635	
+134	sentence	2	participated	16.55457529993758	
+134	sentence	3		0.0	
+134	sentence	4	, but did not	25.32818660713978	
+134	sentence	5	acclimatize	18.135082980134964	
+134	sentence	6	.	5.8640869430243585	
+135	sentence	1	The runner	15.341232194655635	
+135	sentence	2	participated	16.55457529993758	
+135	sentence	3		0.0	
+135	sentence	4	, but did not	25.32818660713978	
+135	sentence	5	desensitize	25.51041089472942	
+135	sentence	6	.	6.4655501730666005	
+136	sentence	1	The runner	15.341232194655635	
+136	sentence	2	participated	16.55457529993758	
+136	sentence	3		0.0	
+136	sentence	4	, but did not	25.32818660713978	
+136	sentence	5	standardize	20.473431789464374	
+136	sentence	6	.	6.313558785540085	
+137	sentence	1	The runner	15.341232194655635	
+137	sentence	2	participated	16.55457529993758	
+137	sentence	3		0.0	
+137	sentence	4	, but did not	25.32818660713978	
+137	sentence	5	stigmatize	22.32567109465343	
+137	sentence	6	.	6.931848798142744	
+138	sentence	1	The runner	15.341232194655635	
+138	sentence	2	participated	16.55457529993758	
+138	sentence	3		0.0	
+138	sentence	4	, but did not	25.32818660713978	
+138	sentence	5	actualize	19.530173377780763	
+138	sentence	6	.	5.742385827898404	
+139	sentence	1	The runner	15.341232194655635	
+139	sentence	2	participated	16.55457529993758	
+139	sentence	3		0.0	
+139	sentence	4	, but did not	25.32818660713978	
+139	sentence	5	industrialize	22.670343825515538	
+139	sentence	6	.	4.714663253727389	
+140	sentence	1	The runner	15.341232194655635	
+140	sentence	2	participated	16.55457529993758	
+140	sentence	3		0.0	
+140	sentence	4	, but did not	25.32818660713978	
+140	sentence	5	sexualize	23.507920080624675	
+140	sentence	6	.	6.98795916988264	
+141	sentence	1	The runner	15.341232194655635	
+141	sentence	2	participated	16.55457529993758	
+141	sentence	3		0.0	
+141	sentence	4	, but did not	25.32818660713978	
+141	sentence	5	demagnetize	31.300309171077593	
+141	sentence	6	.	4.847419757616107	
+142	sentence	1	The runner	15.341232194655635	
+142	sentence	2	participated	16.55457529993758	
+142	sentence	3		0.0	
+142	sentence	4	, but did not	25.32818660713978	
+142	sentence	5	solemnize	22.697137927100204	
+142	sentence	6	.	5.657002977085752	
+143	sentence	1	The runner	15.341232194655635	
+143	sentence	2	participated	16.55457529993758	
+143	sentence	3		0.0	
+143	sentence	4	, but did not	25.32818660713978	
+143	sentence	5	atomize	21.925900926869343	
+143	sentence	6	.	4.202393322110315	
+144	sentence	1	The runner	15.341232194655635	
+144	sentence	2	participated	16.55457529993758	
+144	sentence	3		0.0	
+144	sentence	4	, but did not	25.32818660713978	
+144	sentence	5	ionize	22.644910751634136	
+144	sentence	6	.	4.882317101267981	
+145	sentence	1	The runner	15.341232194655635	
+145	sentence	2	participated	16.55457529993758	
+145	sentence	3		0.0	
+145	sentence	4	, but did not	25.32818660713978	
+145	sentence	5	radicalize	19.292965220937752	
+145	sentence	6	.	6.032374718616031	
+146	sentence	1	The runner	15.341232194655635	
+146	sentence	2	participated	16.55457529993758	
+146	sentence	3		0.0	
+146	sentence	4	, but did not	25.32818660713978	
+146	sentence	5	reunify	23.185689043406185	
+146	sentence	6	.	6.094662707174919	
+147	sentence	1	The runner	15.341232194655635	
+147	sentence	2	participated	16.55457529993758	
+147	sentence	3		0.0	
+147	sentence	4	, but did not	25.32818660713978	
+147	sentence	5	demobilize	24.8324177336913	
+147	sentence	6	.	3.3098487675521664	
+148	sentence	1	The runner	15.341232194655635	
+148	sentence	2	participated	16.55457529993758	
+148	sentence	3		0.0	
+148	sentence	4	, but did not	25.32818660713978	
+148	sentence	5	democratize	23.365213864435592	
+148	sentence	6	.	6.732875190053526	
+149	sentence	1	The runner	15.341232194655635	
+149	sentence	2	participated	16.55457529993758	
+149	sentence	3		0.0	
+149	sentence	4	, but did not	25.32818660713978	
+149	sentence	5	reclassify	21.462325348787203	
+149	sentence	6	.	4.12170594163152	
+150	sentence	1	The runner	15.341232194655635	
+150	sentence	2	participated	16.55457529993758	
+150	sentence	3		0.0	
+150	sentence	4	, but did not	25.32818660713978	
+150	sentence	5	rhapsodize	27.875065010795527	
+150	sentence	6	.	5.1152710415146725	
+151	sentence	1	The runner	15.341232194655635	
+151	sentence	2	participated	16.55457529993758	
+151	sentence	3		0.0	
+151	sentence	4	, but did not	25.32818660713978	
+151	sentence	5	serialize	18.084079744732435	
+151	sentence	6	.	4.0895080376675885	
+152	sentence	1	The runner	15.341232194655635	
+152	sentence	2	participated	16.55457529993758	
+152	sentence	3		0.0	
+152	sentence	4	, but did not	25.32818660713978	
+152	sentence	5	disorganize	22.96074300234463	
+152	sentence	6	.	4.958130493421324	
+153	sentence	1	The runner	15.341232194655635	
+153	sentence	2	participated	16.55457529993758	
+153	sentence	3		0.0	
+153	sentence	4	, but did not	25.32818660713978	
+153	sentence	5	sermonize	21.750617703209247	
+153	sentence	6	.	3.8196865205207384	
+154	sentence	1	The runner	15.341232194655635	
+154	sentence	2	participated	16.55457529993758	
+154	sentence	3		0.0	
+154	sentence	4	, but did not	25.32818660713978	
+154	sentence	5	deodorize	26.287593802778442	
+154	sentence	6	.	4.966235691791186	
+155	sentence	1	The runner	15.341232194655635	
+155	sentence	2	participated	16.55457529993758	
+155	sentence	3		0.0	
+155	sentence	4	, but did not	25.32818660713978	
+155	sentence	5	emulsify	25.876222682329075	
+155	sentence	6	.	4.75667001620063	
+156	sentence	1	The runner	15.341232194655635	
+156	sentence	2	participated	16.55457529993758	
+156	sentence	3		0.0	
+156	sentence	4	, but did not	25.32818660713978	
+156	sentence	5	overemphasize	20.580924972478332	
+156	sentence	6	.	5.765424623807986	
+157	sentence	1	The runner	15.341232194655635	
+157	sentence	2	participated	16.55457529993758	
+157	sentence	3		0.0	
+157	sentence	4	, but did not	25.32818660713978	
+157	sentence	5	aerosolize	22.156852362935652	
+157	sentence	6	.	4.224499972052221	
+158	sentence	1	The runner	15.341232194655635	
+158	sentence	2	participated	16.55457529993758	
+158	sentence	3		0.0	
+158	sentence	4	, but did not	25.32818660713978	
+158	sentence	5	apostatize	23.70551461895566	
+158	sentence	6	.	4.235409175561751	
+159	sentence	1	The runner	15.341232194655635	
+159	sentence	2	participated	16.55457529993758	
+159	sentence	3		0.0	
+159	sentence	4	, but did not	25.32818660713978	
+159	sentence	5	depolarize	24.499971518201924	
+159	sentence	6	.	4.488770233194521	
+160	sentence	1	The runner	15.341232194655635	
+160	sentence	2	participated	16.55457529993758	
+160	sentence	3		0.0	
+160	sentence	4	, but did not	25.32818660713978	
+160	sentence	5	evangelize	22.946465137031446	
+160	sentence	6	.	5.1393953919165005	
+161	sentence	1	The runner	15.341232194655635	
+161	sentence	2	participated	16.55457529993758	
+161	sentence	3		0.0	
+161	sentence	4	, but did not	25.32818660713978	
+161	sentence	5	anatomize	30.905582727746445	
+161	sentence	6	.	5.070488135091204	
+162	sentence	1	The runner	15.341232194655635	
+162	sentence	2	participated	16.55457529993758	
+162	sentence	3		0.0	
+162	sentence	4	, but did not	25.32818660713978	
+162	sentence	5	anthropomorphize	22.752692364921185	
+162	sentence	6	.	6.6733519945899085	
+163	sentence	1	The runner	15.341232194655635	
+163	sentence	2	participated	16.55457529993758	
+163	sentence	3		0.0	
+163	sentence	4	, but did not	25.32818660713978	
+163	sentence	5	federalize	26.41005761796531	
+163	sentence	6	.	5.710257404925421	
+164	sentence	1	The runner	15.341232194655635	
+164	sentence	2	participated	16.55457529993758	
+164	sentence	3		0.0	
+164	sentence	4	, but did not	25.32818660713978	
+164	sentence	5	feminize	23.41327198696426	
+164	sentence	6	.	5.446550902912649	
+165	sentence	1	The runner	15.341232194655635	
+165	sentence	2	participated	16.55457529993758	
+165	sentence	3		0.0	
+165	sentence	4	, but did not	25.32818660713978	
+165	sentence	5	fossilize	21.702028594994953	
+165	sentence	6	.	4.476177663498346	
+166	sentence	1	The runner	15.341232194655635	
+166	sentence	2	participated	16.55457529993758	
+166	sentence	3		0.0	
+166	sentence	4	, but did not	25.32818660713978	
+166	sentence	5	regularize	22.303301526234016	
+166	sentence	6	.	5.073197549772897	
+167	sentence	1	The runner	15.341232194655635	
+167	sentence	2	participated	16.55457529993758	
+167	sentence	3		0.0	
+167	sentence	4	, but did not	25.32818660713978	
+167	sentence	5	ritualize	23.353745373345458	
+167	sentence	6	.	5.25141216397237	
+168	sentence	1	The runner	15.341232194655635	
+168	sentence	2	participated	16.55457529993758	
+168	sentence	3		0.0	
+168	sentence	4	, but did not	25.32818660713978	
+168	sentence	5	sentimentalize	26.883989005069395	
+168	sentence	6	.	6.43495101982509	
+169	sentence	1	The runner	15.341232194655635	
+169	sentence	2	participated	16.55457529993758	
+169	sentence	3		0.0	
+169	sentence	4	, but did not	25.32818660713978	
+169	sentence	5	exteriorize	27.816147183514033	
+169	sentence	6	.	5.097432313036578	
+170	sentence	1	The runner	15.341232194655635	
+170	sentence	2	participated	16.55457529993758	
+170	sentence	3		0.0	
+170	sentence	4	, but did not	25.32818660713978	
+170	sentence	5	fetishize	22.91274442880882	
+170	sentence	6	.	7.0588793116536355	
+171	sentence	1	The runner	15.341232194655635	
+171	sentence	2	participated	16.55457529993758	
+171	sentence	3		0.0	
+171	sentence	4	, but did not	25.32818660713978	
+171	sentence	5	fictionalize	25.895023237218265	
+171	sentence	6	.	8.046894187428142	
+172	sentence	1	The runner	15.341232194655635	
+172	sentence	2	participated	16.55457529993758	
+172	sentence	3		0.0	
+172	sentence	4	, but did not	25.32818660713978	
+172	sentence	5	individualize	19.492392744987175	
+172	sentence	6	.	5.983033584014095	
+173	sentence	1	The runner	15.341232194655635	
+173	sentence	2	participated	16.55457529993758	
+173	sentence	3		0.0	
+173	sentence	4	, but did not	25.32818660713978	
+173	sentence	5	internationalize	25.449806417467535	
+173	sentence	6	.	4.6718536762399205	
+174	sentence	1	The runner	15.341232194655635	
+174	sentence	2	participated	16.55457529993758	
+174	sentence	3		0.0	
+174	sentence	4	, but did not	25.32818660713978	
+174	sentence	5	alkalinize	29.189620121088545	
+174	sentence	6	.	4.909634137600426	
+175	sentence	1	The runner	15.341232194655635	
+175	sentence	2	participated	16.55457529993758	
+175	sentence	3		0.0	
+175	sentence	4	, but did not	25.32818660713978	
+175	sentence	5	depersonalize	21.109156579575842	
+175	sentence	6	.	4.9858183243490295	
+176	sentence	1	The runner	15.341232194655635	
+176	sentence	2	participated	16.55457529993758	
+176	sentence	3		0.0	
+176	sentence	4	, but did not	25.32818660713978	
+176	sentence	5	italicize	21.693079155289837	
+176	sentence	6	.	4.601309488543712	
+177	sentence	1	The runner	15.341232194655635	
+177	sentence	2	participated	16.55457529993758	
+177	sentence	3		0.0	
+177	sentence	4	, but did not	25.32818660713978	
+177	sentence	5	randomize	19.28949709404286	
+177	sentence	6	.	5.412136486544398	
+178	sentence	1	The runner	15.341232194655635	
+178	sentence	2	participated	16.55457529993758	
+178	sentence	3		0.0	
+178	sentence	4	, but did not	25.32818660713978	
+178	sentence	5	stylize	25.63445842828013	
+178	sentence	6	.	6.085086713174878	
+179	sentence	1	The runner	15.341232194655635	
+179	sentence	2	participated	16.55457529993758	
+179	sentence	3		0.0	
+179	sentence	4	, but did not	25.32818660713978	
+179	sentence	5	temporize	27.696522242949293	
+179	sentence	6	.	4.900018243625385	
+180	sentence	1	The runner	15.341232194655635	
+180	sentence	2	participated	16.55457529993758	
+180	sentence	3		0.0	
+180	sentence	4	, but did not	25.32818660713978	
+180	sentence	5	ramify	26.232055574322303	
+180	sentence	6	.	5.772034948976549	
+181	sentence	1	The runner	15.341232194655635	
+181	sentence	2	participated	16.55457529993758	
+181	sentence	3		0.0	
+181	sentence	4	, but did not	25.32818660713978	
+181	sentence	5	reimpose	22.30438974645735	
+181	sentence	6	.	4.62962574407767	
+182	sentence	1	The runner	15.341232194655635	
+182	sentence	2	participated	16.55457529993758	
+182	sentence	3		0.0	
+182	sentence	4	, but did not	25.32818660713978	
+182	sentence	5	sensitize	23.24449385658823	
+182	sentence	6	.	7.579117199485183	
+183	sentence	1	The runner	15.341232194655635	
+183	sentence	2	participated	16.55457529993758	
+183	sentence	3		0.0	
+183	sentence	4	, but did not	25.32818660713978	
+183	sentence	5	systematize	23.790868367079113	
+183	sentence	6	.	4.636963211894081	
+184	sentence	1	The runner	15.341232194655635	
+184	sentence	2	participated	16.55457529993758	
+184	sentence	3		0.0	
+184	sentence	4	, but did not	25.32818660713978	
+184	sentence	5	denationalize	28.58156723604259	
+184	sentence	6	.	5.969305240891622	
+185	sentence	1	The runner	15.341232194655635	
+185	sentence	2	participated	16.55457529993758	
+185	sentence	3		0.0	
+185	sentence	4	, but did not	25.32818660713978	
+185	sentence	5	digitalize	24.920522672157237	
+185	sentence	6	.	5.768496921882999	
+186	sentence	1	The runner	15.341232194655635	
+186	sentence	2	participated	16.55457529993758	
+186	sentence	3		0.0	
+186	sentence	4	, but did not	25.32818660713978	
+186	sentence	5	reify	24.69920034854502	
+186	sentence	6	.	4.507665279114215	
+187	sentence	1	The runner	15.341232194655635	
+187	sentence	2	participated	16.55457529993758	
+187	sentence	3		0.0	
+187	sentence	4	, but did not	25.32818660713978	
+187	sentence	5	secularize	27.6175219692798	
+187	sentence	6	.	5.886761135714111	
+188	sentence	1	The runner	15.341232194655635	
+188	sentence	2	participated	16.55457529993758	
+188	sentence	3		0.0	
+188	sentence	4	, but did not	25.32818660713978	
+188	sentence	5	spiritualize	27.31629500122853	
+188	sentence	6	.	4.8606555424265085	
+189	sentence	1	The runner	15.341232194655635	
+189	sentence	2	participated	16.55457529993758	
+189	sentence	3		0.0	
+189	sentence	4	, but did not	25.32818660713978	
+189	sentence	5	alkalize	26.388074688042874	
+189	sentence	6	.	4.467454359481283	
+190	sentence	1	The runner	15.341232194655635	
+190	sentence	2	participated	16.55457529993758	
+190	sentence	3		0.0	
+190	sentence	4	, but did not	25.32818660713978	
+190	sentence	5	decentralize	23.089310234585557	
+190	sentence	6	.	6.2302001705280885	
+191	sentence	1	The runner	15.341232194655635	
+191	sentence	2	participated	16.55457529993758	
+191	sentence	3		0.0	
+191	sentence	4	, but did not	25.32818660713978	
+191	sentence	5	decolonize	27.24127139640361	
+191	sentence	6	.	5.567046763621357	
+192	sentence	1	The runner	15.341232194655635	
+192	sentence	2	participated	16.55457529993758	
+192	sentence	3		0.0	
+192	sentence	4	, but did not	25.32818660713978	
+192	sentence	5	demilitarize	26.46559514274536	
+192	sentence	6	.	7.039486547942345	
+193	sentence	1	The runner	15.341232194655635	
+193	sentence	2	participated	16.55457529993758	
+193	sentence	3		0.0	
+193	sentence	4	, but did not	25.32818660713978	
+193	sentence	5	desexualize	27.032011162000988	
+193	sentence	6	.	4.88041531711474	
+194	sentence	1	The runner	15.341232194655635	
+194	sentence	2	participated	16.55457529993758	
+194	sentence	3		0.0	
+194	sentence	4	, but did not	25.32818660713978	
+194	sentence	5	desynchronize	21.93721306423201	
+194	sentence	6	.	4.472442544286908	
+195	sentence	1	The runner	15.341232194655635	
+195	sentence	2	participated	16.55457529993758	
+195	sentence	3		0.0	
+195	sentence	4	, but did not	25.32818660713978	
+195	sentence	5	devitalize	33.73807950225585	
+195	sentence	6	.	6.27492391491966	
+196	sentence	1	The runner	15.341232194655635	
+196	sentence	2	participated	16.55457529993758	
+196	sentence	3		0.0	
+196	sentence	4	, but did not	25.32818660713978	
+196	sentence	5	eroticize	27.31069292435065	
+196	sentence	6	.	6.360857454180374	
+197	sentence	1	The runner	15.341232194655635	
+197	sentence	2	participated	16.55457529993758	
+197	sentence	3		0.0	
+197	sentence	4	, but did not	25.32818660713978	
+197	sentence	5	officialize	21.295495488937494	
+197	sentence	6	.	6.304736075550823	
+198	sentence	1	The runner	15.341232194655635	
+198	sentence	2	participated	16.55457529993758	
+198	sentence	3		0.0	
+198	sentence	4	, but did not	25.32818660713978	
+198	sentence	5	quantize	25.372251013043602	
+198	sentence	6	.	4.564755951964029	
+199	sentence	1	The runner	15.341232194655635	
+199	sentence	2	participated	16.55457529993758	
+199	sentence	3		0.0	
+199	sentence	4	, but did not	25.32818660713978	
+199	sentence	5	reharmonize	35.483316490544574	
+199	sentence	6	.	4.204031972807736	
+200	sentence	1	The runner	15.341232194655635	
+200	sentence	2	participated	16.55457529993758	
+200	sentence	3		0.0	
+200	sentence	4	, but did not	25.32818660713978	
+200	sentence	5	remilitarize	25.908380414907892	
+200	sentence	6	.	4.888292466489558	
+201	sentence	1	The runner	15.341232194655635	
+201	sentence	2	participated	16.55457529993758	
+201	sentence	3		0.0	
+201	sentence	4	, but did not	25.32818660713978	
+201	sentence	5	solarize	27.347398149628393	
+201	sentence	6	.	4.833468524978116	
+202	sentence	1	The runner	15.341232194655635	
+202	sentence	2	participated	16.55457529993758	
+202	sentence	3		0.0	
+202	sentence	4	, but did not	25.32818660713978	
+202	sentence	5	syncretize	31.55643868718588	
+202	sentence	6	.	3.9798157831207805	
+203	sentence	1	The runner	15.341232194655635	
+203	sentence	2	participated	16.55457529993758	
+203	sentence	3		0.0	
+203	sentence	4	, but did not	25.32818660713978	
+203	sentence	5	totalize	28.601525220735944	
+203	sentence	6	.	3.8098264111814717	
+204	sentence	1	The runner	15.341232194655635	
+204	sentence	2	participated	16.55457529993758	
+204	sentence	3		0.0	
+204	sentence	4	, but did not	25.32818660713978	
+204	sentence	5	alchemize	24.89222843040259	
+204	sentence	6	.	5.045009249331181	
+205	sentence	1	The runner	15.341232194655635	
+205	sentence	2	participated	16.55457529993758	
+205	sentence	3		0.0	
+205	sentence	4	, but did not	25.32818660713978	
+205	sentence	5	aluminize	30.520986954711116	
+205	sentence	6	.	4.303212647733809	
+206	sentence	1	The runner	15.341232194655635	
+206	sentence	2	participated	16.55457529993758	
+206	sentence	3		0.0	
+206	sentence	4	, but did not	25.32818660713978	
+206	sentence	5	analogize	25.461642392486905	
+206	sentence	6	.	6.6012080242753735	
+207	sentence	1	The runner	15.341232194655635	
+207	sentence	2	participated	16.55457529993758	
+207	sentence	3		0.0	
+207	sentence	4	, but did not	25.32818660713978	
+207	sentence	5	attitudinize	44.454716402375894	
+207	sentence	6	.	4.570766401646383	
+208	sentence	1	The runner	15.341232194655635	
+208	sentence	2	participated	16.55457529993758	
+208	sentence	3		0.0	
+208	sentence	4	, but did not	25.32818660713978	
+208	sentence	5	deionize	27.51189577156035	
+208	sentence	6	.	4.807407993892874	
+209	sentence	1	The runner	15.341232194655635	
+209	sentence	2	participated	16.55457529993758	
+209	sentence	3		0.0	
+209	sentence	4	, but did not	25.32818660713978	
+209	sentence	5	demythologize	29.542776508892658	
+209	sentence	6	.	5.294865644504669	
+210	sentence	1	The runner	15.341232194655635	
+210	sentence	2	participated	16.55457529993758	
+210	sentence	3		0.0	
+210	sentence	4	, but did not	25.32818660713978	
+210	sentence	5	deoxidize	34.80227989764451	
+210	sentence	6	.	4.641437856504229	
+211	sentence	1	The runner	15.341232194655635	
+211	sentence	2	participated	16.55457529993758	
+211	sentence	3		0.0	
+211	sentence	4	, but did not	25.32818660713978	
+211	sentence	5	dichotomize	25.98582619651527	
+211	sentence	6	.	5.068357614012315	
+212	sentence	1	The runner	15.341232194655635	
+212	sentence	2	participated	16.55457529993758	
+212	sentence	3		0.0	
+212	sentence	4	, but did not	25.32818660713978	
+212	sentence	5	dogmatize	28.86621832272322	
+212	sentence	6	.	5.221251566490559	
+213	sentence	1	The runner	15.341232194655635	
+213	sentence	2	participated	16.55457529993758	
+213	sentence	3		0.0	
+213	sentence	4	, but did not	25.32818660713978	
+213	sentence	5	factorize	30.508186801955347	
+213	sentence	6	.	4.356535868633823	
+214	sentence	1	The runner	15.341232194655635	
+214	sentence	2	participated	16.55457529993758	
+214	sentence	3		0.0	
+214	sentence	4	, but did not	25.32818660713978	
+214	sentence	5	iodize	29.020649606619696	
+214	sentence	6	.	5.030129998309134	
+215	sentence	1	The runner	15.341232194655635	
+215	sentence	2	participated	16.55457529993758	
+215	sentence	3		0.0	
+215	sentence	4	, but did not	25.32818660713978	
+215	sentence	5	overcapitalize	27.470948884419798	
+215	sentence	6	.	4.241850957732468	
+216	sentence	1	The runner	15.341232194655635	
+216	sentence	2	participated	16.55457529993758	
+216	sentence	3		0.0	
+216	sentence	4	, but did not	25.32818660713978	
+216	sentence	5	overspecialize	29.107368160690275	
+216	sentence	6	.	5.266376374423943	
+217	sentence	1	The runner	15.341232194655635	
+217	sentence	2	participated	16.55457529993758	
+217	sentence	3		0.0	
+217	sentence	4	, but did not	25.32818660713978	
+217	sentence	5	relativize	26.95158867780018	
+217	sentence	6	.	5.124867673432817	
+218	sentence	1	The runner	15.341232194655635	
+218	sentence	2	participated	16.55457529993758	
+218	sentence	3		0.0	
+218	sentence	4	, but did not	25.32818660713978	
+218	sentence	5	schematize	27.27351654185195	
+218	sentence	6	.	4.673869656873334	
+219	sentence	1	The runner	15.341232194655635	
+219	sentence	2	participated	16.55457529993758	
+219	sentence	3		0.0	
+219	sentence	4	, but did not	25.32818660713978	
+219	sentence	5	sensualize	27.272697635710948	
+219	sentence	6	.	6.7354886384160375	
+220	sentence	1	The runner	15.341232194655635	
+220	sentence	2	participated	16.55457529993758	
+220	sentence	3		0.0	
+220	sentence	4	, but did not	25.32818660713978	
+220	sentence	5	signalize	31.187493507361722	
+220	sentence	6	.	3.5402160887298812	
+221	sentence	1	The runner	15.341232194655635	
+221	sentence	2	participated	16.55457529993758	
+221	sentence	3		0.0	
+221	sentence	4	, but did not	25.32818660713978	
+221	sentence	5	singularize	27.320532395771814	
+221	sentence	6	.	4.728020114323998	
+222	sentence	1	The runner	15.341232194655635	
+222	sentence	2	participated	16.55457529993758	
+222	sentence	3		0.0	
+222	sentence	4	, but did not	25.32818660713978	
+222	sentence	5	steepen	25.108100795791607	
+222	sentence	6	.	5.237097360010455	
+223	sentence	1	The runner	15.341232194655635	
+223	sentence	2	participated	16.55457529993758	
+223	sentence	3		0.0	
+223	sentence	4	, but did not	25.32818660713978	
+223	sentence	5	subtilize	32.11949672943793	
+223	sentence	6	.	4.322831396648334	
+224	sentence	1	The runner	15.341232194655635	
+224	sentence	2	participated	16.55457529993758	
+224	sentence	3		0.0	
+224	sentence	4	, but did not	25.32818660713978	
+224	sentence	5	syllogize	27.70805987106507	
+224	sentence	6	.	3.6862775144546474	
+225	sentence	1	The runner	15.341232194655635	
+225	sentence	2	participated	16.55457529993758	
+225	sentence	3		0.0	
+225	sentence	4	, but did not	25.32818660713978	
+225	sentence	5	loathe	20.935023636347367	
+225	sentence	6	.	7.396251486475776	
+226	sentence	1	The runner	15.341232194655635	
+226	sentence	2	participated	16.55457529993758	
+226	sentence	3		0.0	
+226	sentence	4	, but did not	25.32818660713978	
+226	sentence	5	love	13.827941715240506	
+226	sentence	6	.	7.567345330998926	
+227	sentence	1	The runner	15.341232194655635	
+227	sentence	2	participated	16.55457529993758	
+227	sentence	3		0.0	
+227	sentence	4	, but did not	25.32818660713978	
+227	sentence	5	will	14.030072236868962	
+227	sentence	6	.	6.0340828503044	
+228	sentence	1	The runner	15.341232194655635	
+228	sentence	2	participated	16.55457529993758	
+228	sentence	3		0.0	
+228	sentence	4	, but did not	25.32818660713978	
+228	sentence	5	have to	8.553050823737648	
+228	sentence	6	.	11.086871218899407	
+229	sentence	1	The runner	15.341232194655635	
+229	sentence	2	participated	16.55457529993758	
+229	sentence	3		0.0	
+229	sentence	4	, but did not	25.32818660713978	
+229	sentence	5	win	4.052634957322602	
+229	sentence	6	.	4.633553139892773	
+230	sentence	1	The runner	15.341232194655635	
+230	sentence	2	participated	16.55457529993758	
+230	sentence	3		0.0	
+230	sentence	4	, but did not	25.32818660713978	
+230	sentence	5	finish	4.292078834882253	
+230	sentence	6	.	3.3537167262730447	

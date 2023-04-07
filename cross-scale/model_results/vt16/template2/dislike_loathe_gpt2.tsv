@@ -1,0 +1,1381 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	The teacher	14.008138257508524	
+1	sentence	2	dislikes	16.543924220889163	
+1	sentence	3	fighting	12.213152578730975	
+1	sentence	4	, but does not	21.373649135012453	
+1	sentence	5	have	5.521636120522239	
+1	sentence	6	it.	10.349701294575548	
+2	sentence	1	The teacher	14.008138257508524	
+2	sentence	2	dislikes	16.543924220889163	
+2	sentence	3	fighting	12.213152578730975	
+2	sentence	4	, but does not	21.373649135012453	
+2	sentence	5	know	4.799253952450167	
+2	sentence	6	it.	8.129716216569447	
+3	sentence	1	The teacher	14.008138257508524	
+3	sentence	2	dislikes	16.543924220889163	
+3	sentence	3	fighting	12.213152578730975	
+3	sentence	4	, but does not	21.373649135012453	
+3	sentence	5	get	7.4264447606612505	
+3	sentence	6	it.	7.447269967871577	
+4	sentence	1	The teacher	14.008138257508524	
+4	sentence	2	dislikes	16.543924220889163	
+4	sentence	3	fighting	12.213152578730975	
+4	sentence	4	, but does not	21.373649135012453	
+4	sentence	5	go	7.9190250865116445	
+4	sentence	6	it.	18.814710071752902	
+5	sentence	1	The teacher	14.008138257508524	
+5	sentence	2	dislikes	16.543924220889163	
+5	sentence	3	fighting	12.213152578730975	
+5	sentence	4	, but does not	21.373649135012453	
+5	sentence	5	come	10.850974311531152	
+5	sentence	6	it.	16.073355804037877	
+6	sentence	1	The teacher	14.008138257508524	
+6	sentence	2	dislikes	16.543924220889163	
+6	sentence	3	fighting	12.213152578730975	
+6	sentence	4	, but does not	21.373649135012453	
+6	sentence	5	see	6.910793994093516	
+6	sentence	6	it.	8.43596348718639	
+7	sentence	1	The teacher	14.008138257508524	
+7	sentence	2	dislikes	16.543924220889163	
+7	sentence	3	fighting	12.213152578730975	
+7	sentence	4	, but does not	21.373649135012453	
+7	sentence	5	let	7.065881069335561	
+7	sentence	6	it.	10.525302804377812	
+8	sentence	1	The teacher	14.008138257508524	
+8	sentence	2	dislikes	16.543924220889163	
+8	sentence	3	fighting	12.213152578730975	
+8	sentence	4	, but does not	21.373649135012453	
+8	sentence	5	take	6.298524750132262	
+8	sentence	6	it.	8.648605416452929	
+9	sentence	1	The teacher	14.008138257508524	
+9	sentence	2	dislikes	16.543924220889163	
+9	sentence	3	fighting	12.213152578730975	
+9	sentence	4	, but does not	21.373649135012453	
+9	sentence	5	say	7.27115956140541	
+9	sentence	6	it.	7.3472550051061685	
+10	sentence	1	The teacher	14.008138257508524	
+10	sentence	2	dislikes	16.543924220889163	
+10	sentence	3	fighting	12.213152578730975	
+10	sentence	4	, but does not	21.373649135012453	
+10	sentence	5	make	8.631236888542293	
+10	sentence	6	it.	9.946189751711096	
+11	sentence	1	The teacher	14.008138257508524	
+11	sentence	2	dislikes	16.543924220889163	
+11	sentence	3	fighting	12.213152578730975	
+11	sentence	4	, but does not	21.373649135012453	
+11	sentence	5	give	6.063967931579529	
+11	sentence	6	it.	10.756921127357902	
+12	sentence	1	The teacher	14.008138257508524	
+12	sentence	2	dislikes	16.543924220889163	
+12	sentence	3	fighting	12.213152578730975	
+12	sentence	4	, but does not	21.373649135012453	
+12	sentence	5	find	8.792641918446437	
+12	sentence	6	it.	11.343196053554497	
+13	sentence	1	The teacher	14.008138257508524	
+13	sentence	2	dislikes	16.543924220889163	
+13	sentence	3	fighting	12.213152578730975	
+13	sentence	4	, but does not	21.373649135012453	
+13	sentence	5	keep	9.908014074768476	
+13	sentence	6	it.	7.885944567583485	
+14	sentence	1	The teacher	14.008138257508524	
+14	sentence	2	dislikes	16.543924220889163	
+14	sentence	3	fighting	12.213152578730975	
+14	sentence	4	, but does not	21.373649135012453	
+14	sentence	5	leave	9.461244423663105	
+14	sentence	6	it.	8.320120273131474	
+15	sentence	1	The teacher	14.008138257508524	
+15	sentence	2	dislikes	16.543924220889163	
+15	sentence	3	fighting	12.213152578730975	
+15	sentence	4	, but does not	21.373649135012453	
+15	sentence	5	believe	5.273518813914276	
+15	sentence	6	it.	8.787893477456114	
+16	sentence	1	The teacher	14.008138257508524	
+16	sentence	2	dislikes	16.543924220889163	
+16	sentence	3	fighting	12.213152578730975	
+16	sentence	4	, but does not	21.373649135012453	
+16	sentence	5	remember	9.12238631873751	
+16	sentence	6	it.	6.878223575707816	
+17	sentence	1	The teacher	14.008138257508524	
+17	sentence	2	dislikes	16.543924220889163	
+17	sentence	3	fighting	12.213152578730975	
+17	sentence	4	, but does not	21.373649135012453	
+17	sentence	5	run	11.303599627933098	
+17	sentence	6	it.	11.43522070236082	
+18	sentence	1	The teacher	14.008138257508524	
+18	sentence	2	dislikes	16.543924220889163	
+18	sentence	3	fighting	12.213152578730975	
+18	sentence	4	, but does not	21.373649135012453	
+18	sentence	5	happen	12.836837343125898	
+18	sentence	6	it.	16.89506311246275	
+19	sentence	1	The teacher	14.008138257508524	
+19	sentence	2	dislikes	16.543924220889163	
+19	sentence	3	fighting	12.213152578730975	
+19	sentence	4	, but does not	21.373649135012453	
+19	sentence	5	buy	10.191177318038658	
+19	sentence	6	it.	4.144387873540561	
+20	sentence	1	The teacher	14.008138257508524	
+20	sentence	2	dislikes	16.543924220889163	
+20	sentence	3	fighting	12.213152578730975	
+20	sentence	4	, but does not	21.373649135012453	
+20	sentence	5	save	12.067785962915694	
+20	sentence	6	it.	8.267758263267133	
+21	sentence	1	The teacher	14.008138257508524	
+21	sentence	2	dislikes	16.543924220889163	
+21	sentence	3	fighting	12.213152578730975	
+21	sentence	4	, but does not	21.373649135012453	
+21	sentence	5	lose	10.329688017459944	
+21	sentence	6	it.	8.376766370828808	
+22	sentence	1	The teacher	14.008138257508524	
+22	sentence	2	dislikes	16.543924220889163	
+22	sentence	3	fighting	12.213152578730975	
+22	sentence	4	, but does not	21.373649135012453	
+22	sentence	5	follow	9.419660394545685	
+22	sentence	6	it.	6.634612902483061	
+23	sentence	1	The teacher	14.008138257508524	
+23	sentence	2	dislikes	16.543924220889163	
+23	sentence	3	fighting	12.213152578730975	
+23	sentence	4	, but does not	21.373649135012453	
+23	sentence	5	expect	7.6793830849382	
+23	sentence	6	it.	7.210630267434245	
+24	sentence	1	The teacher	14.008138257508524	
+24	sentence	2	dislikes	16.543924220889163	
+24	sentence	3	fighting	12.213152578730975	
+24	sentence	4	, but does not	21.373649135012453	
+24	sentence	5	realize	8.009787898608588	
+24	sentence	6	it.	6.045394149251647	
+25	sentence	1	The teacher	14.008138257508524	
+25	sentence	2	dislikes	16.543924220889163	
+25	sentence	3	fighting	12.213152578730975	
+25	sentence	4	, but does not	21.373649135012453	
+25	sentence	5	slow	15.244132165839702	
+25	sentence	6	it.	9.74472480294148	
+26	sentence	1	The teacher	14.008138257508524	
+26	sentence	2	dislikes	16.543924220889163	
+26	sentence	3	fighting	12.213152578730975	
+26	sentence	4	, but does not	21.373649135012453	
+26	sentence	5	allow	6.655918457237247	
+26	sentence	6	it.	5.524995629624193	
+27	sentence	1	The teacher	14.008138257508524	
+27	sentence	2	dislikes	16.543924220889163	
+27	sentence	3	fighting	12.213152578730975	
+27	sentence	4	, but does not	21.373649135012453	
+27	sentence	5	consider	6.432038321650077	
+27	sentence	6	it.	8.364985903210007	
+28	sentence	1	The teacher	14.008138257508524	
+28	sentence	2	dislikes	16.543924220889163	
+28	sentence	3	fighting	12.213152578730975	
+28	sentence	4	, but does not	21.373649135012453	
+28	sentence	5	apologize	10.770161727682527	
+28	sentence	6	it.	13.923177452121088	
+29	sentence	1	The teacher	14.008138257508524	
+29	sentence	2	dislikes	16.543924220889163	
+29	sentence	3	fighting	12.213152578730975	
+29	sentence	4	, but does not	21.373649135012453	
+29	sentence	5	recognize	9.416556451662913	
+29	sentence	6	it.	5.913535566783084	
+30	sentence	1	The teacher	14.008138257508524	
+30	sentence	2	dislikes	16.543924220889163	
+30	sentence	3	fighting	12.213152578730975	
+30	sentence	4	, but does not	21.373649135012453	
+30	sentence	5	settle	14.201977839504185	
+30	sentence	6	it.	8.095379708342037	
+31	sentence	1	The teacher	14.008138257508524	
+31	sentence	2	dislikes	16.543924220889163	
+31	sentence	3	fighting	12.213152578730975	
+31	sentence	4	, but does not	21.373649135012453	
+31	sentence	5	add	11.370609572154075	
+31	sentence	6	it.	7.956196040807926	
+32	sentence	1	The teacher	14.008138257508524	
+32	sentence	2	dislikes	16.543924220889163	
+32	sentence	3	fighting	12.213152578730975	
+32	sentence	4	, but does not	21.373649135012453	
+32	sentence	5	assume	12.364465666682488	
+32	sentence	6	it.	8.303319975899289	
+33	sentence	1	The teacher	14.008138257508524	
+33	sentence	2	dislikes	16.543924220889163	
+33	sentence	3	fighting	12.213152578730975	
+33	sentence	4	, but does not	21.373649135012453	
+33	sentence	5	appear	10.598344180164547	
+33	sentence	6	it.	16.84856794676729	
+34	sentence	1	The teacher	14.008138257508524	
+34	sentence	2	dislikes	16.543924220889163	
+34	sentence	3	fighting	12.213152578730975	
+34	sentence	4	, but does not	21.373649135012453	
+34	sentence	5	remove	11.79248163885934	
+34	sentence	6	it.	4.984947232222409	
+35	sentence	1	The teacher	14.008138257508524	
+35	sentence	2	dislikes	16.543924220889163	
+35	sentence	3	fighting	12.213152578730975	
+35	sentence	4	, but does not	21.373649135012453	
+35	sentence	5	identify	11.67486201600366	
+35	sentence	6	it.	8.546482118370594	
+36	sentence	1	The teacher	14.008138257508524	
+36	sentence	2	dislikes	16.543924220889163	
+36	sentence	3	fighting	12.213152578730975	
+36	sentence	4	, but does not	21.373649135012453	
+36	sentence	5	replace	14.064876021958767	
+36	sentence	6	it.	3.385108547552382	
+37	sentence	1	The teacher	14.008138257508524	
+37	sentence	2	dislikes	16.543924220889163	
+37	sentence	3	fighting	12.213152578730975	
+37	sentence	4	, but does not	21.373649135012453	
+37	sentence	5	apply	10.832746902262107	
+37	sentence	6	it.	7.138729824553332	
+38	sentence	1	The teacher	14.008138257508524	
+38	sentence	2	dislikes	16.543924220889163	
+38	sentence	3	fighting	12.213152578730975	
+38	sentence	4	, but does not	21.373649135012453	
+38	sentence	5	succeed	11.459919474816529	
+38	sentence	6	it.	12.058698915592057	
+39	sentence	1	The teacher	14.008138257508524	
+39	sentence	2	dislikes	16.543924220889163	
+39	sentence	3	fighting	12.213152578730975	
+39	sentence	4	, but does not	21.373649135012453	
+39	sentence	5	develop	12.824201433801706	
+39	sentence	6	it.	8.180864544866651	
+40	sentence	1	The teacher	14.008138257508524	
+40	sentence	2	dislikes	16.543924220889163	
+40	sentence	3	fighting	12.213152578730975	
+40	sentence	4	, but does not	21.373649135012453	
+40	sentence	5	approve	7.354635812550597	
+40	sentence	6	it.	7.305383077031204	
+41	sentence	1	The teacher	14.008138257508524	
+41	sentence	2	dislikes	16.543924220889163	
+41	sentence	3	fighting	12.213152578730975	
+41	sentence	4	, but does not	21.373649135012453	
+41	sentence	5	expose	13.670190972701898	
+41	sentence	6	it.	7.471239361904978	
+42	sentence	1	The teacher	14.008138257508524	
+42	sentence	2	dislikes	16.543924220889163	
+42	sentence	3	fighting	12.213152578730975	
+42	sentence	4	, but does not	21.373649135012453	
+42	sentence	5	establish	16.508581635652035	
+42	sentence	6	it.	7.620806997932884	
+43	sentence	1	The teacher	14.008138257508524	
+43	sentence	2	dislikes	16.543924220889163	
+43	sentence	3	fighting	12.213152578730975	
+43	sentence	4	, but does not	21.373649135012453	
+43	sentence	5	reduce	14.478536948981235	
+43	sentence	6	it.	5.86110717161551	
+44	sentence	1	The teacher	14.008138257508524	
+44	sentence	2	dislikes	16.543924220889163	
+44	sentence	3	fighting	12.213152578730975	
+44	sentence	4	, but does not	21.373649135012453	
+44	sentence	5	participate	9.649748415898399	
+44	sentence	6	it.	14.324497248082945	
+45	sentence	1	The teacher	14.008138257508524	
+45	sentence	2	dislikes	16.543924220889163	
+45	sentence	3	fighting	12.213152578730975	
+45	sentence	4	, but does not	21.373649135012453	
+45	sentence	5	organize	14.300599570814953	
+45	sentence	6	it.	7.101476490567288	
+46	sentence	1	The teacher	14.008138257508524	
+46	sentence	2	dislikes	16.543924220889163	
+46	sentence	3	fighting	12.213152578730975	
+46	sentence	4	, but does not	21.373649135012453	
+46	sentence	5	obtain	15.248733045715582	
+46	sentence	6	it.	7.879805474878286	
+47	sentence	1	The teacher	14.008138257508524	
+47	sentence	2	dislikes	16.543924220889163	
+47	sentence	3	fighting	12.213152578730975	
+47	sentence	4	, but does not	21.373649135012453	
+47	sentence	5	kitten	25.543278816228824	
+47	sentence	6	it.	7.914201145137594	
+48	sentence	1	The teacher	14.008138257508524	
+48	sentence	2	dislikes	16.543924220889163	
+48	sentence	3	fighting	12.213152578730975	
+48	sentence	4	, but does not	21.373649135012453	
+48	sentence	5	acquire	15.709063184876182	
+48	sentence	6	it.	6.602077740540787	
+49	sentence	1	The teacher	14.008138257508524	
+49	sentence	2	dislikes	16.543924220889163	
+49	sentence	3	fighting	12.213152578730975	
+49	sentence	4	, but does not	21.373649135012453	
+49	sentence	5	qualify	12.651943610697518	
+49	sentence	6	it.	9.104961380517391	
+50	sentence	1	The teacher	14.008138257508524	
+50	sentence	2	dislikes	16.543924220889163	
+50	sentence	3	fighting	12.213152578730975	
+50	sentence	4	, but does not	21.373649135012453	
+50	sentence	5	criticize	10.652916339075126	
+50	sentence	6	it.	5.530402248219367	
+51	sentence	1	The teacher	14.008138257508524	
+51	sentence	2	dislikes	16.543924220889163	
+51	sentence	3	fighting	12.213152578730975	
+51	sentence	4	, but does not	21.373649135012453	
+51	sentence	5	rave	16.23968332137502	
+51	sentence	6	it.	11.392068535432832	
+52	sentence	1	The teacher	14.008138257508524	
+52	sentence	2	dislikes	16.543924220889163	
+52	sentence	3	fighting	12.213152578730975	
+52	sentence	4	, but does not	21.373649135012453	
+52	sentence	5	enlighten	16.5578559818664	
+52	sentence	6	it.	9.400537643596248	
+53	sentence	1	The teacher	14.008138257508524	
+53	sentence	2	dislikes	16.543924220889163	
+53	sentence	3	fighting	12.213152578730975	
+53	sentence	4	, but does not	21.373649135012453	
+53	sentence	5	disclose	13.143841509389288	
+53	sentence	6	it.	4.945301963528166	
+54	sentence	1	The teacher	14.008138257508524	
+54	sentence	2	dislikes	16.543924220889163	
+54	sentence	3	fighting	12.213152578730975	
+54	sentence	4	, but does not	21.373649135012453	
+54	sentence	5	reopen	21.48508262790792	
+54	sentence	6	it.	7.54083540924698	
+55	sentence	1	The teacher	14.008138257508524	
+55	sentence	2	dislikes	16.543924220889163	
+55	sentence	3	fighting	12.213152578730975	
+55	sentence	4	, but does not	21.373649135012453	
+55	sentence	5	stabilize	19.168572631070372	
+55	sentence	6	it.	8.10870905171451	
+56	sentence	1	The teacher	14.008138257508524	
+56	sentence	2	dislikes	16.543924220889163	
+56	sentence	3	fighting	12.213152578730975	
+56	sentence	4	, but does not	21.373649135012453	
+56	sentence	5	soar	20.277758915406178	
+56	sentence	6	it.	12.558702872566945	
+57	sentence	1	The teacher	14.008138257508524	
+57	sentence	2	dislikes	16.543924220889163	
+57	sentence	3	fighting	12.213152578730975	
+57	sentence	4	, but does not	21.373649135012453	
+57	sentence	5	authorize	15.21452363266716	
+57	sentence	6	it.	4.01777992140284	
+58	sentence	1	The teacher	14.008138257508524	
+58	sentence	2	dislikes	16.543924220889163	
+58	sentence	3	fighting	12.213152578730975	
+58	sentence	4	, but does not	21.373649135012453	
+58	sentence	5	sympathize	13.786871527288202	
+58	sentence	6	it.	13.464927443122674	
+59	sentence	1	The teacher	14.008138257508524	
+59	sentence	2	dislikes	16.543924220889163	
+59	sentence	3	fighting	12.213152578730975	
+59	sentence	4	, but does not	21.373649135012453	
+59	sentence	5	sharpen	17.023794148941278	
+59	sentence	6	it.	7.514989684492665	
+60	sentence	1	The teacher	14.008138257508524	
+60	sentence	2	dislikes	16.543924220889163	
+60	sentence	3	fighting	12.213152578730975	
+60	sentence	4	, but does not	21.373649135012453	
+60	sentence	5	specialize	15.025051034142207	
+60	sentence	6	it.	10.846502934591369	
+61	sentence	1	The teacher	14.008138257508524	
+61	sentence	2	dislikes	16.543924220889163	
+61	sentence	3	fighting	12.213152578730975	
+61	sentence	4	, but does not	21.373649135012453	
+61	sentence	5	minimize	17.55172658205652	
+61	sentence	6	it.	4.06861678911933	
+62	sentence	1	The teacher	14.008138257508524	
+62	sentence	2	dislikes	16.543924220889163	
+62	sentence	3	fighting	12.213152578730975	
+62	sentence	4	, but does not	21.373649135012453	
+62	sentence	5	socialize	15.491599442520897	
+62	sentence	6	it.	9.422918089918328	
+63	sentence	1	The teacher	14.008138257508524	
+63	sentence	2	dislikes	16.543924220889163	
+63	sentence	3	fighting	12.213152578730975	
+63	sentence	4	, but does not	21.373649135012453	
+63	sentence	5	utilize	15.43142540021292	
+63	sentence	6	it.	5.210935359161205	
+64	sentence	1	The teacher	14.008138257508524	
+64	sentence	2	dislikes	16.543924220889163	
+64	sentence	3	fighting	12.213152578730975	
+64	sentence	4	, but does not	21.373649135012453	
+64	sentence	5	rectify	19.49055440563692	
+64	sentence	6	it.	4.398486908728184	
+65	sentence	1	The teacher	14.008138257508524	
+65	sentence	2	dislikes	16.543924220889163	
+65	sentence	3	fighting	12.213152578730975	
+65	sentence	4	, but does not	21.373649135012453	
+65	sentence	5	terrorize	15.300488064311535	
+65	sentence	6	it.	8.786444867587898	
+66	sentence	1	The teacher	14.008138257508524	
+66	sentence	2	dislikes	16.543924220889163	
+66	sentence	3	fighting	12.213152578730975	
+66	sentence	4	, but does not	21.373649135012453	
+66	sentence	5	enslave	18.524312171357547	
+66	sentence	6	it.	8.422296025922323	
+67	sentence	1	The teacher	14.008138257508524	
+67	sentence	2	dislikes	16.543924220889163	
+67	sentence	3	fighting	12.213152578730975	
+67	sentence	4	, but does not	21.373649135012453	
+67	sentence	5	finalize	16.900455220021758	
+67	sentence	6	it.	5.5756629224469325	
+68	sentence	1	The teacher	14.008138257508524	
+68	sentence	2	dislikes	16.543924220889163	
+68	sentence	3	fighting	12.213152578730975	
+68	sentence	4	, but does not	21.373649135012453	
+68	sentence	5	maximize	18.93115402120728	
+68	sentence	6	it.	6.35275397563702	
+69	sentence	1	The teacher	14.008138257508524	
+69	sentence	2	dislikes	16.543924220889163	
+69	sentence	3	fighting	12.213152578730975	
+69	sentence	4	, but does not	21.373649135012453	
+69	sentence	5	summarize	19.249407228698306	
+69	sentence	6	it.	6.083936149240605	
+70	sentence	1	The teacher	14.008138257508524	
+70	sentence	2	dislikes	16.543924220889163	
+70	sentence	3	fighting	12.213152578730975	
+70	sentence	4	, but does not	21.373649135012453	
+70	sentence	5	repose	20.901705093430415	
+70	sentence	6	it.	7.749989874319323	
+71	sentence	1	The teacher	14.008138257508524	
+71	sentence	2	dislikes	16.543924220889163	
+71	sentence	3	fighting	12.213152578730975	
+71	sentence	4	, but does not	21.373649135012453	
+71	sentence	5	symbolize	18.8066517386554	
+71	sentence	6	it.	5.708724695540932	
+72	sentence	1	The teacher	14.008138257508524	
+72	sentence	2	dislikes	16.543924220889163	
+72	sentence	3	fighting	12.213152578730975	
+72	sentence	4	, but does not	21.373649135012453	
+72	sentence	5	sterilize	21.05350822444773	
+72	sentence	6	it.	6.504938671663107	
+73	sentence	1	The teacher	14.008138257508524	
+73	sentence	2	dislikes	16.543924220889163	
+73	sentence	3	fighting	12.213152578730975	
+73	sentence	4	, but does not	21.373649135012453	
+73	sentence	5	revolutionize	19.583159082728457	
+73	sentence	6	it.	5.649099686348003	
+74	sentence	1	The teacher	14.008138257508524	
+74	sentence	2	dislikes	16.543924220889163	
+74	sentence	3	fighting	12.213152578730975	
+74	sentence	4	, but does not	21.373649135012453	
+74	sentence	5	synchronize	20.54806843332485	
+74	sentence	6	it.	8.541905660031134	
+75	sentence	1	The teacher	14.008138257508524	
+75	sentence	2	dislikes	16.543924220889163	
+75	sentence	3	fighting	12.213152578730975	
+75	sentence	4	, but does not	21.373649135012453	
+75	sentence	5	fertilize	23.017729292474286	
+75	sentence	6	it.	6.6607224486237975	
+76	sentence	1	The teacher	14.008138257508524	
+76	sentence	2	dislikes	16.543924220889163	
+76	sentence	3	fighting	12.213152578730975	
+76	sentence	4	, but does not	21.373649135012453	
+76	sentence	5	rationalize	16.237788094060342	
+76	sentence	6	it.	4.0588535060124995	
+77	sentence	1	The teacher	14.008138257508524	
+77	sentence	2	dislikes	16.543924220889163	
+77	sentence	3	fighting	12.213152578730975	
+77	sentence	4	, but does not	21.373649135012453	
+77	sentence	5	antagonize	13.383464259654751	
+77	sentence	6	it.	8.120263706112727	
+78	sentence	1	The teacher	14.008138257508524	
+78	sentence	2	dislikes	16.543924220889163	
+78	sentence	3	fighting	12.213152578730975	
+78	sentence	4	, but does not	21.373649135012453	
+78	sentence	5	kindle	15.50813422003798	
+78	sentence	6	it.	7.189949697633294	
+79	sentence	1	The teacher	14.008138257508524	
+79	sentence	2	dislikes	16.543924220889163	
+79	sentence	3	fighting	12.213152578730975	
+79	sentence	4	, but does not	21.373649135012453	
+79	sentence	5	familiarize	17.637270344136887	
+79	sentence	6	it.	13.944515683578938	
+80	sentence	1	The teacher	14.008138257508524	
+80	sentence	2	dislikes	16.543924220889163	
+80	sentence	3	fighting	12.213152578730975	
+80	sentence	4	, but does not	21.373649135012453	
+80	sentence	5	synthesize	22.18394409393378	
+80	sentence	6	it.	6.312279922548269	
+81	sentence	1	The teacher	14.008138257508524	
+81	sentence	2	dislikes	16.543924220889163	
+81	sentence	3	fighting	12.213152578730975	
+81	sentence	4	, but does not	21.373649135012453	
+81	sentence	5	reorganize	20.6466069250326	
+81	sentence	6	it.	7.393503375697639	
+82	sentence	1	The teacher	14.008138257508524	
+82	sentence	2	dislikes	16.543924220889163	
+82	sentence	3	fighting	12.213152578730975	
+82	sentence	4	, but does not	21.373649135012453	
+82	sentence	5	ripen	26.13709638554431	
+82	sentence	6	it.	7.89522406349344	
+83	sentence	1	The teacher	14.008138257508524	
+83	sentence	2	dislikes	16.543924220889163	
+83	sentence	3	fighting	12.213152578730975	
+83	sentence	4	, but does not	21.373649135012453	
+83	sentence	5	deepen	20.18415632577819	
+83	sentence	6	it.	6.628397621463529	
+84	sentence	1	The teacher	14.008138257508524	
+84	sentence	2	dislikes	16.543924220889163	
+84	sentence	3	fighting	12.213152578730975	
+84	sentence	4	, but does not	21.373649135012453	
+84	sentence	5	destabilize	19.879432455984755	
+84	sentence	6	it.	6.639473304179094	
+85	sentence	1	The teacher	14.008138257508524	
+85	sentence	2	dislikes	16.543924220889163	
+85	sentence	3	fighting	12.213152578730975	
+85	sentence	4	, but does not	21.373649135012453	
+85	sentence	5	enclose	20.139008653557543	
+85	sentence	6	it.	6.465505113612075	
+86	sentence	1	The teacher	14.008138257508524	
+86	sentence	2	dislikes	16.543924220889163	
+86	sentence	3	fighting	12.213152578730975	
+86	sentence	4	, but does not	21.373649135012453	
+86	sentence	5	dampen	19.570591340340272	
+86	sentence	6	it.	6.132548765333487	
+87	sentence	1	The teacher	14.008138257508524	
+87	sentence	2	dislikes	16.543924220889163	
+87	sentence	3	fighting	12.213152578730975	
+87	sentence	4	, but does not	21.373649135012453	
+87	sentence	5	subsidize	19.999614082892506	
+87	sentence	6	it.	3.686880313645921	
+88	sentence	1	The teacher	14.008138257508524	
+88	sentence	2	dislikes	16.543924220889163	
+88	sentence	3	fighting	12.213152578730975	
+88	sentence	4	, but does not	21.373649135012453	
+88	sentence	5	idolize	15.623096280981201	
+88	sentence	6	it.	5.670339199764258	
+89	sentence	1	The teacher	14.008138257508524	
+89	sentence	2	dislikes	16.543924220889163	
+89	sentence	3	fighting	12.213152578730975	
+89	sentence	4	, but does not	21.373649135012453	
+89	sentence	5	quantify	18.563655989398804	
+89	sentence	6	it.	3.6530907102482546	
+90	sentence	1	The teacher	14.008138257508524	
+90	sentence	2	dislikes	16.543924220889163	
+90	sentence	3	fighting	12.213152578730975	
+90	sentence	4	, but does not	21.373649135012453	
+90	sentence	5	engrave	25.122767476257188	
+90	sentence	6	it.	6.508556154741354	
+91	sentence	1	The teacher	14.008138257508524	
+91	sentence	2	dislikes	16.543924220889163	
+91	sentence	3	fighting	12.213152578730975	
+91	sentence	4	, but does not	21.373649135012453	
+91	sentence	5	fraternize	19.679308515062953	
+91	sentence	6	it.	12.703780213563473	
+92	sentence	1	The teacher	14.008138257508524	
+92	sentence	2	dislikes	16.543924220889163	
+92	sentence	3	fighting	12.213152578730975	
+92	sentence	4	, but does not	21.373649135012453	
+92	sentence	5	immobilize	20.15287206889805	
+92	sentence	6	it.	8.06096219628607	
+93	sentence	1	The teacher	14.008138257508524	
+93	sentence	2	dislikes	16.543924220889163	
+93	sentence	3	fighting	12.213152578730975	
+93	sentence	4	, but does not	21.373649135012453	
+93	sentence	5	downsize	21.69545593402693	
+93	sentence	6	it.	6.711420698323693	
+94	sentence	1	The teacher	14.008138257508524	
+94	sentence	2	dislikes	16.543924220889163	
+94	sentence	3	fighting	12.213152578730975	
+94	sentence	4	, but does not	21.373649135012453	
+94	sentence	5	theorize	19.034886002010126	
+94	sentence	6	it.	8.37374687142761	
+95	sentence	1	The teacher	14.008138257508524	
+95	sentence	2	dislikes	16.543924220889163	
+95	sentence	3	fighting	12.213152578730975	
+95	sentence	4	, but does not	21.373649135012453	
+95	sentence	5	dramatize	19.856682585554168	
+95	sentence	6	it.	4.141533649466842	
+96	sentence	1	The teacher	14.008138257508524	
+96	sentence	2	dislikes	16.543924220889163	
+96	sentence	3	fighting	12.213152578730975	
+96	sentence	4	, but does not	21.373649135012453	
+96	sentence	5	modernize	20.410046315116837	
+96	sentence	6	it.	5.04156082519873	
+97	sentence	1	The teacher	14.008138257508524	
+97	sentence	2	dislikes	16.543924220889163	
+97	sentence	3	fighting	12.213152578730975	
+97	sentence	4	, but does not	21.373649135012453	
+97	sentence	5	revitalize	22.171950625801887	
+97	sentence	6	it.	6.32240006965564	
+98	sentence	1	The teacher	14.008138257508524	
+98	sentence	2	dislikes	16.543924220889163	
+98	sentence	3	fighting	12.213152578730975	
+98	sentence	4	, but does not	21.373649135012453	
+98	sentence	5	traumatize	17.916856509502857	
+98	sentence	6	it.	8.91158202409544	
+99	sentence	1	The teacher	14.008138257508524	
+99	sentence	2	dislikes	16.543924220889163	
+99	sentence	3	fighting	12.213152578730975	
+99	sentence	4	, but does not	21.373649135012453	
+99	sentence	5	immortalize	21.49744676164809	
+99	sentence	6	it.	4.635634817898817	
+100	sentence	1	The teacher	14.008138257508524	
+100	sentence	2	dislikes	16.543924220889163	
+100	sentence	3	fighting	12.213152578730975	
+100	sentence	4	, but does not	21.373649135012453	
+100	sentence	5	agonize	15.784344645439322	
+100	sentence	6	it.	11.463994775711374	
+101	sentence	1	The teacher	14.008138257508524	
+101	sentence	2	dislikes	16.543924220889163	
+101	sentence	3	fighting	12.213152578730975	
+101	sentence	4	, but does not	21.373649135012453	
+101	sentence	5	electrify	20.42582737866651	
+101	sentence	6	it.	7.630436650519994	
+102	sentence	1	The teacher	14.008138257508524	
+102	sentence	2	dislikes	16.543924220889163	
+102	sentence	3	fighting	12.213152578730975	
+102	sentence	4	, but does not	21.373649135012453	
+102	sentence	5	demoralize	17.42432218901157	
+102	sentence	6	it.	8.847701132224259	
+103	sentence	1	The teacher	14.008138257508524	
+103	sentence	2	dislikes	16.543924220889163	
+103	sentence	3	fighting	12.213152578730975	
+103	sentence	4	, but does not	21.373649135012453	
+103	sentence	5	sanitize	20.14960136733744	
+103	sentence	6	it.	5.096973463324076	
+104	sentence	1	The teacher	14.008138257508524	
+104	sentence	2	dislikes	16.543924220889163	
+104	sentence	3	fighting	12.213152578730975	
+104	sentence	4	, but does not	21.373649135012453	
+104	sentence	5	anesthetize	23.47246598076184	
+104	sentence	6	it.	7.1308851798995265	
+105	sentence	1	The teacher	14.008138257508524	
+105	sentence	2	dislikes	16.543924220889163	
+105	sentence	3	fighting	12.213152578730975	
+105	sentence	4	, but does not	21.373649135012453	
+105	sentence	5	trivialize	16.794886099044565	
+105	sentence	6	it.	3.4684850487600682	
+106	sentence	1	The teacher	14.008138257508524	
+106	sentence	2	dislikes	16.543924220889163	
+106	sentence	3	fighting	12.213152578730975	
+106	sentence	4	, but does not	21.373649135012453	
+106	sentence	5	romanticize	16.943574925224397	
+106	sentence	6	it.	3.75247312082379	
+107	sentence	1	The teacher	14.008138257508524	
+107	sentence	2	dislikes	16.543924220889163	
+107	sentence	3	fighting	12.213152578730975	
+107	sentence	4	, but does not	21.373649135012453	
+107	sentence	5	equalize	20.48847205924329	
+107	sentence	6	it.	6.750776004268581	
+108	sentence	1	The teacher	14.008138257508524	
+108	sentence	2	dislikes	16.543924220889163	
+108	sentence	3	fighting	12.213152578730975	
+108	sentence	4	, but does not	21.373649135012453	
+108	sentence	5	demonize	15.976235997217096	
+108	sentence	6	it.	5.362289378983623	
+109	sentence	1	The teacher	14.008138257508524	
+109	sentence	2	dislikes	16.543924220889163	
+109	sentence	3	fighting	12.213152578730975	
+109	sentence	4	, but does not	21.373649135012453	
+109	sentence	5	alphabetize	28.31747652478779	
+109	sentence	6	it.	5.290998614600019	
+110	sentence	1	The teacher	14.008138257508524	
+110	sentence	2	dislikes	16.543924220889163	
+110	sentence	3	fighting	12.213152578730975	
+110	sentence	4	, but does not	21.373649135012453	
+110	sentence	5	formalize	17.924740559681545	
+110	sentence	6	it.	4.138767308527714	
+111	sentence	1	The teacher	14.008138257508524	
+111	sentence	2	dislikes	16.543924220889163	
+111	sentence	3	fighting	12.213152578730975	
+111	sentence	4	, but does not	21.373649135012453	
+111	sentence	5	optimize	19.34067635771939	
+111	sentence	6	it.	6.091326587713482	
+112	sentence	1	The teacher	14.008138257508524	
+112	sentence	2	dislikes	16.543924220889163	
+112	sentence	3	fighting	12.213152578730975	
+112	sentence	4	, but does not	21.373649135012453	
+112	sentence	5	internalize	17.038057958535646	
+112	sentence	6	it.	4.093426146419545	
+113	sentence	1	The teacher	14.008138257508524	
+113	sentence	2	dislikes	16.543924220889163	
+113	sentence	3	fighting	12.213152578730975	
+113	sentence	4	, but does not	21.373649135012453	
+113	sentence	5	idealize	16.739797433237783	
+113	sentence	6	it.	3.874769983852333	
+114	sentence	1	The teacher	14.008138257508524	
+114	sentence	2	dislikes	16.543924220889163	
+114	sentence	3	fighting	12.213152578730975	
+114	sentence	4	, but does not	21.373649135012453	
+114	sentence	5	sodomize	21.51435512310405	
+114	sentence	6	it.	8.716763688833717	
+115	sentence	1	The teacher	14.008138257508524	
+115	sentence	2	dislikes	16.543924220889163	
+115	sentence	3	fighting	12.213152578730975	
+115	sentence	4	, but does not	21.373649135012453	
+115	sentence	5	digitize	25.550658591777346	
+115	sentence	6	it.	5.237882288828993	
+116	sentence	1	The teacher	14.008138257508524	
+116	sentence	2	dislikes	16.543924220889163	
+116	sentence	3	fighting	12.213152578730975	
+116	sentence	4	, but does not	21.373649135012453	
+116	sentence	5	galvanize	20.732906604608086	
+116	sentence	6	it.	8.07935264510813	
+117	sentence	1	The teacher	14.008138257508524	
+117	sentence	2	dislikes	16.543924220889163	
+117	sentence	3	fighting	12.213152578730975	
+117	sentence	4	, but does not	21.373649135012453	
+117	sentence	5	initialize	22.16522035348326	
+117	sentence	6	it.	6.977558347089062	
+118	sentence	1	The teacher	14.008138257508524	
+118	sentence	2	dislikes	16.543924220889163	
+118	sentence	3	fighting	12.213152578730975	
+118	sentence	4	, but does not	21.373649135012453	
+118	sentence	5	exemplify	17.604334996033042	
+118	sentence	6	it.	4.998253701902316	
+119	sentence	1	The teacher	14.008138257508524	
+119	sentence	2	dislikes	16.543924220889163	
+119	sentence	3	fighting	12.213152578730975	
+119	sentence	4	, but does not	21.373649135012453	
+119	sentence	5	depressurize	34.32644375968645	
+119	sentence	6	it.	7.722580827268667	
+120	sentence	1	The teacher	14.008138257508524	
+120	sentence	2	dislikes	16.543924220889163	
+120	sentence	3	fighting	12.213152578730975	
+120	sentence	4	, but does not	21.373649135012453	
+120	sentence	5	itemize	19.13960275547181	
+120	sentence	6	it.	5.112603246634489	
+121	sentence	1	The teacher	14.008138257508524	
+121	sentence	2	dislikes	16.543924220889163	
+121	sentence	3	fighting	12.213152578730975	
+121	sentence	4	, but does not	21.373649135012453	
+121	sentence	5	dehumanize	19.348198405915838	
+121	sentence	6	it.	6.217227519173506	
+122	sentence	1	The teacher	14.008138257508524	
+122	sentence	2	dislikes	16.543924220889163	
+122	sentence	3	fighting	12.213152578730975	
+122	sentence	4	, but does not	21.373649135012453	
+122	sentence	5	mollify	21.497903528758176	
+122	sentence	6	it.	7.197544107530093	
+123	sentence	1	The teacher	14.008138257508524	
+123	sentence	2	dislikes	16.543924220889163	
+123	sentence	3	fighting	12.213152578730975	
+123	sentence	4	, but does not	21.373649135012453	
+123	sentence	5	immunize	19.165385781800968	
+123	sentence	6	it.	8.533523397610733	
+124	sentence	1	The teacher	14.008138257508524	
+124	sentence	2	dislikes	16.543924220889163	
+124	sentence	3	fighting	12.213152578730975	
+124	sentence	4	, but does not	21.373649135012453	
+124	sentence	5	oxidize	23.821751759272377	
+124	sentence	6	it.	6.560409611907095	
+125	sentence	1	The teacher	14.008138257508524	
+125	sentence	2	dislikes	16.543924220889163	
+125	sentence	3	fighting	12.213152578730975	
+125	sentence	4	, but does not	21.373649135012453	
+125	sentence	5	dematerialize	26.42735690136114	
+125	sentence	6	it.	5.7919727257084235	
+126	sentence	1	The teacher	14.008138257508524	
+126	sentence	2	dislikes	16.543924220889163	
+126	sentence	3	fighting	12.213152578730975	
+126	sentence	4	, but does not	21.373649135012453	
+126	sentence	5	ostracize	18.65733522215462	
+126	sentence	6	it.	7.126692414854142	
+127	sentence	1	The teacher	14.008138257508524	
+127	sentence	2	dislikes	16.543924220889163	
+127	sentence	3	fighting	12.213152578730975	
+127	sentence	4	, but does not	21.373649135012453	
+127	sentence	5	overdramatize	25.316546240887938	
+127	sentence	6	it.	4.143134463981074	
+128	sentence	1	The teacher	14.008138257508524	
+128	sentence	2	dislikes	16.543924220889163	
+128	sentence	3	fighting	12.213152578730975	
+128	sentence	4	, but does not	21.373649135012453	
+128	sentence	5	satirize	21.109115138475055	
+128	sentence	6	it.	4.3053975153303705	
+129	sentence	1	The teacher	14.008138257508524	
+129	sentence	2	dislikes	16.543924220889163	
+129	sentence	3	fighting	12.213152578730975	
+129	sentence	4	, but does not	21.373649135012453	
+129	sentence	5	amortize	21.80484636977039	
+129	sentence	6	it.	5.620637417543462	
+130	sentence	1	The teacher	14.008138257508524	
+130	sentence	2	dislikes	16.543924220889163	
+130	sentence	3	fighting	12.213152578730975	
+130	sentence	4	, but does not	21.373649135012453	
+130	sentence	5	tyrannize	19.298309506570902	
+130	sentence	6	it.	8.270749385530937	
+131	sentence	1	The teacher	14.008138257508524	
+131	sentence	2	dislikes	16.543924220889163	
+131	sentence	3	fighting	12.213152578730975	
+131	sentence	4	, but does not	21.373649135012453	
+131	sentence	5	eulogize	20.338214987763738	
+131	sentence	6	it.	5.643972195595179	
+132	sentence	1	The teacher	14.008138257508524	
+132	sentence	2	dislikes	16.543924220889163	
+132	sentence	3	fighting	12.213152578730975	
+132	sentence	4	, but does not	21.373649135012453	
+132	sentence	5	resize	22.063670789524203	
+132	sentence	6	it.	7.243134988447315	
+133	sentence	1	The teacher	14.008138257508524	
+133	sentence	2	dislikes	16.543924220889163	
+133	sentence	3	fighting	12.213152578730975	
+133	sentence	4	, but does not	21.373649135012453	
+133	sentence	5	editorialize	21.728677043397713	
+133	sentence	6	it.	6.215822420915957	
+134	sentence	1	The teacher	14.008138257508524	
+134	sentence	2	dislikes	16.543924220889163	
+134	sentence	3	fighting	12.213152578730975	
+134	sentence	4	, but does not	21.373649135012453	
+134	sentence	5	acclimatize	22.063620297836415	
+134	sentence	6	it.	10.856514216680743	
+135	sentence	1	The teacher	14.008138257508524	
+135	sentence	2	dislikes	16.543924220889163	
+135	sentence	3	fighting	12.213152578730975	
+135	sentence	4	, but does not	21.373649135012453	
+135	sentence	5	desensitize	22.073492009286543	
+135	sentence	6	it.	8.983875791298875	
+136	sentence	1	The teacher	14.008138257508524	
+136	sentence	2	dislikes	16.543924220889163	
+136	sentence	3	fighting	12.213152578730975	
+136	sentence	4	, but does not	21.373649135012453	
+136	sentence	5	standardize	20.156724168558824	
+136	sentence	6	it.	4.147489580648872	
+137	sentence	1	The teacher	14.008138257508524	
+137	sentence	2	dislikes	16.543924220889163	
+137	sentence	3	fighting	12.213152578730975	
+137	sentence	4	, but does not	21.373649135012453	
+137	sentence	5	stigmatize	18.959332626127058	
+137	sentence	6	it.	4.562334780205182	
+138	sentence	1	The teacher	14.008138257508524	
+138	sentence	2	dislikes	16.543924220889163	
+138	sentence	3	fighting	12.213152578730975	
+138	sentence	4	, but does not	21.373649135012453	
+138	sentence	5	actualize	18.2027402495868	
+138	sentence	6	it.	4.389635993584181	
+139	sentence	1	The teacher	14.008138257508524	
+139	sentence	2	dislikes	16.543924220889163	
+139	sentence	3	fighting	12.213152578730975	
+139	sentence	4	, but does not	21.373649135012453	
+139	sentence	5	industrialize	22.834019230640468	
+139	sentence	6	it.	6.643806579050233	
+140	sentence	1	The teacher	14.008138257508524	
+140	sentence	2	dislikes	16.543924220889163	
+140	sentence	3	fighting	12.213152578730975	
+140	sentence	4	, but does not	21.373649135012453	
+140	sentence	5	sexualize	21.563636993559392	
+140	sentence	6	it.	5.622408322899397	
+141	sentence	1	The teacher	14.008138257508524	
+141	sentence	2	dislikes	16.543924220889163	
+141	sentence	3	fighting	12.213152578730975	
+141	sentence	4	, but does not	21.373649135012453	
+141	sentence	5	demagnetize	29.57773769035475	
+141	sentence	6	it.	7.590945134315621	
+142	sentence	1	The teacher	14.008138257508524	
+142	sentence	2	dislikes	16.543924220889163	
+142	sentence	3	fighting	12.213152578730975	
+142	sentence	4	, but does not	21.373649135012453	
+142	sentence	5	solemnize	21.650490038062944	
+142	sentence	6	it.	5.384333255257963	
+143	sentence	1	The teacher	14.008138257508524	
+143	sentence	2	dislikes	16.543924220889163	
+143	sentence	3	fighting	12.213152578730975	
+143	sentence	4	, but does not	21.373649135012453	
+143	sentence	5	atomize	22.078835983201138	
+143	sentence	6	it.	6.997016808172981	
+144	sentence	1	The teacher	14.008138257508524	
+144	sentence	2	dislikes	16.543924220889163	
+144	sentence	3	fighting	12.213152578730975	
+144	sentence	4	, but does not	21.373649135012453	
+144	sentence	5	ionize	23.566591489014233	
+144	sentence	6	it.	7.241875043547095	
+145	sentence	1	The teacher	14.008138257508524	
+145	sentence	2	dislikes	16.543924220889163	
+145	sentence	3	fighting	12.213152578730975	
+145	sentence	4	, but does not	21.373649135012453	
+145	sentence	5	radicalize	17.576290649100944	
+145	sentence	6	it.	7.713482085124769	
+146	sentence	1	The teacher	14.008138257508524	
+146	sentence	2	dislikes	16.543924220889163	
+146	sentence	3	fighting	12.213152578730975	
+146	sentence	4	, but does not	21.373649135012453	
+146	sentence	5	reunify	25.348362622838764	
+146	sentence	6	it.	10.10391332099087	
+147	sentence	1	The teacher	14.008138257508524	
+147	sentence	2	dislikes	16.543924220889163	
+147	sentence	3	fighting	12.213152578730975	
+147	sentence	4	, but does not	21.373649135012453	
+147	sentence	5	demobilize	26.108255969886184	
+147	sentence	6	it.	8.643791450072628	
+148	sentence	1	The teacher	14.008138257508524	
+148	sentence	2	dislikes	16.543924220889163	
+148	sentence	3	fighting	12.213152578730975	
+148	sentence	4	, but does not	21.373649135012453	
+148	sentence	5	democratize	22.615754188868063	
+148	sentence	6	it.	4.750316805095107	
+149	sentence	1	The teacher	14.008138257508524	
+149	sentence	2	dislikes	16.543924220889163	
+149	sentence	3	fighting	12.213152578730975	
+149	sentence	4	, but does not	21.373649135012453	
+149	sentence	5	reclassify	20.11126570487746	
+149	sentence	6	it.	6.738267534088679	
+150	sentence	1	The teacher	14.008138257508524	
+150	sentence	2	dislikes	16.543924220889163	
+150	sentence	3	fighting	12.213152578730975	
+150	sentence	4	, but does not	21.373649135012453	
+150	sentence	5	rhapsodize	23.882201169989447	
+150	sentence	6	it.	10.953024688969522	
+151	sentence	1	The teacher	14.008138257508524	
+151	sentence	2	dislikes	16.543924220889163	
+151	sentence	3	fighting	12.213152578730975	
+151	sentence	4	, but does not	21.373649135012453	
+151	sentence	5	serialize	22.459262875281723	
+151	sentence	6	it.	4.507512730502899	
+152	sentence	1	The teacher	14.008138257508524	
+152	sentence	2	dislikes	16.543924220889163	
+152	sentence	3	fighting	12.213152578730975	
+152	sentence	4	, but does not	21.373649135012453	
+152	sentence	5	disorganize	22.209612601315293	
+152	sentence	6	it.	6.8170629334253325	
+153	sentence	1	The teacher	14.008138257508524	
+153	sentence	2	dislikes	16.543924220889163	
+153	sentence	3	fighting	12.213152578730975	
+153	sentence	4	, but does not	21.373649135012453	
+153	sentence	5	sermonize	18.72651675570226	
+153	sentence	6	it.	8.551001306487315	
+154	sentence	1	The teacher	14.008138257508524	
+154	sentence	2	dislikes	16.543924220889163	
+154	sentence	3	fighting	12.213152578730975	
+154	sentence	4	, but does not	21.373649135012453	
+154	sentence	5	deodorize	26.912183969838832	
+154	sentence	6	it.	6.38605566425419	
+155	sentence	1	The teacher	14.008138257508524	
+155	sentence	2	dislikes	16.543924220889163	
+155	sentence	3	fighting	12.213152578730975	
+155	sentence	4	, but does not	21.373649135012453	
+155	sentence	5	emulsify	24.71487690038755	
+155	sentence	6	it.	5.982207551342	
+156	sentence	1	The teacher	14.008138257508524	
+156	sentence	2	dislikes	16.543924220889163	
+156	sentence	3	fighting	12.213152578730975	
+156	sentence	4	, but does not	21.373649135012453	
+156	sentence	5	overemphasize	18.071526127679093	
+156	sentence	6	it.	4.166583438512963	
+157	sentence	1	The teacher	14.008138257508524	
+157	sentence	2	dislikes	16.543924220889163	
+157	sentence	3	fighting	12.213152578730975	
+157	sentence	4	, but does not	21.373649135012453	
+157	sentence	5	aerosolize	28.408113520826713	
+157	sentence	6	it.	6.0409005865499035	
+158	sentence	1	The teacher	14.008138257508524	
+158	sentence	2	dislikes	16.543924220889163	
+158	sentence	3	fighting	12.213152578730975	
+158	sentence	4	, but does not	21.373649135012453	
+158	sentence	5	apostatize	24.44535038185705	
+158	sentence	6	it.	8.424691228300889	
+159	sentence	1	The teacher	14.008138257508524	
+159	sentence	2	dislikes	16.543924220889163	
+159	sentence	3	fighting	12.213152578730975	
+159	sentence	4	, but does not	21.373649135012453	
+159	sentence	5	depolarize	25.688265146156297	
+159	sentence	6	it.	8.524379252047007	
+160	sentence	1	The teacher	14.008138257508524	
+160	sentence	2	dislikes	16.543924220889163	
+160	sentence	3	fighting	12.213152578730975	
+160	sentence	4	, but does not	21.373649135012453	
+160	sentence	5	evangelize	20.52535283043745	
+160	sentence	6	it.	6.0358728457345805	
+161	sentence	1	The teacher	14.008138257508524	
+161	sentence	2	dislikes	16.543924220889163	
+161	sentence	3	fighting	12.213152578730975	
+161	sentence	4	, but does not	21.373649135012453	
+161	sentence	5	anatomize	23.06126810864816	
+161	sentence	6	it.	4.875690609730237	
+162	sentence	1	The teacher	14.008138257508524	
+162	sentence	2	dislikes	16.543924220889163	
+162	sentence	3	fighting	12.213152578730975	
+162	sentence	4	, but does not	21.373649135012453	
+162	sentence	5	anthropomorphize	21.28047930747861	
+162	sentence	6	it.	4.691199144722224	
+163	sentence	1	The teacher	14.008138257508524	
+163	sentence	2	dislikes	16.543924220889163	
+163	sentence	3	fighting	12.213152578730975	
+163	sentence	4	, but does not	21.373649135012453	
+163	sentence	5	federalize	26.313798154355467	
+163	sentence	6	it.	4.1823016209059185	
+164	sentence	1	The teacher	14.008138257508524	
+164	sentence	2	dislikes	16.543924220889163	
+164	sentence	3	fighting	12.213152578730975	
+164	sentence	4	, but does not	21.373649135012453	
+164	sentence	5	feminize	24.54700017408036	
+164	sentence	6	it.	5.5761234919859435	
+165	sentence	1	The teacher	14.008138257508524	
+165	sentence	2	dislikes	16.543924220889163	
+165	sentence	3	fighting	12.213152578730975	
+165	sentence	4	, but does not	21.373649135012453	
+165	sentence	5	fossilize	24.025347449473657	
+165	sentence	6	it.	6.107294488915491	
+166	sentence	1	The teacher	14.008138257508524	
+166	sentence	2	dislikes	16.543924220889163	
+166	sentence	3	fighting	12.213152578730975	
+166	sentence	4	, but does not	21.373649135012453	
+166	sentence	5	regularize	22.041699919885154	
+166	sentence	6	it.	3.9241998615021148	
+167	sentence	1	The teacher	14.008138257508524	
+167	sentence	2	dislikes	16.543924220889163	
+167	sentence	3	fighting	12.213152578730975	
+167	sentence	4	, but does not	21.373649135012453	
+167	sentence	5	ritualize	22.79225929551796	
+167	sentence	6	it.	3.2996834749989437	
+168	sentence	1	The teacher	14.008138257508524	
+168	sentence	2	dislikes	16.543924220889163	
+168	sentence	3	fighting	12.213152578730975	
+168	sentence	4	, but does not	21.373649135012453	
+168	sentence	5	sentimentalize	22.574250239172454	
+168	sentence	6	it.	3.626996814528746	
+169	sentence	1	The teacher	14.008138257508524	
+169	sentence	2	dislikes	16.543924220889163	
+169	sentence	3	fighting	12.213152578730975	
+169	sentence	4	, but does not	21.373649135012453	
+169	sentence	5	exteriorize	26.491606373550955	
+169	sentence	6	it.	4.170091368642611	
+170	sentence	1	The teacher	14.008138257508524	
+170	sentence	2	dislikes	16.543924220889163	
+170	sentence	3	fighting	12.213152578730975	
+170	sentence	4	, but does not	21.373649135012453	
+170	sentence	5	fetishize	17.039909416265676	
+170	sentence	6	it.	3.7748570067988862	
+171	sentence	1	The teacher	14.008138257508524	
+171	sentence	2	dislikes	16.543924220889163	
+171	sentence	3	fighting	12.213152578730975	
+171	sentence	4	, but does not	21.373649135012453	
+171	sentence	5	fictionalize	24.764861497328777	
+171	sentence	6	it.	3.3300727234150767	
+172	sentence	1	The teacher	14.008138257508524	
+172	sentence	2	dislikes	16.543924220889163	
+172	sentence	3	fighting	12.213152578730975	
+172	sentence	4	, but does not	21.373649135012453	
+172	sentence	5	individualize	20.134205340696294	
+172	sentence	6	it.	4.4402711256512095	
+173	sentence	1	The teacher	14.008138257508524	
+173	sentence	2	dislikes	16.543924220889163	
+173	sentence	3	fighting	12.213152578730975	
+173	sentence	4	, but does not	21.373649135012453	
+173	sentence	5	internationalize	25.90429385452387	
+173	sentence	6	it.	4.8091711600295195	
+174	sentence	1	The teacher	14.008138257508524	
+174	sentence	2	dislikes	16.543924220889163	
+174	sentence	3	fighting	12.213152578730975	
+174	sentence	4	, but does not	21.373649135012453	
+174	sentence	5	alkalinize	29.285513643238556	
+174	sentence	6	it.	6.6976335371346245	
+175	sentence	1	The teacher	14.008138257508524	
+175	sentence	2	dislikes	16.543924220889163	
+175	sentence	3	fighting	12.213152578730975	
+175	sentence	4	, but does not	21.373649135012453	
+175	sentence	5	depersonalize	21.941327982606914	
+175	sentence	6	it.	7.701683559327629	
+176	sentence	1	The teacher	14.008138257508524	
+176	sentence	2	dislikes	16.543924220889163	
+176	sentence	3	fighting	12.213152578730975	
+176	sentence	4	, but does not	21.373649135012453	
+176	sentence	5	italicize	24.764659740181482	
+176	sentence	6	it.	4.640109806474267	
+177	sentence	1	The teacher	14.008138257508524	
+177	sentence	2	dislikes	16.543924220889163	
+177	sentence	3	fighting	12.213152578730975	
+177	sentence	4	, but does not	21.373649135012453	
+177	sentence	5	randomize	21.403541439558918	
+177	sentence	6	it.	5.256742078305259	
+178	sentence	1	The teacher	14.008138257508524	
+178	sentence	2	dislikes	16.543924220889163	
+178	sentence	3	fighting	12.213152578730975	
+178	sentence	4	, but does not	21.373649135012453	
+178	sentence	5	stylize	23.150614772602236	
+178	sentence	6	it.	5.243115032964145	
+179	sentence	1	The teacher	14.008138257508524	
+179	sentence	2	dislikes	16.543924220889163	
+179	sentence	3	fighting	12.213152578730975	
+179	sentence	4	, but does not	21.373649135012453	
+179	sentence	5	temporize	22.432712709589477	
+179	sentence	6	it.	7.446432240379224	
+180	sentence	1	The teacher	14.008138257508524	
+180	sentence	2	dislikes	16.543924220889163	
+180	sentence	3	fighting	12.213152578730975	
+180	sentence	4	, but does not	21.373649135012453	
+180	sentence	5	ramify	25.280474191237175	
+180	sentence	6	it.	7.723805171760159	
+181	sentence	1	The teacher	14.008138257508524	
+181	sentence	2	dislikes	16.543924220889163	
+181	sentence	3	fighting	12.213152578730975	
+181	sentence	4	, but does not	21.373649135012453	
+181	sentence	5	reimpose	23.34335723427238	
+181	sentence	6	it.	4.8750845428685965	
+182	sentence	1	The teacher	14.008138257508524	
+182	sentence	2	dislikes	16.543924220889163	
+182	sentence	3	fighting	12.213152578730975	
+182	sentence	4	, but does not	21.373649135012453	
+182	sentence	5	sensitize	21.8132686074082	
+182	sentence	6	it.	9.509929100486698	
+183	sentence	1	The teacher	14.008138257508524	
+183	sentence	2	dislikes	16.543924220889163	
+183	sentence	3	fighting	12.213152578730975	
+183	sentence	4	, but does not	21.373649135012453	
+183	sentence	5	systematize	19.98359806954392	
+183	sentence	6	it.	3.923976456038644	
+184	sentence	1	The teacher	14.008138257508524	
+184	sentence	2	dislikes	16.543924220889163	
+184	sentence	3	fighting	12.213152578730975	
+184	sentence	4	, but does not	21.373649135012453	
+184	sentence	5	denationalize	32.54838039983188	
+184	sentence	6	it.	4.180153901561944	
+185	sentence	1	The teacher	14.008138257508524	
+185	sentence	2	dislikes	16.543924220889163	
+185	sentence	3	fighting	12.213152578730975	
+185	sentence	4	, but does not	21.373649135012453	
+185	sentence	5	digitalize	26.35235726661819	
+185	sentence	6	it.	4.229495036163881	
+186	sentence	1	The teacher	14.008138257508524	
+186	sentence	2	dislikes	16.543924220889163	
+186	sentence	3	fighting	12.213152578730975	
+186	sentence	4	, but does not	21.373649135012453	
+186	sentence	5	reify	22.555263247028044	
+186	sentence	6	it.	6.565815542571665	
+187	sentence	1	The teacher	14.008138257508524	
+187	sentence	2	dislikes	16.543924220889163	
+187	sentence	3	fighting	12.213152578730975	
+187	sentence	4	, but does not	21.373649135012453	
+187	sentence	5	secularize	26.320508616422497	
+187	sentence	6	it.	4.886309850490411	
+188	sentence	1	The teacher	14.008138257508524	
+188	sentence	2	dislikes	16.543924220889163	
+188	sentence	3	fighting	12.213152578730975	
+188	sentence	4	, but does not	21.373649135012453	
+188	sentence	5	spiritualize	26.921133302054795	
+188	sentence	6	it.	5.260361281210017	
+189	sentence	1	The teacher	14.008138257508524	
+189	sentence	2	dislikes	16.543924220889163	
+189	sentence	3	fighting	12.213152578730975	
+189	sentence	4	, but does not	21.373649135012453	
+189	sentence	5	alkalize	27.22733284748612	
+189	sentence	6	it.	6.303993110499095	
+190	sentence	1	The teacher	14.008138257508524	
+190	sentence	2	dislikes	16.543924220889163	
+190	sentence	3	fighting	12.213152578730975	
+190	sentence	4	, but does not	21.373649135012453	
+190	sentence	5	decentralize	24.283277054243946	
+190	sentence	6	it.	4.932279265222183	
+191	sentence	1	The teacher	14.008138257508524	
+191	sentence	2	dislikes	16.543924220889163	
+191	sentence	3	fighting	12.213152578730975	
+191	sentence	4	, but does not	21.373649135012453	
+191	sentence	5	decolonize	26.820867636954546	
+191	sentence	6	it.	6.953684747392192	
+192	sentence	1	The teacher	14.008138257508524	
+192	sentence	2	dislikes	16.543924220889163	
+192	sentence	3	fighting	12.213152578730975	
+192	sentence	4	, but does not	21.373649135012453	
+192	sentence	5	demilitarize	24.73297070407772	
+192	sentence	6	it.	7.023040191005636	
+193	sentence	1	The teacher	14.008138257508524	
+193	sentence	2	dislikes	16.543924220889163	
+193	sentence	3	fighting	12.213152578730975	
+193	sentence	4	, but does not	21.373649135012453	
+193	sentence	5	desexualize	25.093335547769254	
+193	sentence	6	it.	6.662611506060875	
+194	sentence	1	The teacher	14.008138257508524	
+194	sentence	2	dislikes	16.543924220889163	
+194	sentence	3	fighting	12.213152578730975	
+194	sentence	4	, but does not	21.373649135012453	
+194	sentence	5	desynchronize	24.99608304558441	
+194	sentence	6	it.	7.46800471220755	
+195	sentence	1	The teacher	14.008138257508524	
+195	sentence	2	dislikes	16.543924220889163	
+195	sentence	3	fighting	12.213152578730975	
+195	sentence	4	, but does not	21.373649135012453	
+195	sentence	5	devitalize	31.420312097262183	
+195	sentence	6	it.	6.131495027631651	
+196	sentence	1	The teacher	14.008138257508524	
+196	sentence	2	dislikes	16.543924220889163	
+196	sentence	3	fighting	12.213152578730975	
+196	sentence	4	, but does not	21.373649135012453	
+196	sentence	5	eroticize	23.608467157711853	
+196	sentence	6	it.	4.1781435963560085	
+197	sentence	1	The teacher	14.008138257508524	
+197	sentence	2	dislikes	16.543924220889163	
+197	sentence	3	fighting	12.213152578730975	
+197	sentence	4	, but does not	21.373649135012453	
+197	sentence	5	officialize	22.644469530143347	
+197	sentence	6	it.	3.377489544136509	
+198	sentence	1	The teacher	14.008138257508524	
+198	sentence	2	dislikes	16.543924220889163	
+198	sentence	3	fighting	12.213152578730975	
+198	sentence	4	, but does not	21.373649135012453	
+198	sentence	5	quantize	27.96029822595301	
+198	sentence	6	it.	4.71428076431187	
+199	sentence	1	The teacher	14.008138257508524	
+199	sentence	2	dislikes	16.543924220889163	
+199	sentence	3	fighting	12.213152578730975	
+199	sentence	4	, but does not	21.373649135012453	
+199	sentence	5	reharmonize	35.08002568741251	
+199	sentence	6	it.	6.9976235629652255	
+200	sentence	1	The teacher	14.008138257508524	
+200	sentence	2	dislikes	16.543924220889163	
+200	sentence	3	fighting	12.213152578730975	
+200	sentence	4	, but does not	21.373649135012453	
+200	sentence	5	remilitarize	22.626403030798404	
+200	sentence	6	it.	8.802795774153376	
+201	sentence	1	The teacher	14.008138257508524	
+201	sentence	2	dislikes	16.543924220889163	
+201	sentence	3	fighting	12.213152578730975	
+201	sentence	4	, but does not	21.373649135012453	
+201	sentence	5	solarize	27.99458210748926	
+201	sentence	6	it.	6.898141746417491	
+202	sentence	1	The teacher	14.008138257508524	
+202	sentence	2	dislikes	16.543924220889163	
+202	sentence	3	fighting	12.213152578730975	
+202	sentence	4	, but does not	21.373649135012453	
+202	sentence	5	syncretize	32.260855332570515	
+202	sentence	6	it.	8.96614231620311	
+203	sentence	1	The teacher	14.008138257508524	
+203	sentence	2	dislikes	16.543924220889163	
+203	sentence	3	fighting	12.213152578730975	
+203	sentence	4	, but does not	21.373649135012453	
+203	sentence	5	totalize	19.850307903489576	
+203	sentence	6	it.	6.0777671315541575	
+204	sentence	1	The teacher	14.008138257508524	
+204	sentence	2	dislikes	16.543924220889163	
+204	sentence	3	fighting	12.213152578730975	
+204	sentence	4	, but does not	21.373649135012453	
+204	sentence	5	alchemize	23.350812424213306	
+204	sentence	6	it.	6.433568967242756	
+205	sentence	1	The teacher	14.008138257508524	
+205	sentence	2	dislikes	16.543924220889163	
+205	sentence	3	fighting	12.213152578730975	
+205	sentence	4	, but does not	21.373649135012453	
+205	sentence	5	aluminize	31.887135183432136	
+205	sentence	6	it.	6.362808425371762	
+206	sentence	1	The teacher	14.008138257508524	
+206	sentence	2	dislikes	16.543924220889163	
+206	sentence	3	fighting	12.213152578730975	
+206	sentence	4	, but does not	21.373649135012453	
+206	sentence	5	analogize	22.27166166297647	
+206	sentence	6	it.	6.001393591906953	
+207	sentence	1	The teacher	14.008138257508524	
+207	sentence	2	dislikes	16.543924220889163	
+207	sentence	3	fighting	12.213152578730975	
+207	sentence	4	, but does not	21.373649135012453	
+207	sentence	5	attitudinize	39.860108389805696	
+207	sentence	6	it.	7.568457198836754	
+208	sentence	1	The teacher	14.008138257508524	
+208	sentence	2	dislikes	16.543924220889163	
+208	sentence	3	fighting	12.213152578730975	
+208	sentence	4	, but does not	21.373649135012453	
+208	sentence	5	deionize	27.47760410780915	
+208	sentence	6	it.	6.764903691106358	
+209	sentence	1	The teacher	14.008138257508524	
+209	sentence	2	dislikes	16.543924220889163	
+209	sentence	3	fighting	12.213152578730975	
+209	sentence	4	, but does not	21.373649135012453	
+209	sentence	5	demythologize	28.859215662132378	
+209	sentence	6	it.	4.512689064328567	
+210	sentence	1	The teacher	14.008138257508524	
+210	sentence	2	dislikes	16.543924220889163	
+210	sentence	3	fighting	12.213152578730975	
+210	sentence	4	, but does not	21.373649135012453	
+210	sentence	5	deoxidize	34.22617740128114	
+210	sentence	6	it.	7.12636306807774	
+211	sentence	1	The teacher	14.008138257508524	
+211	sentence	2	dislikes	16.543924220889163	
+211	sentence	3	fighting	12.213152578730975	
+211	sentence	4	, but does not	21.373649135012453	
+211	sentence	5	dichotomize	24.253391607505684	
+211	sentence	6	it.	5.502904630103517	
+212	sentence	1	The teacher	14.008138257508524	
+212	sentence	2	dislikes	16.543924220889163	
+212	sentence	3	fighting	12.213152578730975	
+212	sentence	4	, but does not	21.373649135012453	
+212	sentence	5	dogmatize	27.15694789422678	
+212	sentence	6	it.	6.844869604364783	
+213	sentence	1	The teacher	14.008138257508524	
+213	sentence	2	dislikes	16.543924220889163	
+213	sentence	3	fighting	12.213152578730975	
+213	sentence	4	, but does not	21.373649135012453	
+213	sentence	5	factorize	35.32573179725538	
+213	sentence	6	it.	5.979741148145977	
+214	sentence	1	The teacher	14.008138257508524	
+214	sentence	2	dislikes	16.543924220889163	
+214	sentence	3	fighting	12.213152578730975	
+214	sentence	4	, but does not	21.373649135012453	
+214	sentence	5	iodize	28.308042943171582	
+214	sentence	6	it.	5.356443516698145	
+215	sentence	1	The teacher	14.008138257508524	
+215	sentence	2	dislikes	16.543924220889163	
+215	sentence	3	fighting	12.213152578730975	
+215	sentence	4	, but does not	21.373649135012453	
+215	sentence	5	overcapitalize	33.578976341895434	
+215	sentence	6	it.	6.907780342102447	
+216	sentence	1	The teacher	14.008138257508524	
+216	sentence	2	dislikes	16.543924220889163	
+216	sentence	3	fighting	12.213152578730975	
+216	sentence	4	, but does not	21.373649135012453	
+216	sentence	5	overspecialize	26.371517767759485	
+216	sentence	6	it.	7.118265092979215	
+217	sentence	1	The teacher	14.008138257508524	
+217	sentence	2	dislikes	16.543924220889163	
+217	sentence	3	fighting	12.213152578730975	
+217	sentence	4	, but does not	21.373649135012453	
+217	sentence	5	relativize	23.112713203758343	
+217	sentence	6	it.	5.18525473775172	
+218	sentence	1	The teacher	14.008138257508524	
+218	sentence	2	dislikes	16.543924220889163	
+218	sentence	3	fighting	12.213152578730975	
+218	sentence	4	, but does not	21.373649135012453	
+218	sentence	5	schematize	28.184608522396736	
+218	sentence	6	it.	6.288559731375969	
+219	sentence	1	The teacher	14.008138257508524	
+219	sentence	2	dislikes	16.543924220889163	
+219	sentence	3	fighting	12.213152578730975	
+219	sentence	4	, but does not	21.373649135012453	
+219	sentence	5	sensualize	23.04780691907597	
+219	sentence	6	it.	4.916133361976532	
+220	sentence	1	The teacher	14.008138257508524	
+220	sentence	2	dislikes	16.543924220889163	
+220	sentence	3	fighting	12.213152578730975	
+220	sentence	4	, but does not	21.373649135012453	
+220	sentence	5	signalize	32.72501703021402	
+220	sentence	6	it.	5.895003920204664	
+221	sentence	1	The teacher	14.008138257508524	
+221	sentence	2	dislikes	16.543924220889163	
+221	sentence	3	fighting	12.213152578730975	
+221	sentence	4	, but does not	21.373649135012453	
+221	sentence	5	singularize	27.066436284289253	
+221	sentence	6	it.	5.091142563529224	
+222	sentence	1	The teacher	14.008138257508524	
+222	sentence	2	dislikes	16.543924220889163	
+222	sentence	3	fighting	12.213152578730975	
+222	sentence	4	, but does not	21.373649135012453	
+222	sentence	5	steepen	25.135362109745174	
+222	sentence	6	it.	7.878223234490348	
+223	sentence	1	The teacher	14.008138257508524	
+223	sentence	2	dislikes	16.543924220889163	
+223	sentence	3	fighting	12.213152578730975	
+223	sentence	4	, but does not	21.373649135012453	
+223	sentence	5	subtilize	27.32089304339067	
+223	sentence	6	it.	5.203896969174645	
+224	sentence	1	The teacher	14.008138257508524	
+224	sentence	2	dislikes	16.543924220889163	
+224	sentence	3	fighting	12.213152578730975	
+224	sentence	4	, but does not	21.373649135012453	
+224	sentence	5	syllogize	27.55973076809736	
+224	sentence	6	it.	5.463558267256472	
+225	sentence	1	The teacher	14.008138257508524	
+225	sentence	2	dislikes	16.543924220889163	
+225	sentence	3	fighting	12.213152578730975	
+225	sentence	4	, but does not	21.373649135012453	
+225	sentence	5	loathe	13.669529323197281	
+225	sentence	6	it.	4.299632312908147	
+226	sentence	1	The teacher	14.008138257508524	
+226	sentence	2	dislikes	16.543924220889163	
+226	sentence	3	fighting	12.213152578730975	
+226	sentence	4	, but does not	21.373649135012453	
+226	sentence	5	love	7.246041839212198	
+226	sentence	6	it.	5.493732623350352	
+227	sentence	1	The teacher	14.008138257508524	
+227	sentence	2	dislikes	16.543924220889163	
+227	sentence	3	fighting	12.213152578730975	
+227	sentence	4	, but does not	21.373649135012453	
+227	sentence	5	will	13.077602047444175	
+227	sentence	6	it.	8.119594349635568	
+228	sentence	1	The teacher	14.008138257508524	
+228	sentence	2	dislikes	16.543924220889163	
+228	sentence	3	fighting	12.213152578730975	
+228	sentence	4	, but does not	21.373649135012453	
+228	sentence	5	have to	9.116041190816578	
+228	sentence	6	it.	14.119850276307062	
+229	sentence	1	The teacher	14.008138257508524	
+229	sentence	2	dislikes	16.543924220889163	
+229	sentence	3	fighting	12.213152578730975	
+229	sentence	4	, but does not	21.373649135012453	
+229	sentence	5	win	10.950256456221233	
+229	sentence	6	it.	7.9439534558062554	
+230	sentence	1	The teacher	14.008138257508524	
+230	sentence	2	dislikes	16.543924220889163	
+230	sentence	3	fighting	12.213152578730975	
+230	sentence	4	, but does not	21.373649135012453	
+230	sentence	5	finish	11.772295003231665	
+230	sentence	6	it.	6.290888376468651	

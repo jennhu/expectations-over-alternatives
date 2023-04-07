@@ -1,0 +1,1417 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	The candidate	12.960794182700571	
+1	sentence	2	tried	11.099284238708082	
+1	sentence	3		0.0	
+1	sentence	4	, but did not	23.55221658786476	
+1	sentence	5	have	5.985076049975741	
+1	sentence	6	.	8.790356612981771	
+2	sentence	1	The candidate	12.960794182700571	
+2	sentence	2	tried	11.099284238708082	
+2	sentence	3		0.0	
+2	sentence	4	, but did not	23.55221658786476	
+2	sentence	5	know	8.1042325152952	
+2	sentence	6	.	6.84090024478287	
+3	sentence	1	The candidate	12.960794182700571	
+3	sentence	2	tried	11.099284238708082	
+3	sentence	3		0.0	
+3	sentence	4	, but did not	23.55221658786476	
+3	sentence	5	get	3.426238370488874	
+3	sentence	6	.	7.2496961265777315	
+4	sentence	1	The candidate	12.960794182700571	
+4	sentence	2	tried	11.099284238708082	
+4	sentence	3		0.0	
+4	sentence	4	, but did not	23.55221658786476	
+4	sentence	5	go	7.0459861162837525	
+4	sentence	6	.	10.013709796474533	
+5	sentence	1	The candidate	12.960794182700571	
+5	sentence	2	tried	11.099284238708082	
+5	sentence	3		0.0	
+5	sentence	4	, but did not	23.55221658786476	
+5	sentence	5	come	7.368686107195485	
+5	sentence	6	.	12.50193896675377	
+6	sentence	1	The candidate	12.960794182700571	
+6	sentence	2	tried	11.099284238708082	
+6	sentence	3		0.0	
+6	sentence	4	, but did not	23.55221658786476	
+6	sentence	5	see	7.499117749609839	
+6	sentence	6	.	9.203943243499067	
+7	sentence	1	The candidate	12.960794182700571	
+7	sentence	2	tried	11.099284238708082	
+7	sentence	3		0.0	
+7	sentence	4	, but did not	23.55221658786476	
+7	sentence	5	let	10.61369328778875	
+7	sentence	6	.	13.025007001087916	
+8	sentence	1	The candidate	12.960794182700571	
+8	sentence	2	tried	11.099284238708082	
+8	sentence	3		0.0	
+8	sentence	4	, but did not	23.55221658786476	
+8	sentence	5	take	7.424909299554347	
+8	sentence	6	.	7.3325326022617086	
+9	sentence	1	The candidate	12.960794182700571	
+9	sentence	2	tried	11.099284238708082	
+9	sentence	3		0.0	
+9	sentence	4	, but did not	23.55221658786476	
+9	sentence	5	say	9.390299516390387	
+9	sentence	6	.	6.307610249612042	
+10	sentence	1	The candidate	12.960794182700571	
+10	sentence	2	tried	11.099284238708082	
+10	sentence	3		0.0	
+10	sentence	4	, but did not	23.55221658786476	
+10	sentence	5	make	5.93646962525829	
+10	sentence	6	.	10.440179991333263	
+11	sentence	1	The candidate	12.960794182700571	
+11	sentence	2	tried	11.099284238708082	
+11	sentence	3		0.0	
+11	sentence	4	, but did not	23.55221658786476	
+11	sentence	5	give	7.586930715279182	
+11	sentence	6	.	11.061580138194126	
+12	sentence	1	The candidate	12.960794182700571	
+12	sentence	2	tried	11.099284238708082	
+12	sentence	3		0.0	
+12	sentence	4	, but did not	23.55221658786476	
+12	sentence	5	find	7.670252869969196	
+12	sentence	6	.	7.818961452656042	
+13	sentence	1	The candidate	12.960794182700571	
+13	sentence	2	tried	11.099284238708082	
+13	sentence	3		0.0	
+13	sentence	4	, but did not	23.55221658786476	
+13	sentence	5	keep	10.57010600475408	
+13	sentence	6	.	7.049758039782475	
+14	sentence	1	The candidate	12.960794182700571	
+14	sentence	2	tried	11.099284238708082	
+14	sentence	3		0.0	
+14	sentence	4	, but did not	23.55221658786476	
+14	sentence	5	leave	10.67425319467177	
+14	sentence	6	.	7.83925058994363	
+15	sentence	1	The candidate	12.960794182700571	
+15	sentence	2	tried	11.099284238708082	
+15	sentence	3		0.0	
+15	sentence	4	, but did not	23.55221658786476	
+15	sentence	5	believe	9.495481353935666	
+15	sentence	6	.	8.592346107737386	
+16	sentence	1	The candidate	12.960794182700571	
+16	sentence	2	tried	11.099284238708082	
+16	sentence	3		0.0	
+16	sentence	4	, but did not	23.55221658786476	
+16	sentence	5	remember	12.35925390443074	
+16	sentence	6	.	6.464425406529958	
+17	sentence	1	The candidate	12.960794182700571	
+17	sentence	2	tried	11.099284238708082	
+17	sentence	3		0.0	
+17	sentence	4	, but did not	23.55221658786476	
+17	sentence	5	run	6.828357894020747	
+17	sentence	6	.	5.100558269698661	
+18	sentence	1	The candidate	12.960794182700571	
+18	sentence	2	tried	11.099284238708082	
+18	sentence	3		0.0	
+18	sentence	4	, but did not	23.55221658786476	
+18	sentence	5	happen	10.603038618602499	
+18	sentence	6	.	6.0741630631226755	
+19	sentence	1	The candidate	12.960794182700571	
+19	sentence	2	tried	11.099284238708082	
+19	sentence	3		0.0	
+19	sentence	4	, but did not	23.55221658786476	
+19	sentence	5	buy	10.817716994437905	
+19	sentence	6	.	5.908697178866361	
+20	sentence	1	The candidate	12.960794182700571	
+20	sentence	2	tried	11.099284238708082	
+20	sentence	3		0.0	
+20	sentence	4	, but did not	23.55221658786476	
+20	sentence	5	save	9.68000085211577	
+20	sentence	6	.	5.984289057365393	
+21	sentence	1	The candidate	12.960794182700571	
+21	sentence	2	tried	11.099284238708082	
+21	sentence	3		0.0	
+21	sentence	4	, but did not	23.55221658786476	
+21	sentence	5	lose	8.47089402348988	
+21	sentence	6	.	5.535155676706564	
+22	sentence	1	The candidate	12.960794182700571	
+22	sentence	2	tried	11.099284238708082	
+22	sentence	3		0.0	
+22	sentence	4	, but did not	23.55221658786476	
+22	sentence	5	follow	8.297249332289134	
+22	sentence	6	.	9.237693118904385	
+23	sentence	1	The candidate	12.960794182700571	
+23	sentence	2	tried	11.099284238708082	
+23	sentence	3		0.0	
+23	sentence	4	, but did not	23.55221658786476	
+23	sentence	5	expect	11.648032722469063	
+23	sentence	6	.	8.708915260561593	
+24	sentence	1	The candidate	12.960794182700571	
+24	sentence	2	tried	11.099284238708082	
+24	sentence	3		0.0	
+24	sentence	4	, but did not	23.55221658786476	
+24	sentence	5	realize	9.556635632860067	
+24	sentence	6	.	8.42246508486812	
+25	sentence	1	The candidate	12.960794182700571	
+25	sentence	2	tried	11.099284238708082	
+25	sentence	3		0.0	
+25	sentence	4	, but did not	23.55221658786476	
+25	sentence	5	slow	16.203322061399	
+25	sentence	6	.	10.606584212932686	
+26	sentence	1	The candidate	12.960794182700571	
+26	sentence	2	tried	11.099284238708082	
+26	sentence	3		0.0	
+26	sentence	4	, but did not	23.55221658786476	
+26	sentence	5	allow	10.96369036504543	
+26	sentence	6	.	8.09017602927488	
+27	sentence	1	The candidate	12.960794182700571	
+27	sentence	2	tried	11.099284238708082	
+27	sentence	3		0.0	
+27	sentence	4	, but did not	23.55221658786476	
+27	sentence	5	consider	10.564294367016124	
+27	sentence	6	.	5.9479057836100635	
+28	sentence	1	The candidate	12.960794182700571	
+28	sentence	2	tried	11.099284238708082	
+28	sentence	3		0.0	
+28	sentence	4	, but did not	23.55221658786476	
+28	sentence	5	apologize	14.275135131597603	
+28	sentence	6	.	4.747232296251883	
+29	sentence	1	The candidate	12.960794182700571	
+29	sentence	2	tried	11.099284238708082	
+29	sentence	3		0.0	
+29	sentence	4	, but did not	23.55221658786476	
+29	sentence	5	recognize	11.968817514580786	
+29	sentence	6	.	7.57927404766277	
+30	sentence	1	The candidate	12.960794182700571	
+30	sentence	2	tried	11.099284238708082	
+30	sentence	3		0.0	
+30	sentence	4	, but did not	23.55221658786476	
+30	sentence	5	settle	12.725387081921971	
+30	sentence	6	.	5.283696403227035	
+31	sentence	1	The candidate	12.960794182700571	
+31	sentence	2	tried	11.099284238708082	
+31	sentence	3		0.0	
+31	sentence	4	, but did not	23.55221658786476	
+31	sentence	5	add	10.945330873100522	
+31	sentence	6	.	5.407353992989204	
+32	sentence	1	The candidate	12.960794182700571	
+32	sentence	2	tried	11.099284238708082	
+32	sentence	3		0.0	
+32	sentence	4	, but did not	23.55221658786476	
+32	sentence	5	assume	16.602894169662786	
+32	sentence	6	.	6.5633505152368485	
+33	sentence	1	The candidate	12.960794182700571	
+33	sentence	2	tried	11.099284238708082	
+33	sentence	3		0.0	
+33	sentence	4	, but did not	23.55221658786476	
+33	sentence	5	appear	8.895517812608949	
+33	sentence	6	.	7.535103399476373	
+34	sentence	1	The candidate	12.960794182700571	
+34	sentence	2	tried	11.099284238708082	
+34	sentence	3		0.0	
+34	sentence	4	, but did not	23.55221658786476	
+34	sentence	5	remove	11.57734647710324	
+34	sentence	6	.	5.780321761025722	
+35	sentence	1	The candidate	12.960794182700571	
+35	sentence	2	tried	11.099284238708082	
+35	sentence	3		0.0	
+35	sentence	4	, but did not	23.55221658786476	
+35	sentence	5	identify	13.252991330655275	
+35	sentence	6	.	8.569518506523064	
+36	sentence	1	The candidate	12.960794182700571	
+36	sentence	2	tried	11.099284238708082	
+36	sentence	3		0.0	
+36	sentence	4	, but did not	23.55221658786476	
+36	sentence	5	replace	13.756512504822958	
+36	sentence	6	.	5.844384610541515	
+37	sentence	1	The candidate	12.960794182700571	
+37	sentence	2	tried	11.099284238708082	
+37	sentence	3		0.0	
+37	sentence	4	, but did not	23.55221658786476	
+37	sentence	5	apply	11.594407156068831	
+37	sentence	6	.	4.512582607067684	
+38	sentence	1	The candidate	12.960794182700571	
+38	sentence	2	tried	11.099284238708082	
+38	sentence	3		0.0	
+38	sentence	4	, but did not	23.55221658786476	
+38	sentence	5	succeed	1.4814310373080957	
+38	sentence	6	.	4.4555160117889905	
+39	sentence	1	The candidate	12.960794182700571	
+39	sentence	2	tried	11.099284238708082	
+39	sentence	3		0.0	
+39	sentence	4	, but did not	23.55221658786476	
+39	sentence	5	develop	13.330523861386643	
+39	sentence	6	.	6.818235683121566	
+40	sentence	1	The candidate	12.960794182700571	
+40	sentence	2	tried	11.099284238708082	
+40	sentence	3		0.0	
+40	sentence	4	, but did not	23.55221658786476	
+40	sentence	5	approve	13.171166112958371	
+40	sentence	6	.	4.999031407449517	
+41	sentence	1	The candidate	12.960794182700571	
+41	sentence	2	tried	11.099284238708082	
+41	sentence	3		0.0	
+41	sentence	4	, but did not	23.55221658786476	
+41	sentence	5	expose	16.881192367705363	
+41	sentence	6	.	8.636019382097487	
+42	sentence	1	The candidate	12.960794182700571	
+42	sentence	2	tried	11.099284238708082	
+42	sentence	3		0.0	
+42	sentence	4	, but did not	23.55221658786476	
+42	sentence	5	establish	13.756292367029854	
+42	sentence	6	.	5.951573829587666	
+43	sentence	1	The candidate	12.960794182700571	
+43	sentence	2	tried	11.099284238708082	
+43	sentence	3		0.0	
+43	sentence	4	, but did not	23.55221658786476	
+43	sentence	5	reduce	13.684351336243337	
+43	sentence	6	.	7.778313697089919	
+44	sentence	1	The candidate	12.960794182700571	
+44	sentence	2	tried	11.099284238708082	
+44	sentence	3		0.0	
+44	sentence	4	, but did not	23.55221658786476	
+44	sentence	5	participate	11.384131536095513	
+44	sentence	6	.	6.266535977071779	
+45	sentence	1	The candidate	12.960794182700571	
+45	sentence	2	tried	11.099284238708082	
+45	sentence	3		0.0	
+45	sentence	4	, but did not	23.55221658786476	
+45	sentence	5	organize	15.786050874569618	
+45	sentence	6	.	6.571398615366625	
+46	sentence	1	The candidate	12.960794182700571	
+46	sentence	2	tried	11.099284238708082	
+46	sentence	3		0.0	
+46	sentence	4	, but did not	23.55221658786476	
+46	sentence	5	obtain	10.19091865613176	
+46	sentence	6	.	6.799444170757692	
+47	sentence	1	The candidate	12.960794182700571	
+47	sentence	2	tried	11.099284238708082	
+47	sentence	3		0.0	
+47	sentence	4	, but did not	23.55221658786476	
+47	sentence	5	kitten	26.560342937595266	
+47	sentence	6	.	6.8477520335932445	
+48	sentence	1	The candidate	12.960794182700571	
+48	sentence	2	tried	11.099284238708082	
+48	sentence	3		0.0	
+48	sentence	4	, but did not	23.55221658786476	
+48	sentence	5	acquire	13.977200642410114	
+48	sentence	6	.	6.094997041448196	
+49	sentence	1	The candidate	12.960794182700571	
+49	sentence	2	tried	11.099284238708082	
+49	sentence	3		0.0	
+49	sentence	4	, but did not	23.55221658786476	
+49	sentence	5	qualify	10.914533595845217	
+49	sentence	6	.	4.405435007823042	
+50	sentence	1	The candidate	12.960794182700571	
+50	sentence	2	tried	11.099284238708082	
+50	sentence	3		0.0	
+50	sentence	4	, but did not	23.55221658786476	
+50	sentence	5	criticize	16.8002917287395	
+50	sentence	6	.	8.70589662107365	
+51	sentence	1	The candidate	12.960794182700571	
+51	sentence	2	tried	11.099284238708082	
+51	sentence	3		0.0	
+51	sentence	4	, but did not	23.55221658786476	
+51	sentence	5	rave	22.061408873700056	
+51	sentence	6	.	8.56323494839114	
+52	sentence	1	The candidate	12.960794182700571	
+52	sentence	2	tried	11.099284238708082	
+52	sentence	3		0.0	
+52	sentence	4	, but did not	23.55221658786476	
+52	sentence	5	enlighten	17.70509201892584	
+52	sentence	6	.	8.805879079118045	
+53	sentence	1	The candidate	12.960794182700571	
+53	sentence	2	tried	11.099284238708082	
+53	sentence	3		0.0	
+53	sentence	4	, but did not	23.55221658786476	
+53	sentence	5	disclose	12.320883887092645	
+53	sentence	6	.	6.13369932926776	
+54	sentence	1	The candidate	12.960794182700571	
+54	sentence	2	tried	11.099284238708082	
+54	sentence	3		0.0	
+54	sentence	4	, but did not	23.55221658786476	
+54	sentence	5	reopen	17.56623916606693	
+54	sentence	6	.	6.583572235325298	
+55	sentence	1	The candidate	12.960794182700571	
+55	sentence	2	tried	11.099284238708082	
+55	sentence	3		0.0	
+55	sentence	4	, but did not	23.55221658786476	
+55	sentence	5	stabilize	17.035663057126715	
+55	sentence	6	.	4.683595275779626	
+56	sentence	1	The candidate	12.960794182700571	
+56	sentence	2	tried	11.099284238708082	
+56	sentence	3		0.0	
+56	sentence	4	, but did not	23.55221658786476	
+56	sentence	5	soar	20.348604760672	
+56	sentence	6	.	8.176476235547234	
+57	sentence	1	The candidate	12.960794182700571	
+57	sentence	2	tried	11.099284238708082	
+57	sentence	3		0.0	
+57	sentence	4	, but did not	23.55221658786476	
+57	sentence	5	authorize	14.886898058634717	
+57	sentence	6	.	7.410996591030149	
+58	sentence	1	The candidate	12.960794182700571	
+58	sentence	2	tried	11.099284238708082	
+58	sentence	3		0.0	
+58	sentence	4	, but did not	23.55221658786476	
+58	sentence	5	sympathize	22.414435167377704	
+58	sentence	6	.	7.03288791759404	
+59	sentence	1	The candidate	12.960794182700571	
+59	sentence	2	tried	11.099284238708082	
+59	sentence	3		0.0	
+59	sentence	4	, but did not	23.55221658786476	
+59	sentence	5	sharpen	20.96886806727668	
+59	sentence	6	.	8.324198325748732	
+60	sentence	1	The candidate	12.960794182700571	
+60	sentence	2	tried	11.099284238708082	
+60	sentence	3		0.0	
+60	sentence	4	, but did not	23.55221658786476	
+60	sentence	5	specialize	19.58221704775836	
+60	sentence	6	.	6.175583984058888	
+61	sentence	1	The candidate	12.960794182700571	
+61	sentence	2	tried	11.099284238708082	
+61	sentence	3		0.0	
+61	sentence	4	, but did not	23.55221658786476	
+61	sentence	5	minimize	20.28753853686484	
+61	sentence	6	.	5.910701120714214	
+62	sentence	1	The candidate	12.960794182700571	
+62	sentence	2	tried	11.099284238708082	
+62	sentence	3		0.0	
+62	sentence	4	, but did not	23.55221658786476	
+62	sentence	5	socialize	20.266866222231133	
+62	sentence	6	.	6.170271096008434	
+63	sentence	1	The candidate	12.960794182700571	
+63	sentence	2	tried	11.099284238708082	
+63	sentence	3		0.0	
+63	sentence	4	, but did not	23.55221658786476	
+63	sentence	5	utilize	15.260603976208737	
+63	sentence	6	.	5.065721807905192	
+64	sentence	1	The candidate	12.960794182700571	
+64	sentence	2	tried	11.099284238708082	
+64	sentence	3		0.0	
+64	sentence	4	, but did not	23.55221658786476	
+64	sentence	5	rectify	18.487430541593756	
+64	sentence	6	.	6.857365175845872	
+65	sentence	1	The candidate	12.960794182700571	
+65	sentence	2	tried	11.099284238708082	
+65	sentence	3		0.0	
+65	sentence	4	, but did not	23.55221658786476	
+65	sentence	5	terrorize	23.590036937901782	
+65	sentence	6	.	8.618589284397844	
+66	sentence	1	The candidate	12.960794182700571	
+66	sentence	2	tried	11.099284238708082	
+66	sentence	3		0.0	
+66	sentence	4	, but did not	23.55221658786476	
+66	sentence	5	enslave	22.06539637610802	
+66	sentence	6	.	8.147238496969955	
+67	sentence	1	The candidate	12.960794182700571	
+67	sentence	2	tried	11.099284238708082	
+67	sentence	3		0.0	
+67	sentence	4	, but did not	23.55221658786476	
+67	sentence	5	finalize	13.139370540908303	
+67	sentence	6	.	5.468907959594211	
+68	sentence	1	The candidate	12.960794182700571	
+68	sentence	2	tried	11.099284238708082	
+68	sentence	3		0.0	
+68	sentence	4	, but did not	23.55221658786476	
+68	sentence	5	maximize	17.844911598357783	
+68	sentence	6	.	5.473428351589488	
+69	sentence	1	The candidate	12.960794182700571	
+69	sentence	2	tried	11.099284238708082	
+69	sentence	3		0.0	
+69	sentence	4	, but did not	23.55221658786476	
+69	sentence	5	summarize	19.347065857164242	
+69	sentence	6	.	6.2635462306691805	
+70	sentence	1	The candidate	12.960794182700571	
+70	sentence	2	tried	11.099284238708082	
+70	sentence	3		0.0	
+70	sentence	4	, but did not	23.55221658786476	
+70	sentence	5	repose	20.83162835457925	
+70	sentence	6	.	4.4070179361415835	
+71	sentence	1	The candidate	12.960794182700571	
+71	sentence	2	tried	11.099284238708082	
+71	sentence	3		0.0	
+71	sentence	4	, but did not	23.55221658786476	
+71	sentence	5	symbolize	22.207622504070834	
+71	sentence	6	.	6.148123858160925	
+72	sentence	1	The candidate	12.960794182700571	
+72	sentence	2	tried	11.099284238708082	
+72	sentence	3		0.0	
+72	sentence	4	, but did not	23.55221658786476	
+72	sentence	5	sterilize	21.029018840869444	
+72	sentence	6	.	7.1665748476239255	
+73	sentence	1	The candidate	12.960794182700571	
+73	sentence	2	tried	11.099284238708082	
+73	sentence	3		0.0	
+73	sentence	4	, but did not	23.55221658786476	
+73	sentence	5	revolutionize	21.557039223124338	
+73	sentence	6	.	9.052540724569106	
+74	sentence	1	The candidate	12.960794182700571	
+74	sentence	2	tried	11.099284238708082	
+74	sentence	3		0.0	
+74	sentence	4	, but did not	23.55221658786476	
+74	sentence	5	synchronize	19.97206911580309	
+74	sentence	6	.	5.3445854849038055	
+75	sentence	1	The candidate	12.960794182700571	
+75	sentence	2	tried	11.099284238708082	
+75	sentence	3		0.0	
+75	sentence	4	, but did not	23.55221658786476	
+75	sentence	5	fertilize	21.284776874451868	
+75	sentence	6	.	7.126559300282374	
+76	sentence	1	The candidate	12.960794182700571	
+76	sentence	2	tried	11.099284238708082	
+76	sentence	3		0.0	
+76	sentence	4	, but did not	23.55221658786476	
+76	sentence	5	rationalize	20.648914975202842	
+76	sentence	6	.	5.15363349161613	
+77	sentence	1	The candidate	12.960794182700571	
+77	sentence	2	tried	11.099284238708082	
+77	sentence	3		0.0	
+77	sentence	4	, but did not	23.55221658786476	
+77	sentence	5	antagonize	19.73498316338243	
+77	sentence	6	.	8.266119784552362	
+78	sentence	1	The candidate	12.960794182700571	
+78	sentence	2	tried	11.099284238708082	
+78	sentence	3		0.0	
+78	sentence	4	, but did not	23.55221658786476	
+78	sentence	5	kindle	18.139720044891863	
+78	sentence	6	.	6.170025504783002	
+79	sentence	1	The candidate	12.960794182700571	
+79	sentence	2	tried	11.099284238708082	
+79	sentence	3		0.0	
+79	sentence	4	, but did not	23.55221658786476	
+79	sentence	5	familiarize	20.869577723851165	
+79	sentence	6	.	15.780341050560972	
+80	sentence	1	The candidate	12.960794182700571	
+80	sentence	2	tried	11.099284238708082	
+80	sentence	3		0.0	
+80	sentence	4	, but did not	23.55221658786476	
+80	sentence	5	synthesize	20.429376423398633	
+80	sentence	6	.	5.3805185080791755	
+81	sentence	1	The candidate	12.960794182700571	
+81	sentence	2	tried	11.099284238708082	
+81	sentence	3		0.0	
+81	sentence	4	, but did not	23.55221658786476	
+81	sentence	5	reorganize	23.063343853252746	
+81	sentence	6	.	5.6690427945420545	
+82	sentence	1	The candidate	12.960794182700571	
+82	sentence	2	tried	11.099284238708082	
+82	sentence	3		0.0	
+82	sentence	4	, but did not	23.55221658786476	
+82	sentence	5	ripen	26.91033519933772	
+82	sentence	6	.	5.929371557291881	
+83	sentence	1	The candidate	12.960794182700571	
+83	sentence	2	tried	11.099284238708082	
+83	sentence	3		0.0	
+83	sentence	4	, but did not	23.55221658786476	
+83	sentence	5	deepen	20.864761844163873	
+83	sentence	6	.	7.013904472591804	
+84	sentence	1	The candidate	12.960794182700571	
+84	sentence	2	tried	11.099284238708082	
+84	sentence	3		0.0	
+84	sentence	4	, but did not	23.55221658786476	
+84	sentence	5	destabilize	22.32659367408615	
+84	sentence	6	.	8.489988225319273	
+85	sentence	1	The candidate	12.960794182700571	
+85	sentence	2	tried	11.099284238708082	
+85	sentence	3		0.0	
+85	sentence	4	, but did not	23.55221658786476	
+85	sentence	5	enclose	19.98847653546456	
+85	sentence	6	.	4.348687268379048	
+86	sentence	1	The candidate	12.960794182700571	
+86	sentence	2	tried	11.099284238708082	
+86	sentence	3		0.0	
+86	sentence	4	, but did not	23.55221658786476	
+86	sentence	5	dampen	22.049258428403586	
+86	sentence	6	.	10.314662237219363	
+87	sentence	1	The candidate	12.960794182700571	
+87	sentence	2	tried	11.099284238708082	
+87	sentence	3		0.0	
+87	sentence	4	, but did not	23.55221658786476	
+87	sentence	5	subsidize	23.326292707194977	
+87	sentence	6	.	7.0292418853957495	
+88	sentence	1	The candidate	12.960794182700571	
+88	sentence	2	tried	11.099284238708082	
+88	sentence	3		0.0	
+88	sentence	4	, but did not	23.55221658786476	
+88	sentence	5	idolize	22.038818683786335	
+88	sentence	6	.	7.929540793716001	
+89	sentence	1	The candidate	12.960794182700571	
+89	sentence	2	tried	11.099284238708082	
+89	sentence	3		0.0	
+89	sentence	4	, but did not	23.55221658786476	
+89	sentence	5	quantify	20.187023620533374	
+89	sentence	6	.	4.7918370286490575	
+90	sentence	1	The candidate	12.960794182700571	
+90	sentence	2	tried	11.099284238708082	
+90	sentence	3		0.0	
+90	sentence	4	, but did not	23.55221658786476	
+90	sentence	5	engrave	22.08136402067967	
+90	sentence	6	.	6.490883905469295	
+91	sentence	1	The candidate	12.960794182700571	
+91	sentence	2	tried	11.099284238708082	
+91	sentence	3		0.0	
+91	sentence	4	, but did not	23.55221658786476	
+91	sentence	5	fraternize	24.916412437286432	
+91	sentence	6	.	6.150574954901022	
+92	sentence	1	The candidate	12.960794182700571	
+92	sentence	2	tried	11.099284238708082	
+92	sentence	3		0.0	
+92	sentence	4	, but did not	23.55221658786476	
+92	sentence	5	immobilize	22.973592578614685	
+92	sentence	6	.	6.701222815058132	
+93	sentence	1	The candidate	12.960794182700571	
+93	sentence	2	tried	11.099284238708082	
+93	sentence	3		0.0	
+93	sentence	4	, but did not	23.55221658786476	
+93	sentence	5	downsize	22.33478148862192	
+93	sentence	6	.	5.2635998865084135	
+94	sentence	1	The candidate	12.960794182700571	
+94	sentence	2	tried	11.099284238708082	
+94	sentence	3		0.0	
+94	sentence	4	, but did not	23.55221658786476	
+94	sentence	5	theorize	23.05083905920201	
+94	sentence	6	.	5.757529588237478	
+95	sentence	1	The candidate	12.960794182700571	
+95	sentence	2	tried	11.099284238708082	
+95	sentence	3		0.0	
+95	sentence	4	, but did not	23.55221658786476	
+95	sentence	5	dramatize	22.59861588123344	
+95	sentence	6	.	6.316620076725442	
+96	sentence	1	The candidate	12.960794182700571	
+96	sentence	2	tried	11.099284238708082	
+96	sentence	3		0.0	
+96	sentence	4	, but did not	23.55221658786476	
+96	sentence	5	modernize	22.16068168833133	
+96	sentence	6	.	6.245655907395827	
+97	sentence	1	The candidate	12.960794182700571	
+97	sentence	2	tried	11.099284238708082	
+97	sentence	3		0.0	
+97	sentence	4	, but did not	23.55221658786476	
+97	sentence	5	revitalize	21.980713968980286	
+97	sentence	6	.	7.31258399062283	
+98	sentence	1	The candidate	12.960794182700571	
+98	sentence	2	tried	11.099284238708082	
+98	sentence	3		0.0	
+98	sentence	4	, but did not	23.55221658786476	
+98	sentence	5	traumatize	24.69155253803513	
+98	sentence	6	.	8.445611197951841	
+99	sentence	1	The candidate	12.960794182700571	
+99	sentence	2	tried	11.099284238708082	
+99	sentence	3		0.0	
+99	sentence	4	, but did not	23.55221658786476	
+99	sentence	5	immortalize	24.772393370034155	
+99	sentence	6	.	6.245009252628583	
+100	sentence	1	The candidate	12.960794182700571	
+100	sentence	2	tried	11.099284238708082	
+100	sentence	3		0.0	
+100	sentence	4	, but did not	23.55221658786476	
+100	sentence	5	agonize	20.88369916556893	
+100	sentence	6	.	4.797704388765893	
+101	sentence	1	The candidate	12.960794182700571	
+101	sentence	2	tried	11.099284238708082	
+101	sentence	3		0.0	
+101	sentence	4	, but did not	23.55221658786476	
+101	sentence	5	electrify	17.567680466672485	
+101	sentence	6	.	7.14316456918848	
+102	sentence	1	The candidate	12.960794182700571	
+102	sentence	2	tried	11.099284238708082	
+102	sentence	3		0.0	
+102	sentence	4	, but did not	23.55221658786476	
+102	sentence	5	demoralize	22.083281659483536	
+102	sentence	6	.	9.091694982795136	
+103	sentence	1	The candidate	12.960794182700571	
+103	sentence	2	tried	11.099284238708082	
+103	sentence	3		0.0	
+103	sentence	4	, but did not	23.55221658786476	
+103	sentence	5	sanitize	22.559609388351248	
+103	sentence	6	.	5.403696953901258	
+104	sentence	1	The candidate	12.960794182700571	
+104	sentence	2	tried	11.099284238708082	
+104	sentence	3		0.0	
+104	sentence	4	, but did not	23.55221658786476	
+104	sentence	5	anesthetize	24.57297562212354	
+104	sentence	6	.	5.308654525520246	
+105	sentence	1	The candidate	12.960794182700571	
+105	sentence	2	tried	11.099284238708082	
+105	sentence	3		0.0	
+105	sentence	4	, but did not	23.55221658786476	
+105	sentence	5	trivialize	23.534643174872368	
+105	sentence	6	.	7.035718064096639	
+106	sentence	1	The candidate	12.960794182700571	
+106	sentence	2	tried	11.099284238708082	
+106	sentence	3		0.0	
+106	sentence	4	, but did not	23.55221658786476	
+106	sentence	5	romanticize	24.177229671012537	
+106	sentence	6	.	7.257769680139836	
+107	sentence	1	The candidate	12.960794182700571	
+107	sentence	2	tried	11.099284238708082	
+107	sentence	3		0.0	
+107	sentence	4	, but did not	23.55221658786476	
+107	sentence	5	equalize	21.6724274570764	
+107	sentence	6	.	5.142867033706817	
+108	sentence	1	The candidate	12.960794182700571	
+108	sentence	2	tried	11.099284238708082	
+108	sentence	3		0.0	
+108	sentence	4	, but did not	23.55221658786476	
+108	sentence	5	demonize	21.70845184603504	
+108	sentence	6	.	8.901879794829664	
+109	sentence	1	The candidate	12.960794182700571	
+109	sentence	2	tried	11.099284238708082	
+109	sentence	3		0.0	
+109	sentence	4	, but did not	23.55221658786476	
+109	sentence	5	alphabetize	30.183834057768824	
+109	sentence	6	.	5.384110881690398	
+110	sentence	1	The candidate	12.960794182700571	
+110	sentence	2	tried	11.099284238708082	
+110	sentence	3		0.0	
+110	sentence	4	, but did not	23.55221658786476	
+110	sentence	5	formalize	19.788543924570035	
+110	sentence	6	.	6.462238475141587	
+111	sentence	1	The candidate	12.960794182700571	
+111	sentence	2	tried	11.099284238708082	
+111	sentence	3		0.0	
+111	sentence	4	, but did not	23.55221658786476	
+111	sentence	5	optimize	19.678263166889806	
+111	sentence	6	.	4.55778377529805	
+112	sentence	1	The candidate	12.960794182700571	
+112	sentence	2	tried	11.099284238708082	
+112	sentence	3		0.0	
+112	sentence	4	, but did not	23.55221658786476	
+112	sentence	5	internalize	19.20292467148094	
+112	sentence	6	.	5.508627008845675	
+113	sentence	1	The candidate	12.960794182700571	
+113	sentence	2	tried	11.099284238708082	
+113	sentence	3		0.0	
+113	sentence	4	, but did not	23.55221658786476	
+113	sentence	5	idealize	21.549125226466575	
+113	sentence	6	.	6.392373618916285	
+114	sentence	1	The candidate	12.960794182700571	
+114	sentence	2	tried	11.099284238708082	
+114	sentence	3		0.0	
+114	sentence	4	, but did not	23.55221658786476	
+114	sentence	5	sodomize	23.994744953319373	
+114	sentence	6	.	9.356222186017826	
+115	sentence	1	The candidate	12.960794182700571	
+115	sentence	2	tried	11.099284238708082	
+115	sentence	3		0.0	
+115	sentence	4	, but did not	23.55221658786476	
+115	sentence	5	digitize	24.372520593100997	
+115	sentence	6	.	6.173468597453275	
+116	sentence	1	The candidate	12.960794182700571	
+116	sentence	2	tried	11.099284238708082	
+116	sentence	3		0.0	
+116	sentence	4	, but did not	23.55221658786476	
+116	sentence	5	galvanize	20.18727955221569	
+116	sentence	6	.	8.593401393283079	
+117	sentence	1	The candidate	12.960794182700571	
+117	sentence	2	tried	11.099284238708082	
+117	sentence	3		0.0	
+117	sentence	4	, but did not	23.55221658786476	
+117	sentence	5	initialize	22.30107288905281	
+117	sentence	6	.	4.50886434215603	
+118	sentence	1	The candidate	12.960794182700571	
+118	sentence	2	tried	11.099284238708082	
+118	sentence	3		0.0	
+118	sentence	4	, but did not	23.55221658786476	
+118	sentence	5	exemplify	21.483379679884138	
+118	sentence	6	.	6.584639215691251	
+119	sentence	1	The candidate	12.960794182700571	
+119	sentence	2	tried	11.099284238708082	
+119	sentence	3		0.0	
+119	sentence	4	, but did not	23.55221658786476	
+119	sentence	5	depressurize	31.894585880326304	
+119	sentence	6	.	5.657512389697608	
+120	sentence	1	The candidate	12.960794182700571	
+120	sentence	2	tried	11.099284238708082	
+120	sentence	3		0.0	
+120	sentence	4	, but did not	23.55221658786476	
+120	sentence	5	itemize	18.43534820373562	
+120	sentence	6	.	5.252589557200177	
+121	sentence	1	The candidate	12.960794182700571	
+121	sentence	2	tried	11.099284238708082	
+121	sentence	3		0.0	
+121	sentence	4	, but did not	23.55221658786476	
+121	sentence	5	dehumanize	26.064132358954797	
+121	sentence	6	.	7.795972187749909	
+122	sentence	1	The candidate	12.960794182700571	
+122	sentence	2	tried	11.099284238708082	
+122	sentence	3		0.0	
+122	sentence	4	, but did not	23.55221658786476	
+122	sentence	5	mollify	24.66836506312388	
+122	sentence	6	.	7.465623784389005	
+123	sentence	1	The candidate	12.960794182700571	
+123	sentence	2	tried	11.099284238708082	
+123	sentence	3		0.0	
+123	sentence	4	, but did not	23.55221658786476	
+123	sentence	5	immunize	22.086050225448208	
+123	sentence	6	.	7.465211026026934	
+124	sentence	1	The candidate	12.960794182700571	
+124	sentence	2	tried	11.099284238708082	
+124	sentence	3		0.0	
+124	sentence	4	, but did not	23.55221658786476	
+124	sentence	5	oxidize	23.645247077204655	
+124	sentence	6	.	6.031020183257835	
+125	sentence	1	The candidate	12.960794182700571	
+125	sentence	2	tried	11.099284238708082	
+125	sentence	3		0.0	
+125	sentence	4	, but did not	23.55221658786476	
+125	sentence	5	dematerialize	26.09397240227323	
+125	sentence	6	.	4.5774895474339115	
+126	sentence	1	The candidate	12.960794182700571	
+126	sentence	2	tried	11.099284238708082	
+126	sentence	3		0.0	
+126	sentence	4	, but did not	23.55221658786476	
+126	sentence	5	ostracize	25.005217191969322	
+126	sentence	6	.	8.830424443049186	
+127	sentence	1	The candidate	12.960794182700571	
+127	sentence	2	tried	11.099284238708082	
+127	sentence	3		0.0	
+127	sentence	4	, but did not	23.55221658786476	
+127	sentence	5	overdramatize	26.263636963478554	
+127	sentence	6	.	5.426975149660841	
+128	sentence	1	The candidate	12.960794182700571	
+128	sentence	2	tried	11.099284238708082	
+128	sentence	3		0.0	
+128	sentence	4	, but did not	23.55221658786476	
+128	sentence	5	satirize	26.19768688384135	
+128	sentence	6	.	7.9921204648507524	
+129	sentence	1	The candidate	12.960794182700571	
+129	sentence	2	tried	11.099284238708082	
+129	sentence	3		0.0	
+129	sentence	4	, but did not	23.55221658786476	
+129	sentence	5	amortize	19.38129000697606	
+129	sentence	6	.	5.089480179225984	
+130	sentence	1	The candidate	12.960794182700571	
+130	sentence	2	tried	11.099284238708082	
+130	sentence	3		0.0	
+130	sentence	4	, but did not	23.55221658786476	
+130	sentence	5	tyrannize	26.367704976883353	
+130	sentence	6	.	6.3537064155574985	
+131	sentence	1	The candidate	12.960794182700571	
+131	sentence	2	tried	11.099284238708082	
+131	sentence	3		0.0	
+131	sentence	4	, but did not	23.55221658786476	
+131	sentence	5	eulogize	20.98876700548898	
+131	sentence	6	.	7.017456258297423	
+132	sentence	1	The candidate	12.960794182700571	
+132	sentence	2	tried	11.099284238708082	
+132	sentence	3		0.0	
+132	sentence	4	, but did not	23.55221658786476	
+132	sentence	5	resize	20.914777150757192	
+132	sentence	6	.	4.966241539201316	
+133	sentence	1	The candidate	12.960794182700571	
+133	sentence	2	tried	11.099284238708082	
+133	sentence	3		0.0	
+133	sentence	4	, but did not	23.55221658786476	
+133	sentence	5	editorialize	24.76220348396186	
+133	sentence	6	.	5.211529043271983	
+134	sentence	1	The candidate	12.960794182700571	
+134	sentence	2	tried	11.099284238708082	
+134	sentence	3		0.0	
+134	sentence	4	, but did not	23.55221658786476	
+134	sentence	5	acclimatize	23.80108634309121	
+134	sentence	6	.	6.862931222358396	
+135	sentence	1	The candidate	12.960794182700571	
+135	sentence	2	tried	11.099284238708082	
+135	sentence	3		0.0	
+135	sentence	4	, but did not	23.55221658786476	
+135	sentence	5	desensitize	29.231698934887195	
+135	sentence	6	.	6.912683739461196	
+136	sentence	1	The candidate	12.960794182700571	
+136	sentence	2	tried	11.099284238708082	
+136	sentence	3		0.0	
+136	sentence	4	, but did not	23.55221658786476	
+136	sentence	5	standardize	20.616704774479373	
+136	sentence	6	.	5.532985255652676	
+137	sentence	1	The candidate	12.960794182700571	
+137	sentence	2	tried	11.099284238708082	
+137	sentence	3		0.0	
+137	sentence	4	, but did not	23.55221658786476	
+137	sentence	5	stigmatize	24.8787158932602	
+137	sentence	6	.	7.9273689968009045	
+138	sentence	1	The candidate	12.960794182700571	
+138	sentence	2	tried	11.099284238708082	
+138	sentence	3		0.0	
+138	sentence	4	, but did not	23.55221658786476	
+138	sentence	5	actualize	19.85208465625564	
+138	sentence	6	.	5.768115120398083	
+139	sentence	1	The candidate	12.960794182700571	
+139	sentence	2	tried	11.099284238708082	
+139	sentence	3		0.0	
+139	sentence	4	, but did not	23.55221658786476	
+139	sentence	5	industrialize	23.395905544343268	
+139	sentence	6	.	5.690526867287836	
+140	sentence	1	The candidate	12.960794182700571	
+140	sentence	2	tried	11.099284238708082	
+140	sentence	3		0.0	
+140	sentence	4	, but did not	23.55221658786476	
+140	sentence	5	sexualize	26.464870036639145	
+140	sentence	6	.	8.547669830557451	
+141	sentence	1	The candidate	12.960794182700571	
+141	sentence	2	tried	11.099284238708082	
+141	sentence	3		0.0	
+141	sentence	4	, but did not	23.55221658786476	
+141	sentence	5	demagnetize	30.940348789516676	
+141	sentence	6	.	5.571679288304997	
+142	sentence	1	The candidate	12.960794182700571	
+142	sentence	2	tried	11.099284238708082	
+142	sentence	3		0.0	
+142	sentence	4	, but did not	23.55221658786476	
+142	sentence	5	solemnize	24.398311885346313	
+142	sentence	6	.	5.774990298848976	
+143	sentence	1	The candidate	12.960794182700571	
+143	sentence	2	tried	11.099284238708082	
+143	sentence	3		0.0	
+143	sentence	4	, but did not	23.55221658786476	
+143	sentence	5	atomize	23.760324011809733	
+143	sentence	6	.	4.386262037939554	
+144	sentence	1	The candidate	12.960794182700571	
+144	sentence	2	tried	11.099284238708082	
+144	sentence	3		0.0	
+144	sentence	4	, but did not	23.55221658786476	
+144	sentence	5	ionize	22.85405034020718	
+144	sentence	6	.	5.352640464339616	
+145	sentence	1	The candidate	12.960794182700571	
+145	sentence	2	tried	11.099284238708082	
+145	sentence	3		0.0	
+145	sentence	4	, but did not	23.55221658786476	
+145	sentence	5	radicalize	21.3979747803582	
+145	sentence	6	.	7.666452053385128	
+146	sentence	1	The candidate	12.960794182700571	
+146	sentence	2	tried	11.099284238708082	
+146	sentence	3		0.0	
+146	sentence	4	, but did not	23.55221658786476	
+146	sentence	5	reunify	25.109180846839024	
+146	sentence	6	.	7.296189916411984	
+147	sentence	1	The candidate	12.960794182700571	
+147	sentence	2	tried	11.099284238708082	
+147	sentence	3		0.0	
+147	sentence	4	, but did not	23.55221658786476	
+147	sentence	5	demobilize	26.12511605258737	
+147	sentence	6	.	4.763969647833851	
+148	sentence	1	The candidate	12.960794182700571	
+148	sentence	2	tried	11.099284238708082	
+148	sentence	3		0.0	
+148	sentence	4	, but did not	23.55221658786476	
+148	sentence	5	democratize	24.984136002019333	
+148	sentence	6	.	6.8174596974008725	
+149	sentence	1	The candidate	12.960794182700571	
+149	sentence	2	tried	11.099284238708082	
+149	sentence	3		0.0	
+149	sentence	4	, but did not	23.55221658786476	
+149	sentence	5	reclassify	25.23629139408883	
+149	sentence	6	.	5.205077630072817	
+150	sentence	1	The candidate	12.960794182700571	
+150	sentence	2	tried	11.099284238708082	
+150	sentence	3		0.0	
+150	sentence	4	, but did not	23.55221658786476	
+150	sentence	5	rhapsodize	26.75899317799243	
+150	sentence	6	.	5.080924386310861	
+151	sentence	1	The candidate	12.960794182700571	
+151	sentence	2	tried	11.099284238708082	
+151	sentence	3		0.0	
+151	sentence	4	, but did not	23.55221658786476	
+151	sentence	5	serialize	23.008125663012034	
+151	sentence	6	.	4.0828942728460085	
+152	sentence	1	The candidate	12.960794182700571	
+152	sentence	2	tried	11.099284238708082	
+152	sentence	3		0.0	
+152	sentence	4	, but did not	23.55221658786476	
+152	sentence	5	disorganize	25.05979792045293	
+152	sentence	6	.	5.74682194839476	
+153	sentence	1	The candidate	12.960794182700571	
+153	sentence	2	tried	11.099284238708082	
+153	sentence	3		0.0	
+153	sentence	4	, but did not	23.55221658786476	
+153	sentence	5	sermonize	23.68268912990327	
+153	sentence	6	.	4.85496704426657	
+154	sentence	1	The candidate	12.960794182700571	
+154	sentence	2	tried	11.099284238708082	
+154	sentence	3		0.0	
+154	sentence	4	, but did not	23.55221658786476	
+154	sentence	5	deodorize	28.13537321086966	
+154	sentence	6	.	6.1733420182222405	
+155	sentence	1	The candidate	12.960794182700571	
+155	sentence	2	tried	11.099284238708082	
+155	sentence	3		0.0	
+155	sentence	4	, but did not	23.55221658786476	
+155	sentence	5	emulsify	27.840494681405353	
+155	sentence	6	.	5.577284546861918	
+156	sentence	1	The candidate	12.960794182700571	
+156	sentence	2	tried	11.099284238708082	
+156	sentence	3		0.0	
+156	sentence	4	, but did not	23.55221658786476	
+156	sentence	5	overemphasize	23.23601543825205	
+156	sentence	6	.	5.867056051508854	
+157	sentence	1	The candidate	12.960794182700571	
+157	sentence	2	tried	11.099284238708082	
+157	sentence	3		0.0	
+157	sentence	4	, but did not	23.55221658786476	
+157	sentence	5	aerosolize	23.99059672103164	
+157	sentence	6	.	4.977402181346407	
+158	sentence	1	The candidate	12.960794182700571	
+158	sentence	2	tried	11.099284238708082	
+158	sentence	3		0.0	
+158	sentence	4	, but did not	23.55221658786476	
+158	sentence	5	apostatize	21.92832141069758	
+158	sentence	6	.	5.0146089080340674	
+159	sentence	1	The candidate	12.960794182700571	
+159	sentence	2	tried	11.099284238708082	
+159	sentence	3		0.0	
+159	sentence	4	, but did not	23.55221658786476	
+159	sentence	5	depolarize	28.16874615404886	
+159	sentence	6	.	5.670723752971587	
+160	sentence	1	The candidate	12.960794182700571	
+160	sentence	2	tried	11.099284238708082	
+160	sentence	3		0.0	
+160	sentence	4	, but did not	23.55221658786476	
+160	sentence	5	evangelize	23.92274668455686	
+160	sentence	6	.	6.0721054626877535	
+161	sentence	1	The candidate	12.960794182700571	
+161	sentence	2	tried	11.099284238708082	
+161	sentence	3		0.0	
+161	sentence	4	, but did not	23.55221658786476	
+161	sentence	5	anatomize	28.42414833402882	
+161	sentence	6	.	6.021051380883224	
+162	sentence	1	The candidate	12.960794182700571	
+162	sentence	2	tried	11.099284238708082	
+162	sentence	3		0.0	
+162	sentence	4	, but did not	23.55221658786476	
+162	sentence	5	anthropomorphize	27.733719360106335	
+162	sentence	6	.	7.501522754999504	
+163	sentence	1	The candidate	12.960794182700571	
+163	sentence	2	tried	11.099284238708082	
+163	sentence	3		0.0	
+163	sentence	4	, but did not	23.55221658786476	
+163	sentence	5	federalize	25.22880664731702	
+163	sentence	6	.	5.976668850070963	
+164	sentence	1	The candidate	12.960794182700571	
+164	sentence	2	tried	11.099284238708082	
+164	sentence	3		0.0	
+164	sentence	4	, but did not	23.55221658786476	
+164	sentence	5	feminize	26.937695295826373	
+164	sentence	6	.	6.526906703588416	
+165	sentence	1	The candidate	12.960794182700571	
+165	sentence	2	tried	11.099284238708082	
+165	sentence	3		0.0	
+165	sentence	4	, but did not	23.55221658786476	
+165	sentence	5	fossilize	23.87733291352328	
+165	sentence	6	.	5.956816548716568	
+166	sentence	1	The candidate	12.960794182700571	
+166	sentence	2	tried	11.099284238708082	
+166	sentence	3		0.0	
+166	sentence	4	, but did not	23.55221658786476	
+166	sentence	5	regularize	23.06336449117085	
+166	sentence	6	.	4.806415653997396	
+167	sentence	1	The candidate	12.960794182700571	
+167	sentence	2	tried	11.099284238708082	
+167	sentence	3		0.0	
+167	sentence	4	, but did not	23.55221658786476	
+167	sentence	5	ritualize	26.37171013035448	
+167	sentence	6	.	5.021477207178925	
+168	sentence	1	The candidate	12.960794182700571	
+168	sentence	2	tried	11.099284238708082	
+168	sentence	3		0.0	
+168	sentence	4	, but did not	23.55221658786476	
+168	sentence	5	sentimentalize	30.288803582731614	
+168	sentence	6	.	6.8293265003104064	
+169	sentence	1	The candidate	12.960794182700571	
+169	sentence	2	tried	11.099284238708082	
+169	sentence	3		0.0	
+169	sentence	4	, but did not	23.55221658786476	
+169	sentence	5	exteriorize	29.182950236178208	
+169	sentence	6	.	6.095010800060265	
+170	sentence	1	The candidate	12.960794182700571	
+170	sentence	2	tried	11.099284238708082	
+170	sentence	3		0.0	
+170	sentence	4	, but did not	23.55221658786476	
+170	sentence	5	fetishize	26.34535264972469	
+170	sentence	6	.	7.118699005207341	
+171	sentence	1	The candidate	12.960794182700571	
+171	sentence	2	tried	11.099284238708082	
+171	sentence	3		0.0	
+171	sentence	4	, but did not	23.55221658786476	
+171	sentence	5	fictionalize	28.14730278744676	
+171	sentence	6	.	8.065677444624775	
+172	sentence	1	The candidate	12.960794182700571	
+172	sentence	2	tried	11.099284238708082	
+172	sentence	3		0.0	
+172	sentence	4	, but did not	23.55221658786476	
+172	sentence	5	individualize	22.177011656009064	
+172	sentence	6	.	6.170737512957574	
+173	sentence	1	The candidate	12.960794182700571	
+173	sentence	2	tried	11.099284238708082	
+173	sentence	3		0.0	
+173	sentence	4	, but did not	23.55221658786476	
+173	sentence	5	internationalize	25.00457123856883	
+173	sentence	6	.	5.099685629728183	
+174	sentence	1	The candidate	12.960794182700571	
+174	sentence	2	tried	11.099284238708082	
+174	sentence	3		0.0	
+174	sentence	4	, but did not	23.55221658786476	
+174	sentence	5	alkalinize	31.24652035820772	
+174	sentence	6	.	5.74518948907277	
+175	sentence	1	The candidate	12.960794182700571	
+175	sentence	2	tried	11.099284238708082	
+175	sentence	3		0.0	
+175	sentence	4	, but did not	23.55221658786476	
+175	sentence	5	depersonalize	24.433195722313833	
+175	sentence	6	.	6.852468485810506	
+176	sentence	1	The candidate	12.960794182700571	
+176	sentence	2	tried	11.099284238708082	
+176	sentence	3		0.0	
+176	sentence	4	, but did not	23.55221658786476	
+176	sentence	5	italicize	24.070629385056435	
+176	sentence	6	.	5.3390314771768415	
+177	sentence	1	The candidate	12.960794182700571	
+177	sentence	2	tried	11.099284238708082	
+177	sentence	3		0.0	
+177	sentence	4	, but did not	23.55221658786476	
+177	sentence	5	randomize	22.446482737006953	
+177	sentence	6	.	5.705467688098892	
+178	sentence	1	The candidate	12.960794182700571	
+178	sentence	2	tried	11.099284238708082	
+178	sentence	3		0.0	
+178	sentence	4	, but did not	23.55221658786476	
+178	sentence	5	stylize	27.17200258905054	
+178	sentence	6	.	6.1579640175126915	
+179	sentence	1	The candidate	12.960794182700571	
+179	sentence	2	tried	11.099284238708082	
+179	sentence	3		0.0	
+179	sentence	4	, but did not	23.55221658786476	
+179	sentence	5	temporize	25.637988630163065	
+179	sentence	6	.	5.046444960500583	
+180	sentence	1	The candidate	12.960794182700571	
+180	sentence	2	tried	11.099284238708082	
+180	sentence	3		0.0	
+180	sentence	4	, but did not	23.55221658786476	
+180	sentence	5	ramify	26.330049912922725	
+180	sentence	6	.	7.062239164720891	
+181	sentence	1	The candidate	12.960794182700571	
+181	sentence	2	tried	11.099284238708082	
+181	sentence	3		0.0	
+181	sentence	4	, but did not	23.55221658786476	
+181	sentence	5	reimpose	23.782002768916293	
+181	sentence	6	.	4.936573500031576	
+182	sentence	1	The candidate	12.960794182700571	
+182	sentence	2	tried	11.099284238708082	
+182	sentence	3		0.0	
+182	sentence	4	, but did not	23.55221658786476	
+182	sentence	5	sensitize	23.542929180752868	
+182	sentence	6	.	9.519209456309907	
+183	sentence	1	The candidate	12.960794182700571	
+183	sentence	2	tried	11.099284238708082	
+183	sentence	3		0.0	
+183	sentence	4	, but did not	23.55221658786476	
+183	sentence	5	systematize	21.7451202670255	
+183	sentence	6	.	4.776997677602011	
+184	sentence	1	The candidate	12.960794182700571	
+184	sentence	2	tried	11.099284238708082	
+184	sentence	3		0.0	
+184	sentence	4	, but did not	23.55221658786476	
+184	sentence	5	denationalize	29.223595186277336	
+184	sentence	6	.	6.475792771821386	
+185	sentence	1	The candidate	12.960794182700571	
+185	sentence	2	tried	11.099284238708082	
+185	sentence	3		0.0	
+185	sentence	4	, but did not	23.55221658786476	
+185	sentence	5	digitalize	25.07793357697774	
+185	sentence	6	.	6.253326333624308	
+186	sentence	1	The candidate	12.960794182700571	
+186	sentence	2	tried	11.099284238708082	
+186	sentence	3		0.0	
+186	sentence	4	, but did not	23.55221658786476	
+186	sentence	5	reify	26.026772954668836	
+186	sentence	6	.	5.016280579400454	
+187	sentence	1	The candidate	12.960794182700571	
+187	sentence	2	tried	11.099284238708082	
+187	sentence	3		0.0	
+187	sentence	4	, but did not	23.55221658786476	
+187	sentence	5	secularize	27.704276446226576	
+187	sentence	6	.	6.871292330912742	
+188	sentence	1	The candidate	12.960794182700571	
+188	sentence	2	tried	11.099284238708082	
+188	sentence	3		0.0	
+188	sentence	4	, but did not	23.55221658786476	
+188	sentence	5	spiritualize	27.388950877903355	
+188	sentence	6	.	5.792273179399481	
+189	sentence	1	The candidate	12.960794182700571	
+189	sentence	2	tried	11.099284238708082	
+189	sentence	3		0.0	
+189	sentence	4	, but did not	23.55221658786476	
+189	sentence	5	alkalize	28.34987408986046	
+189	sentence	6	.	5.5004832863620186	
+190	sentence	1	The candidate	12.960794182700571	
+190	sentence	2	tried	11.099284238708082	
+190	sentence	3		0.0	
+190	sentence	4	, but did not	23.55221658786476	
+190	sentence	5	decentralize	25.56705854564507	
+190	sentence	6	.	6.372238578083872	
+191	sentence	1	The candidate	12.960794182700571	
+191	sentence	2	tried	11.099284238708082	
+191	sentence	3		0.0	
+191	sentence	4	, but did not	23.55221658786476	
+191	sentence	5	decolonize	29.552767814122245	
+191	sentence	6	.	6.153104475729912	
+192	sentence	1	The candidate	12.960794182700571	
+192	sentence	2	tried	11.099284238708082	
+192	sentence	3		0.0	
+192	sentence	4	, but did not	23.55221658786476	
+192	sentence	5	demilitarize	26.79889327437977	
+192	sentence	6	.	8.173173480720065	
+193	sentence	1	The candidate	12.960794182700571	
+193	sentence	2	tried	11.099284238708082	
+193	sentence	3		0.0	
+193	sentence	4	, but did not	23.55221658786476	
+193	sentence	5	desexualize	30.081757689452342	
+193	sentence	6	.	5.48189608938737	
+194	sentence	1	The candidate	12.960794182700571	
+194	sentence	2	tried	11.099284238708082	
+194	sentence	3		0.0	
+194	sentence	4	, but did not	23.55221658786476	
+194	sentence	5	desynchronize	27.167078199059464	
+194	sentence	6	.	4.855105662283165	
+195	sentence	1	The candidate	12.960794182700571	
+195	sentence	2	tried	11.099284238708082	
+195	sentence	3		0.0	
+195	sentence	4	, but did not	23.55221658786476	
+195	sentence	5	devitalize	36.30819928663498	
+195	sentence	6	.	6.891235439106794	
+196	sentence	1	The candidate	12.960794182700571	
+196	sentence	2	tried	11.099284238708082	
+196	sentence	3		0.0	
+196	sentence	4	, but did not	23.55221658786476	
+196	sentence	5	eroticize	28.436267800950304	
+196	sentence	6	.	7.168673035964452	
+197	sentence	1	The candidate	12.960794182700571	
+197	sentence	2	tried	11.099284238708082	
+197	sentence	3		0.0	
+197	sentence	4	, but did not	23.55221658786476	
+197	sentence	5	officialize	22.817629574233965	
+197	sentence	6	.	6.335681257885869	
+198	sentence	1	The candidate	12.960794182700571	
+198	sentence	2	tried	11.099284238708082	
+198	sentence	3		0.0	
+198	sentence	4	, but did not	23.55221658786476	
+198	sentence	5	quantize	29.926851045508883	
+198	sentence	6	.	4.482169883019708	
+199	sentence	1	The candidate	12.960794182700571	
+199	sentence	2	tried	11.099284238708082	
+199	sentence	3		0.0	
+199	sentence	4	, but did not	23.55221658786476	
+199	sentence	5	reharmonize	39.19689855109165	
+199	sentence	6	.	5.187492747987397	
+200	sentence	1	The candidate	12.960794182700571	
+200	sentence	2	tried	11.099284238708082	
+200	sentence	3		0.0	
+200	sentence	4	, but did not	23.55221658786476	
+200	sentence	5	remilitarize	27.327099750806337	
+200	sentence	6	.	6.348368074074717	
+201	sentence	1	The candidate	12.960794182700571	
+201	sentence	2	tried	11.099284238708082	
+201	sentence	3		0.0	
+201	sentence	4	, but did not	23.55221658786476	
+201	sentence	5	solarize	27.901316603856962	
+201	sentence	6	.	5.952333304973876	
+202	sentence	1	The candidate	12.960794182700571	
+202	sentence	2	tried	11.099284238708082	
+202	sentence	3		0.0	
+202	sentence	4	, but did not	23.55221658786476	
+202	sentence	5	syncretize	33.964168454023714	
+202	sentence	6	.	3.9268561335446908	
+203	sentence	1	The candidate	12.960794182700571	
+203	sentence	2	tried	11.099284238708082	
+203	sentence	3		0.0	
+203	sentence	4	, but did not	23.55221658786476	
+203	sentence	5	totalize	24.27136254764663	
+203	sentence	6	.	4.433279342963033	
+204	sentence	1	The candidate	12.960794182700571	
+204	sentence	2	tried	11.099284238708082	
+204	sentence	3		0.0	
+204	sentence	4	, but did not	23.55221658786476	
+204	sentence	5	alchemize	26.851721276149213	
+204	sentence	6	.	5.602581131012027	
+205	sentence	1	The candidate	12.960794182700571	
+205	sentence	2	tried	11.099284238708082	
+205	sentence	3		0.0	
+205	sentence	4	, but did not	23.55221658786476	
+205	sentence	5	aluminize	32.95759665022111	
+205	sentence	6	.	5.397391381990023	
+206	sentence	1	The candidate	12.960794182700571	
+206	sentence	2	tried	11.099284238708082	
+206	sentence	3		0.0	
+206	sentence	4	, but did not	23.55221658786476	
+206	sentence	5	analogize	25.01190784647199	
+206	sentence	6	.	6.361246134971324	
+207	sentence	1	The candidate	12.960794182700571	
+207	sentence	2	tried	11.099284238708082	
+207	sentence	3		0.0	
+207	sentence	4	, but did not	23.55221658786476	
+207	sentence	5	attitudinize	44.18160313729153	
+207	sentence	6	.	5.512714004560778	
+208	sentence	1	The candidate	12.960794182700571	
+208	sentence	2	tried	11.099284238708082	
+208	sentence	3		0.0	
+208	sentence	4	, but did not	23.55221658786476	
+208	sentence	5	deionize	28.10792847741895	
+208	sentence	6	.	5.699308301440891	
+209	sentence	1	The candidate	12.960794182700571	
+209	sentence	2	tried	11.099284238708082	
+209	sentence	3		0.0	
+209	sentence	4	, but did not	23.55221658786476	
+209	sentence	5	demythologize	34.7935884426646	
+209	sentence	6	.	5.5553147951101	
+210	sentence	1	The candidate	12.960794182700571	
+210	sentence	2	tried	11.099284238708082	
+210	sentence	3		0.0	
+210	sentence	4	, but did not	23.55221658786476	
+210	sentence	5	deoxidize	35.58420529715902	
+210	sentence	6	.	5.493893599111559	
+211	sentence	1	The candidate	12.960794182700571	
+211	sentence	2	tried	11.099284238708082	
+211	sentence	3		0.0	
+211	sentence	4	, but did not	23.55221658786476	
+211	sentence	5	dichotomize	26.416417380534938	
+211	sentence	6	.	5.5644057980347075	
+212	sentence	1	The candidate	12.960794182700571	
+212	sentence	2	tried	11.099284238708082	
+212	sentence	3		0.0	
+212	sentence	4	, but did not	23.55221658786476	
+212	sentence	5	dogmatize	33.690687554525304	
+212	sentence	6	.	6.2901732726063635	
+213	sentence	1	The candidate	12.960794182700571	
+213	sentence	2	tried	11.099284238708082	
+213	sentence	3		0.0	
+213	sentence	4	, but did not	23.55221658786476	
+213	sentence	5	factorize	32.294212872553544	
+213	sentence	6	.	4.615351528021359	
+214	sentence	1	The candidate	12.960794182700571	
+214	sentence	2	tried	11.099284238708082	
+214	sentence	3		0.0	
+214	sentence	4	, but did not	23.55221658786476	
+214	sentence	5	iodize	29.511419901061082	
+214	sentence	6	.	5.553441904042203	
+215	sentence	1	The candidate	12.960794182700571	
+215	sentence	2	tried	11.099284238708082	
+215	sentence	3		0.0	
+215	sentence	4	, but did not	23.55221658786476	
+215	sentence	5	overcapitalize	29.002039557450313	
+215	sentence	6	.	4.862925369452596	
+216	sentence	1	The candidate	12.960794182700571	
+216	sentence	2	tried	11.099284238708082	
+216	sentence	3		0.0	
+216	sentence	4	, but did not	23.55221658786476	
+216	sentence	5	overspecialize	31.922222653904534	
+216	sentence	6	.	5.6537198282807815	
+217	sentence	1	The candidate	12.960794182700571	
+217	sentence	2	tried	11.099284238708082	
+217	sentence	3		0.0	
+217	sentence	4	, but did not	23.55221658786476	
+217	sentence	5	relativize	27.837303736799072	
+217	sentence	6	.	5.6338365700492306	
+218	sentence	1	The candidate	12.960794182700571	
+218	sentence	2	tried	11.099284238708082	
+218	sentence	3		0.0	
+218	sentence	4	, but did not	23.55221658786476	
+218	sentence	5	schematize	30.23930184858052	
+218	sentence	6	.	5.028421522655463	
+219	sentence	1	The candidate	12.960794182700571	
+219	sentence	2	tried	11.099284238708082	
+219	sentence	3		0.0	
+219	sentence	4	, but did not	23.55221658786476	
+219	sentence	5	sensualize	29.009561670140258	
+219	sentence	6	.	7.437883670735437	
+220	sentence	1	The candidate	12.960794182700571	
+220	sentence	2	tried	11.099284238708082	
+220	sentence	3		0.0	
+220	sentence	4	, but did not	23.55221658786476	
+220	sentence	5	signalize	31.84675116326111	
+220	sentence	6	.	3.9697317523700906	
+221	sentence	1	The candidate	12.960794182700571	
+221	sentence	2	tried	11.099284238708082	
+221	sentence	3		0.0	
+221	sentence	4	, but did not	23.55221658786476	
+221	sentence	5	singularize	28.431099700794043	
+221	sentence	6	.	5.400296168963097	
+222	sentence	1	The candidate	12.960794182700571	
+222	sentence	2	tried	11.099284238708082	
+222	sentence	3		0.0	
+222	sentence	4	, but did not	23.55221658786476	
+222	sentence	5	steepen	25.42012066408476	
+222	sentence	6	.	7.189764988266267	
+223	sentence	1	The candidate	12.960794182700571	
+223	sentence	2	tried	11.099284238708082	
+223	sentence	3		0.0	
+223	sentence	4	, but did not	23.55221658786476	
+223	sentence	5	subtilize	30.508746433501255	
+223	sentence	6	.	4.337925282018657	
+224	sentence	1	The candidate	12.960794182700571	
+224	sentence	2	tried	11.099284238708082	
+224	sentence	3		0.0	
+224	sentence	4	, but did not	23.55221658786476	
+224	sentence	5	syllogize	26.22241620471542	
+224	sentence	6	.	4.190963011168671	
+225	sentence	1	The candidate	12.960794182700571	
+225	sentence	2	tried	11.099284238708082	
+225	sentence	3		0.0	
+225	sentence	4	, but did not	23.55221658786476	
+225	sentence	5	complete	8.797358370663698	
+225	sentence	6	.	5.077262875673992	
+226	sentence	1	The candidate	12.960794182700571	
+226	sentence	2	tried	11.099284238708082	
+226	sentence	3		0.0	
+226	sentence	4	, but did not	23.55221658786476	
+226	sentence	5	loathe	20.915190253084564	
+226	sentence	6	.	6.072400584916633	
+227	sentence	1	The candidate	12.960794182700571	
+227	sentence	2	tried	11.099284238708082	
+227	sentence	3		0.0	
+227	sentence	4	, but did not	23.55221658786476	
+227	sentence	5	triple	19.54367092018578	
+227	sentence	6	.	7.663330224306666	
+228	sentence	1	The candidate	12.960794182700571	
+228	sentence	2	tried	11.099284238708082	
+228	sentence	3		0.0	
+228	sentence	4	, but did not	23.55221658786476	
+228	sentence	5	love	13.432249535580183	
+228	sentence	6	.	6.3246440992840975	
+229	sentence	1	The candidate	12.960794182700571	
+229	sentence	2	tried	11.099284238708082	
+229	sentence	3		0.0	
+229	sentence	4	, but did not	23.55221658786476	
+229	sentence	5	exceed	15.31687119612622	
+229	sentence	6	.	4.896310297672782	
+230	sentence	1	The candidate	12.960794182700571	
+230	sentence	2	tried	11.099284238708082	
+230	sentence	3		0.0	
+230	sentence	4	, but did not	23.55221658786476	
+230	sentence	5	require	13.406735565359385	
+230	sentence	6	.	5.825298663879364	
+231	sentence	1	The candidate	12.960794182700571	
+231	sentence	2	tried	11.099284238708082	
+231	sentence	3		0.0	
+231	sentence	4	, but did not	23.55221658786476	
+231	sentence	5	eliminate	14.475086289074325	
+231	sentence	6	.	5.930435098004816	
+232	sentence	1	The candidate	12.960794182700571	
+232	sentence	2	tried	11.099284238708082	
+232	sentence	3		0.0	
+232	sentence	4	, but did not	23.55221658786476	
+232	sentence	5	stop	8.807594778043052	
+232	sentence	6	.	6.100090479636149	
+233	sentence	1	The candidate	12.960794182700571	
+233	sentence	2	tried	11.099284238708082	
+233	sentence	3		0.0	
+233	sentence	4	, but did not	23.55221658786476	
+233	sentence	5	finish	6.36221611712219	
+233	sentence	6	.	4.5543389628012685	
+234	sentence	1	The candidate	12.960794182700571	
+234	sentence	2	tried	11.099284238708082	
+234	sentence	3		0.0	
+234	sentence	4	, but did not	23.55221658786476	
+234	sentence	5	thrive	14.565408825585058	
+234	sentence	6	.	4.834429907996439	
+235	sentence	1	The candidate	12.960794182700571	
+235	sentence	2	tried	11.099284238708082	
+235	sentence	3		0.0	
+235	sentence	4	, but did not	23.55221658786476	
+235	sentence	5	encourage	16.21802726597837	
+235	sentence	6	.	7.200185761047346	
+236	sentence	1	The candidate	12.960794182700571	
+236	sentence	2	tried	11.099284238708082	
+236	sentence	3		0.0	
+236	sentence	4	, but did not	23.55221658786476	
+236	sentence	5	need	11.6103671460689	
+236	sentence	6	.	6.145442992599276	

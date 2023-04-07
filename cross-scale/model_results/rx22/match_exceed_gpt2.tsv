@@ -1,0 +1,1417 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	Bill's score	18.1671898878096	
+1	sentence	2	matches	14.294093123167512	
+1	sentence	3	Al's	18.329816682465474	
+1	sentence	4	, but does not	20.85796147816611	
+1	sentence	5	have	4.644317877975578	
+1	sentence	6	it.	11.014496103902113	
+2	sentence	1	Bill's score	18.1671898878096	
+2	sentence	2	matches	14.294093123167512	
+2	sentence	3	Al's	18.329816682465474	
+2	sentence	4	, but does not	20.85796147816611	
+2	sentence	5	know	8.539391961606123	
+2	sentence	6	it.	7.454791973072364	
+3	sentence	1	Bill's score	18.1671898878096	
+3	sentence	2	matches	14.294093123167512	
+3	sentence	3	Al's	18.329816682465474	
+3	sentence	4	, but does not	20.85796147816611	
+3	sentence	5	get	6.93843986125441	
+3	sentence	6	it.	8.640732394661732	
+4	sentence	1	Bill's score	18.1671898878096	
+4	sentence	2	matches	14.294093123167512	
+4	sentence	3	Al's	18.329816682465474	
+4	sentence	4	, but does not	20.85796147816611	
+4	sentence	5	go	6.714669794563792	
+4	sentence	6	it.	17.283754222371748	
+5	sentence	1	Bill's score	18.1671898878096	
+5	sentence	2	matches	14.294093123167512	
+5	sentence	3	Al's	18.329816682465474	
+5	sentence	4	, but does not	20.85796147816611	
+5	sentence	5	come	6.553683026466548	
+5	sentence	6	it.	19.589425528586624	
+6	sentence	1	Bill's score	18.1671898878096	
+6	sentence	2	matches	14.294093123167512	
+6	sentence	3	Al's	18.329816682465474	
+6	sentence	4	, but does not	20.85796147816611	
+6	sentence	5	see	7.922433782651746	
+6	sentence	6	it.	7.127451202309748	
+7	sentence	1	Bill's score	18.1671898878096	
+7	sentence	2	matches	14.294093123167512	
+7	sentence	3	Al's	18.329816682465474	
+7	sentence	4	, but does not	20.85796147816611	
+7	sentence	5	let	9.50540062530683	
+7	sentence	6	it.	8.960451926234011	
+8	sentence	1	Bill's score	18.1671898878096	
+8	sentence	2	matches	14.294093123167512	
+8	sentence	3	Al's	18.329816682465474	
+8	sentence	4	, but does not	20.85796147816611	
+8	sentence	5	take	6.014631612491816	
+8	sentence	6	it.	12.810035222850138	
+9	sentence	1	Bill's score	18.1671898878096	
+9	sentence	2	matches	14.294093123167512	
+9	sentence	3	Al's	18.329816682465474	
+9	sentence	4	, but does not	20.85796147816611	
+9	sentence	5	say	7.802172506278815	
+9	sentence	6	it.	7.5472013470686665	
+10	sentence	1	Bill's score	18.1671898878096	
+10	sentence	2	matches	14.294093123167512	
+10	sentence	3	Al's	18.329816682465474	
+10	sentence	4	, but does not	20.85796147816611	
+10	sentence	5	make	6.031362084767751	
+10	sentence	6	it.	9.399882389696462	
+11	sentence	1	Bill's score	18.1671898878096	
+11	sentence	2	matches	14.294093123167512	
+11	sentence	3	Al's	18.329816682465474	
+11	sentence	4	, but does not	20.85796147816611	
+11	sentence	5	give	6.52268762519745	
+11	sentence	6	it.	13.55852126163547	
+12	sentence	1	Bill's score	18.1671898878096	
+12	sentence	2	matches	14.294093123167512	
+12	sentence	3	Al's	18.329816682465474	
+12	sentence	4	, but does not	20.85796147816611	
+12	sentence	5	find	8.366231573550206	
+12	sentence	6	it.	8.012671015767651	
+13	sentence	1	Bill's score	18.1671898878096	
+13	sentence	2	matches	14.294093123167512	
+13	sentence	3	Al's	18.329816682465474	
+13	sentence	4	, but does not	20.85796147816611	
+13	sentence	5	keep	9.479666517292927	
+13	sentence	6	it.	8.90841685538896	
+14	sentence	1	Bill's score	18.1671898878096	
+14	sentence	2	matches	14.294093123167512	
+14	sentence	3	Al's	18.329816682465474	
+14	sentence	4	, but does not	20.85796147816611	
+14	sentence	5	leave	9.510089560299953	
+14	sentence	6	it.	13.79996839311237	
+15	sentence	1	Bill's score	18.1671898878096	
+15	sentence	2	matches	14.294093123167512	
+15	sentence	3	Al's	18.329816682465474	
+15	sentence	4	, but does not	20.85796147816611	
+15	sentence	5	believe	11.005397533740867	
+15	sentence	6	it.	6.324279152098967	
+16	sentence	1	Bill's score	18.1671898878096	
+16	sentence	2	matches	14.294093123167512	
+16	sentence	3	Al's	18.329816682465474	
+16	sentence	4	, but does not	20.85796147816611	
+16	sentence	5	remember	11.843748979150938	
+16	sentence	6	it.	5.834293872467441	
+17	sentence	1	Bill's score	18.1671898878096	
+17	sentence	2	matches	14.294093123167512	
+17	sentence	3	Al's	18.329816682465474	
+17	sentence	4	, but does not	20.85796147816611	
+17	sentence	5	run	9.13279539669833	
+17	sentence	6	it.	9.505377579631613	
+18	sentence	1	Bill's score	18.1671898878096	
+18	sentence	2	matches	14.294093123167512	
+18	sentence	3	Al's	18.329816682465474	
+18	sentence	4	, but does not	20.85796147816611	
+18	sentence	5	happen	9.814738252177126	
+18	sentence	6	it.	17.424865987404683	
+19	sentence	1	Bill's score	18.1671898878096	
+19	sentence	2	matches	14.294093123167512	
+19	sentence	3	Al's	18.329816682465474	
+19	sentence	4	, but does not	20.85796147816611	
+19	sentence	5	buy	11.187935791783032	
+19	sentence	6	it.	5.306931603323902	
+20	sentence	1	Bill's score	18.1671898878096	
+20	sentence	2	matches	14.294093123167512	
+20	sentence	3	Al's	18.329816682465474	
+20	sentence	4	, but does not	20.85796147816611	
+20	sentence	5	save	11.162157656210507	
+20	sentence	6	it.	6.534215622284784	
+21	sentence	1	Bill's score	18.1671898878096	
+21	sentence	2	matches	14.294093123167512	
+21	sentence	3	Al's	18.329816682465474	
+21	sentence	4	, but does not	20.85796147816611	
+21	sentence	5	lose	9.415650447058168	
+21	sentence	6	it.	7.4702394547728606	
+22	sentence	1	Bill's score	18.1671898878096	
+22	sentence	2	matches	14.294093123167512	
+22	sentence	3	Al's	18.329816682465474	
+22	sentence	4	, but does not	20.85796147816611	
+22	sentence	5	follow	7.224376840717709	
+22	sentence	6	it.	6.609981203261187	
+23	sentence	1	Bill's score	18.1671898878096	
+23	sentence	2	matches	14.294093123167512	
+23	sentence	3	Al's	18.329816682465474	
+23	sentence	4	, but does not	20.85796147816611	
+23	sentence	5	expect	11.120463558196535	
+23	sentence	6	it.	10.364013002849747	
+24	sentence	1	Bill's score	18.1671898878096	
+24	sentence	2	matches	14.294093123167512	
+24	sentence	3	Al's	18.329816682465474	
+24	sentence	4	, but does not	20.85796147816611	
+24	sentence	5	realize	10.918707270816357	
+24	sentence	6	it.	4.948433595617726	
+25	sentence	1	Bill's score	18.1671898878096	
+25	sentence	2	matches	14.294093123167512	
+25	sentence	3	Al's	18.329816682465474	
+25	sentence	4	, but does not	20.85796147816611	
+25	sentence	5	slow	13.456698589226841	
+25	sentence	6	it.	9.932512659418581	
+26	sentence	1	Bill's score	18.1671898878096	
+26	sentence	2	matches	14.294093123167512	
+26	sentence	3	Al's	18.329816682465474	
+26	sentence	4	, but does not	20.85796147816611	
+26	sentence	5	allow	7.376492055752846	
+26	sentence	6	it.	9.534125511619237	
+27	sentence	1	Bill's score	18.1671898878096	
+27	sentence	2	matches	14.294093123167512	
+27	sentence	3	Al's	18.329816682465474	
+27	sentence	4	, but does not	20.85796147816611	
+27	sentence	5	consider	7.708217696181859	
+27	sentence	6	it.	8.890015055711942	
+28	sentence	1	Bill's score	18.1671898878096	
+28	sentence	2	matches	14.294093123167512	
+28	sentence	3	Al's	18.329816682465474	
+28	sentence	4	, but does not	20.85796147816611	
+28	sentence	5	apologize	15.054678829371644	
+28	sentence	6	it.	14.09091299142084	
+29	sentence	1	Bill's score	18.1671898878096	
+29	sentence	2	matches	14.294093123167512	
+29	sentence	3	Al's	18.329816682465474	
+29	sentence	4	, but does not	20.85796147816611	
+29	sentence	5	recognize	10.031023633902194	
+29	sentence	6	it.	5.959516676335114	
+30	sentence	1	Bill's score	18.1671898878096	
+30	sentence	2	matches	14.294093123167512	
+30	sentence	3	Al's	18.329816682465474	
+30	sentence	4	, but does not	20.85796147816611	
+30	sentence	5	settle	11.591206902901577	
+30	sentence	6	it.	7.414313104469388	
+31	sentence	1	Bill's score	18.1671898878096	
+31	sentence	2	matches	14.294093123167512	
+31	sentence	3	Al's	18.329816682465474	
+31	sentence	4	, but does not	20.85796147816611	
+31	sentence	5	add	7.576090992760601	
+31	sentence	6	it.	11.805006791356375	
+32	sentence	1	Bill's score	18.1671898878096	
+32	sentence	2	matches	14.294093123167512	
+32	sentence	3	Al's	18.329816682465474	
+32	sentence	4	, but does not	20.85796147816611	
+32	sentence	5	assume	11.60694675510854	
+32	sentence	6	it.	9.756602268775367	
+33	sentence	1	Bill's score	18.1671898878096	
+33	sentence	2	matches	14.294093123167512	
+33	sentence	3	Al's	18.329816682465474	
+33	sentence	4	, but does not	20.85796147816611	
+33	sentence	5	appear	6.095400168781819	
+33	sentence	6	it.	16.205388604931766	
+34	sentence	1	Bill's score	18.1671898878096	
+34	sentence	2	matches	14.294093123167512	
+34	sentence	3	Al's	18.329816682465474	
+34	sentence	4	, but does not	20.85796147816611	
+34	sentence	5	remove	10.052443041171252	
+34	sentence	6	it.	5.06584494748321	
+35	sentence	1	Bill's score	18.1671898878096	
+35	sentence	2	matches	14.294093123167512	
+35	sentence	3	Al's	18.329816682465474	
+35	sentence	4	, but does not	20.85796147816611	
+35	sentence	5	identify	10.856408275367812	
+35	sentence	6	it.	6.459183203349008	
+36	sentence	1	Bill's score	18.1671898878096	
+36	sentence	2	matches	14.294093123167512	
+36	sentence	3	Al's	18.329816682465474	
+36	sentence	4	, but does not	20.85796147816611	
+36	sentence	5	replace	10.586761492594238	
+36	sentence	6	it.	4.330124664923472	
+37	sentence	1	Bill's score	18.1671898878096	
+37	sentence	2	matches	14.294093123167512	
+37	sentence	3	Al's	18.329816682465474	
+37	sentence	4	, but does not	20.85796147816611	
+37	sentence	5	apply	8.460142356088541	
+37	sentence	6	it.	12.414236757911581	
+38	sentence	1	Bill's score	18.1671898878096	
+38	sentence	2	matches	14.294093123167512	
+38	sentence	3	Al's	18.329816682465474	
+38	sentence	4	, but does not	20.85796147816611	
+38	sentence	5	succeed	11.349869152390625	
+38	sentence	6	it.	10.697539301633293	
+39	sentence	1	Bill's score	18.1671898878096	
+39	sentence	2	matches	14.294093123167512	
+39	sentence	3	Al's	18.329816682465474	
+39	sentence	4	, but does not	20.85796147816611	
+39	sentence	5	develop	12.349405489911733	
+39	sentence	6	it.	9.958801239498866	
+40	sentence	1	Bill's score	18.1671898878096	
+40	sentence	2	matches	14.294093123167512	
+40	sentence	3	Al's	18.329816682465474	
+40	sentence	4	, but does not	20.85796147816611	
+40	sentence	5	approve	14.698121645880455	
+40	sentence	6	it.	5.398382603998272	
+41	sentence	1	Bill's score	18.1671898878096	
+41	sentence	2	matches	14.294093123167512	
+41	sentence	3	Al's	18.329816682465474	
+41	sentence	4	, but does not	20.85796147816611	
+41	sentence	5	expose	13.119733669321944	
+41	sentence	6	it.	7.920903481024369	
+42	sentence	1	Bill's score	18.1671898878096	
+42	sentence	2	matches	14.294093123167512	
+42	sentence	3	Al's	18.329816682465474	
+42	sentence	4	, but does not	20.85796147816611	
+42	sentence	5	establish	10.754682601174272	
+42	sentence	6	it.	8.373425435853147	
+43	sentence	1	Bill's score	18.1671898878096	
+43	sentence	2	matches	14.294093123167512	
+43	sentence	3	Al's	18.329816682465474	
+43	sentence	4	, but does not	20.85796147816611	
+43	sentence	5	reduce	10.65487212578074	
+43	sentence	6	it.	7.3517968949328045	
+44	sentence	1	Bill's score	18.1671898878096	
+44	sentence	2	matches	14.294093123167512	
+44	sentence	3	Al's	18.329816682465474	
+44	sentence	4	, but does not	20.85796147816611	
+44	sentence	5	participate	11.919872628006438	
+44	sentence	6	it.	16.031178090809682	
+45	sentence	1	Bill's score	18.1671898878096	
+45	sentence	2	matches	14.294093123167512	
+45	sentence	3	Al's	18.329816682465474	
+45	sentence	4	, but does not	20.85796147816611	
+45	sentence	5	organize	17.181011786746307	
+45	sentence	6	it.	7.061565852642763	
+46	sentence	1	Bill's score	18.1671898878096	
+46	sentence	2	matches	14.294093123167512	
+46	sentence	3	Al's	18.329816682465474	
+46	sentence	4	, but does not	20.85796147816611	
+46	sentence	5	obtain	12.90221551595549	
+46	sentence	6	it.	8.596606977912511	
+47	sentence	1	Bill's score	18.1671898878096	
+47	sentence	2	matches	14.294093123167512	
+47	sentence	3	Al's	18.329816682465474	
+47	sentence	4	, but does not	20.85796147816611	
+47	sentence	5	kitten	24.35312309986681	
+47	sentence	6	it.	7.222820913675353	
+48	sentence	1	Bill's score	18.1671898878096	
+48	sentence	2	matches	14.294093123167512	
+48	sentence	3	Al's	18.329816682465474	
+48	sentence	4	, but does not	20.85796147816611	
+48	sentence	5	acquire	14.407605800320585	
+48	sentence	6	it.	7.181612150702115	
+49	sentence	1	Bill's score	18.1671898878096	
+49	sentence	2	matches	14.294093123167512	
+49	sentence	3	Al's	18.329816682465474	
+49	sentence	4	, but does not	20.85796147816611	
+49	sentence	5	qualify	8.315247660667229	
+49	sentence	6	it.	9.155683191840456	
+50	sentence	1	Bill's score	18.1671898878096	
+50	sentence	2	matches	14.294093123167512	
+50	sentence	3	Al's	18.329816682465474	
+50	sentence	4	, but does not	20.85796147816611	
+50	sentence	5	criticize	13.817350335669772	
+50	sentence	6	it.	5.916975907730944	
+51	sentence	1	Bill's score	18.1671898878096	
+51	sentence	2	matches	14.294093123167512	
+51	sentence	3	Al's	18.329816682465474	
+51	sentence	4	, but does not	20.85796147816611	
+51	sentence	5	rave	17.20428035147744	
+51	sentence	6	it.	12.766789841325384	
+52	sentence	1	Bill's score	18.1671898878096	
+52	sentence	2	matches	14.294093123167512	
+52	sentence	3	Al's	18.329816682465474	
+52	sentence	4	, but does not	20.85796147816611	
+52	sentence	5	enlighten	16.9217880985196	
+52	sentence	6	it.	9.484386925111158	
+53	sentence	1	Bill's score	18.1671898878096	
+53	sentence	2	matches	14.294093123167512	
+53	sentence	3	Al's	18.329816682465474	
+53	sentence	4	, but does not	20.85796147816611	
+53	sentence	5	disclose	11.583061804556714	
+53	sentence	6	it.	6.5856678439260605	
+54	sentence	1	Bill's score	18.1671898878096	
+54	sentence	2	matches	14.294093123167512	
+54	sentence	3	Al's	18.329816682465474	
+54	sentence	4	, but does not	20.85796147816611	
+54	sentence	5	reopen	18.914795031457214	
+54	sentence	6	it.	7.2958560980866585	
+55	sentence	1	Bill's score	18.1671898878096	
+55	sentence	2	matches	14.294093123167512	
+55	sentence	3	Al's	18.329816682465474	
+55	sentence	4	, but does not	20.85796147816611	
+55	sentence	5	stabilize	13.884756527918338	
+55	sentence	6	it.	7.177236224133562	
+56	sentence	1	Bill's score	18.1671898878096	
+56	sentence	2	matches	14.294093123167512	
+56	sentence	3	Al's	18.329816682465474	
+56	sentence	4	, but does not	20.85796147816611	
+56	sentence	5	soar	14.691187305397667	
+56	sentence	6	it.	13.954719070289327	
+57	sentence	1	Bill's score	18.1671898878096	
+57	sentence	2	matches	14.294093123167512	
+57	sentence	3	Al's	18.329816682465474	
+57	sentence	4	, but does not	20.85796147816611	
+57	sentence	5	authorize	16.823926272551667	
+57	sentence	6	it.	5.406964366293675	
+58	sentence	1	Bill's score	18.1671898878096	
+58	sentence	2	matches	14.294093123167512	
+58	sentence	3	Al's	18.329816682465474	
+58	sentence	4	, but does not	20.85796147816611	
+58	sentence	5	sympathize	19.343590238275123	
+58	sentence	6	it.	13.366883745501456	
+59	sentence	1	Bill's score	18.1671898878096	
+59	sentence	2	matches	14.294093123167512	
+59	sentence	3	Al's	18.329816682465474	
+59	sentence	4	, but does not	20.85796147816611	
+59	sentence	5	sharpen	15.896074895070662	
+59	sentence	6	it.	7.701805323044439	
+60	sentence	1	Bill's score	18.1671898878096	
+60	sentence	2	matches	14.294093123167512	
+60	sentence	3	Al's	18.329816682465474	
+60	sentence	4	, but does not	20.85796147816611	
+60	sentence	5	specialize	17.252160321477646	
+60	sentence	6	it.	11.342534780261929	
+61	sentence	1	Bill's score	18.1671898878096	
+61	sentence	2	matches	14.294093123167512	
+61	sentence	3	Al's	18.329816682465474	
+61	sentence	4	, but does not	20.85796147816611	
+61	sentence	5	minimize	14.688105376294207	
+61	sentence	6	it.	6.267813120237086	
+62	sentence	1	Bill's score	18.1671898878096	
+62	sentence	2	matches	14.294093123167512	
+62	sentence	3	Al's	18.329816682465474	
+62	sentence	4	, but does not	20.85796147816611	
+62	sentence	5	socialize	18.767036910890358	
+62	sentence	6	it.	11.576732843004962	
+63	sentence	1	Bill's score	18.1671898878096	
+63	sentence	2	matches	14.294093123167512	
+63	sentence	3	Al's	18.329816682465474	
+63	sentence	4	, but does not	20.85796147816611	
+63	sentence	5	utilize	11.515522841701682	
+63	sentence	6	it.	6.612698185179518	
+64	sentence	1	Bill's score	18.1671898878096	
+64	sentence	2	matches	14.294093123167512	
+64	sentence	3	Al's	18.329816682465474	
+64	sentence	4	, but does not	20.85796147816611	
+64	sentence	5	rectify	16.409963402441512	
+64	sentence	6	it.	5.794081748955954	
+65	sentence	1	Bill's score	18.1671898878096	
+65	sentence	2	matches	14.294093123167512	
+65	sentence	3	Al's	18.329816682465474	
+65	sentence	4	, but does not	20.85796147816611	
+65	sentence	5	terrorize	18.865886110754726	
+65	sentence	6	it.	7.608495361896893	
+66	sentence	1	Bill's score	18.1671898878096	
+66	sentence	2	matches	14.294093123167512	
+66	sentence	3	Al's	18.329816682465474	
+66	sentence	4	, but does not	20.85796147816611	
+66	sentence	5	enslave	19.966102105176226	
+66	sentence	6	it.	6.8239713045278405	
+67	sentence	1	Bill's score	18.1671898878096	
+67	sentence	2	matches	14.294093123167512	
+67	sentence	3	Al's	18.329816682465474	
+67	sentence	4	, but does not	20.85796147816611	
+67	sentence	5	finalize	13.434551544859815	
+67	sentence	6	it.	6.465480950049628	
+68	sentence	1	Bill's score	18.1671898878096	
+68	sentence	2	matches	14.294093123167512	
+68	sentence	3	Al's	18.329816682465474	
+68	sentence	4	, but does not	20.85796147816611	
+68	sentence	5	maximize	13.790845745380002	
+68	sentence	6	it.	5.805747246172652	
+69	sentence	1	Bill's score	18.1671898878096	
+69	sentence	2	matches	14.294093123167512	
+69	sentence	3	Al's	18.329816682465474	
+69	sentence	4	, but does not	20.85796147816611	
+69	sentence	5	summarize	13.501584685240827	
+69	sentence	6	it.	6.4535409685221525	
+70	sentence	1	Bill's score	18.1671898878096	
+70	sentence	2	matches	14.294093123167512	
+70	sentence	3	Al's	18.329816682465474	
+70	sentence	4	, but does not	20.85796147816611	
+70	sentence	5	repose	23.92662951536756	
+70	sentence	6	it.	7.094924639500018	
+71	sentence	1	Bill's score	18.1671898878096	
+71	sentence	2	matches	14.294093123167512	
+71	sentence	3	Al's	18.329816682465474	
+71	sentence	4	, but does not	20.85796147816611	
+71	sentence	5	symbolize	16.069346770208195	
+71	sentence	6	it.	8.217043675215406	
+72	sentence	1	Bill's score	18.1671898878096	
+72	sentence	2	matches	14.294093123167512	
+72	sentence	3	Al's	18.329816682465474	
+72	sentence	4	, but does not	20.85796147816611	
+72	sentence	5	sterilize	19.462915337837	
+72	sentence	6	it.	5.975235116702046	
+73	sentence	1	Bill's score	18.1671898878096	
+73	sentence	2	matches	14.294093123167512	
+73	sentence	3	Al's	18.329816682465474	
+73	sentence	4	, but does not	20.85796147816611	
+73	sentence	5	revolutionize	16.744244732606443	
+73	sentence	6	it.	6.556459600373403	
+74	sentence	1	Bill's score	18.1671898878096	
+74	sentence	2	matches	14.294093123167512	
+74	sentence	3	Al's	18.329816682465474	
+74	sentence	4	, but does not	20.85796147816611	
+74	sentence	5	synchronize	15.909569437856398	
+74	sentence	6	it.	7.939930781602575	
+75	sentence	1	Bill's score	18.1671898878096	
+75	sentence	2	matches	14.294093123167512	
+75	sentence	3	Al's	18.329816682465474	
+75	sentence	4	, but does not	20.85796147816611	
+75	sentence	5	fertilize	20.2312585445483	
+75	sentence	6	it.	6.2978957235867306	
+76	sentence	1	Bill's score	18.1671898878096	
+76	sentence	2	matches	14.294093123167512	
+76	sentence	3	Al's	18.329816682465474	
+76	sentence	4	, but does not	20.85796147816611	
+76	sentence	5	rationalize	18.316469528139724	
+76	sentence	6	it.	4.692864624713179	
+77	sentence	1	Bill's score	18.1671898878096	
+77	sentence	2	matches	14.294093123167512	
+77	sentence	3	Al's	18.329816682465474	
+77	sentence	4	, but does not	20.85796147816611	
+77	sentence	5	antagonize	16.903656967288292	
+77	sentence	6	it.	7.8614399635406	
+78	sentence	1	Bill's score	18.1671898878096	
+78	sentence	2	matches	14.294093123167512	
+78	sentence	3	Al's	18.329816682465474	
+78	sentence	4	, but does not	20.85796147816611	
+78	sentence	5	kindle	15.04592826610442	
+78	sentence	6	it.	6.43345614662379	
+79	sentence	1	Bill's score	18.1671898878096	
+79	sentence	2	matches	14.294093123167512	
+79	sentence	3	Al's	18.329816682465474	
+79	sentence	4	, but does not	20.85796147816611	
+79	sentence	5	familiarize	18.688954422637195	
+79	sentence	6	it.	12.27895967629182	
+80	sentence	1	Bill's score	18.1671898878096	
+80	sentence	2	matches	14.294093123167512	
+80	sentence	3	Al's	18.329816682465474	
+80	sentence	4	, but does not	20.85796147816611	
+80	sentence	5	synthesize	16.93728253685824	
+80	sentence	6	it.	6.245143915044208	
+81	sentence	1	Bill's score	18.1671898878096	
+81	sentence	2	matches	14.294093123167512	
+81	sentence	3	Al's	18.329816682465474	
+81	sentence	4	, but does not	20.85796147816611	
+81	sentence	5	reorganize	19.82906169887331	
+81	sentence	6	it.	6.304350662430239	
+82	sentence	1	Bill's score	18.1671898878096	
+82	sentence	2	matches	14.294093123167512	
+82	sentence	3	Al's	18.329816682465474	
+82	sentence	4	, but does not	20.85796147816611	
+82	sentence	5	ripen	23.07817030560098	
+82	sentence	6	it.	9.646651868269613	
+83	sentence	1	Bill's score	18.1671898878096	
+83	sentence	2	matches	14.294093123167512	
+83	sentence	3	Al's	18.329816682465474	
+83	sentence	4	, but does not	20.85796147816611	
+83	sentence	5	deepen	18.469720441358746	
+83	sentence	6	it.	8.164707806713995	
+84	sentence	1	Bill's score	18.1671898878096	
+84	sentence	2	matches	14.294093123167512	
+84	sentence	3	Al's	18.329816682465474	
+84	sentence	4	, but does not	20.85796147816611	
+84	sentence	5	destabilize	17.509186845348257	
+84	sentence	6	it.	6.736767157442552	
+85	sentence	1	Bill's score	18.1671898878096	
+85	sentence	2	matches	14.294093123167512	
+85	sentence	3	Al's	18.329816682465474	
+85	sentence	4	, but does not	20.85796147816611	
+85	sentence	5	enclose	17.156735630080153	
+85	sentence	6	it.	5.201177579499202	
+86	sentence	1	Bill's score	18.1671898878096	
+86	sentence	2	matches	14.294093123167512	
+86	sentence	3	Al's	18.329816682465474	
+86	sentence	4	, but does not	20.85796147816611	
+86	sentence	5	dampen	14.56060868231032	
+86	sentence	6	it.	7.860095403176155	
+87	sentence	1	Bill's score	18.1671898878096	
+87	sentence	2	matches	14.294093123167512	
+87	sentence	3	Al's	18.329816682465474	
+87	sentence	4	, but does not	20.85796147816611	
+87	sentence	5	subsidize	17.93430330564301	
+87	sentence	6	it.	5.5174573720629	
+88	sentence	1	Bill's score	18.1671898878096	
+88	sentence	2	matches	14.294093123167512	
+88	sentence	3	Al's	18.329816682465474	
+88	sentence	4	, but does not	20.85796147816611	
+88	sentence	5	idolize	18.895961168365563	
+88	sentence	6	it.	7.285909223500032	
+89	sentence	1	Bill's score	18.1671898878096	
+89	sentence	2	matches	14.294093123167512	
+89	sentence	3	Al's	18.329816682465474	
+89	sentence	4	, but does not	20.85796147816611	
+89	sentence	5	quantify	12.0787901008485	
+89	sentence	6	it.	4.987095811479638	
+90	sentence	1	Bill's score	18.1671898878096	
+90	sentence	2	matches	14.294093123167512	
+90	sentence	3	Al's	18.329816682465474	
+90	sentence	4	, but does not	20.85796147816611	
+90	sentence	5	engrave	24.65593776875518	
+90	sentence	6	it.	6.370190264712096	
+91	sentence	1	Bill's score	18.1671898878096	
+91	sentence	2	matches	14.294093123167512	
+91	sentence	3	Al's	18.329816682465474	
+91	sentence	4	, but does not	20.85796147816611	
+91	sentence	5	fraternize	22.295085431301096	
+91	sentence	6	it.	11.330253155198514	
+92	sentence	1	Bill's score	18.1671898878096	
+92	sentence	2	matches	14.294093123167512	
+92	sentence	3	Al's	18.329816682465474	
+92	sentence	4	, but does not	20.85796147816611	
+92	sentence	5	immobilize	19.522531097587986	
+92	sentence	6	it.	7.367466922183519	
+93	sentence	1	Bill's score	18.1671898878096	
+93	sentence	2	matches	14.294093123167512	
+93	sentence	3	Al's	18.329816682465474	
+93	sentence	4	, but does not	20.85796147816611	
+93	sentence	5	downsize	19.015873362952906	
+93	sentence	6	it.	6.708356139467968	
+94	sentence	1	Bill's score	18.1671898878096	
+94	sentence	2	matches	14.294093123167512	
+94	sentence	3	Al's	18.329816682465474	
+94	sentence	4	, but does not	20.85796147816611	
+94	sentence	5	theorize	18.93675832311071	
+94	sentence	6	it.	8.253470976529355	
+95	sentence	1	Bill's score	18.1671898878096	
+95	sentence	2	matches	14.294093123167512	
+95	sentence	3	Al's	18.329816682465474	
+95	sentence	4	, but does not	20.85796147816611	
+95	sentence	5	dramatize	17.081494017762857	
+95	sentence	6	it.	6.0389989743793135	
+96	sentence	1	Bill's score	18.1671898878096	
+96	sentence	2	matches	14.294093123167512	
+96	sentence	3	Al's	18.329816682465474	
+96	sentence	4	, but does not	20.85796147816611	
+96	sentence	5	modernize	17.372557743616568	
+96	sentence	6	it.	4.418305501483011	
+97	sentence	1	Bill's score	18.1671898878096	
+97	sentence	2	matches	14.294093123167512	
+97	sentence	3	Al's	18.329816682465474	
+97	sentence	4	, but does not	20.85796147816611	
+97	sentence	5	revitalize	19.339167983879996	
+97	sentence	6	it.	6.714281543729469	
+98	sentence	1	Bill's score	18.1671898878096	
+98	sentence	2	matches	14.294093123167512	
+98	sentence	3	Al's	18.329816682465474	
+98	sentence	4	, but does not	20.85796147816611	
+98	sentence	5	traumatize	20.915716315766808	
+98	sentence	6	it.	8.839653032094484	
+99	sentence	1	Bill's score	18.1671898878096	
+99	sentence	2	matches	14.294093123167512	
+99	sentence	3	Al's	18.329816682465474	
+99	sentence	4	, but does not	20.85796147816611	
+99	sentence	5	immortalize	19.412580293997895	
+99	sentence	6	it.	5.613794399848282	
+100	sentence	1	Bill's score	18.1671898878096	
+100	sentence	2	matches	14.294093123167512	
+100	sentence	3	Al's	18.329816682465474	
+100	sentence	4	, but does not	20.85796147816611	
+100	sentence	5	agonize	19.532631128099666	
+100	sentence	6	it.	11.336817389016645	
+101	sentence	1	Bill's score	18.1671898878096	
+101	sentence	2	matches	14.294093123167512	
+101	sentence	3	Al's	18.329816682465474	
+101	sentence	4	, but does not	20.85796147816611	
+101	sentence	5	electrify	17.219332864271315	
+101	sentence	6	it.	8.139177154176062	
+102	sentence	1	Bill's score	18.1671898878096	
+102	sentence	2	matches	14.294093123167512	
+102	sentence	3	Al's	18.329816682465474	
+102	sentence	4	, but does not	20.85796147816611	
+102	sentence	5	demoralize	19.751441096901328	
+102	sentence	6	it.	9.22505084622211	
+103	sentence	1	Bill's score	18.1671898878096	
+103	sentence	2	matches	14.294093123167512	
+103	sentence	3	Al's	18.329816682465474	
+103	sentence	4	, but does not	20.85796147816611	
+103	sentence	5	sanitize	19.64607984651722	
+103	sentence	6	it.	5.218556942316841	
+104	sentence	1	Bill's score	18.1671898878096	
+104	sentence	2	matches	14.294093123167512	
+104	sentence	3	Al's	18.329816682465474	
+104	sentence	4	, but does not	20.85796147816611	
+104	sentence	5	anesthetize	22.27038490139767	
+104	sentence	6	it.	6.360184486067548	
+105	sentence	1	Bill's score	18.1671898878096	
+105	sentence	2	matches	14.294093123167512	
+105	sentence	3	Al's	18.329816682465474	
+105	sentence	4	, but does not	20.85796147816611	
+105	sentence	5	trivialize	16.295748343439666	
+105	sentence	6	it.	5.5971012478075854	
+106	sentence	1	Bill's score	18.1671898878096	
+106	sentence	2	matches	14.294093123167512	
+106	sentence	3	Al's	18.329816682465474	
+106	sentence	4	, but does not	20.85796147816611	
+106	sentence	5	romanticize	18.709335957603958	
+106	sentence	6	it.	5.5643144752471	
+107	sentence	1	Bill's score	18.1671898878096	
+107	sentence	2	matches	14.294093123167512	
+107	sentence	3	Al's	18.329816682465474	
+107	sentence	4	, but does not	20.85796147816611	
+107	sentence	5	equalize	21.469914446032426	
+107	sentence	6	it.	7.528324359327313	
+108	sentence	1	Bill's score	18.1671898878096	
+108	sentence	2	matches	14.294093123167512	
+108	sentence	3	Al's	18.329816682465474	
+108	sentence	4	, but does not	20.85796147816611	
+108	sentence	5	demonize	18.38611614912999	
+108	sentence	6	it.	6.712523365089699	
+109	sentence	1	Bill's score	18.1671898878096	
+109	sentence	2	matches	14.294093123167512	
+109	sentence	3	Al's	18.329816682465474	
+109	sentence	4	, but does not	20.85796147816611	
+109	sentence	5	alphabetize	23.672186514878213	
+109	sentence	6	it.	5.320562346292011	
+110	sentence	1	Bill's score	18.1671898878096	
+110	sentence	2	matches	14.294093123167512	
+110	sentence	3	Al's	18.329816682465474	
+110	sentence	4	, but does not	20.85796147816611	
+110	sentence	5	formalize	17.471080493537304	
+110	sentence	6	it.	5.0548342742096715	
+111	sentence	1	Bill's score	18.1671898878096	
+111	sentence	2	matches	14.294093123167512	
+111	sentence	3	Al's	18.329816682465474	
+111	sentence	4	, but does not	20.85796147816611	
+111	sentence	5	optimize	14.51648595279002	
+111	sentence	6	it.	5.8774401919853	
+112	sentence	1	Bill's score	18.1671898878096	
+112	sentence	2	matches	14.294093123167512	
+112	sentence	3	Al's	18.329816682465474	
+112	sentence	4	, but does not	20.85796147816611	
+112	sentence	5	internalize	16.92183784450136	
+112	sentence	6	it.	5.298434972440676	
+113	sentence	1	Bill's score	18.1671898878096	
+113	sentence	2	matches	14.294093123167512	
+113	sentence	3	Al's	18.329816682465474	
+113	sentence	4	, but does not	20.85796147816611	
+113	sentence	5	idealize	17.380178574348108	
+113	sentence	6	it.	5.045881373353706	
+114	sentence	1	Bill's score	18.1671898878096	
+114	sentence	2	matches	14.294093123167512	
+114	sentence	3	Al's	18.329816682465474	
+114	sentence	4	, but does not	20.85796147816611	
+114	sentence	5	sodomize	24.089787440819418	
+114	sentence	6	it.	7.344558231149314	
+115	sentence	1	Bill's score	18.1671898878096	
+115	sentence	2	matches	14.294093123167512	
+115	sentence	3	Al's	18.329816682465474	
+115	sentence	4	, but does not	20.85796147816611	
+115	sentence	5	digitize	20.08571792797324	
+115	sentence	6	it.	4.541344641632678	
+116	sentence	1	Bill's score	18.1671898878096	
+116	sentence	2	matches	14.294093123167512	
+116	sentence	3	Al's	18.329816682465474	
+116	sentence	4	, but does not	20.85796147816611	
+116	sentence	5	galvanize	19.101504223497017	
+116	sentence	6	it.	8.840781926214747	
+117	sentence	1	Bill's score	18.1671898878096	
+117	sentence	2	matches	14.294093123167512	
+117	sentence	3	Al's	18.329816682465474	
+117	sentence	4	, but does not	20.85796147816611	
+117	sentence	5	initialize	17.16315861172554	
+117	sentence	6	it.	6.097224560742172	
+118	sentence	1	Bill's score	18.1671898878096	
+118	sentence	2	matches	14.294093123167512	
+118	sentence	3	Al's	18.329816682465474	
+118	sentence	4	, but does not	20.85796147816611	
+118	sentence	5	exemplify	15.17516882553914	
+118	sentence	6	it.	7.460080095621094	
+119	sentence	1	Bill's score	18.1671898878096	
+119	sentence	2	matches	14.294093123167512	
+119	sentence	3	Al's	18.329816682465474	
+119	sentence	4	, but does not	20.85796147816611	
+119	sentence	5	depressurize	33.452782169266776	
+119	sentence	6	it.	7.5690085752154195	
+120	sentence	1	Bill's score	18.1671898878096	
+120	sentence	2	matches	14.294093123167512	
+120	sentence	3	Al's	18.329816682465474	
+120	sentence	4	, but does not	20.85796147816611	
+120	sentence	5	itemize	14.059142531525026	
+120	sentence	6	it.	4.90764662009573	
+121	sentence	1	Bill's score	18.1671898878096	
+121	sentence	2	matches	14.294093123167512	
+121	sentence	3	Al's	18.329816682465474	
+121	sentence	4	, but does not	20.85796147816611	
+121	sentence	5	dehumanize	21.60997056005653	
+121	sentence	6	it.	7.330992583614558	
+122	sentence	1	Bill's score	18.1671898878096	
+122	sentence	2	matches	14.294093123167512	
+122	sentence	3	Al's	18.329816682465474	
+122	sentence	4	, but does not	20.85796147816611	
+122	sentence	5	mollify	20.65905102264373	
+122	sentence	6	it.	7.979079192418476	
+123	sentence	1	Bill's score	18.1671898878096	
+123	sentence	2	matches	14.294093123167512	
+123	sentence	3	Al's	18.329816682465474	
+123	sentence	4	, but does not	20.85796147816611	
+123	sentence	5	immunize	16.87035339761088	
+123	sentence	6	it.	7.917645097721122	
+124	sentence	1	Bill's score	18.1671898878096	
+124	sentence	2	matches	14.294093123167512	
+124	sentence	3	Al's	18.329816682465474	
+124	sentence	4	, but does not	20.85796147816611	
+124	sentence	5	oxidize	19.772784060569307	
+124	sentence	6	it.	8.504534173963947	
+125	sentence	1	Bill's score	18.1671898878096	
+125	sentence	2	matches	14.294093123167512	
+125	sentence	3	Al's	18.329816682465474	
+125	sentence	4	, but does not	20.85796147816611	
+125	sentence	5	dematerialize	27.059482982719206	
+125	sentence	6	it.	6.947959530936294	
+126	sentence	1	Bill's score	18.1671898878096	
+126	sentence	2	matches	14.294093123167512	
+126	sentence	3	Al's	18.329816682465474	
+126	sentence	4	, but does not	20.85796147816611	
+126	sentence	5	ostracize	22.55408349710047	
+126	sentence	6	it.	7.456564942220108	
+127	sentence	1	Bill's score	18.1671898878096	
+127	sentence	2	matches	14.294093123167512	
+127	sentence	3	Al's	18.329816682465474	
+127	sentence	4	, but does not	20.85796147816611	
+127	sentence	5	overdramatize	24.69102626037457	
+127	sentence	6	it.	5.358397497585923	
+128	sentence	1	Bill's score	18.1671898878096	
+128	sentence	2	matches	14.294093123167512	
+128	sentence	3	Al's	18.329816682465474	
+128	sentence	4	, but does not	20.85796147816611	
+128	sentence	5	satirize	18.528368535350197	
+128	sentence	6	it.	6.446797700764473	
+129	sentence	1	Bill's score	18.1671898878096	
+129	sentence	2	matches	14.294093123167512	
+129	sentence	3	Al's	18.329816682465474	
+129	sentence	4	, but does not	20.85796147816611	
+129	sentence	5	amortize	18.22361711071142	
+129	sentence	6	it.	5.7536874958172035	
+130	sentence	1	Bill's score	18.1671898878096	
+130	sentence	2	matches	14.294093123167512	
+130	sentence	3	Al's	18.329816682465474	
+130	sentence	4	, but does not	20.85796147816611	
+130	sentence	5	tyrannize	22.27424705666906	
+130	sentence	6	it.	6.8765333302151355	
+131	sentence	1	Bill's score	18.1671898878096	
+131	sentence	2	matches	14.294093123167512	
+131	sentence	3	Al's	18.329816682465474	
+131	sentence	4	, but does not	20.85796147816611	
+131	sentence	5	eulogize	22.3449822633458	
+131	sentence	6	it.	6.257969607223628	
+132	sentence	1	Bill's score	18.1671898878096	
+132	sentence	2	matches	14.294093123167512	
+132	sentence	3	Al's	18.329816682465474	
+132	sentence	4	, but does not	20.85796147816611	
+132	sentence	5	resize	16.5144345492262	
+132	sentence	6	it.	6.207272991358916	
+133	sentence	1	Bill's score	18.1671898878096	
+133	sentence	2	matches	14.294093123167512	
+133	sentence	3	Al's	18.329816682465474	
+133	sentence	4	, but does not	20.85796147816611	
+133	sentence	5	editorialize	20.190083482112946	
+133	sentence	6	it.	7.016349291965144	
+134	sentence	1	Bill's score	18.1671898878096	
+134	sentence	2	matches	14.294093123167512	
+134	sentence	3	Al's	18.329816682465474	
+134	sentence	4	, but does not	20.85796147816611	
+134	sentence	5	acclimatize	22.64614820174107	
+134	sentence	6	it.	10.635507223258887	
+135	sentence	1	Bill's score	18.1671898878096	
+135	sentence	2	matches	14.294093123167512	
+135	sentence	3	Al's	18.329816682465474	
+135	sentence	4	, but does not	20.85796147816611	
+135	sentence	5	desensitize	26.453511283916402	
+135	sentence	6	it.	8.494047187862286	
+136	sentence	1	Bill's score	18.1671898878096	
+136	sentence	2	matches	14.294093123167512	
+136	sentence	3	Al's	18.329816682465474	
+136	sentence	4	, but does not	20.85796147816611	
+136	sentence	5	standardize	15.798105084824014	
+136	sentence	6	it.	5.281479718840064	
+137	sentence	1	Bill's score	18.1671898878096	
+137	sentence	2	matches	14.294093123167512	
+137	sentence	3	Al's	18.329816682465474	
+137	sentence	4	, but does not	20.85796147816611	
+137	sentence	5	stigmatize	20.06437342452309	
+137	sentence	6	it.	6.709368429350946	
+138	sentence	1	Bill's score	18.1671898878096	
+138	sentence	2	matches	14.294093123167512	
+138	sentence	3	Al's	18.329816682465474	
+138	sentence	4	, but does not	20.85796147816611	
+138	sentence	5	actualize	17.274249773154466	
+138	sentence	6	it.	5.431658839183113	
+139	sentence	1	Bill's score	18.1671898878096	
+139	sentence	2	matches	14.294093123167512	
+139	sentence	3	Al's	18.329816682465474	
+139	sentence	4	, but does not	20.85796147816611	
+139	sentence	5	industrialize	20.74118644061099	
+139	sentence	6	it.	5.296995649635605	
+140	sentence	1	Bill's score	18.1671898878096	
+140	sentence	2	matches	14.294093123167512	
+140	sentence	3	Al's	18.329816682465474	
+140	sentence	4	, but does not	20.85796147816611	
+140	sentence	5	sexualize	22.792577463422056	
+140	sentence	6	it.	5.349106994786314	
+141	sentence	1	Bill's score	18.1671898878096	
+141	sentence	2	matches	14.294093123167512	
+141	sentence	3	Al's	18.329816682465474	
+141	sentence	4	, but does not	20.85796147816611	
+141	sentence	5	demagnetize	27.800709886411138	
+141	sentence	6	it.	6.967018562313585	
+142	sentence	1	Bill's score	18.1671898878096	
+142	sentence	2	matches	14.294093123167512	
+142	sentence	3	Al's	18.329816682465474	
+142	sentence	4	, but does not	20.85796147816611	
+142	sentence	5	solemnize	22.697805133794226	
+142	sentence	6	it.	4.869023530286889	
+143	sentence	1	Bill's score	18.1671898878096	
+143	sentence	2	matches	14.294093123167512	
+143	sentence	3	Al's	18.329816682465474	
+143	sentence	4	, but does not	20.85796147816611	
+143	sentence	5	atomize	20.547347138087133	
+143	sentence	6	it.	5.505829711029391	
+144	sentence	1	Bill's score	18.1671898878096	
+144	sentence	2	matches	14.294093123167512	
+144	sentence	3	Al's	18.329816682465474	
+144	sentence	4	, but does not	20.85796147816611	
+144	sentence	5	ionize	19.604596032227906	
+144	sentence	6	it.	8.286862956038227	
+145	sentence	1	Bill's score	18.1671898878096	
+145	sentence	2	matches	14.294093123167512	
+145	sentence	3	Al's	18.329816682465474	
+145	sentence	4	, but does not	20.85796147816611	
+145	sentence	5	radicalize	19.621484518938775	
+145	sentence	6	it.	6.747796748807685	
+146	sentence	1	Bill's score	18.1671898878096	
+146	sentence	2	matches	14.294093123167512	
+146	sentence	3	Al's	18.329816682465474	
+146	sentence	4	, but does not	20.85796147816611	
+146	sentence	5	reunify	21.34385185088059	
+146	sentence	6	it.	8.016415766007539	
+147	sentence	1	Bill's score	18.1671898878096	
+147	sentence	2	matches	14.294093123167512	
+147	sentence	3	Al's	18.329816682465474	
+147	sentence	4	, but does not	20.85796147816611	
+147	sentence	5	demobilize	29.85843890523759	
+147	sentence	6	it.	7.917053821367455	
+148	sentence	1	Bill's score	18.1671898878096	
+148	sentence	2	matches	14.294093123167512	
+148	sentence	3	Al's	18.329816682465474	
+148	sentence	4	, but does not	20.85796147816611	
+148	sentence	5	democratize	20.530590357840072	
+148	sentence	6	it.	5.6121696797455805	
+149	sentence	1	Bill's score	18.1671898878096	
+149	sentence	2	matches	14.294093123167512	
+149	sentence	3	Al's	18.329816682465474	
+149	sentence	4	, but does not	20.85796147816611	
+149	sentence	5	reclassify	20.359219408957948	
+149	sentence	6	it.	5.683298780437374	
+150	sentence	1	Bill's score	18.1671898878096	
+150	sentence	2	matches	14.294093123167512	
+150	sentence	3	Al's	18.329816682465474	
+150	sentence	4	, but does not	20.85796147816611	
+150	sentence	5	rhapsodize	24.758490198485394	
+150	sentence	6	it.	12.434565279226216	
+151	sentence	1	Bill's score	18.1671898878096	
+151	sentence	2	matches	14.294093123167512	
+151	sentence	3	Al's	18.329816682465474	
+151	sentence	4	, but does not	20.85796147816611	
+151	sentence	5	serialize	19.040487713424874	
+151	sentence	6	it.	4.584368509503122	
+152	sentence	1	Bill's score	18.1671898878096	
+152	sentence	2	matches	14.294093123167512	
+152	sentence	3	Al's	18.329816682465474	
+152	sentence	4	, but does not	20.85796147816611	
+152	sentence	5	disorganize	22.125348325663854	
+152	sentence	6	it.	6.482219419518827	
+153	sentence	1	Bill's score	18.1671898878096	
+153	sentence	2	matches	14.294093123167512	
+153	sentence	3	Al's	18.329816682465474	
+153	sentence	4	, but does not	20.85796147816611	
+153	sentence	5	sermonize	20.858384662976388	
+153	sentence	6	it.	8.929102068721484	
+154	sentence	1	Bill's score	18.1671898878096	
+154	sentence	2	matches	14.294093123167512	
+154	sentence	3	Al's	18.329816682465474	
+154	sentence	4	, but does not	20.85796147816611	
+154	sentence	5	deodorize	26.40784888777594	
+154	sentence	6	it.	6.985965632985164	
+155	sentence	1	Bill's score	18.1671898878096	
+155	sentence	2	matches	14.294093123167512	
+155	sentence	3	Al's	18.329816682465474	
+155	sentence	4	, but does not	20.85796147816611	
+155	sentence	5	emulsify	23.363896684246612	
+155	sentence	6	it.	6.686193165207905	
+156	sentence	1	Bill's score	18.1671898878096	
+156	sentence	2	matches	14.294093123167512	
+156	sentence	3	Al's	18.329816682465474	
+156	sentence	4	, but does not	20.85796147816611	
+156	sentence	5	overemphasize	17.508453853526785	
+156	sentence	6	it.	6.188810567797469	
+157	sentence	1	Bill's score	18.1671898878096	
+157	sentence	2	matches	14.294093123167512	
+157	sentence	3	Al's	18.329816682465474	
+157	sentence	4	, but does not	20.85796147816611	
+157	sentence	5	aerosolize	25.553976534822368	
+157	sentence	6	it.	8.032841485026143	
+158	sentence	1	Bill's score	18.1671898878096	
+158	sentence	2	matches	14.294093123167512	
+158	sentence	3	Al's	18.329816682465474	
+158	sentence	4	, but does not	20.85796147816611	
+158	sentence	5	apostatize	26.183890086249377	
+158	sentence	6	it.	5.989869034472637	
+159	sentence	1	Bill's score	18.1671898878096	
+159	sentence	2	matches	14.294093123167512	
+159	sentence	3	Al's	18.329816682465474	
+159	sentence	4	, but does not	20.85796147816611	
+159	sentence	5	depolarize	23.54915747870928	
+159	sentence	6	it.	7.310846277918512	
+160	sentence	1	Bill's score	18.1671898878096	
+160	sentence	2	matches	14.294093123167512	
+160	sentence	3	Al's	18.329816682465474	
+160	sentence	4	, but does not	20.85796147816611	
+160	sentence	5	evangelize	21.7144015912161	
+160	sentence	6	it.	6.5327578973360705	
+161	sentence	1	Bill's score	18.1671898878096	
+161	sentence	2	matches	14.294093123167512	
+161	sentence	3	Al's	18.329816682465474	
+161	sentence	4	, but does not	20.85796147816611	
+161	sentence	5	anatomize	24.39259973957188	
+161	sentence	6	it.	6.275051182081299	
+162	sentence	1	Bill's score	18.1671898878096	
+162	sentence	2	matches	14.294093123167512	
+162	sentence	3	Al's	18.329816682465474	
+162	sentence	4	, but does not	20.85796147816611	
+162	sentence	5	anthropomorphize	21.361680104540355	
+162	sentence	6	it.	6.126674095953989	
+163	sentence	1	Bill's score	18.1671898878096	
+163	sentence	2	matches	14.294093123167512	
+163	sentence	3	Al's	18.329816682465474	
+163	sentence	4	, but does not	20.85796147816611	
+163	sentence	5	federalize	23.162265264332646	
+163	sentence	6	it.	3.870289749806031	
+164	sentence	1	Bill's score	18.1671898878096	
+164	sentence	2	matches	14.294093123167512	
+164	sentence	3	Al's	18.329816682465474	
+164	sentence	4	, but does not	20.85796147816611	
+164	sentence	5	feminize	22.879227428661686	
+164	sentence	6	it.	5.64443087332503	
+165	sentence	1	Bill's score	18.1671898878096	
+165	sentence	2	matches	14.294093123167512	
+165	sentence	3	Al's	18.329816682465474	
+165	sentence	4	, but does not	20.85796147816611	
+165	sentence	5	fossilize	20.688234390518282	
+165	sentence	6	it.	5.9105168413038145	
+166	sentence	1	Bill's score	18.1671898878096	
+166	sentence	2	matches	14.294093123167512	
+166	sentence	3	Al's	18.329816682465474	
+166	sentence	4	, but does not	20.85796147816611	
+166	sentence	5	regularize	18.63520098713605	
+166	sentence	6	it.	5.230937973352454	
+167	sentence	1	Bill's score	18.1671898878096	
+167	sentence	2	matches	14.294093123167512	
+167	sentence	3	Al's	18.329816682465474	
+167	sentence	4	, but does not	20.85796147816611	
+167	sentence	5	ritualize	22.757471633801675	
+167	sentence	6	it.	4.253475093121634	
+168	sentence	1	Bill's score	18.1671898878096	
+168	sentence	2	matches	14.294093123167512	
+168	sentence	3	Al's	18.329816682465474	
+168	sentence	4	, but does not	20.85796147816611	
+168	sentence	5	sentimentalize	22.564944182691857	
+168	sentence	6	it.	5.529810283935097	
+169	sentence	1	Bill's score	18.1671898878096	
+169	sentence	2	matches	14.294093123167512	
+169	sentence	3	Al's	18.329816682465474	
+169	sentence	4	, but does not	20.85796147816611	
+169	sentence	5	exteriorize	24.776367072178004	
+169	sentence	6	it.	4.91272655764559	
+170	sentence	1	Bill's score	18.1671898878096	
+170	sentence	2	matches	14.294093123167512	
+170	sentence	3	Al's	18.329816682465474	
+170	sentence	4	, but does not	20.85796147816611	
+170	sentence	5	fetishize	18.65438389976654	
+170	sentence	6	it.	5.498063232490403	
+171	sentence	1	Bill's score	18.1671898878096	
+171	sentence	2	matches	14.294093123167512	
+171	sentence	3	Al's	18.329816682465474	
+171	sentence	4	, but does not	20.85796147816611	
+171	sentence	5	fictionalize	21.674840825122466	
+171	sentence	6	it.	4.416498651753047	
+172	sentence	1	Bill's score	18.1671898878096	
+172	sentence	2	matches	14.294093123167512	
+172	sentence	3	Al's	18.329816682465474	
+172	sentence	4	, but does not	20.85796147816611	
+172	sentence	5	individualize	20.032342252364714	
+172	sentence	6	it.	5.0395670303272775	
+173	sentence	1	Bill's score	18.1671898878096	
+173	sentence	2	matches	14.294093123167512	
+173	sentence	3	Al's	18.329816682465474	
+173	sentence	4	, but does not	20.85796147816611	
+173	sentence	5	internationalize	22.26888685189179	
+173	sentence	6	it.	4.502845465323784	
+174	sentence	1	Bill's score	18.1671898878096	
+174	sentence	2	matches	14.294093123167512	
+174	sentence	3	Al's	18.329816682465474	
+174	sentence	4	, but does not	20.85796147816611	
+174	sentence	5	alkalinize	30.832153310729243	
+174	sentence	6	it.	7.441383173715194	
+175	sentence	1	Bill's score	18.1671898878096	
+175	sentence	2	matches	14.294093123167512	
+175	sentence	3	Al's	18.329816682465474	
+175	sentence	4	, but does not	20.85796147816611	
+175	sentence	5	depersonalize	21.378784555777816	
+175	sentence	6	it.	6.764947374699677	
+176	sentence	1	Bill's score	18.1671898878096	
+176	sentence	2	matches	14.294093123167512	
+176	sentence	3	Al's	18.329816682465474	
+176	sentence	4	, but does not	20.85796147816611	
+176	sentence	5	italicize	19.376641697509747	
+176	sentence	6	it.	4.648978779796611	
+177	sentence	1	Bill's score	18.1671898878096	
+177	sentence	2	matches	14.294093123167512	
+177	sentence	3	Al's	18.329816682465474	
+177	sentence	4	, but does not	20.85796147816611	
+177	sentence	5	randomize	16.846078884857015	
+177	sentence	6	it.	6.0071156266838095	
+178	sentence	1	Bill's score	18.1671898878096	
+178	sentence	2	matches	14.294093123167512	
+178	sentence	3	Al's	18.329816682465474	
+178	sentence	4	, but does not	20.85796147816611	
+178	sentence	5	stylize	21.246700915199998	
+178	sentence	6	it.	6.936532917621644	
+179	sentence	1	Bill's score	18.1671898878096	
+179	sentence	2	matches	14.294093123167512	
+179	sentence	3	Al's	18.329816682465474	
+179	sentence	4	, but does not	20.85796147816611	
+179	sentence	5	temporize	23.016490791660846	
+179	sentence	6	it.	6.872776541189689	
+180	sentence	1	Bill's score	18.1671898878096	
+180	sentence	2	matches	14.294093123167512	
+180	sentence	3	Al's	18.329816682465474	
+180	sentence	4	, but does not	20.85796147816611	
+180	sentence	5	ramify	24.47219081664275	
+180	sentence	6	it.	7.002571675813199	
+181	sentence	1	Bill's score	18.1671898878096	
+181	sentence	2	matches	14.294093123167512	
+181	sentence	3	Al's	18.329816682465474	
+181	sentence	4	, but does not	20.85796147816611	
+181	sentence	5	reimpose	21.395377165148485	
+181	sentence	6	it.	5.789879352882122	
+182	sentence	1	Bill's score	18.1671898878096	
+182	sentence	2	matches	14.294093123167512	
+182	sentence	3	Al's	18.329816682465474	
+182	sentence	4	, but does not	20.85796147816611	
+182	sentence	5	sensitize	22.854004560575305	
+182	sentence	6	it.	10.035841899848766	
+183	sentence	1	Bill's score	18.1671898878096	
+183	sentence	2	matches	14.294093123167512	
+183	sentence	3	Al's	18.329816682465474	
+183	sentence	4	, but does not	20.85796147816611	
+183	sentence	5	systematize	22.13544711467577	
+183	sentence	6	it.	5.177724993331644	
+184	sentence	1	Bill's score	18.1671898878096	
+184	sentence	2	matches	14.294093123167512	
+184	sentence	3	Al's	18.329816682465474	
+184	sentence	4	, but does not	20.85796147816611	
+184	sentence	5	denationalize	25.986776959604903	
+184	sentence	6	it.	5.250042924097526	
+185	sentence	1	Bill's score	18.1671898878096	
+185	sentence	2	matches	14.294093123167512	
+185	sentence	3	Al's	18.329816682465474	
+185	sentence	4	, but does not	20.85796147816611	
+185	sentence	5	digitalize	22.311082408320015	
+185	sentence	6	it.	4.070591751890514	
+186	sentence	1	Bill's score	18.1671898878096	
+186	sentence	2	matches	14.294093123167512	
+186	sentence	3	Al's	18.329816682465474	
+186	sentence	4	, but does not	20.85796147816611	
+186	sentence	5	reify	18.602319065173972	
+186	sentence	6	it.	6.4483856165798885	
+187	sentence	1	Bill's score	18.1671898878096	
+187	sentence	2	matches	14.294093123167512	
+187	sentence	3	Al's	18.329816682465474	
+187	sentence	4	, but does not	20.85796147816611	
+187	sentence	5	secularize	23.61824161969099	
+187	sentence	6	it.	4.657704663553437	
+188	sentence	1	Bill's score	18.1671898878096	
+188	sentence	2	matches	14.294093123167512	
+188	sentence	3	Al's	18.329816682465474	
+188	sentence	4	, but does not	20.85796147816611	
+188	sentence	5	spiritualize	27.205840777547074	
+188	sentence	6	it.	5.5625703991847	
+189	sentence	1	Bill's score	18.1671898878096	
+189	sentence	2	matches	14.294093123167512	
+189	sentence	3	Al's	18.329816682465474	
+189	sentence	4	, but does not	20.85796147816611	
+189	sentence	5	alkalize	25.511579446974082	
+189	sentence	6	it.	6.5594468530275645	
+190	sentence	1	Bill's score	18.1671898878096	
+190	sentence	2	matches	14.294093123167512	
+190	sentence	3	Al's	18.329816682465474	
+190	sentence	4	, but does not	20.85796147816611	
+190	sentence	5	decentralize	21.281205891182847	
+190	sentence	6	it.	5.264751482338591	
+191	sentence	1	Bill's score	18.1671898878096	
+191	sentence	2	matches	14.294093123167512	
+191	sentence	3	Al's	18.329816682465474	
+191	sentence	4	, but does not	20.85796147816611	
+191	sentence	5	decolonize	28.82933189222496	
+191	sentence	6	it.	5.546373245109091	
+192	sentence	1	Bill's score	18.1671898878096	
+192	sentence	2	matches	14.294093123167512	
+192	sentence	3	Al's	18.329816682465474	
+192	sentence	4	, but does not	20.85796147816611	
+192	sentence	5	demilitarize	27.504167300515398	
+192	sentence	6	it.	7.520708451599155	
+193	sentence	1	Bill's score	18.1671898878096	
+193	sentence	2	matches	14.294093123167512	
+193	sentence	3	Al's	18.329816682465474	
+193	sentence	4	, but does not	20.85796147816611	
+193	sentence	5	desexualize	28.378871041977618	
+193	sentence	6	it.	5.903404928734011	
+194	sentence	1	Bill's score	18.1671898878096	
+194	sentence	2	matches	14.294093123167512	
+194	sentence	3	Al's	18.329816682465474	
+194	sentence	4	, but does not	20.85796147816611	
+194	sentence	5	desynchronize	24.911047567479756	
+194	sentence	6	it.	6.320797707297552	
+195	sentence	1	Bill's score	18.1671898878096	
+195	sentence	2	matches	14.294093123167512	
+195	sentence	3	Al's	18.329816682465474	
+195	sentence	4	, but does not	20.85796147816611	
+195	sentence	5	devitalize	33.360805202650404	
+195	sentence	6	it.	6.291578198881261	
+196	sentence	1	Bill's score	18.1671898878096	
+196	sentence	2	matches	14.294093123167512	
+196	sentence	3	Al's	18.329816682465474	
+196	sentence	4	, but does not	20.85796147816611	
+196	sentence	5	eroticize	23.893825501546328	
+196	sentence	6	it.	4.945872429981078	
+197	sentence	1	Bill's score	18.1671898878096	
+197	sentence	2	matches	14.294093123167512	
+197	sentence	3	Al's	18.329816682465474	
+197	sentence	4	, but does not	20.85796147816611	
+197	sentence	5	officialize	21.852251140957346	
+197	sentence	6	it.	3.8695683685769877	
+198	sentence	1	Bill's score	18.1671898878096	
+198	sentence	2	matches	14.294093123167512	
+198	sentence	3	Al's	18.329816682465474	
+198	sentence	4	, but does not	20.85796147816611	
+198	sentence	5	quantize	21.016070460566464	
+198	sentence	6	it.	5.844836666939308	
+199	sentence	1	Bill's score	18.1671898878096	
+199	sentence	2	matches	14.294093123167512	
+199	sentence	3	Al's	18.329816682465474	
+199	sentence	4	, but does not	20.85796147816611	
+199	sentence	5	reharmonize	32.88033698474509	
+199	sentence	6	it.	6.551064590607162	
+200	sentence	1	Bill's score	18.1671898878096	
+200	sentence	2	matches	14.294093123167512	
+200	sentence	3	Al's	18.329816682465474	
+200	sentence	4	, but does not	20.85796147816611	
+200	sentence	5	remilitarize	23.77493617646222	
+200	sentence	6	it.	7.174756578273422	
+201	sentence	1	Bill's score	18.1671898878096	
+201	sentence	2	matches	14.294093123167512	
+201	sentence	3	Al's	18.329816682465474	
+201	sentence	4	, but does not	20.85796147816611	
+201	sentence	5	solarize	28.198763866194557	
+201	sentence	6	it.	6.173882903659203	
+202	sentence	1	Bill's score	18.1671898878096	
+202	sentence	2	matches	14.294093123167512	
+202	sentence	3	Al's	18.329816682465474	
+202	sentence	4	, but does not	20.85796147816611	
+202	sentence	5	syncretize	29.09357553905204	
+202	sentence	6	it.	8.272456829288704	
+203	sentence	1	Bill's score	18.1671898878096	
+203	sentence	2	matches	14.294093123167512	
+203	sentence	3	Al's	18.329816682465474	
+203	sentence	4	, but does not	20.85796147816611	
+203	sentence	5	totalize	24.099173517602786	
+203	sentence	6	it.	7.369603634637838	
+204	sentence	1	Bill's score	18.1671898878096	
+204	sentence	2	matches	14.294093123167512	
+204	sentence	3	Al's	18.329816682465474	
+204	sentence	4	, but does not	20.85796147816611	
+204	sentence	5	alchemize	30.547373091950103	
+204	sentence	6	it.	5.129243084053417	
+205	sentence	1	Bill's score	18.1671898878096	
+205	sentence	2	matches	14.294093123167512	
+205	sentence	3	Al's	18.329816682465474	
+205	sentence	4	, but does not	20.85796147816611	
+205	sentence	5	aluminize	34.432855918120346	
+205	sentence	6	it.	6.821782309347658	
+206	sentence	1	Bill's score	18.1671898878096	
+206	sentence	2	matches	14.294093123167512	
+206	sentence	3	Al's	18.329816682465474	
+206	sentence	4	, but does not	20.85796147816611	
+206	sentence	5	analogize	21.097851048765467	
+206	sentence	6	it.	6.920080713274805	
+207	sentence	1	Bill's score	18.1671898878096	
+207	sentence	2	matches	14.294093123167512	
+207	sentence	3	Al's	18.329816682465474	
+207	sentence	4	, but does not	20.85796147816611	
+207	sentence	5	attitudinize	40.942558939168975	
+207	sentence	6	it.	7.548838449922229	
+208	sentence	1	Bill's score	18.1671898878096	
+208	sentence	2	matches	14.294093123167512	
+208	sentence	3	Al's	18.329816682465474	
+208	sentence	4	, but does not	20.85796147816611	
+208	sentence	5	deionize	24.908489347046004	
+208	sentence	6	it.	6.207933748703531	
+209	sentence	1	Bill's score	18.1671898878096	
+209	sentence	2	matches	14.294093123167512	
+209	sentence	3	Al's	18.329816682465474	
+209	sentence	4	, but does not	20.85796147816611	
+209	sentence	5	demythologize	28.679088103717955	
+209	sentence	6	it.	5.1072155461309094	
+210	sentence	1	Bill's score	18.1671898878096	
+210	sentence	2	matches	14.294093123167512	
+210	sentence	3	Al's	18.329816682465474	
+210	sentence	4	, but does not	20.85796147816611	
+210	sentence	5	deoxidize	37.4411781668391	
+210	sentence	6	it.	8.239897073827358	
+211	sentence	1	Bill's score	18.1671898878096	
+211	sentence	2	matches	14.294093123167512	
+211	sentence	3	Al's	18.329816682465474	
+211	sentence	4	, but does not	20.85796147816611	
+211	sentence	5	dichotomize	21.763187705556952	
+211	sentence	6	it.	6.4449122549630635	
+212	sentence	1	Bill's score	18.1671898878096	
+212	sentence	2	matches	14.294093123167512	
+212	sentence	3	Al's	18.329816682465474	
+212	sentence	4	, but does not	20.85796147816611	
+212	sentence	5	dogmatize	29.76617255631331	
+212	sentence	6	it.	6.732908898653095	
+213	sentence	1	Bill's score	18.1671898878096	
+213	sentence	2	matches	14.294093123167512	
+213	sentence	3	Al's	18.329816682465474	
+213	sentence	4	, but does not	20.85796147816611	
+213	sentence	5	factorize	26.13827756239043	
+213	sentence	6	it.	6.724421038885063	
+214	sentence	1	Bill's score	18.1671898878096	
+214	sentence	2	matches	14.294093123167512	
+214	sentence	3	Al's	18.329816682465474	
+214	sentence	4	, but does not	20.85796147816611	
+214	sentence	5	iodize	26.045007716196203	
+214	sentence	6	it.	4.8765367643724815	
+215	sentence	1	Bill's score	18.1671898878096	
+215	sentence	2	matches	14.294093123167512	
+215	sentence	3	Al's	18.329816682465474	
+215	sentence	4	, but does not	20.85796147816611	
+215	sentence	5	overcapitalize	24.351943094652494	
+215	sentence	6	it.	5.825644864955551	
+216	sentence	1	Bill's score	18.1671898878096	
+216	sentence	2	matches	14.294093123167512	
+216	sentence	3	Al's	18.329816682465474	
+216	sentence	4	, but does not	20.85796147816611	
+216	sentence	5	overspecialize	26.10257005146601	
+216	sentence	6	it.	6.424609359063407	
+217	sentence	1	Bill's score	18.1671898878096	
+217	sentence	2	matches	14.294093123167512	
+217	sentence	3	Al's	18.329816682465474	
+217	sentence	4	, but does not	20.85796147816611	
+217	sentence	5	relativize	22.53684841966522	
+217	sentence	6	it.	7.1613156181605415	
+218	sentence	1	Bill's score	18.1671898878096	
+218	sentence	2	matches	14.294093123167512	
+218	sentence	3	Al's	18.329816682465474	
+218	sentence	4	, but does not	20.85796147816611	
+218	sentence	5	schematize	28.257749852350372	
+218	sentence	6	it.	6.3727589975853824	
+219	sentence	1	Bill's score	18.1671898878096	
+219	sentence	2	matches	14.294093123167512	
+219	sentence	3	Al's	18.329816682465474	
+219	sentence	4	, but does not	20.85796147816611	
+219	sentence	5	sensualize	28.410755529058186	
+219	sentence	6	it.	5.575109482276456	
+220	sentence	1	Bill's score	18.1671898878096	
+220	sentence	2	matches	14.294093123167512	
+220	sentence	3	Al's	18.329816682465474	
+220	sentence	4	, but does not	20.85796147816611	
+220	sentence	5	signalize	34.727688958173495	
+220	sentence	6	it.	6.767780272924689	
+221	sentence	1	Bill's score	18.1671898878096	
+221	sentence	2	matches	14.294093123167512	
+221	sentence	3	Al's	18.329816682465474	
+221	sentence	4	, but does not	20.85796147816611	
+221	sentence	5	singularize	22.625835295913692	
+221	sentence	6	it.	5.2453898474871075	
+222	sentence	1	Bill's score	18.1671898878096	
+222	sentence	2	matches	14.294093123167512	
+222	sentence	3	Al's	18.329816682465474	
+222	sentence	4	, but does not	20.85796147816611	
+222	sentence	5	steepen	21.015649447037152	
+222	sentence	6	it.	6.633840700380686	
+223	sentence	1	Bill's score	18.1671898878096	
+223	sentence	2	matches	14.294093123167512	
+223	sentence	3	Al's	18.329816682465474	
+223	sentence	4	, but does not	20.85796147816611	
+223	sentence	5	subtilize	26.136128897141877	
+223	sentence	6	it.	5.661966052424352	
+224	sentence	1	Bill's score	18.1671898878096	
+224	sentence	2	matches	14.294093123167512	
+224	sentence	3	Al's	18.329816682465474	
+224	sentence	4	, but does not	20.85796147816611	
+224	sentence	5	syllogize	26.897954598258735	
+224	sentence	6	it.	5.219496139573202	
+225	sentence	1	Bill's score	18.1671898878096	
+225	sentence	2	matches	14.294093123167512	
+225	sentence	3	Al's	18.329816682465474	
+225	sentence	4	, but does not	20.85796147816611	
+225	sentence	5	complete	11.169906506527782	
+225	sentence	6	it.	5.400382676236481	
+226	sentence	1	Bill's score	18.1671898878096	
+226	sentence	2	matches	14.294093123167512	
+226	sentence	3	Al's	18.329816682465474	
+226	sentence	4	, but does not	20.85796147816611	
+226	sentence	5	loathe	20.911757135408042	
+226	sentence	6	it.	4.630928856623258	
+227	sentence	1	Bill's score	18.1671898878096	
+227	sentence	2	matches	14.294093123167512	
+227	sentence	3	Al's	18.329816682465474	
+227	sentence	4	, but does not	20.85796147816611	
+227	sentence	5	triple	14.645530727107817	
+227	sentence	6	it.	5.2630167793306635	
+228	sentence	1	Bill's score	18.1671898878096	
+228	sentence	2	matches	14.294093123167512	
+228	sentence	3	Al's	18.329816682465474	
+228	sentence	4	, but does not	20.85796147816611	
+228	sentence	5	love	12.629442776519834	
+228	sentence	6	it.	3.6747152068284663	
+229	sentence	1	Bill's score	18.1671898878096	
+229	sentence	2	matches	14.294093123167512	
+229	sentence	3	Al's	18.329816682465474	
+229	sentence	4	, but does not	20.85796147816611	
+229	sentence	5	exceed	8.531312904599192	
+229	sentence	6	it.	7.681437675676733	
+230	sentence	1	Bill's score	18.1671898878096	
+230	sentence	2	matches	14.294093123167512	
+230	sentence	3	Al's	18.329816682465474	
+230	sentence	4	, but does not	20.85796147816611	
+230	sentence	5	require	8.63440343310998	
+230	sentence	6	it.	7.290298478724027	
+231	sentence	1	Bill's score	18.1671898878096	
+231	sentence	2	matches	14.294093123167512	
+231	sentence	3	Al's	18.329816682465474	
+231	sentence	4	, but does not	20.85796147816611	
+231	sentence	5	eliminate	9.057222092325592	
+231	sentence	6	it.	5.531760309221905	
+232	sentence	1	Bill's score	18.1671898878096	
+232	sentence	2	matches	14.294093123167512	
+232	sentence	3	Al's	18.329816682465474	
+232	sentence	4	, but does not	20.85796147816611	
+232	sentence	5	stop	8.773992807717477	
+232	sentence	6	it.	6.977836615018157	
+233	sentence	1	Bill's score	18.1671898878096	
+233	sentence	2	matches	14.294093123167512	
+233	sentence	3	Al's	18.329816682465474	
+233	sentence	4	, but does not	20.85796147816611	
+233	sentence	5	finish	9.807869953032268	
+233	sentence	6	it.	8.475592761494104	
+234	sentence	1	Bill's score	18.1671898878096	
+234	sentence	2	matches	14.294093123167512	
+234	sentence	3	Al's	18.329816682465474	
+234	sentence	4	, but does not	20.85796147816611	
+234	sentence	5	thrive	15.645440610946599	
+234	sentence	6	it.	14.809454958881798	
+235	sentence	1	Bill's score	18.1671898878096	
+235	sentence	2	matches	14.294093123167512	
+235	sentence	3	Al's	18.329816682465474	
+235	sentence	4	, but does not	20.85796147816611	
+235	sentence	5	encourage	12.756308186685898	
+235	sentence	6	it.	6.229585246559928	
+236	sentence	1	Bill's score	18.1671898878096	
+236	sentence	2	matches	14.294093123167512	
+236	sentence	3	Al's	18.329816682465474	
+236	sentence	4	, but does not	20.85796147816611	
+236	sentence	5	need	8.854805391566101	
+236	sentence	6	it.	6.968615249244195	

@@ -1,0 +1,26 @@
+#!/bin/bash
+#SBATCH -J scales
+#SBATCH --gres=gpu:1
+#SBATCH --time=0-5:00 # Running time
+#SBATCH --mem=8G
+#SBATCH -o logs/%j_%a.out # Standard output
+#SBATCH -e logs/%j_%a.err # Standard error
+
+
+MODEL=$1 # e.g., gpt2, EleutherAI/gpt-neo-1.3B, xlnet-base-cased
+SAFEMODEL=$2 # in case the model name has "/"" in it
+TEMPLATE=$3
+SUITE_DIR="./test_suites/vt16/template${TEMPLATE}"
+
+RESULT_DIR="model_results/vt16/template${TEMPLATE}"
+mkdir -p ${RESULT_DIR}
+
+SUITES=($(ls -1 ${SUITE_DIR}))
+SUITE=${SUITES[$SLURM_ARRAY_TASK_ID]}
+
+SUITE_NAME=$(basename $SUITE .json)
+echo $SUITE_NAME
+syntaxgym compute-surprisals \
+    --tabular_results \
+    huggingface://${MODEL} \
+    ${SUITE_DIR}/${SUITE} > ${RESULT_DIR}/${SUITE_NAME}_${SAFEMODEL}.tsv

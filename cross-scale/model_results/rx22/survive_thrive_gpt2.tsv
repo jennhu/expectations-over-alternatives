@@ -1,0 +1,1417 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	The plant	13.463429302251008	
+1	sentence	2	survived	11.413581845229261	
+1	sentence	3		0.0	
+1	sentence	4	, but did not	23.650410265106444	
+1	sentence	5	have	4.876641329824206	
+1	sentence	6	.	14.278805929297619	
+2	sentence	1	The plant	13.463429302251008	
+2	sentence	2	survived	11.413581845229261	
+2	sentence	3		0.0	
+2	sentence	4	, but did not	23.650410265106444	
+2	sentence	5	know	7.797429224768019	
+2	sentence	6	.	11.620399925989632	
+3	sentence	1	The plant	13.463429302251008	
+3	sentence	2	survived	11.413581845229261	
+3	sentence	3		0.0	
+3	sentence	4	, but did not	23.650410265106444	
+3	sentence	5	get	6.4266532008862605	
+3	sentence	6	.	15.75500181471345	
+4	sentence	1	The plant	13.463429302251008	
+4	sentence	2	survived	11.413581845229261	
+4	sentence	3		0.0	
+4	sentence	4	, but did not	23.650410265106444	
+4	sentence	5	go	6.298731129313297	
+4	sentence	6	.	16.45031666526213	
+5	sentence	1	The plant	13.463429302251008	
+5	sentence	2	survived	11.413581845229261	
+5	sentence	3		0.0	
+5	sentence	4	, but did not	23.650410265106444	
+5	sentence	5	come	7.485736123511505	
+5	sentence	6	.	16.834441979756022	
+6	sentence	1	The plant	13.463429302251008	
+6	sentence	2	survived	11.413581845229261	
+6	sentence	3		0.0	
+6	sentence	4	, but did not	23.650410265106444	
+6	sentence	5	see	7.179546467082602	
+6	sentence	6	.	14.585115285651522	
+7	sentence	1	The plant	13.463429302251008	
+7	sentence	2	survived	11.413581845229261	
+7	sentence	3		0.0	
+7	sentence	4	, but did not	23.650410265106444	
+7	sentence	5	let	10.591109901938655	
+7	sentence	6	.	15.728432558946956	
+8	sentence	1	The plant	13.463429302251008	
+8	sentence	2	survived	11.413581845229261	
+8	sentence	3		0.0	
+8	sentence	4	, but did not	23.650410265106444	
+8	sentence	5	take	6.448248718389802	
+8	sentence	6	.	15.364938283250565	
+9	sentence	1	The plant	13.463429302251008	
+9	sentence	2	survived	11.413581845229261	
+9	sentence	3		0.0	
+9	sentence	4	, but did not	23.650410265106444	
+9	sentence	5	say	10.83786235422937	
+9	sentence	6	.	11.984392263442922	
+10	sentence	1	The plant	13.463429302251008	
+10	sentence	2	survived	11.413581845229261	
+10	sentence	3		0.0	
+10	sentence	4	, but did not	23.650410265106444	
+10	sentence	5	make	5.41023332652995	
+10	sentence	6	.	15.85785156751303	
+11	sentence	1	The plant	13.463429302251008	
+11	sentence	2	survived	11.413581845229261	
+11	sentence	3		0.0	
+11	sentence	4	, but did not	23.650410265106444	
+11	sentence	5	give	8.457732535184652	
+11	sentence	6	.	15.734374903499567	
+12	sentence	1	The plant	13.463429302251008	
+12	sentence	2	survived	11.413581845229261	
+12	sentence	3		0.0	
+12	sentence	4	, but did not	23.650410265106444	
+12	sentence	5	find	8.042728767624245	
+12	sentence	6	.	13.121661250872814	
+13	sentence	1	The plant	13.463429302251008	
+13	sentence	2	survived	11.413581845229261	
+13	sentence	3		0.0	
+13	sentence	4	, but did not	23.650410265106444	
+13	sentence	5	keep	8.868245491765727	
+13	sentence	6	.	11.631975046323303	
+14	sentence	1	The plant	13.463429302251008	
+14	sentence	2	survived	11.413581845229261	
+14	sentence	3		0.0	
+14	sentence	4	, but did not	23.650410265106444	
+14	sentence	5	leave	7.6683404228916014	
+14	sentence	6	.	10.111685560948661	
+15	sentence	1	The plant	13.463429302251008	
+15	sentence	2	survived	11.413581845229261	
+15	sentence	3		0.0	
+15	sentence	4	, but did not	23.650410265106444	
+15	sentence	5	believe	13.128264008804738	
+15	sentence	6	.	12.678924248964876	
+16	sentence	1	The plant	13.463429302251008	
+16	sentence	2	survived	11.413581845229261	
+16	sentence	3		0.0	
+16	sentence	4	, but did not	23.650410265106444	
+16	sentence	5	remember	13.463709977937215	
+16	sentence	6	.	8.986531031445546	
+17	sentence	1	The plant	13.463429302251008	
+17	sentence	2	survived	11.413581845229261	
+17	sentence	3		0.0	
+17	sentence	4	, but did not	23.650410265106444	
+17	sentence	5	run	8.456962052908786	
+17	sentence	6	.	9.588449671547274	
+18	sentence	1	The plant	13.463429302251008	
+18	sentence	2	survived	11.413581845229261	
+18	sentence	3		0.0	
+18	sentence	4	, but did not	23.650410265106444	
+18	sentence	5	happen	10.731249621028912	
+18	sentence	6	.	7.650752789083767	
+19	sentence	1	The plant	13.463429302251008	
+19	sentence	2	survived	11.413581845229261	
+19	sentence	3		0.0	
+19	sentence	4	, but did not	23.650410265106444	
+19	sentence	5	buy	10.541931118959132	
+19	sentence	6	.	9.787809208705028	
+20	sentence	1	The plant	13.463429302251008	
+20	sentence	2	survived	11.413581845229261	
+20	sentence	3		0.0	
+20	sentence	4	, but did not	23.650410265106444	
+20	sentence	5	save	11.006421862409406	
+20	sentence	6	.	8.922880252361221	
+21	sentence	1	The plant	13.463429302251008	
+21	sentence	2	survived	11.413581845229261	
+21	sentence	3		0.0	
+21	sentence	4	, but did not	23.650410265106444	
+21	sentence	5	lose	8.78767505948952	
+21	sentence	6	.	12.556651463507453	
+22	sentence	1	The plant	13.463429302251008	
+22	sentence	2	survived	11.413581845229261	
+22	sentence	3		0.0	
+22	sentence	4	, but did not	23.650410265106444	
+22	sentence	5	follow	9.488769902968397	
+22	sentence	6	.	10.795755497853328	
+23	sentence	1	The plant	13.463429302251008	
+23	sentence	2	survived	11.413581845229261	
+23	sentence	3		0.0	
+23	sentence	4	, but did not	23.650410265106444	
+23	sentence	5	expect	11.301978863431367	
+23	sentence	6	.	14.19471329233174	
+24	sentence	1	The plant	13.463429302251008	
+24	sentence	2	survived	11.413581845229261	
+24	sentence	3		0.0	
+24	sentence	4	, but did not	23.650410265106444	
+24	sentence	5	realize	9.446305322678558	
+24	sentence	6	.	10.58095742209292	
+25	sentence	1	The plant	13.463429302251008	
+25	sentence	2	survived	11.413581845229261	
+25	sentence	3		0.0	
+25	sentence	4	, but did not	23.650410265106444	
+25	sentence	5	slow	12.098261288648585	
+25	sentence	6	.	11.229060283257347	
+26	sentence	1	The plant	13.463429302251008	
+26	sentence	2	survived	11.413581845229261	
+26	sentence	3		0.0	
+26	sentence	4	, but did not	23.650410265106444	
+26	sentence	5	allow	8.140910223348806	
+26	sentence	6	.	14.313975693468459	
+27	sentence	1	The plant	13.463429302251008	
+27	sentence	2	survived	11.413581845229261	
+27	sentence	3		0.0	
+27	sentence	4	, but did not	23.650410265106444	
+27	sentence	5	consider	12.195254000290381	
+27	sentence	6	.	12.911788758233119	
+28	sentence	1	The plant	13.463429302251008	
+28	sentence	2	survived	11.413581845229261	
+28	sentence	3		0.0	
+28	sentence	4	, but did not	23.650410265106444	
+28	sentence	5	apologize	15.315310969517594	
+28	sentence	6	.	5.218284177832572	
+29	sentence	1	The plant	13.463429302251008	
+29	sentence	2	survived	11.413581845229261	
+29	sentence	3		0.0	
+29	sentence	4	, but did not	23.650410265106444	
+29	sentence	5	recognize	10.465609346089838	
+29	sentence	6	.	10.967311631741996	
+30	sentence	1	The plant	13.463429302251008	
+30	sentence	2	survived	11.413581845229261	
+30	sentence	3		0.0	
+30	sentence	4	, but did not	23.650410265106444	
+30	sentence	5	settle	12.621308685064628	
+30	sentence	6	.	6.964312931250211	
+31	sentence	1	The plant	13.463429302251008	
+31	sentence	2	survived	11.413581845229261	
+31	sentence	3		0.0	
+31	sentence	4	, but did not	23.650410265106444	
+31	sentence	5	add	10.215841006033592	
+31	sentence	6	.	12.494505188652875	
+32	sentence	1	The plant	13.463429302251008	
+32	sentence	2	survived	11.413581845229261	
+32	sentence	3		0.0	
+32	sentence	4	, but did not	23.650410265106444	
+32	sentence	5	assume	14.700972430301158	
+32	sentence	6	.	13.47106395608811	
+33	sentence	1	The plant	13.463429302251008	
+33	sentence	2	survived	11.413581845229261	
+33	sentence	3		0.0	
+33	sentence	4	, but did not	23.650410265106444	
+33	sentence	5	appear	7.050589747882047	
+33	sentence	6	.	13.065901723740678	
+34	sentence	1	The plant	13.463429302251008	
+34	sentence	2	survived	11.413581845229261	
+34	sentence	3		0.0	
+34	sentence	4	, but did not	23.650410265106444	
+34	sentence	5	remove	9.59161827990677	
+34	sentence	6	.	10.13317100955565	
+35	sentence	1	The plant	13.463429302251008	
+35	sentence	2	survived	11.413581845229261	
+35	sentence	3		0.0	
+35	sentence	4	, but did not	23.650410265106444	
+35	sentence	5	identify	11.498760036687386	
+35	sentence	6	.	11.568971609936826	
+36	sentence	1	The plant	13.463429302251008	
+36	sentence	2	survived	11.413581845229261	
+36	sentence	3		0.0	
+36	sentence	4	, but did not	23.650410265106444	
+36	sentence	5	replace	9.709017764969344	
+36	sentence	6	.	9.954913743658762	
+37	sentence	1	The plant	13.463429302251008	
+37	sentence	2	survived	11.413581845229261	
+37	sentence	3		0.0	
+37	sentence	4	, but did not	23.650410265106444	
+37	sentence	5	apply	11.498099623308072	
+37	sentence	6	.	10.723414779386205	
+38	sentence	1	The plant	13.463429302251008	
+38	sentence	2	survived	11.413581845229261	
+38	sentence	3		0.0	
+38	sentence	4	, but did not	23.650410265106444	
+38	sentence	5	succeed	8.86234579891053	
+38	sentence	6	.	5.708366627661835	
+39	sentence	1	The plant	13.463429302251008	
+39	sentence	2	survived	11.413581845229261	
+39	sentence	3		0.0	
+39	sentence	4	, but did not	23.650410265106444	
+39	sentence	5	develop	7.094309113592581	
+39	sentence	6	.	8.443848719745798	
+40	sentence	1	The plant	13.463429302251008	
+40	sentence	2	survived	11.413581845229261	
+40	sentence	3		0.0	
+40	sentence	4	, but did not	23.650410265106444	
+40	sentence	5	approve	12.764486305699727	
+40	sentence	6	.	8.274002093406706	
+41	sentence	1	The plant	13.463429302251008	
+41	sentence	2	survived	11.413581845229261	
+41	sentence	3		0.0	
+41	sentence	4	, but did not	23.650410265106444	
+41	sentence	5	expose	13.057269570528572	
+41	sentence	6	.	14.549139266813436	
+42	sentence	1	The plant	13.463429302251008	
+42	sentence	2	survived	11.413581845229261	
+42	sentence	3		0.0	
+42	sentence	4	, but did not	23.650410265106444	
+42	sentence	5	establish	10.801429549470594	
+42	sentence	6	.	11.058119847258766	
+43	sentence	1	The plant	13.463429302251008	
+43	sentence	2	survived	11.413581845229261	
+43	sentence	3		0.0	
+43	sentence	4	, but did not	23.650410265106444	
+43	sentence	5	reduce	10.689731633249423	
+43	sentence	6	.	13.396111165119684	
+44	sentence	1	The plant	13.463429302251008	
+44	sentence	2	survived	11.413581845229261	
+44	sentence	3		0.0	
+44	sentence	4	, but did not	23.650410265106444	
+44	sentence	5	participate	10.009351756101669	
+44	sentence	6	.	9.813464892630137	
+45	sentence	1	The plant	13.463429302251008	
+45	sentence	2	survived	11.413581845229261	
+45	sentence	3		0.0	
+45	sentence	4	, but did not	23.650410265106444	
+45	sentence	5	organize	15.210987669365421	
+45	sentence	6	.	8.669994210810133	
+46	sentence	1	The plant	13.463429302251008	
+46	sentence	2	survived	11.413581845229261	
+46	sentence	3		0.0	
+46	sentence	4	, but did not	23.650410265106444	
+46	sentence	5	obtain	9.857544733976878	
+46	sentence	6	.	14.240661553197453	
+47	sentence	1	The plant	13.463429302251008	
+47	sentence	2	survived	11.413581845229261	
+47	sentence	3		0.0	
+47	sentence	4	, but did not	23.650410265106444	
+47	sentence	5	kitten	24.943829846993488	
+47	sentence	6	.	6.5632700273562445	
+48	sentence	1	The plant	13.463429302251008	
+48	sentence	2	survived	11.413581845229261	
+48	sentence	3		0.0	
+48	sentence	4	, but did not	23.650410265106444	
+48	sentence	5	acquire	11.150303923982438	
+48	sentence	6	.	11.191238546610201	
+49	sentence	1	The plant	13.463429302251008	
+49	sentence	2	survived	11.413581845229261	
+49	sentence	3		0.0	
+49	sentence	4	, but did not	23.650410265106444	
+49	sentence	5	qualify	9.948505670087615	
+49	sentence	6	.	9.22537159386597	
+50	sentence	1	The plant	13.463429302251008	
+50	sentence	2	survived	11.413581845229261	
+50	sentence	3		0.0	
+50	sentence	4	, but did not	23.650410265106444	
+50	sentence	5	criticize	17.71245743996928	
+50	sentence	6	.	10.479475963263605	
+51	sentence	1	The plant	13.463429302251008	
+51	sentence	2	survived	11.413581845229261	
+51	sentence	3		0.0	
+51	sentence	4	, but did not	23.650410265106444	
+51	sentence	5	rave	18.0808800505088	
+51	sentence	6	.	9.43511337969101	
+52	sentence	1	The plant	13.463429302251008	
+52	sentence	2	survived	11.413581845229261	
+52	sentence	3		0.0	
+52	sentence	4	, but did not	23.650410265106444	
+52	sentence	5	enlighten	17.435425051704044	
+52	sentence	6	.	8.973671544675232	
+53	sentence	1	The plant	13.463429302251008	
+53	sentence	2	survived	11.413581845229261	
+53	sentence	3		0.0	
+53	sentence	4	, but did not	23.650410265106444	
+53	sentence	5	disclose	10.880238879401967	
+53	sentence	6	.	11.428669539224153	
+54	sentence	1	The plant	13.463429302251008	
+54	sentence	2	survived	11.413581845229261	
+54	sentence	3		0.0	
+54	sentence	4	, but did not	23.650410265106444	
+54	sentence	5	reopen	8.354047634632481	
+54	sentence	6	.	5.744616786845397	
+55	sentence	1	The plant	13.463429302251008	
+55	sentence	2	survived	11.413581845229261	
+55	sentence	3		0.0	
+55	sentence	4	, but did not	23.650410265106444	
+55	sentence	5	stabilize	13.085733387176969	
+55	sentence	6	.	4.8440568088611355	
+56	sentence	1	The plant	13.463429302251008	
+56	sentence	2	survived	11.413581845229261	
+56	sentence	3		0.0	
+56	sentence	4	, but did not	23.650410265106444	
+56	sentence	5	soar	14.546699864893597	
+56	sentence	6	.	8.773532582143769	
+57	sentence	1	The plant	13.463429302251008	
+57	sentence	2	survived	11.413581845229261	
+57	sentence	3		0.0	
+57	sentence	4	, but did not	23.650410265106444	
+57	sentence	5	authorize	15.923793843437451	
+57	sentence	6	.	13.162412883960059	
+58	sentence	1	The plant	13.463429302251008	
+58	sentence	2	survived	11.413581845229261	
+58	sentence	3		0.0	
+58	sentence	4	, but did not	23.650410265106444	
+58	sentence	5	sympathize	20.976136347010097	
+58	sentence	6	.	7.614654318598267	
+59	sentence	1	The plant	13.463429302251008	
+59	sentence	2	survived	11.413581845229261	
+59	sentence	3		0.0	
+59	sentence	4	, but did not	23.650410265106444	
+59	sentence	5	sharpen	16.923758981237523	
+59	sentence	6	.	6.603855869168058	
+60	sentence	1	The plant	13.463429302251008	
+60	sentence	2	survived	11.413581845229261	
+60	sentence	3		0.0	
+60	sentence	4	, but did not	23.650410265106444	
+60	sentence	5	specialize	14.343534695637551	
+60	sentence	6	.	8.036328949220339	
+61	sentence	1	The plant	13.463429302251008	
+61	sentence	2	survived	11.413581845229261	
+61	sentence	3		0.0	
+61	sentence	4	, but did not	23.650410265106444	
+61	sentence	5	minimize	15.850664068568172	
+61	sentence	6	.	11.875230059426073	
+62	sentence	1	The plant	13.463429302251008	
+62	sentence	2	survived	11.413581845229261	
+62	sentence	3		0.0	
+62	sentence	4	, but did not	23.650410265106444	
+62	sentence	5	socialize	17.687638494636282	
+62	sentence	6	.	7.70145671421114	
+63	sentence	1	The plant	13.463429302251008	
+63	sentence	2	survived	11.413581845229261	
+63	sentence	3		0.0	
+63	sentence	4	, but did not	23.650410265106444	
+63	sentence	5	utilize	12.224796492124991	
+63	sentence	6	.	11.47274250126486	
+64	sentence	1	The plant	13.463429302251008	
+64	sentence	2	survived	11.413581845229261	
+64	sentence	3		0.0	
+64	sentence	4	, but did not	23.650410265106444	
+64	sentence	5	rectify	15.8754205183618	
+64	sentence	6	.	8.025549076664259	
+65	sentence	1	The plant	13.463429302251008	
+65	sentence	2	survived	11.413581845229261	
+65	sentence	3		0.0	
+65	sentence	4	, but did not	23.650410265106444	
+65	sentence	5	terrorize	18.747744370068858	
+65	sentence	6	.	10.272800284138148	
+66	sentence	1	The plant	13.463429302251008	
+66	sentence	2	survived	11.413581845229261	
+66	sentence	3		0.0	
+66	sentence	4	, but did not	23.650410265106444	
+66	sentence	5	enslave	18.959643642139334	
+66	sentence	6	.	8.684495100000282	
+67	sentence	1	The plant	13.463429302251008	
+67	sentence	2	survived	11.413581845229261	
+67	sentence	3		0.0	
+67	sentence	4	, but did not	23.650410265106444	
+67	sentence	5	finalize	11.987015729794846	
+67	sentence	6	.	9.289267964175728	
+68	sentence	1	The plant	13.463429302251008	
+68	sentence	2	survived	11.413581845229261	
+68	sentence	3		0.0	
+68	sentence	4	, but did not	23.650410265106444	
+68	sentence	5	maximize	14.841156176950037	
+68	sentence	6	.	11.826890551782762	
+69	sentence	1	The plant	13.463429302251008	
+69	sentence	2	survived	11.413581845229261	
+69	sentence	3		0.0	
+69	sentence	4	, but did not	23.650410265106444	
+69	sentence	5	summarize	19.245364948472428	
+69	sentence	6	.	8.417980465264222	
+70	sentence	1	The plant	13.463429302251008	
+70	sentence	2	survived	11.413581845229261	
+70	sentence	3		0.0	
+70	sentence	4	, but did not	23.650410265106444	
+70	sentence	5	repose	21.330786672859844	
+70	sentence	6	.	3.978952774178751	
+71	sentence	1	The plant	13.463429302251008	
+71	sentence	2	survived	11.413581845229261	
+71	sentence	3		0.0	
+71	sentence	4	, but did not	23.650410265106444	
+71	sentence	5	symbolize	15.686183085957685	
+71	sentence	6	.	12.557596680156594	
+72	sentence	1	The plant	13.463429302251008	
+72	sentence	2	survived	11.413581845229261	
+72	sentence	3		0.0	
+72	sentence	4	, but did not	23.650410265106444	
+72	sentence	5	sterilize	14.440939950663106	
+72	sentence	6	.	6.191790941145595	
+73	sentence	1	The plant	13.463429302251008	
+73	sentence	2	survived	11.413581845229261	
+73	sentence	3		0.0	
+73	sentence	4	, but did not	23.650410265106444	
+73	sentence	5	revolutionize	15.911935575166966	
+73	sentence	6	.	10.89896847801153	
+74	sentence	1	The plant	13.463429302251008	
+74	sentence	2	survived	11.413581845229261	
+74	sentence	3		0.0	
+74	sentence	4	, but did not	23.650410265106444	
+74	sentence	5	synchronize	16.63646574205482	
+74	sentence	6	.	7.194457362912408	
+75	sentence	1	The plant	13.463429302251008	
+75	sentence	2	survived	11.413581845229261	
+75	sentence	3		0.0	
+75	sentence	4	, but did not	23.650410265106444	
+75	sentence	5	fertilize	15.005724849214632	
+75	sentence	6	.	6.342326667515208	
+76	sentence	1	The plant	13.463429302251008	
+76	sentence	2	survived	11.413581845229261	
+76	sentence	3		0.0	
+76	sentence	4	, but did not	23.650410265106444	
+76	sentence	5	rationalize	18.982597127768063	
+76	sentence	6	.	7.413435992949988	
+77	sentence	1	The plant	13.463429302251008	
+77	sentence	2	survived	11.413581845229261	
+77	sentence	3		0.0	
+77	sentence	4	, but did not	23.650410265106444	
+77	sentence	5	antagonize	17.04310266113991	
+77	sentence	6	.	9.55123262590056	
+78	sentence	1	The plant	13.463429302251008	
+78	sentence	2	survived	11.413581845229261	
+78	sentence	3		0.0	
+78	sentence	4	, but did not	23.650410265106444	
+78	sentence	5	kindle	16.008051368769845	
+78	sentence	6	.	8.644449283712179	
+79	sentence	1	The plant	13.463429302251008	
+79	sentence	2	survived	11.413581845229261	
+79	sentence	3		0.0	
+79	sentence	4	, but did not	23.650410265106444	
+79	sentence	5	familiarize	19.326258364166957	
+79	sentence	6	.	14.401470835199008	
+80	sentence	1	The plant	13.463429302251008	
+80	sentence	2	survived	11.413581845229261	
+80	sentence	3		0.0	
+80	sentence	4	, but did not	23.650410265106444	
+80	sentence	5	synthesize	14.796737658768084	
+80	sentence	6	.	7.529373625480227	
+81	sentence	1	The plant	13.463429302251008	
+81	sentence	2	survived	11.413581845229261	
+81	sentence	3		0.0	
+81	sentence	4	, but did not	23.650410265106444	
+81	sentence	5	reorganize	16.313735439200876	
+81	sentence	6	.	5.506469658473252	
+82	sentence	1	The plant	13.463429302251008	
+82	sentence	2	survived	11.413581845229261	
+82	sentence	3		0.0	
+82	sentence	4	, but did not	23.650410265106444	
+82	sentence	5	ripen	11.926728307924288	
+82	sentence	6	.	5.183705002084794	
+83	sentence	1	The plant	13.463429302251008	
+83	sentence	2	survived	11.413581845229261	
+83	sentence	3		0.0	
+83	sentence	4	, but did not	23.650410265106444	
+83	sentence	5	deepen	17.03313422422843	
+83	sentence	6	.	6.818907103390534	
+84	sentence	1	The plant	13.463429302251008	
+84	sentence	2	survived	11.413581845229261	
+84	sentence	3		0.0	
+84	sentence	4	, but did not	23.650410265106444	
+84	sentence	5	destabilize	17.060371783078345	
+84	sentence	6	.	7.306219944610302	
+85	sentence	1	The plant	13.463429302251008	
+85	sentence	2	survived	11.413581845229261	
+85	sentence	3		0.0	
+85	sentence	4	, but did not	23.650410265106444	
+85	sentence	5	enclose	17.317860862014232	
+85	sentence	6	.	7.69511605783913	
+86	sentence	1	The plant	13.463429302251008	
+86	sentence	2	survived	11.413581845229261	
+86	sentence	3		0.0	
+86	sentence	4	, but did not	23.650410265106444	
+86	sentence	5	dampen	17.37781660761682	
+86	sentence	6	.	11.232104376177618	
+87	sentence	1	The plant	13.463429302251008	
+87	sentence	2	survived	11.413581845229261	
+87	sentence	3		0.0	
+87	sentence	4	, but did not	23.650410265106444	
+87	sentence	5	subsidize	18.619547685198132	
+87	sentence	6	.	10.215030623782727	
+88	sentence	1	The plant	13.463429302251008	
+88	sentence	2	survived	11.413581845229261	
+88	sentence	3		0.0	
+88	sentence	4	, but did not	23.650410265106444	
+88	sentence	5	idolize	21.26117858673228	
+88	sentence	6	.	10.186612210554156	
+89	sentence	1	The plant	13.463429302251008	
+89	sentence	2	survived	11.413581845229261	
+89	sentence	3		0.0	
+89	sentence	4	, but did not	23.650410265106444	
+89	sentence	5	quantify	17.968477693349694	
+89	sentence	6	.	10.946040817483285	
+90	sentence	1	The plant	13.463429302251008	
+90	sentence	2	survived	11.413581845229261	
+90	sentence	3		0.0	
+90	sentence	4	, but did not	23.650410265106444	
+90	sentence	5	engrave	19.06367731662143	
+90	sentence	6	.	10.221240573340081	
+91	sentence	1	The plant	13.463429302251008	
+91	sentence	2	survived	11.413581845229261	
+91	sentence	3		0.0	
+91	sentence	4	, but did not	23.650410265106444	
+91	sentence	5	fraternize	22.814968406060295	
+91	sentence	6	.	7.848254913612203	
+92	sentence	1	The plant	13.463429302251008	
+92	sentence	2	survived	11.413581845229261	
+92	sentence	3		0.0	
+92	sentence	4	, but did not	23.650410265106444	
+92	sentence	5	immobilize	17.348779669533336	
+92	sentence	6	.	5.836236760474239	
+93	sentence	1	The plant	13.463429302251008	
+93	sentence	2	survived	11.413581845229261	
+93	sentence	3		0.0	
+93	sentence	4	, but did not	23.650410265106444	
+93	sentence	5	downsize	16.766312342486604	
+93	sentence	6	.	5.22442499036428	
+94	sentence	1	The plant	13.463429302251008	
+94	sentence	2	survived	11.413581845229261	
+94	sentence	3		0.0	
+94	sentence	4	, but did not	23.650410265106444	
+94	sentence	5	theorize	20.737972622312142	
+94	sentence	6	.	8.728613465460816	
+95	sentence	1	The plant	13.463429302251008	
+95	sentence	2	survived	11.413581845229261	
+95	sentence	3		0.0	
+95	sentence	4	, but did not	23.650410265106444	
+95	sentence	5	dramatize	20.50231563074184	
+95	sentence	6	.	9.524858742425447	
+96	sentence	1	The plant	13.463429302251008	
+96	sentence	2	survived	11.413581845229261	
+96	sentence	3		0.0	
+96	sentence	4	, but did not	23.650410265106444	
+96	sentence	5	modernize	18.386346734869136	
+96	sentence	6	.	5.32474728612678	
+97	sentence	1	The plant	13.463429302251008	
+97	sentence	2	survived	11.413581845229261	
+97	sentence	3		0.0	
+97	sentence	4	, but did not	23.650410265106444	
+97	sentence	5	revitalize	16.258883109803126	
+97	sentence	6	.	5.941754308154003	
+98	sentence	1	The plant	13.463429302251008	
+98	sentence	2	survived	11.413581845229261	
+98	sentence	3		0.0	
+98	sentence	4	, but did not	23.650410265106444	
+98	sentence	5	traumatize	19.2628455230801	
+98	sentence	6	.	9.131729792193585	
+99	sentence	1	The plant	13.463429302251008	
+99	sentence	2	survived	11.413581845229261	
+99	sentence	3		0.0	
+99	sentence	4	, but did not	23.650410265106444	
+99	sentence	5	immortalize	17.678722161591455	
+99	sentence	6	.	6.037714435960019	
+100	sentence	1	The plant	13.463429302251008	
+100	sentence	2	survived	11.413581845229261	
+100	sentence	3		0.0	
+100	sentence	4	, but did not	23.650410265106444	
+100	sentence	5	agonize	21.75946273869637	
+100	sentence	6	.	6.043378168618233	
+101	sentence	1	The plant	13.463429302251008	
+101	sentence	2	survived	11.413581845229261	
+101	sentence	3		0.0	
+101	sentence	4	, but did not	23.650410265106444	
+101	sentence	5	electrify	17.24045655812113	
+101	sentence	6	.	5.547539459464592	
+102	sentence	1	The plant	13.463429302251008	
+102	sentence	2	survived	11.413581845229261	
+102	sentence	3		0.0	
+102	sentence	4	, but did not	23.650410265106444	
+102	sentence	5	demoralize	22.032764389276927	
+102	sentence	6	.	8.89364251378394	
+103	sentence	1	The plant	13.463429302251008	
+103	sentence	2	survived	11.413581845229261	
+103	sentence	3		0.0	
+103	sentence	4	, but did not	23.650410265106444	
+103	sentence	5	sanitize	16.39975190634605	
+103	sentence	6	.	7.760122748142858	
+104	sentence	1	The plant	13.463429302251008	
+104	sentence	2	survived	11.413581845229261	
+104	sentence	3		0.0	
+104	sentence	4	, but did not	23.650410265106444	
+104	sentence	5	anesthetize	23.511057839596177	
+104	sentence	6	.	5.259621927793957	
+105	sentence	1	The plant	13.463429302251008	
+105	sentence	2	survived	11.413581845229261	
+105	sentence	3		0.0	
+105	sentence	4	, but did not	23.650410265106444	
+105	sentence	5	trivialize	20.839520659925174	
+105	sentence	6	.	10.243058292428536	
+106	sentence	1	The plant	13.463429302251008	
+106	sentence	2	survived	11.413581845229261	
+106	sentence	3		0.0	
+106	sentence	4	, but did not	23.650410265106444	
+106	sentence	5	romanticize	20.444903694300216	
+106	sentence	6	.	10.828869725381056	
+107	sentence	1	The plant	13.463429302251008	
+107	sentence	2	survived	11.413581845229261	
+107	sentence	3		0.0	
+107	sentence	4	, but did not	23.650410265106444	
+107	sentence	5	equalize	21.229693206890875	
+107	sentence	6	.	7.638564034651818	
+108	sentence	1	The plant	13.463429302251008	
+108	sentence	2	survived	11.413581845229261	
+108	sentence	3		0.0	
+108	sentence	4	, but did not	23.650410265106444	
+108	sentence	5	demonize	20.018949834355038	
+108	sentence	6	.	10.532432173186677	
+109	sentence	1	The plant	13.463429302251008	
+109	sentence	2	survived	11.413581845229261	
+109	sentence	3		0.0	
+109	sentence	4	, but did not	23.650410265106444	
+109	sentence	5	alphabetize	26.864853527403795	
+109	sentence	6	.	7.1071830469055675	
+110	sentence	1	The plant	13.463429302251008	
+110	sentence	2	survived	11.413581845229261	
+110	sentence	3		0.0	
+110	sentence	4	, but did not	23.650410265106444	
+110	sentence	5	formalize	17.94441885758893	
+110	sentence	6	.	10.850787194407012	
+111	sentence	1	The plant	13.463429302251008	
+111	sentence	2	survived	11.413581845229261	
+111	sentence	3		0.0	
+111	sentence	4	, but did not	23.650410265106444	
+111	sentence	5	optimize	15.78647188809893	
+111	sentence	6	.	9.633435517498759	
+112	sentence	1	The plant	13.463429302251008	
+112	sentence	2	survived	11.413581845229261	
+112	sentence	3		0.0	
+112	sentence	4	, but did not	23.650410265106444	
+112	sentence	5	internalize	16.206236468651603	
+112	sentence	6	.	5.170564151697669	
+113	sentence	1	The plant	13.463429302251008	
+113	sentence	2	survived	11.413581845229261	
+113	sentence	3		0.0	
+113	sentence	4	, but did not	23.650410265106444	
+113	sentence	5	idealize	18.54088264871083	
+113	sentence	6	.	8.470715849463586	
+114	sentence	1	The plant	13.463429302251008	
+114	sentence	2	survived	11.413581845229261	
+114	sentence	3		0.0	
+114	sentence	4	, but did not	23.650410265106444	
+114	sentence	5	sodomize	23.8053709975936	
+114	sentence	6	.	5.914883738783198	
+115	sentence	1	The plant	13.463429302251008	
+115	sentence	2	survived	11.413581845229261	
+115	sentence	3		0.0	
+115	sentence	4	, but did not	23.650410265106444	
+115	sentence	5	digitize	19.363819762076357	
+115	sentence	6	.	6.671911467906281	
+116	sentence	1	The plant	13.463429302251008	
+116	sentence	2	survived	11.413581845229261	
+116	sentence	3		0.0	
+116	sentence	4	, but did not	23.650410265106444	
+116	sentence	5	galvanize	17.721856936773875	
+116	sentence	6	.	6.289051945722738	
+117	sentence	1	The plant	13.463429302251008	
+117	sentence	2	survived	11.413581845229261	
+117	sentence	3		0.0	
+117	sentence	4	, but did not	23.650410265106444	
+117	sentence	5	initialize	17.5866046636515	
+117	sentence	6	.	4.7523687301025515	
+118	sentence	1	The plant	13.463429302251008	
+118	sentence	2	survived	11.413581845229261	
+118	sentence	3		0.0	
+118	sentence	4	, but did not	23.650410265106444	
+118	sentence	5	exemplify	19.244965345439535	
+118	sentence	6	.	10.374605758281689	
+119	sentence	1	The plant	13.463429302251008	
+119	sentence	2	survived	11.413581845229261	
+119	sentence	3		0.0	
+119	sentence	4	, but did not	23.650410265106444	
+119	sentence	5	depressurize	28.47857739262497	
+119	sentence	6	.	5.278444741000288	
+120	sentence	1	The plant	13.463429302251008	
+120	sentence	2	survived	11.413581845229261	
+120	sentence	3		0.0	
+120	sentence	4	, but did not	23.650410265106444	
+120	sentence	5	itemize	17.072371077122536	
+120	sentence	6	.	7.73710459015138	
+121	sentence	1	The plant	13.463429302251008	
+121	sentence	2	survived	11.413581845229261	
+121	sentence	3		0.0	
+121	sentence	4	, but did not	23.650410265106444	
+121	sentence	5	dehumanize	23.39933977990702	
+121	sentence	6	.	9.42233231700949	
+122	sentence	1	The plant	13.463429302251008	
+122	sentence	2	survived	11.413581845229261	
+122	sentence	3		0.0	
+122	sentence	4	, but did not	23.650410265106444	
+122	sentence	5	mollify	18.02811993842891	
+122	sentence	6	.	5.484105722485656	
+123	sentence	1	The plant	13.463429302251008	
+123	sentence	2	survived	11.413581845229261	
+123	sentence	3		0.0	
+123	sentence	4	, but did not	23.650410265106444	
+123	sentence	5	immunize	16.767254828911163	
+123	sentence	6	.	8.301997429314154	
+124	sentence	1	The plant	13.463429302251008	
+124	sentence	2	survived	11.413581845229261	
+124	sentence	3		0.0	
+124	sentence	4	, but did not	23.650410265106444	
+124	sentence	5	oxidize	14.477754073205592	
+124	sentence	6	.	5.489861637844732	
+125	sentence	1	The plant	13.463429302251008	
+125	sentence	2	survived	11.413581845229261	
+125	sentence	3		0.0	
+125	sentence	4	, but did not	23.650410265106444	
+125	sentence	5	dematerialize	18.95809065341385	
+125	sentence	6	.	4.250680547027764	
+126	sentence	1	The plant	13.463429302251008	
+126	sentence	2	survived	11.413581845229261	
+126	sentence	3		0.0	
+126	sentence	4	, but did not	23.650410265106444	
+126	sentence	5	ostracize	21.318382219936968	
+126	sentence	6	.	9.436222323823774	
+127	sentence	1	The plant	13.463429302251008	
+127	sentence	2	survived	11.413581845229261	
+127	sentence	3		0.0	
+127	sentence	4	, but did not	23.650410265106444	
+127	sentence	5	overdramatize	29.63899491164461	
+127	sentence	6	.	6.062091256893313	
+128	sentence	1	The plant	13.463429302251008	
+128	sentence	2	survived	11.413581845229261	
+128	sentence	3		0.0	
+128	sentence	4	, but did not	23.650410265106444	
+128	sentence	5	satirize	22.67187831922003	
+128	sentence	6	.	10.746509297674667	
+129	sentence	1	The plant	13.463429302251008	
+129	sentence	2	survived	11.413581845229261	
+129	sentence	3		0.0	
+129	sentence	4	, but did not	23.650410265106444	
+129	sentence	5	amortize	19.291165245139364	
+129	sentence	6	.	5.239340357743008	
+130	sentence	1	The plant	13.463429302251008	
+130	sentence	2	survived	11.413581845229261	
+130	sentence	3		0.0	
+130	sentence	4	, but did not	23.650410265106444	
+130	sentence	5	tyrannize	23.503512251274387	
+130	sentence	6	.	5.759877495387057	
+131	sentence	1	The plant	13.463429302251008	
+131	sentence	2	survived	11.413581845229261	
+131	sentence	3		0.0	
+131	sentence	4	, but did not	23.650410265106444	
+131	sentence	5	eulogize	21.69616902246753	
+131	sentence	6	.	6.342323227862191	
+132	sentence	1	The plant	13.463429302251008	
+132	sentence	2	survived	11.413581845229261	
+132	sentence	3		0.0	
+132	sentence	4	, but did not	23.650410265106444	
+132	sentence	5	resize	18.01089824608091	
+132	sentence	6	.	4.858998317602794	
+133	sentence	1	The plant	13.463429302251008	
+133	sentence	2	survived	11.413581845229261	
+133	sentence	3		0.0	
+133	sentence	4	, but did not	23.650410265106444	
+133	sentence	5	editorialize	25.381332981504585	
+133	sentence	6	.	5.225840063615579	
+134	sentence	1	The plant	13.463429302251008	
+134	sentence	2	survived	11.413581845229261	
+134	sentence	3		0.0	
+134	sentence	4	, but did not	23.650410265106444	
+134	sentence	5	acclimatize	16.179342285088715	
+134	sentence	6	.	6.777390491472252	
+135	sentence	1	The plant	13.463429302251008	
+135	sentence	2	survived	11.413581845229261	
+135	sentence	3		0.0	
+135	sentence	4	, but did not	23.650410265106444	
+135	sentence	5	desensitize	22.141731374510346	
+135	sentence	6	.	9.015067080807308	
+136	sentence	1	The plant	13.463429302251008	
+136	sentence	2	survived	11.413581845229261	
+136	sentence	3		0.0	
+136	sentence	4	, but did not	23.650410265106444	
+136	sentence	5	standardize	18.359111949239466	
+136	sentence	6	.	9.664730856510964	
+137	sentence	1	The plant	13.463429302251008	
+137	sentence	2	survived	11.413581845229261	
+137	sentence	3		0.0	
+137	sentence	4	, but did not	23.650410265106444	
+137	sentence	5	stigmatize	20.97858217678151	
+137	sentence	6	.	10.682980282307152	
+138	sentence	1	The plant	13.463429302251008	
+138	sentence	2	survived	11.413581845229261	
+138	sentence	3		0.0	
+138	sentence	4	, but did not	23.650410265106444	
+138	sentence	5	actualize	18.879978863616547	
+138	sentence	6	.	6.33714448627941	
+139	sentence	1	The plant	13.463429302251008	
+139	sentence	2	survived	11.413581845229261	
+139	sentence	3		0.0	
+139	sentence	4	, but did not	23.650410265106444	
+139	sentence	5	industrialize	18.483630344415953	
+139	sentence	6	.	4.228289781746634	
+140	sentence	1	The plant	13.463429302251008	
+140	sentence	2	survived	11.413581845229261	
+140	sentence	3		0.0	
+140	sentence	4	, but did not	23.650410265106444	
+140	sentence	5	sexualize	24.943062460405336	
+140	sentence	6	.	9.053732908304887	
+141	sentence	1	The plant	13.463429302251008	
+141	sentence	2	survived	11.413581845229261	
+141	sentence	3		0.0	
+141	sentence	4	, but did not	23.650410265106444	
+141	sentence	5	demagnetize	26.428509163624092	
+141	sentence	6	.	5.239222377644516	
+142	sentence	1	The plant	13.463429302251008	
+142	sentence	2	survived	11.413581845229261	
+142	sentence	3		0.0	
+142	sentence	4	, but did not	23.650410265106444	
+142	sentence	5	solemnize	22.810102366557988	
+142	sentence	6	.	7.946468014144521	
+143	sentence	1	The plant	13.463429302251008	
+143	sentence	2	survived	11.413581845229261	
+143	sentence	3		0.0	
+143	sentence	4	, but did not	23.650410265106444	
+143	sentence	5	atomize	19.28639459151479	
+143	sentence	6	.	3.8962514768583523	
+144	sentence	1	The plant	13.463429302251008	
+144	sentence	2	survived	11.413581845229261	
+144	sentence	3		0.0	
+144	sentence	4	, but did not	23.650410265106444	
+144	sentence	5	ionize	18.365843672661704	
+144	sentence	6	.	5.618713791593562	
+145	sentence	1	The plant	13.463429302251008	
+145	sentence	2	survived	11.413581845229261	
+145	sentence	3		0.0	
+145	sentence	4	, but did not	23.650410265106444	
+145	sentence	5	radicalize	18.695779693872588	
+145	sentence	6	.	8.463914279587264	
+146	sentence	1	The plant	13.463429302251008	
+146	sentence	2	survived	11.413581845229261	
+146	sentence	3		0.0	
+146	sentence	4	, but did not	23.650410265106444	
+146	sentence	5	reunify	20.483091066063096	
+146	sentence	6	.	7.297205989913281	
+147	sentence	1	The plant	13.463429302251008	
+147	sentence	2	survived	11.413581845229261	
+147	sentence	3		0.0	
+147	sentence	4	, but did not	23.650410265106444	
+147	sentence	5	demobilize	20.069930318333913	
+147	sentence	6	.	4.347601713886802	
+148	sentence	1	The plant	13.463429302251008	
+148	sentence	2	survived	11.413581845229261	
+148	sentence	3		0.0	
+148	sentence	4	, but did not	23.650410265106444	
+148	sentence	5	democratize	21.828258572261742	
+148	sentence	6	.	8.578068108062755	
+149	sentence	1	The plant	13.463429302251008	
+149	sentence	2	survived	11.413581845229261	
+149	sentence	3		0.0	
+149	sentence	4	, but did not	23.650410265106444	
+149	sentence	5	reclassify	21.63374576082024	
+149	sentence	6	.	7.537512532449659	
+150	sentence	1	The plant	13.463429302251008	
+150	sentence	2	survived	11.413581845229261	
+150	sentence	3		0.0	
+150	sentence	4	, but did not	23.650410265106444	
+150	sentence	5	rhapsodize	29.253717645262707	
+150	sentence	6	.	7.121785749825026	
+151	sentence	1	The plant	13.463429302251008	
+151	sentence	2	survived	11.413581845229261	
+151	sentence	3		0.0	
+151	sentence	4	, but did not	23.650410265106444	
+151	sentence	5	serialize	18.817151773940697	
+151	sentence	6	.	4.9774372658071835	
+152	sentence	1	The plant	13.463429302251008	
+152	sentence	2	survived	11.413581845229261	
+152	sentence	3		0.0	
+152	sentence	4	, but did not	23.650410265106444	
+152	sentence	5	disorganize	22.694732104792948	
+152	sentence	6	.	5.1270332789724815	
+153	sentence	1	The plant	13.463429302251008	
+153	sentence	2	survived	11.413581845229261	
+153	sentence	3		0.0	
+153	sentence	4	, but did not	23.650410265106444	
+153	sentence	5	sermonize	22.168821723936908	
+153	sentence	6	.	4.994312891440446	
+154	sentence	1	The plant	13.463429302251008	
+154	sentence	2	survived	11.413581845229261	
+154	sentence	3		0.0	
+154	sentence	4	, but did not	23.650410265106444	
+154	sentence	5	deodorize	26.74712243829253	
+154	sentence	6	.	6.311067100894385	
+155	sentence	1	The plant	13.463429302251008	
+155	sentence	2	survived	11.413581845229261	
+155	sentence	3		0.0	
+155	sentence	4	, but did not	23.650410265106444	
+155	sentence	5	emulsify	21.88249541807591	
+155	sentence	6	.	5.350196246905553	
+156	sentence	1	The plant	13.463429302251008	
+156	sentence	2	survived	11.413581845229261	
+156	sentence	3		0.0	
+156	sentence	4	, but did not	23.650410265106444	
+156	sentence	5	overemphasize	21.77542136329023	
+156	sentence	6	.	9.82960512044831	
+157	sentence	1	The plant	13.463429302251008	
+157	sentence	2	survived	11.413581845229261	
+157	sentence	3		0.0	
+157	sentence	4	, but did not	23.650410265106444	
+157	sentence	5	aerosolize	21.356555032293556	
+157	sentence	6	.	5.012527573993325	
+158	sentence	1	The plant	13.463429302251008	
+158	sentence	2	survived	11.413581845229261	
+158	sentence	3		0.0	
+158	sentence	4	, but did not	23.650410265106444	
+158	sentence	5	apostatize	23.337459116133328	
+158	sentence	6	.	4.970324407332799	
+159	sentence	1	The plant	13.463429302251008	
+159	sentence	2	survived	11.413581845229261	
+159	sentence	3		0.0	
+159	sentence	4	, but did not	23.650410265106444	
+159	sentence	5	depolarize	22.58866346558078	
+159	sentence	6	.	5.0515373667926315	
+160	sentence	1	The plant	13.463429302251008	
+160	sentence	2	survived	11.413581845229261	
+160	sentence	3		0.0	
+160	sentence	4	, but did not	23.650410265106444	
+160	sentence	5	evangelize	19.530238569954356	
+160	sentence	6	.	6.989601948163682	
+161	sentence	1	The plant	13.463429302251008	
+161	sentence	2	survived	11.413581845229261	
+161	sentence	3		0.0	
+161	sentence	4	, but did not	23.650410265106444	
+161	sentence	5	anatomize	27.706577133389576	
+161	sentence	6	.	5.361500322581464	
+162	sentence	1	The plant	13.463429302251008	
+162	sentence	2	survived	11.413581845229261	
+162	sentence	3		0.0	
+162	sentence	4	, but did not	23.650410265106444	
+162	sentence	5	anthropomorphize	25.041712676342655	
+162	sentence	6	.	8.081998598191657	
+163	sentence	1	The plant	13.463429302251008	
+163	sentence	2	survived	11.413581845229261	
+163	sentence	3		0.0	
+163	sentence	4	, but did not	23.650410265106444	
+163	sentence	5	federalize	25.162070327493566	
+163	sentence	6	.	6.221658824155638	
+164	sentence	1	The plant	13.463429302251008	
+164	sentence	2	survived	11.413581845229261	
+164	sentence	3		0.0	
+164	sentence	4	, but did not	23.650410265106444	
+164	sentence	5	feminize	20.95663157959743	
+164	sentence	6	.	5.397123776985281	
+165	sentence	1	The plant	13.463429302251008	
+165	sentence	2	survived	11.413581845229261	
+165	sentence	3		0.0	
+165	sentence	4	, but did not	23.650410265106444	
+165	sentence	5	fossilize	18.301057211516866	
+165	sentence	6	.	4.186062537514986	
+166	sentence	1	The plant	13.463429302251008	
+166	sentence	2	survived	11.413581845229261	
+166	sentence	3		0.0	
+166	sentence	4	, but did not	23.650410265106444	
+166	sentence	5	regularize	20.52945698679643	
+166	sentence	6	.	8.664613905560541	
+167	sentence	1	The plant	13.463429302251008	
+167	sentence	2	survived	11.413581845229261	
+167	sentence	3		0.0	
+167	sentence	4	, but did not	23.650410265106444	
+167	sentence	5	ritualize	22.129921000384993	
+167	sentence	6	.	7.105618692713319	
+168	sentence	1	The plant	13.463429302251008	
+168	sentence	2	survived	11.413581845229261	
+168	sentence	3		0.0	
+168	sentence	4	, but did not	23.650410265106444	
+168	sentence	5	sentimentalize	26.040531566737858	
+168	sentence	6	.	9.526906711831922	
+169	sentence	1	The plant	13.463429302251008	
+169	sentence	2	survived	11.413581845229261	
+169	sentence	3		0.0	
+169	sentence	4	, but did not	23.650410265106444	
+169	sentence	5	exteriorize	24.252672075090135	
+169	sentence	6	.	5.054568045066135	
+170	sentence	1	The plant	13.463429302251008	
+170	sentence	2	survived	11.413581845229261	
+170	sentence	3		0.0	
+170	sentence	4	, but did not	23.650410265106444	
+170	sentence	5	fetishize	23.36528850490607	
+170	sentence	6	.	10.704382491311124	
+171	sentence	1	The plant	13.463429302251008	
+171	sentence	2	survived	11.413581845229261	
+171	sentence	3		0.0	
+171	sentence	4	, but did not	23.650410265106444	
+171	sentence	5	fictionalize	27.919854140841174	
+171	sentence	6	.	10.943037312468617	
+172	sentence	1	The plant	13.463429302251008	
+172	sentence	2	survived	11.413581845229261	
+172	sentence	3		0.0	
+172	sentence	4	, but did not	23.650410265106444	
+172	sentence	5	individualize	21.047082802126674	
+172	sentence	6	.	7.110809817046962	
+173	sentence	1	The plant	13.463429302251008	
+173	sentence	2	survived	11.413581845229261	
+173	sentence	3		0.0	
+173	sentence	4	, but did not	23.650410265106444	
+173	sentence	5	internationalize	23.253526439156126	
+173	sentence	6	.	5.166757143738169	
+174	sentence	1	The plant	13.463429302251008	
+174	sentence	2	survived	11.413581845229261	
+174	sentence	3		0.0	
+174	sentence	4	, but did not	23.650410265106444	
+174	sentence	5	alkalinize	23.083757311155463	
+174	sentence	6	.	5.216842619253041	
+175	sentence	1	The plant	13.463429302251008	
+175	sentence	2	survived	11.413581845229261	
+175	sentence	3		0.0	
+175	sentence	4	, but did not	23.650410265106444	
+175	sentence	5	depersonalize	25.109125623277013	
+175	sentence	6	.	5.573070971915779	
+176	sentence	1	The plant	13.463429302251008	
+176	sentence	2	survived	11.413581845229261	
+176	sentence	3		0.0	
+176	sentence	4	, but did not	23.650410265106444	
+176	sentence	5	italicize	24.785078412651913	
+176	sentence	6	.	6.572396802672232	
+177	sentence	1	The plant	13.463429302251008	
+177	sentence	2	survived	11.413581845229261	
+177	sentence	3		0.0	
+177	sentence	4	, but did not	23.650410265106444	
+177	sentence	5	randomize	21.232443273971665	
+177	sentence	6	.	9.092890606183936	
+178	sentence	1	The plant	13.463429302251008	
+178	sentence	2	survived	11.413581845229261	
+178	sentence	3		0.0	
+178	sentence	4	, but did not	23.650410265106444	
+178	sentence	5	stylize	25.130517272479043	
+178	sentence	6	.	6.965497547749354	
+179	sentence	1	The plant	13.463429302251008	
+179	sentence	2	survived	11.413581845229261	
+179	sentence	3		0.0	
+179	sentence	4	, but did not	23.650410265106444	
+179	sentence	5	temporize	24.828495873567775	
+179	sentence	6	.	5.982128955270556	
+180	sentence	1	The plant	13.463429302251008	
+180	sentence	2	survived	11.413581845229261	
+180	sentence	3		0.0	
+180	sentence	4	, but did not	23.650410265106444	
+180	sentence	5	ramify	24.51852844623002	
+180	sentence	6	.	5.816032238650876	
+181	sentence	1	The plant	13.463429302251008	
+181	sentence	2	survived	11.413581845229261	
+181	sentence	3		0.0	
+181	sentence	4	, but did not	23.650410265106444	
+181	sentence	5	reimpose	19.56581626622413	
+181	sentence	6	.	10.338097281156532	
+182	sentence	1	The plant	13.463429302251008	
+182	sentence	2	survived	11.413581845229261	
+182	sentence	3		0.0	
+182	sentence	4	, but did not	23.650410265106444	
+182	sentence	5	sensitize	20.910097293223362	
+182	sentence	6	.	10.061684012967412	
+183	sentence	1	The plant	13.463429302251008	
+183	sentence	2	survived	11.413581845229261	
+183	sentence	3		0.0	
+183	sentence	4	, but did not	23.650410265106444	
+183	sentence	5	systematize	20.728608510937967	
+183	sentence	6	.	5.247322760500154	
+184	sentence	1	The plant	13.463429302251008	
+184	sentence	2	survived	11.413581845229261	
+184	sentence	3		0.0	
+184	sentence	4	, but did not	23.650410265106444	
+184	sentence	5	denationalize	24.917343868451216	
+184	sentence	6	.	8.58225898129898	
+185	sentence	1	The plant	13.463429302251008	
+185	sentence	2	survived	11.413581845229261	
+185	sentence	3		0.0	
+185	sentence	4	, but did not	23.650410265106444	
+185	sentence	5	digitalize	24.80615141461539	
+185	sentence	6	.	5.981420386749001	
+186	sentence	1	The plant	13.463429302251008	
+186	sentence	2	survived	11.413581845229261	
+186	sentence	3		0.0	
+186	sentence	4	, but did not	23.650410265106444	
+186	sentence	5	reify	21.610007385841648	
+186	sentence	6	.	5.575775227117946	
+187	sentence	1	The plant	13.463429302251008	
+187	sentence	2	survived	11.413581845229261	
+187	sentence	3		0.0	
+187	sentence	4	, but did not	23.650410265106444	
+187	sentence	5	secularize	27.53957555155021	
+187	sentence	6	.	6.592974182882666	
+188	sentence	1	The plant	13.463429302251008	
+188	sentence	2	survived	11.413581845229261	
+188	sentence	3		0.0	
+188	sentence	4	, but did not	23.650410265106444	
+188	sentence	5	spiritualize	27.33535420458847	
+188	sentence	6	.	5.613532986218971	
+189	sentence	1	The plant	13.463429302251008	
+189	sentence	2	survived	11.413581845229261	
+189	sentence	3		0.0	
+189	sentence	4	, but did not	23.650410265106444	
+189	sentence	5	alkalize	20.79626225071462	
+189	sentence	6	.	4.871746015650047	
+190	sentence	1	The plant	13.463429302251008	
+190	sentence	2	survived	11.413581845229261	
+190	sentence	3		0.0	
+190	sentence	4	, but did not	23.650410265106444	
+190	sentence	5	decentralize	20.50781333564848	
+190	sentence	6	.	6.428234065412992	
+191	sentence	1	The plant	13.463429302251008	
+191	sentence	2	survived	11.413581845229261	
+191	sentence	3		0.0	
+191	sentence	4	, but did not	23.650410265106444	
+191	sentence	5	decolonize	22.530503023021396	
+191	sentence	6	.	6.274442363497244	
+192	sentence	1	The plant	13.463429302251008	
+192	sentence	2	survived	11.413581845229261	
+192	sentence	3		0.0	
+192	sentence	4	, but did not	23.650410265106444	
+192	sentence	5	demilitarize	21.15101630985687	
+192	sentence	6	.	6.717271548106045	
+193	sentence	1	The plant	13.463429302251008	
+193	sentence	2	survived	11.413581845229261	
+193	sentence	3		0.0	
+193	sentence	4	, but did not	23.650410265106444	
+193	sentence	5	desexualize	24.495623012117267	
+193	sentence	6	.	6.0050177823085855	
+194	sentence	1	The plant	13.463429302251008	
+194	sentence	2	survived	11.413581845229261	
+194	sentence	3		0.0	
+194	sentence	4	, but did not	23.650410265106444	
+194	sentence	5	desynchronize	22.904304745680864	
+194	sentence	6	.	5.707285544718512	
+195	sentence	1	The plant	13.463429302251008	
+195	sentence	2	survived	11.413581845229261	
+195	sentence	3		0.0	
+195	sentence	4	, but did not	23.650410265106444	
+195	sentence	5	devitalize	30.820915346259213	
+195	sentence	6	.	7.789604702084364	
+196	sentence	1	The plant	13.463429302251008	
+196	sentence	2	survived	11.413581845229261	
+196	sentence	3		0.0	
+196	sentence	4	, but did not	23.650410265106444	
+196	sentence	5	eroticize	26.897031631865048	
+196	sentence	6	.	7.721500260273295	
+197	sentence	1	The plant	13.463429302251008	
+197	sentence	2	survived	11.413581845229261	
+197	sentence	3		0.0	
+197	sentence	4	, but did not	23.650410265106444	
+197	sentence	5	officialize	22.162654630306363	
+197	sentence	6	.	9.666829732782093	
+198	sentence	1	The plant	13.463429302251008	
+198	sentence	2	survived	11.413581845229261	
+198	sentence	3		0.0	
+198	sentence	4	, but did not	23.650410265106444	
+198	sentence	5	quantize	28.527257608648554	
+198	sentence	6	.	8.872819542348074	
+199	sentence	1	The plant	13.463429302251008	
+199	sentence	2	survived	11.413581845229261	
+199	sentence	3		0.0	
+199	sentence	4	, but did not	23.650410265106444	
+199	sentence	5	reharmonize	35.04102656828648	
+199	sentence	6	.	4.80776984539029	
+200	sentence	1	The plant	13.463429302251008	
+200	sentence	2	survived	11.413581845229261	
+200	sentence	3		0.0	
+200	sentence	4	, but did not	23.650410265106444	
+200	sentence	5	remilitarize	23.310459570523292	
+200	sentence	6	.	5.80125686514995	
+201	sentence	1	The plant	13.463429302251008	
+201	sentence	2	survived	11.413581845229261	
+201	sentence	3		0.0	
+201	sentence	4	, but did not	23.650410265106444	
+201	sentence	5	solarize	22.79450143333726	
+201	sentence	6	.	4.483091710028333	
+202	sentence	1	The plant	13.463429302251008	
+202	sentence	2	survived	11.413581845229261	
+202	sentence	3		0.0	
+202	sentence	4	, but did not	23.650410265106444	
+202	sentence	5	syncretize	27.348565460373294	
+202	sentence	6	.	5.614174481506689	
+203	sentence	1	The plant	13.463429302251008	
+203	sentence	2	survived	11.413581845229261	
+203	sentence	3		0.0	
+203	sentence	4	, but did not	23.650410265106444	
+203	sentence	5	totalize	29.419192656692047	
+203	sentence	6	.	5.064316709647643	
+204	sentence	1	The plant	13.463429302251008	
+204	sentence	2	survived	11.413581845229261	
+204	sentence	3		0.0	
+204	sentence	4	, but did not	23.650410265106444	
+204	sentence	5	alchemize	21.73423707589191	
+204	sentence	6	.	4.729842442492541	
+205	sentence	1	The plant	13.463429302251008	
+205	sentence	2	survived	11.413581845229261	
+205	sentence	3		0.0	
+205	sentence	4	, but did not	23.650410265106444	
+205	sentence	5	aluminize	26.0223932014863	
+205	sentence	6	.	4.512408560625011	
+206	sentence	1	The plant	13.463429302251008	
+206	sentence	2	survived	11.413581845229261	
+206	sentence	3		0.0	
+206	sentence	4	, but did not	23.650410265106444	
+206	sentence	5	analogize	25.006829822229115	
+206	sentence	6	.	8.565341391898908	
+207	sentence	1	The plant	13.463429302251008	
+207	sentence	2	survived	11.413581845229261	
+207	sentence	3		0.0	
+207	sentence	4	, but did not	23.650410265106444	
+207	sentence	5	attitudinize	45.82699030915534	
+207	sentence	6	.	6.106358215364193	
+208	sentence	1	The plant	13.463429302251008	
+208	sentence	2	survived	11.413581845229261	
+208	sentence	3		0.0	
+208	sentence	4	, but did not	23.650410265106444	
+208	sentence	5	deionize	26.231773630264044	
+208	sentence	6	.	5.2494519057178355	
+209	sentence	1	The plant	13.463429302251008	
+209	sentence	2	survived	11.413581845229261	
+209	sentence	3		0.0	
+209	sentence	4	, but did not	23.650410265106444	
+209	sentence	5	demythologize	28.041296088861195	
+209	sentence	6	.	7.598635166566301	
+210	sentence	1	The plant	13.463429302251008	
+210	sentence	2	survived	11.413581845229261	
+210	sentence	3		0.0	
+210	sentence	4	, but did not	23.650410265106444	
+210	sentence	5	deoxidize	31.370916186185944	
+210	sentence	6	.	5.3294575469686105	
+211	sentence	1	The plant	13.463429302251008	
+211	sentence	2	survived	11.413581845229261	
+211	sentence	3		0.0	
+211	sentence	4	, but did not	23.650410265106444	
+211	sentence	5	dichotomize	26.794018259071006	
+211	sentence	6	.	9.320613522121983	
+212	sentence	1	The plant	13.463429302251008	
+212	sentence	2	survived	11.413581845229261	
+212	sentence	3		0.0	
+212	sentence	4	, but did not	23.650410265106444	
+212	sentence	5	dogmatize	29.082090064675132	
+212	sentence	6	.	5.703608555643065	
+213	sentence	1	The plant	13.463429302251008	
+213	sentence	2	survived	11.413581845229261	
+213	sentence	3		0.0	
+213	sentence	4	, but did not	23.650410265106444	
+213	sentence	5	factorize	32.639441214867105	
+213	sentence	6	.	6.050023578247572	
+214	sentence	1	The plant	13.463429302251008	
+214	sentence	2	survived	11.413581845229261	
+214	sentence	3		0.0	
+214	sentence	4	, but did not	23.650410265106444	
+214	sentence	5	iodize	25.2074531523989	
+214	sentence	6	.	4.821255692975046	
+215	sentence	1	The plant	13.463429302251008	
+215	sentence	2	survived	11.413581845229261	
+215	sentence	3		0.0	
+215	sentence	4	, but did not	23.650410265106444	
+215	sentence	5	overcapitalize	26.203386980081305	
+215	sentence	6	.	5.482130673723147	
+216	sentence	1	The plant	13.463429302251008	
+216	sentence	2	survived	11.413581845229261	
+216	sentence	3		0.0	
+216	sentence	4	, but did not	23.650410265106444	
+216	sentence	5	overspecialize	27.398908329423012	
+216	sentence	6	.	7.79926943913225	
+217	sentence	1	The plant	13.463429302251008	
+217	sentence	2	survived	11.413581845229261	
+217	sentence	3		0.0	
+217	sentence	4	, but did not	23.650410265106444	
+217	sentence	5	relativize	25.434237231169266	
+217	sentence	6	.	6.243174541709179	
+218	sentence	1	The plant	13.463429302251008	
+218	sentence	2	survived	11.413581845229261	
+218	sentence	3		0.0	
+218	sentence	4	, but did not	23.650410265106444	
+218	sentence	5	schematize	26.381586217956897	
+218	sentence	6	.	5.0497717928988735	
+219	sentence	1	The plant	13.463429302251008	
+219	sentence	2	survived	11.413581845229261	
+219	sentence	3		0.0	
+219	sentence	4	, but did not	23.650410265106444	
+219	sentence	5	sensualize	27.257379226989926	
+219	sentence	6	.	8.071308844544628	
+220	sentence	1	The plant	13.463429302251008	
+220	sentence	2	survived	11.413581845229261	
+220	sentence	3		0.0	
+220	sentence	4	, but did not	23.650410265106444	
+220	sentence	5	signalize	32.66290652775082	
+220	sentence	6	.	4.8720958283619025	
+221	sentence	1	The plant	13.463429302251008	
+221	sentence	2	survived	11.413581845229261	
+221	sentence	3		0.0	
+221	sentence	4	, but did not	23.650410265106444	
+221	sentence	5	singularize	26.546186013706844	
+221	sentence	6	.	5.843886548784616	
+222	sentence	1	The plant	13.463429302251008	
+222	sentence	2	survived	11.413581845229261	
+222	sentence	3		0.0	
+222	sentence	4	, but did not	23.650410265106444	
+222	sentence	5	steepen	20.57034852777015	
+222	sentence	6	.	6.2469375221100565	
+223	sentence	1	The plant	13.463429302251008	
+223	sentence	2	survived	11.413581845229261	
+223	sentence	3		0.0	
+223	sentence	4	, but did not	23.650410265106444	
+223	sentence	5	subtilize	29.275002832165296	
+223	sentence	6	.	4.983411599132856	
+224	sentence	1	The plant	13.463429302251008	
+224	sentence	2	survived	11.413581845229261	
+224	sentence	3		0.0	
+224	sentence	4	, but did not	23.650410265106444	
+224	sentence	5	syllogize	30.542217095072896	
+224	sentence	6	.	4.173989011459115	
+225	sentence	1	The plant	13.463429302251008	
+225	sentence	2	survived	11.413581845229261	
+225	sentence	3		0.0	
+225	sentence	4	, but did not	23.650410265106444	
+225	sentence	5	complete	8.84532914750356	
+225	sentence	6	.	9.017675713655594	
+226	sentence	1	The plant	13.463429302251008	
+226	sentence	2	survived	11.413581845229261	
+226	sentence	3		0.0	
+226	sentence	4	, but did not	23.650410265106444	
+226	sentence	5	loathe	22.006113699725248	
+226	sentence	6	.	10.803355755160258	
+227	sentence	1	The plant	13.463429302251008	
+227	sentence	2	survived	11.413581845229261	
+227	sentence	3		0.0	
+227	sentence	4	, but did not	23.650410265106444	
+227	sentence	5	triple	14.573754799666128	
+227	sentence	6	.	9.584883439298983	
+228	sentence	1	The plant	13.463429302251008	
+228	sentence	2	survived	11.413581845229261	
+228	sentence	3		0.0	
+228	sentence	4	, but did not	23.650410265106444	
+228	sentence	5	love	12.94649623303844	
+228	sentence	6	.	8.844055100025969	
+229	sentence	1	The plant	13.463429302251008	
+229	sentence	2	survived	11.413581845229261	
+229	sentence	3		0.0	
+229	sentence	4	, but did not	23.650410265106444	
+229	sentence	5	exceed	10.10205178077793	
+229	sentence	6	.	8.985540411376576	
+230	sentence	1	The plant	13.463429302251008	
+230	sentence	2	survived	11.413581845229261	
+230	sentence	3		0.0	
+230	sentence	4	, but did not	23.650410265106444	
+230	sentence	5	require	7.548211229194533	
+230	sentence	6	.	15.075297485418286	
+231	sentence	1	The plant	13.463429302251008	
+231	sentence	2	survived	11.413581845229261	
+231	sentence	3		0.0	
+231	sentence	4	, but did not	23.650410265106444	
+231	sentence	5	eliminate	10.88783363326407	
+231	sentence	6	.	9.615289971971526	
+232	sentence	1	The plant	13.463429302251008	
+232	sentence	2	survived	11.413581845229261	
+232	sentence	3		0.0	
+232	sentence	4	, but did not	23.650410265106444	
+232	sentence	5	stop	7.2761869582554315	
+232	sentence	6	.	8.528718718293577	
+233	sentence	1	The plant	13.463429302251008	
+233	sentence	2	survived	11.413581845229261	
+233	sentence	3		0.0	
+233	sentence	4	, but did not	23.650410265106444	
+233	sentence	5	finish	8.819000667448273	
+233	sentence	6	.	7.243550842497102	
+234	sentence	1	The plant	13.463429302251008	
+234	sentence	2	survived	11.413581845229261	
+234	sentence	3		0.0	
+234	sentence	4	, but did not	23.650410265106444	
+234	sentence	5	thrive	6.192602699257668	
+234	sentence	6	.	5.870996518005422	
+235	sentence	1	The plant	13.463429302251008	
+235	sentence	2	survived	11.413581845229261	
+235	sentence	3		0.0	
+235	sentence	4	, but did not	23.650410265106444	
+235	sentence	5	encourage	13.481585166737293	
+235	sentence	6	.	12.834536903187958	
+236	sentence	1	The plant	13.463429302251008	
+236	sentence	2	survived	11.413581845229261	
+236	sentence	3		0.0	
+236	sentence	4	, but did not	23.650410265106444	
+236	sentence	5	need	7.968564345127375	
+236	sentence	6	.	14.467871272905327	

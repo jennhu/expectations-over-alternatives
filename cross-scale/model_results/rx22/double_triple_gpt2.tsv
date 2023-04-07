@@ -1,0 +1,1417 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	The sales will	20.25669791998152	
+1	sentence	2	double	9.518686629051283	
+1	sentence	3		0.0	
+1	sentence	4	, but not	22.1399330563963	
+1	sentence	5	have	10.365574605319582	
+1	sentence	6	.	10.315665927969798	
+2	sentence	1	The sales will	20.25669791998152	
+2	sentence	2	double	9.518686629051283	
+2	sentence	3		0.0	
+2	sentence	4	, but not	22.1399330563963	
+2	sentence	5	know	14.946796176277216	
+2	sentence	6	.	7.266306898928665	
+3	sentence	1	The sales will	20.25669791998152	
+3	sentence	2	double	9.518686629051283	
+3	sentence	3		0.0	
+3	sentence	4	, but not	22.1399330563963	
+3	sentence	5	get	10.004328486835268	
+3	sentence	6	.	12.853398584473384	
+4	sentence	1	The sales will	20.25669791998152	
+4	sentence	2	double	9.518686629051283	
+4	sentence	3		0.0	
+4	sentence	4	, but not	22.1399330563963	
+4	sentence	5	go	8.943968765010018	
+4	sentence	6	.	14.138787285993567	
+5	sentence	1	The sales will	20.25669791998152	
+5	sentence	2	double	9.518686629051283	
+5	sentence	3		0.0	
+5	sentence	4	, but not	22.1399330563963	
+5	sentence	5	come	10.558327256961789	
+5	sentence	6	.	15.802448388433481	
+6	sentence	1	The sales will	20.25669791998152	
+6	sentence	2	double	9.518686629051283	
+6	sentence	3		0.0	
+6	sentence	4	, but not	22.1399330563963	
+6	sentence	5	see	11.400090150234375	
+6	sentence	6	.	10.55661706148161	
+7	sentence	1	The sales will	20.25669791998152	
+7	sentence	2	double	9.518686629051283	
+7	sentence	3		0.0	
+7	sentence	4	, but not	22.1399330563963	
+7	sentence	5	let	12.003597910030074	
+7	sentence	6	.	12.421640954996528	
+8	sentence	1	The sales will	20.25669791998152	
+8	sentence	2	double	9.518686629051283	
+8	sentence	3		0.0	
+8	sentence	4	, but not	22.1399330563963	
+8	sentence	5	take	8.823399295726741	
+8	sentence	6	.	12.706041097491715	
+9	sentence	1	The sales will	20.25669791998152	
+9	sentence	2	double	9.518686629051283	
+9	sentence	3		0.0	
+9	sentence	4	, but not	22.1399330563963	
+9	sentence	5	say	13.156217380945376	
+9	sentence	6	.	7.81329428034481	
+10	sentence	1	The sales will	20.25669791998152	
+10	sentence	2	double	9.518686629051283	
+10	sentence	3		0.0	
+10	sentence	4	, but not	22.1399330563963	
+10	sentence	5	make	9.518902639260768	
+10	sentence	6	.	8.38822815459556	
+11	sentence	1	The sales will	20.25669791998152	
+11	sentence	2	double	9.518686629051283	
+11	sentence	3		0.0	
+11	sentence	4	, but not	22.1399330563963	
+11	sentence	5	give	12.588129792060174	
+11	sentence	6	.	12.660746370699279	
+12	sentence	1	The sales will	20.25669791998152	
+12	sentence	2	double	9.518686629051283	
+12	sentence	3		0.0	
+12	sentence	4	, but not	22.1399330563963	
+12	sentence	5	find	14.571064991006633	
+12	sentence	6	.	9.472659944096774	
+13	sentence	1	The sales will	20.25669791998152	
+13	sentence	2	double	9.518686629051283	
+13	sentence	3		0.0	
+13	sentence	4	, but not	22.1399330563963	
+13	sentence	5	keep	10.401346996699045	
+13	sentence	6	.	8.475309850033433	
+14	sentence	1	The sales will	20.25669791998152	
+14	sentence	2	double	9.518686629051283	
+14	sentence	3		0.0	
+14	sentence	4	, but not	22.1399330563963	
+14	sentence	5	leave	12.748081912529829	
+14	sentence	6	.	9.883355202287765	
+15	sentence	1	The sales will	20.25669791998152	
+15	sentence	2	double	9.518686629051283	
+15	sentence	3		0.0	
+15	sentence	4	, but not	22.1399330563963	
+15	sentence	5	believe	16.830074996285315	
+15	sentence	6	.	11.402894155374042	
+16	sentence	1	The sales will	20.25669791998152	
+16	sentence	2	double	9.518686629051283	
+16	sentence	3		0.0	
+16	sentence	4	, but not	22.1399330563963	
+16	sentence	5	remember	15.416658281879236	
+16	sentence	6	.	4.798854608734863	
+17	sentence	1	The sales will	20.25669791998152	
+17	sentence	2	double	9.518686629051283	
+17	sentence	3		0.0	
+17	sentence	4	, but not	22.1399330563963	
+17	sentence	5	run	12.377325841383406	
+17	sentence	6	.	8.661507210955355	
+18	sentence	1	The sales will	20.25669791998152	
+18	sentence	2	double	9.518686629051283	
+18	sentence	3		0.0	
+18	sentence	4	, but not	22.1399330563963	
+18	sentence	5	happen	11.705575365725345	
+18	sentence	6	.	8.486370398275723	
+19	sentence	1	The sales will	20.25669791998152	
+19	sentence	2	double	9.518686629051283	
+19	sentence	3		0.0	
+19	sentence	4	, but not	22.1399330563963	
+19	sentence	5	buy	11.162539457695422	
+19	sentence	6	.	6.2566290884514775	
+20	sentence	1	The sales will	20.25669791998152	
+20	sentence	2	double	9.518686629051283	
+20	sentence	3		0.0	
+20	sentence	4	, but not	22.1399330563963	
+20	sentence	5	save	12.43663096284573	
+20	sentence	6	.	7.577676672801556	
+21	sentence	1	The sales will	20.25669791998152	
+21	sentence	2	double	9.518686629051283	
+21	sentence	3		0.0	
+21	sentence	4	, but not	22.1399330563963	
+21	sentence	5	lose	12.213411240637873	
+21	sentence	6	.	6.341056747621238	
+22	sentence	1	The sales will	20.25669791998152	
+22	sentence	2	double	9.518686629051283	
+22	sentence	3		0.0	
+22	sentence	4	, but not	22.1399330563963	
+22	sentence	5	follow	11.14089991263326	
+22	sentence	6	.	6.614078517935343	
+23	sentence	1	The sales will	20.25669791998152	
+23	sentence	2	double	9.518686629051283	
+23	sentence	3		0.0	
+23	sentence	4	, but not	22.1399330563963	
+23	sentence	5	expect	14.065320425128597	
+23	sentence	6	.	12.419341890919792	
+24	sentence	1	The sales will	20.25669791998152	
+24	sentence	2	double	9.518686629051283	
+24	sentence	3		0.0	
+24	sentence	4	, but not	22.1399330563963	
+24	sentence	5	realize	14.147409808177226	
+24	sentence	6	.	6.355979338271302	
+25	sentence	1	The sales will	20.25669791998152	
+25	sentence	2	double	9.518686629051283	
+25	sentence	3		0.0	
+25	sentence	4	, but not	22.1399330563963	
+25	sentence	5	slow	13.4879650351537	
+25	sentence	6	.	5.621305914107366	
+26	sentence	1	The sales will	20.25669791998152	
+26	sentence	2	double	9.518686629051283	
+26	sentence	3		0.0	
+26	sentence	4	, but not	22.1399330563963	
+26	sentence	5	allow	12.884303178902828	
+26	sentence	6	.	12.22152331831377	
+27	sentence	1	The sales will	20.25669791998152	
+27	sentence	2	double	9.518686629051283	
+27	sentence	3		0.0	
+27	sentence	4	, but not	22.1399330563963	
+27	sentence	5	consider	14.83089362820775	
+27	sentence	6	.	8.042128892138036	
+28	sentence	1	The sales will	20.25669791998152	
+28	sentence	2	double	9.518686629051283	
+28	sentence	3		0.0	
+28	sentence	4	, but not	22.1399330563963	
+28	sentence	5	apologize	18.97021059328762	
+28	sentence	6	.	5.547360941472997	
+29	sentence	1	The sales will	20.25669791998152	
+29	sentence	2	double	9.518686629051283	
+29	sentence	3		0.0	
+29	sentence	4	, but not	22.1399330563963	
+29	sentence	5	recognize	17.38013329991527	
+29	sentence	6	.	6.479136802484763	
+30	sentence	1	The sales will	20.25669791998152	
+30	sentence	2	double	9.518686629051283	
+30	sentence	3		0.0	
+30	sentence	4	, but not	22.1399330563963	
+30	sentence	5	settle	18.78727608721787	
+30	sentence	6	.	6.034730193002248	
+31	sentence	1	The sales will	20.25669791998152	
+31	sentence	2	double	9.518686629051283	
+31	sentence	3		0.0	
+31	sentence	4	, but not	22.1399330563963	
+31	sentence	5	add	10.77628568591445	
+31	sentence	6	.	8.57846366815974	
+32	sentence	1	The sales will	20.25669791998152	
+32	sentence	2	double	9.518686629051283	
+32	sentence	3		0.0	
+32	sentence	4	, but not	22.1399330563963	
+32	sentence	5	assume	15.678908434804502	
+32	sentence	6	.	7.224178028773312	
+33	sentence	1	The sales will	20.25669791998152	
+33	sentence	2	double	9.518686629051283	
+33	sentence	3		0.0	
+33	sentence	4	, but not	22.1399330563963	
+33	sentence	5	appear	14.497891188578732	
+33	sentence	6	.	11.539139499318162	
+34	sentence	1	The sales will	20.25669791998152	
+34	sentence	2	double	9.518686629051283	
+34	sentence	3		0.0	
+34	sentence	4	, but not	22.1399330563963	
+34	sentence	5	remove	14.394448439598978	
+34	sentence	6	.	4.694450132771483	
+35	sentence	1	The sales will	20.25669791998152	
+35	sentence	2	double	9.518686629051283	
+35	sentence	3		0.0	
+35	sentence	4	, but not	22.1399330563963	
+35	sentence	5	identify	18.871676917094096	
+35	sentence	6	.	7.79617787900034	
+36	sentence	1	The sales will	20.25669791998152	
+36	sentence	2	double	9.518686629051283	
+36	sentence	3		0.0	
+36	sentence	4	, but not	22.1399330563963	
+36	sentence	5	replace	11.159039266785063	
+36	sentence	6	.	5.392784310738711	
+37	sentence	1	The sales will	20.25669791998152	
+37	sentence	2	double	9.518686629051283	
+37	sentence	3		0.0	
+37	sentence	4	, but not	22.1399330563963	
+37	sentence	5	apply	15.604810053645563	
+37	sentence	6	.	7.6006473635813965	
+38	sentence	1	The sales will	20.25669791998152	
+38	sentence	2	double	9.518686629051283	
+38	sentence	3		0.0	
+38	sentence	4	, but not	22.1399330563963	
+38	sentence	5	succeed	14.751291802221202	
+38	sentence	6	.	4.686741870359812	
+39	sentence	1	The sales will	20.25669791998152	
+39	sentence	2	double	9.518686629051283	
+39	sentence	3		0.0	
+39	sentence	4	, but not	22.1399330563963	
+39	sentence	5	develop	15.773721782294565	
+39	sentence	6	.	6.683452879640383	
+40	sentence	1	The sales will	20.25669791998152	
+40	sentence	2	double	9.518686629051283	
+40	sentence	3		0.0	
+40	sentence	4	, but not	22.1399330563963	
+40	sentence	5	approve	17.49456092477093	
+40	sentence	6	.	4.493451256985705	
+41	sentence	1	The sales will	20.25669791998152	
+41	sentence	2	double	9.518686629051283	
+41	sentence	3		0.0	
+41	sentence	4	, but not	22.1399330563963	
+41	sentence	5	expose	19.93472231999522	
+41	sentence	6	.	11.121024221638347	
+42	sentence	1	The sales will	20.25669791998152	
+42	sentence	2	double	9.518686629051283	
+42	sentence	3		0.0	
+42	sentence	4	, but not	22.1399330563963	
+42	sentence	5	establish	16.512570257290847	
+42	sentence	6	.	8.90162938809001	
+43	sentence	1	The sales will	20.25669791998152	
+43	sentence	2	double	9.518686629051283	
+43	sentence	3		0.0	
+43	sentence	4	, but not	22.1399330563963	
+43	sentence	5	reduce	11.566866542290265	
+43	sentence	6	.	5.1831807989649645	
+44	sentence	1	The sales will	20.25669791998152	
+44	sentence	2	double	9.518686629051283	
+44	sentence	3		0.0	
+44	sentence	4	, but not	22.1399330563963	
+44	sentence	5	participate	15.39686789427915	
+44	sentence	6	.	7.46368725974029	
+45	sentence	1	The sales will	20.25669791998152	
+45	sentence	2	double	9.518686629051283	
+45	sentence	3		0.0	
+45	sentence	4	, but not	22.1399330563963	
+45	sentence	5	organize	20.296144548714015	
+45	sentence	6	.	5.509705340066584	
+46	sentence	1	The sales will	20.25669791998152	
+46	sentence	2	double	9.518686629051283	
+46	sentence	3		0.0	
+46	sentence	4	, but not	22.1399330563963	
+46	sentence	5	obtain	17.17549320744542	
+46	sentence	6	.	6.960191539004935	
+47	sentence	1	The sales will	20.25669791998152	
+47	sentence	2	double	9.518686629051283	
+47	sentence	3		0.0	
+47	sentence	4	, but not	22.1399330563963	
+47	sentence	5	kitten	25.396801880419574	
+47	sentence	6	.	7.956405859641978	
+48	sentence	1	The sales will	20.25669791998152	
+48	sentence	2	double	9.518686629051283	
+48	sentence	3		0.0	
+48	sentence	4	, but not	22.1399330563963	
+48	sentence	5	acquire	18.576516164099722	
+48	sentence	6	.	4.7910249265716836	
+49	sentence	1	The sales will	20.25669791998152	
+49	sentence	2	double	9.518686629051283	
+49	sentence	3		0.0	
+49	sentence	4	, but not	22.1399330563963	
+49	sentence	5	qualify	16.47532294269758	
+49	sentence	6	.	7.1808156990459695	
+50	sentence	1	The sales will	20.25669791998152	
+50	sentence	2	double	9.518686629051283	
+50	sentence	3		0.0	
+50	sentence	4	, but not	22.1399330563963	
+50	sentence	5	criticize	22.853199112076737	
+50	sentence	6	.	6.368906930171358	
+51	sentence	1	The sales will	20.25669791998152	
+51	sentence	2	double	9.518686629051283	
+51	sentence	3		0.0	
+51	sentence	4	, but not	22.1399330563963	
+51	sentence	5	rave	16.277991424958802	
+51	sentence	6	.	5.615644933171566	
+52	sentence	1	The sales will	20.25669791998152	
+52	sentence	2	double	9.518686629051283	
+52	sentence	3		0.0	
+52	sentence	4	, but not	22.1399330563963	
+52	sentence	5	enlighten	22.416482556342732	
+52	sentence	6	.	7.070550054341186	
+53	sentence	1	The sales will	20.25669791998152	
+53	sentence	2	double	9.518686629051283	
+53	sentence	3		0.0	
+53	sentence	4	, but not	22.1399330563963	
+53	sentence	5	disclose	15.947036266805656	
+53	sentence	6	.	6.826471588306084	
+54	sentence	1	The sales will	20.25669791998152	
+54	sentence	2	double	9.518686629051283	
+54	sentence	3		0.0	
+54	sentence	4	, but not	22.1399330563963	
+54	sentence	5	reopen	17.350502752963415	
+54	sentence	6	.	4.493718861990447	
+55	sentence	1	The sales will	20.25669791998152	
+55	sentence	2	double	9.518686629051283	
+55	sentence	3		0.0	
+55	sentence	4	, but not	22.1399330563963	
+55	sentence	5	stabilize	15.675980602156214	
+55	sentence	6	.	4.372369623368159	
+56	sentence	1	The sales will	20.25669791998152	
+56	sentence	2	double	9.518686629051283	
+56	sentence	3		0.0	
+56	sentence	4	, but not	22.1399330563963	
+56	sentence	5	soar	12.921396397040917	
+56	sentence	6	.	4.963763957132986	
+57	sentence	1	The sales will	20.25669791998152	
+57	sentence	2	double	9.518686629051283	
+57	sentence	3		0.0	
+57	sentence	4	, but not	22.1399330563963	
+57	sentence	5	authorize	18.309599089960642	
+57	sentence	6	.	8.662246736354065	
+58	sentence	1	The sales will	20.25669791998152	
+58	sentence	2	double	9.518686629051283	
+58	sentence	3		0.0	
+58	sentence	4	, but not	22.1399330563963	
+58	sentence	5	sympathize	25.32641815253662	
+58	sentence	6	.	7.190700573886961	
+59	sentence	1	The sales will	20.25669791998152	
+59	sentence	2	double	9.518686629051283	
+59	sentence	3		0.0	
+59	sentence	4	, but not	22.1399330563963	
+59	sentence	5	sharpen	21.713948508296856	
+59	sentence	6	.	5.240858276619523	
+60	sentence	1	The sales will	20.25669791998152	
+60	sentence	2	double	9.518686629051283	
+60	sentence	3		0.0	
+60	sentence	4	, but not	22.1399330563963	
+60	sentence	5	specialize	20.044769202768105	
+60	sentence	6	.	5.537264871936746	
+61	sentence	1	The sales will	20.25669791998152	
+61	sentence	2	double	9.518686629051283	
+61	sentence	3		0.0	
+61	sentence	4	, but not	22.1399330563963	
+61	sentence	5	minimize	18.295466243643343	
+61	sentence	6	.	5.391184184155083	
+62	sentence	1	The sales will	20.25669791998152	
+62	sentence	2	double	9.518686629051283	
+62	sentence	3		0.0	
+62	sentence	4	, but not	22.1399330563963	
+62	sentence	5	socialize	20.622287288330718	
+62	sentence	6	.	5.582979236397287	
+63	sentence	1	The sales will	20.25669791998152	
+63	sentence	2	double	9.518686629051283	
+63	sentence	3		0.0	
+63	sentence	4	, but not	22.1399330563963	
+63	sentence	5	utilize	19.055513988115575	
+63	sentence	6	.	6.150541246301453	
+64	sentence	1	The sales will	20.25669791998152	
+64	sentence	2	double	9.518686629051283	
+64	sentence	3		0.0	
+64	sentence	4	, but not	22.1399330563963	
+64	sentence	5	rectify	20.5554189879461	
+64	sentence	6	.	5.282984395052463	
+65	sentence	1	The sales will	20.25669791998152	
+65	sentence	2	double	9.518686629051283	
+65	sentence	3		0.0	
+65	sentence	4	, but not	22.1399330563963	
+65	sentence	5	terrorize	19.595299047832142	
+65	sentence	6	.	7.758552890505782	
+66	sentence	1	The sales will	20.25669791998152	
+66	sentence	2	double	9.518686629051283	
+66	sentence	3		0.0	
+66	sentence	4	, but not	22.1399330563963	
+66	sentence	5	enslave	22.264868316020642	
+66	sentence	6	.	7.029789478156096	
+67	sentence	1	The sales will	20.25669791998152	
+67	sentence	2	double	9.518686629051283	
+67	sentence	3		0.0	
+67	sentence	4	, but not	22.1399330563963	
+67	sentence	5	finalize	13.53000172260819	
+67	sentence	6	.	5.428459015972485	
+68	sentence	1	The sales will	20.25669791998152	
+68	sentence	2	double	9.518686629051283	
+68	sentence	3		0.0	
+68	sentence	4	, but not	22.1399330563963	
+68	sentence	5	maximize	17.49251364329506	
+68	sentence	6	.	5.091105071311336	
+69	sentence	1	The sales will	20.25669791998152	
+69	sentence	2	double	9.518686629051283	
+69	sentence	3		0.0	
+69	sentence	4	, but not	22.1399330563963	
+69	sentence	5	summarize	21.73342419989261	
+69	sentence	6	.	5.106112621390926	
+70	sentence	1	The sales will	20.25669791998152	
+70	sentence	2	double	9.518686629051283	
+70	sentence	3		0.0	
+70	sentence	4	, but not	22.1399330563963	
+70	sentence	5	repose	27.740130851832667	
+70	sentence	6	.	4.420541619909529	
+71	sentence	1	The sales will	20.25669791998152	
+71	sentence	2	double	9.518686629051283	
+71	sentence	3		0.0	
+71	sentence	4	, but not	22.1399330563963	
+71	sentence	5	symbolize	24.484379227109397	
+71	sentence	6	.	9.05694072870878	
+72	sentence	1	The sales will	20.25669791998152	
+72	sentence	2	double	9.518686629051283	
+72	sentence	3		0.0	
+72	sentence	4	, but not	22.1399330563963	
+72	sentence	5	sterilize	23.304376764515048	
+72	sentence	6	.	4.708617375618958	
+73	sentence	1	The sales will	20.25669791998152	
+73	sentence	2	double	9.518686629051283	
+73	sentence	3		0.0	
+73	sentence	4	, but not	22.1399330563963	
+73	sentence	5	revolutionize	15.637018405555535	
+73	sentence	6	.	8.385024461775288	
+74	sentence	1	The sales will	20.25669791998152	
+74	sentence	2	double	9.518686629051283	
+74	sentence	3		0.0	
+74	sentence	4	, but not	22.1399330563963	
+74	sentence	5	synchronize	17.801174862399513	
+74	sentence	6	.	4.6722801932140605	
+75	sentence	1	The sales will	20.25669791998152	
+75	sentence	2	double	9.518686629051283	
+75	sentence	3		0.0	
+75	sentence	4	, but not	22.1399330563963	
+75	sentence	5	fertilize	22.771275563299202	
+75	sentence	6	.	5.623854353027851	
+76	sentence	1	The sales will	20.25669791998152	
+76	sentence	2	double	9.518686629051283	
+76	sentence	3		0.0	
+76	sentence	4	, but not	22.1399330563963	
+76	sentence	5	rationalize	20.800224150549052	
+76	sentence	6	.	5.930119337857832	
+77	sentence	1	The sales will	20.25669791998152	
+77	sentence	2	double	9.518686629051283	
+77	sentence	3		0.0	
+77	sentence	4	, but not	22.1399330563963	
+77	sentence	5	antagonize	21.4690887358278	
+77	sentence	6	.	8.08378309017701	
+78	sentence	1	The sales will	20.25669791998152	
+78	sentence	2	double	9.518686629051283	
+78	sentence	3		0.0	
+78	sentence	4	, but not	22.1399330563963	
+78	sentence	5	kindle	18.03711390551723	
+78	sentence	6	.	4.548216036465251	
+79	sentence	1	The sales will	20.25669791998152	
+79	sentence	2	double	9.518686629051283	
+79	sentence	3		0.0	
+79	sentence	4	, but not	22.1399330563963	
+79	sentence	5	familiarize	22.40566654593214	
+79	sentence	6	.	9.980205512294647	
+80	sentence	1	The sales will	20.25669791998152	
+80	sentence	2	double	9.518686629051283	
+80	sentence	3		0.0	
+80	sentence	4	, but not	22.1399330563963	
+80	sentence	5	synthesize	23.499327612409257	
+80	sentence	6	.	4.78298336178264	
+81	sentence	1	The sales will	20.25669791998152	
+81	sentence	2	double	9.518686629051283	
+81	sentence	3		0.0	
+81	sentence	4	, but not	22.1399330563963	
+81	sentence	5	reorganize	22.84636578452904	
+81	sentence	6	.	4.813435985805616	
+82	sentence	1	The sales will	20.25669791998152	
+82	sentence	2	double	9.518686629051283	
+82	sentence	3		0.0	
+82	sentence	4	, but not	22.1399330563963	
+82	sentence	5	ripen	23.38399845449777	
+82	sentence	6	.	5.303229504781429	
+83	sentence	1	The sales will	20.25669791998152	
+83	sentence	2	double	9.518686629051283	
+83	sentence	3		0.0	
+83	sentence	4	, but not	22.1399330563963	
+83	sentence	5	deepen	18.847990090556063	
+83	sentence	6	.	5.503142826074962	
+84	sentence	1	The sales will	20.25669791998152	
+84	sentence	2	double	9.518686629051283	
+84	sentence	3		0.0	
+84	sentence	4	, but not	22.1399330563963	
+84	sentence	5	destabilize	20.28512316952046	
+84	sentence	6	.	7.616940999924139	
+85	sentence	1	The sales will	20.25669791998152	
+85	sentence	2	double	9.518686629051283	
+85	sentence	3		0.0	
+85	sentence	4	, but not	22.1399330563963	
+85	sentence	5	enclose	23.068360361451187	
+85	sentence	6	.	4.0393317553130625	
+86	sentence	1	The sales will	20.25669791998152	
+86	sentence	2	double	9.518686629051283	
+86	sentence	3		0.0	
+86	sentence	4	, but not	22.1399330563963	
+86	sentence	5	dampen	20.661888121007546	
+86	sentence	6	.	7.722961424875026	
+87	sentence	1	The sales will	20.25669791998152	
+87	sentence	2	double	9.518686629051283	
+87	sentence	3		0.0	
+87	sentence	4	, but not	22.1399330563963	
+87	sentence	5	subsidize	18.140325144351092	
+87	sentence	6	.	7.224314239032795	
+88	sentence	1	The sales will	20.25669791998152	
+88	sentence	2	double	9.518686629051283	
+88	sentence	3		0.0	
+88	sentence	4	, but not	22.1399330563963	
+88	sentence	5	idolize	20.441154644494056	
+88	sentence	6	.	6.818447565747428	
+89	sentence	1	The sales will	20.25669791998152	
+89	sentence	2	double	9.518686629051283	
+89	sentence	3		0.0	
+89	sentence	4	, but not	22.1399330563963	
+89	sentence	5	quantify	20.833897149709433	
+89	sentence	6	.	4.879303965224865	
+90	sentence	1	The sales will	20.25669791998152	
+90	sentence	2	double	9.518686629051283	
+90	sentence	3		0.0	
+90	sentence	4	, but not	22.1399330563963	
+90	sentence	5	engrave	24.60456242335884	
+90	sentence	6	.	5.710591739198699	
+91	sentence	1	The sales will	20.25669791998152	
+91	sentence	2	double	9.518686629051283	
+91	sentence	3		0.0	
+91	sentence	4	, but not	22.1399330563963	
+91	sentence	5	fraternize	23.152409841520615	
+91	sentence	6	.	4.98211484994535	
+92	sentence	1	The sales will	20.25669791998152	
+92	sentence	2	double	9.518686629051283	
+92	sentence	3		0.0	
+92	sentence	4	, but not	22.1399330563963	
+92	sentence	5	immobilize	22.862133030347614	
+92	sentence	6	.	5.657048724470882	
+93	sentence	1	The sales will	20.25669791998152	
+93	sentence	2	double	9.518686629051283	
+93	sentence	3		0.0	
+93	sentence	4	, but not	22.1399330563963	
+93	sentence	5	downsize	16.714649184124042	
+93	sentence	6	.	4.565365114513385	
+94	sentence	1	The sales will	20.25669791998152	
+94	sentence	2	double	9.518686629051283	
+94	sentence	3		0.0	
+94	sentence	4	, but not	22.1399330563963	
+94	sentence	5	theorize	24.662290979860703	
+94	sentence	6	.	6.438127883351828	
+95	sentence	1	The sales will	20.25669791998152	
+95	sentence	2	double	9.518686629051283	
+95	sentence	3		0.0	
+95	sentence	4	, but not	22.1399330563963	
+95	sentence	5	dramatize	19.8187107994186	
+95	sentence	6	.	6.911181299023259	
+96	sentence	1	The sales will	20.25669791998152	
+96	sentence	2	double	9.518686629051283	
+96	sentence	3		0.0	
+96	sentence	4	, but not	22.1399330563963	
+96	sentence	5	modernize	20.639338508250514	
+96	sentence	6	.	5.973377790064053	
+97	sentence	1	The sales will	20.25669791998152	
+97	sentence	2	double	9.518686629051283	
+97	sentence	3		0.0	
+97	sentence	4	, but not	22.1399330563963	
+97	sentence	5	revitalize	20.53492712073435	
+97	sentence	6	.	7.306902371768926	
+98	sentence	1	The sales will	20.25669791998152	
+98	sentence	2	double	9.518686629051283	
+98	sentence	3		0.0	
+98	sentence	4	, but not	22.1399330563963	
+98	sentence	5	traumatize	23.153075779842588	
+98	sentence	6	.	7.914069922374986	
+99	sentence	1	The sales will	20.25669791998152	
+99	sentence	2	double	9.518686629051283	
+99	sentence	3		0.0	
+99	sentence	4	, but not	22.1399330563963	
+99	sentence	5	immortalize	19.273809331081278	
+99	sentence	6	.	5.5135157876791006	
+100	sentence	1	The sales will	20.25669791998152	
+100	sentence	2	double	9.518686629051283	
+100	sentence	3		0.0	
+100	sentence	4	, but not	22.1399330563963	
+100	sentence	5	agonize	21.788208757377006	
+100	sentence	6	.	6.5578064825036355	
+101	sentence	1	The sales will	20.25669791998152	
+101	sentence	2	double	9.518686629051283	
+101	sentence	3		0.0	
+101	sentence	4	, but not	22.1399330563963	
+101	sentence	5	electrify	18.95755524992388	
+101	sentence	6	.	6.205478008431862	
+102	sentence	1	The sales will	20.25669791998152	
+102	sentence	2	double	9.518686629051283	
+102	sentence	3		0.0	
+102	sentence	4	, but not	22.1399330563963	
+102	sentence	5	demoralize	20.749925900248314	
+102	sentence	6	.	8.124853923064254	
+103	sentence	1	The sales will	20.25669791998152	
+103	sentence	2	double	9.518686629051283	
+103	sentence	3		0.0	
+103	sentence	4	, but not	22.1399330563963	
+103	sentence	5	sanitize	24.201211630528363	
+103	sentence	6	.	4.672532663745527	
+104	sentence	1	The sales will	20.25669791998152	
+104	sentence	2	double	9.518686629051283	
+104	sentence	3		0.0	
+104	sentence	4	, but not	22.1399330563963	
+104	sentence	5	anesthetize	22.011330341984713	
+104	sentence	6	.	4.427830932583698	
+105	sentence	1	The sales will	20.25669791998152	
+105	sentence	2	double	9.518686629051283	
+105	sentence	3		0.0	
+105	sentence	4	, but not	22.1399330563963	
+105	sentence	5	trivialize	20.164836138745564	
+105	sentence	6	.	6.542526167939776	
+106	sentence	1	The sales will	20.25669791998152	
+106	sentence	2	double	9.518686629051283	
+106	sentence	3		0.0	
+106	sentence	4	, but not	22.1399330563963	
+106	sentence	5	romanticize	22.225453149364338	
+106	sentence	6	.	6.5115170080586084	
+107	sentence	1	The sales will	20.25669791998152	
+107	sentence	2	double	9.518686629051283	
+107	sentence	3		0.0	
+107	sentence	4	, but not	22.1399330563963	
+107	sentence	5	equalize	18.914785400428762	
+107	sentence	6	.	4.588757162787839	
+108	sentence	1	The sales will	20.25669791998152	
+108	sentence	2	double	9.518686629051283	
+108	sentence	3		0.0	
+108	sentence	4	, but not	22.1399330563963	
+108	sentence	5	demonize	26.424565386461495	
+108	sentence	6	.	6.785380117500734	
+109	sentence	1	The sales will	20.25669791998152	
+109	sentence	2	double	9.518686629051283	
+109	sentence	3		0.0	
+109	sentence	4	, but not	22.1399330563963	
+109	sentence	5	alphabetize	29.698392043825145	
+109	sentence	6	.	3.8519814226997564	
+110	sentence	1	The sales will	20.25669791998152	
+110	sentence	2	double	9.518686629051283	
+110	sentence	3		0.0	
+110	sentence	4	, but not	22.1399330563963	
+110	sentence	5	formalize	20.651509720452072	
+110	sentence	6	.	7.187267800175739	
+111	sentence	1	The sales will	20.25669791998152	
+111	sentence	2	double	9.518686629051283	
+111	sentence	3		0.0	
+111	sentence	4	, but not	22.1399330563963	
+111	sentence	5	optimize	19.064033320708717	
+111	sentence	6	.	5.652662134977975	
+112	sentence	1	The sales will	20.25669791998152	
+112	sentence	2	double	9.518686629051283	
+112	sentence	3		0.0	
+112	sentence	4	, but not	22.1399330563963	
+112	sentence	5	internalize	25.240096448432908	
+112	sentence	6	.	4.603751298220662	
+113	sentence	1	The sales will	20.25669791998152	
+113	sentence	2	double	9.518686629051283	
+113	sentence	3		0.0	
+113	sentence	4	, but not	22.1399330563963	
+113	sentence	5	idealize	27.102684723646306	
+113	sentence	6	.	6.7380725057626005	
+114	sentence	1	The sales will	20.25669791998152	
+114	sentence	2	double	9.518686629051283	
+114	sentence	3		0.0	
+114	sentence	4	, but not	22.1399330563963	
+114	sentence	5	sodomize	25.697309746011918	
+114	sentence	6	.	4.716713630890975	
+115	sentence	1	The sales will	20.25669791998152	
+115	sentence	2	double	9.518686629051283	
+115	sentence	3		0.0	
+115	sentence	4	, but not	22.1399330563963	
+115	sentence	5	digitize	17.13159325995148	
+115	sentence	6	.	4.447883421743699	
+116	sentence	1	The sales will	20.25669791998152	
+116	sentence	2	double	9.518686629051283	
+116	sentence	3		0.0	
+116	sentence	4	, but not	22.1399330563963	
+116	sentence	5	galvanize	23.36071710930589	
+116	sentence	6	.	7.758076154597591	
+117	sentence	1	The sales will	20.25669791998152	
+117	sentence	2	double	9.518686629051283	
+117	sentence	3		0.0	
+117	sentence	4	, but not	22.1399330563963	
+117	sentence	5	initialize	20.9559195284272	
+117	sentence	6	.	3.9504456179023353	
+118	sentence	1	The sales will	20.25669791998152	
+118	sentence	2	double	9.518686629051283	
+118	sentence	3		0.0	
+118	sentence	4	, but not	22.1399330563963	
+118	sentence	5	exemplify	22.743378558472383	
+118	sentence	6	.	9.270230172655818	
+119	sentence	1	The sales will	20.25669791998152	
+119	sentence	2	double	9.518686629051283	
+119	sentence	3		0.0	
+119	sentence	4	, but not	22.1399330563963	
+119	sentence	5	depressurize	33.20504561074999	
+119	sentence	6	.	6.36276027022952	
+120	sentence	1	The sales will	20.25669791998152	
+120	sentence	2	double	9.518686629051283	
+120	sentence	3		0.0	
+120	sentence	4	, but not	22.1399330563963	
+120	sentence	5	itemize	19.21487844386723	
+120	sentence	6	.	4.391817421527725	
+121	sentence	1	The sales will	20.25669791998152	
+121	sentence	2	double	9.518686629051283	
+121	sentence	3		0.0	
+121	sentence	4	, but not	22.1399330563963	
+121	sentence	5	dehumanize	25.593546227890478	
+121	sentence	6	.	6.896610240911558	
+122	sentence	1	The sales will	20.25669791998152	
+122	sentence	2	double	9.518686629051283	
+122	sentence	3		0.0	
+122	sentence	4	, but not	22.1399330563963	
+122	sentence	5	mollify	28.21950987539416	
+122	sentence	6	.	6.004258994852979	
+123	sentence	1	The sales will	20.25669791998152	
+123	sentence	2	double	9.518686629051283	
+123	sentence	3		0.0	
+123	sentence	4	, but not	22.1399330563963	
+123	sentence	5	immunize	20.866430376846886	
+123	sentence	6	.	6.027297102831957	
+124	sentence	1	The sales will	20.25669791998152	
+124	sentence	2	double	9.518686629051283	
+124	sentence	3		0.0	
+124	sentence	4	, but not	22.1399330563963	
+124	sentence	5	oxidize	24.08570206281612	
+124	sentence	6	.	4.1860566901048575	
+125	sentence	1	The sales will	20.25669791998152	
+125	sentence	2	double	9.518686629051283	
+125	sentence	3		0.0	
+125	sentence	4	, but not	22.1399330563963	
+125	sentence	5	dematerialize	25.162376671590415	
+125	sentence	6	.	4.233144851980491	
+126	sentence	1	The sales will	20.25669791998152	
+126	sentence	2	double	9.518686629051283	
+126	sentence	3		0.0	
+126	sentence	4	, but not	22.1399330563963	
+126	sentence	5	ostracize	24.75141801122071	
+126	sentence	6	.	7.20617832453401	
+127	sentence	1	The sales will	20.25669791998152	
+127	sentence	2	double	9.518686629051283	
+127	sentence	3		0.0	
+127	sentence	4	, but not	22.1399330563963	
+127	sentence	5	overdramatize	27.976338875816335	
+127	sentence	6	.	4.349560252314827	
+128	sentence	1	The sales will	20.25669791998152	
+128	sentence	2	double	9.518686629051283	
+128	sentence	3		0.0	
+128	sentence	4	, but not	22.1399330563963	
+128	sentence	5	satirize	27.101613529705407	
+128	sentence	6	.	8.206319353055553	
+129	sentence	1	The sales will	20.25669791998152	
+129	sentence	2	double	9.518686629051283	
+129	sentence	3		0.0	
+129	sentence	4	, but not	22.1399330563963	
+129	sentence	5	amortize	17.826733204144237	
+129	sentence	6	.	3.7687259972782776	
+130	sentence	1	The sales will	20.25669791998152	
+130	sentence	2	double	9.518686629051283	
+130	sentence	3		0.0	
+130	sentence	4	, but not	22.1399330563963	
+130	sentence	5	tyrannize	23.994149560130996	
+130	sentence	6	.	5.686220765675533	
+131	sentence	1	The sales will	20.25669791998152	
+131	sentence	2	double	9.518686629051283	
+131	sentence	3		0.0	
+131	sentence	4	, but not	22.1399330563963	
+131	sentence	5	eulogize	23.20861071913053	
+131	sentence	6	.	5.427097257342953	
+132	sentence	1	The sales will	20.25669791998152	
+132	sentence	2	double	9.518686629051283	
+132	sentence	3		0.0	
+132	sentence	4	, but not	22.1399330563963	
+132	sentence	5	resize	19.77648727431178	
+132	sentence	6	.	3.9271495359470627	
+133	sentence	1	The sales will	20.25669791998152	
+133	sentence	2	double	9.518686629051283	
+133	sentence	3		0.0	
+133	sentence	4	, but not	22.1399330563963	
+133	sentence	5	editorialize	26.02208608346752	
+133	sentence	6	.	5.064314645855832	
+134	sentence	1	The sales will	20.25669791998152	
+134	sentence	2	double	9.518686629051283	
+134	sentence	3		0.0	
+134	sentence	4	, but not	22.1399330563963	
+134	sentence	5	acclimatize	26.742893223674077	
+134	sentence	6	.	6.565877972273928	
+135	sentence	1	The sales will	20.25669791998152	
+135	sentence	2	double	9.518686629051283	
+135	sentence	3		0.0	
+135	sentence	4	, but not	22.1399330563963	
+135	sentence	5	desensitize	28.527324536772024	
+135	sentence	6	.	7.122881623276324	
+136	sentence	1	The sales will	20.25669791998152	
+136	sentence	2	double	9.518686629051283	
+136	sentence	3		0.0	
+136	sentence	4	, but not	22.1399330563963	
+136	sentence	5	standardize	19.82589892180057	
+136	sentence	6	.	4.902465212781861	
+137	sentence	1	The sales will	20.25669791998152	
+137	sentence	2	double	9.518686629051283	
+137	sentence	3		0.0	
+137	sentence	4	, but not	22.1399330563963	
+137	sentence	5	stigmatize	23.381379921898144	
+137	sentence	6	.	7.414187213168956	
+138	sentence	1	The sales will	20.25669791998152	
+138	sentence	2	double	9.518686629051283	
+138	sentence	3		0.0	
+138	sentence	4	, but not	22.1399330563963	
+138	sentence	5	actualize	27.620428863040345	
+138	sentence	6	.	5.847360598332045	
+139	sentence	1	The sales will	20.25669791998152	
+139	sentence	2	double	9.518686629051283	
+139	sentence	3		0.0	
+139	sentence	4	, but not	22.1399330563963	
+139	sentence	5	industrialize	24.676517556722725	
+139	sentence	6	.	5.039371658035898	
+140	sentence	1	The sales will	20.25669791998152	
+140	sentence	2	double	9.518686629051283	
+140	sentence	3		0.0	
+140	sentence	4	, but not	22.1399330563963	
+140	sentence	5	sexualize	22.44932950133319	
+140	sentence	6	.	5.856001006711392	
+141	sentence	1	The sales will	20.25669791998152	
+141	sentence	2	double	9.518686629051283	
+141	sentence	3		0.0	
+141	sentence	4	, but not	22.1399330563963	
+141	sentence	5	demagnetize	29.299665928969862	
+141	sentence	6	.	4.933162740099665	
+142	sentence	1	The sales will	20.25669791998152	
+142	sentence	2	double	9.518686629051283	
+142	sentence	3		0.0	
+142	sentence	4	, but not	22.1399330563963	
+142	sentence	5	solemnize	29.33360101894125	
+142	sentence	6	.	4.931448761001167	
+143	sentence	1	The sales will	20.25669791998152	
+143	sentence	2	double	9.518686629051283	
+143	sentence	3		0.0	
+143	sentence	4	, but not	22.1399330563963	
+143	sentence	5	atomize	22.595462471840715	
+143	sentence	6	.	3.8958425021146	
+144	sentence	1	The sales will	20.25669791998152	
+144	sentence	2	double	9.518686629051283	
+144	sentence	3		0.0	
+144	sentence	4	, but not	22.1399330563963	
+144	sentence	5	ionize	22.074049426555824	
+144	sentence	6	.	4.379755590292112	
+145	sentence	1	The sales will	20.25669791998152	
+145	sentence	2	double	9.518686629051283	
+145	sentence	3		0.0	
+145	sentence	4	, but not	22.1399330563963	
+145	sentence	5	radicalize	18.215493795044182	
+145	sentence	6	.	7.8826383731032985	
+146	sentence	1	The sales will	20.25669791998152	
+146	sentence	2	double	9.518686629051283	
+146	sentence	3		0.0	
+146	sentence	4	, but not	22.1399330563963	
+146	sentence	5	reunify	23.34912622031292	
+146	sentence	6	.	6.905027759775387	
+147	sentence	1	The sales will	20.25669791998152	
+147	sentence	2	double	9.518686629051283	
+147	sentence	3		0.0	
+147	sentence	4	, but not	22.1399330563963	
+147	sentence	5	demobilize	27.582121286153427	
+147	sentence	6	.	4.9565310547683	
+148	sentence	1	The sales will	20.25669791998152	
+148	sentence	2	double	9.518686629051283	
+148	sentence	3		0.0	
+148	sentence	4	, but not	22.1399330563963	
+148	sentence	5	democratize	20.844509554159234	
+148	sentence	6	.	5.829917429950935	
+149	sentence	1	The sales will	20.25669791998152	
+149	sentence	2	double	9.518686629051283	
+149	sentence	3		0.0	
+149	sentence	4	, but not	22.1399330563963	
+149	sentence	5	reclassify	22.218888219553914	
+149	sentence	6	.	4.654495811253639	
+150	sentence	1	The sales will	20.25669791998152	
+150	sentence	2	double	9.518686629051283	
+150	sentence	3		0.0	
+150	sentence	4	, but not	22.1399330563963	
+150	sentence	5	rhapsodize	29.824725038699796	
+150	sentence	6	.	4.888987276399044	
+151	sentence	1	The sales will	20.25669791998152	
+151	sentence	2	double	9.518686629051283	
+151	sentence	3		0.0	
+151	sentence	4	, but not	22.1399330563963	
+151	sentence	5	serialize	22.216208479941187	
+151	sentence	6	.	3.1147110605077923	
+152	sentence	1	The sales will	20.25669791998152	
+152	sentence	2	double	9.518686629051283	
+152	sentence	3		0.0	
+152	sentence	4	, but not	22.1399330563963	
+152	sentence	5	disorganize	28.11414156565968	
+152	sentence	6	.	5.232392602613452	
+153	sentence	1	The sales will	20.25669791998152	
+153	sentence	2	double	9.518686629051283	
+153	sentence	3		0.0	
+153	sentence	4	, but not	22.1399330563963	
+153	sentence	5	sermonize	25.87948752841788	
+153	sentence	6	.	4.335610395538043	
+154	sentence	1	The sales will	20.25669791998152	
+154	sentence	2	double	9.518686629051283	
+154	sentence	3		0.0	
+154	sentence	4	, but not	22.1399330563963	
+154	sentence	5	deodorize	31.86210027088531	
+154	sentence	6	.	4.284213724292995	
+155	sentence	1	The sales will	20.25669791998152	
+155	sentence	2	double	9.518686629051283	
+155	sentence	3		0.0	
+155	sentence	4	, but not	22.1399330563963	
+155	sentence	5	emulsify	23.879016376450167	
+155	sentence	6	.	4.12818212033241	
+156	sentence	1	The sales will	20.25669791998152	
+156	sentence	2	double	9.518686629051283	
+156	sentence	3		0.0	
+156	sentence	4	, but not	22.1399330563963	
+156	sentence	5	overemphasize	19.29773745876775	
+156	sentence	6	.	5.462056514749138	
+157	sentence	1	The sales will	20.25669791998152	
+157	sentence	2	double	9.518686629051283	
+157	sentence	3		0.0	
+157	sentence	4	, but not	22.1399330563963	
+157	sentence	5	aerosolize	28.255630176927404	
+157	sentence	6	.	3.458150783252373	
+158	sentence	1	The sales will	20.25669791998152	
+158	sentence	2	double	9.518686629051283	
+158	sentence	3		0.0	
+158	sentence	4	, but not	22.1399330563963	
+158	sentence	5	apostatize	23.641110883702485	
+158	sentence	6	.	4.100007234537461	
+159	sentence	1	The sales will	20.25669791998152	
+159	sentence	2	double	9.518686629051283	
+159	sentence	3		0.0	
+159	sentence	4	, but not	22.1399330563963	
+159	sentence	5	depolarize	30.983653263205372	
+159	sentence	6	.	5.533541447545566	
+160	sentence	1	The sales will	20.25669791998152	
+160	sentence	2	double	9.518686629051283	
+160	sentence	3		0.0	
+160	sentence	4	, but not	22.1399330563963	
+160	sentence	5	evangelize	21.399516357598124	
+160	sentence	6	.	5.201646232222803	
+161	sentence	1	The sales will	20.25669791998152	
+161	sentence	2	double	9.518686629051283	
+161	sentence	3		0.0	
+161	sentence	4	, but not	22.1399330563963	
+161	sentence	5	anatomize	33.951424109638154	
+161	sentence	6	.	6.261961926489432	
+162	sentence	1	The sales will	20.25669791998152	
+162	sentence	2	double	9.518686629051283	
+162	sentence	3		0.0	
+162	sentence	4	, but not	22.1399330563963	
+162	sentence	5	anthropomorphize	26.81257217740271	
+162	sentence	6	.	6.213953313466381	
+163	sentence	1	The sales will	20.25669791998152	
+163	sentence	2	double	9.518686629051283	
+163	sentence	3		0.0	
+163	sentence	4	, but not	22.1399330563963	
+163	sentence	5	federalize	25.915445145112322	
+163	sentence	6	.	4.613050744118116	
+164	sentence	1	The sales will	20.25669791998152	
+164	sentence	2	double	9.518686629051283	
+164	sentence	3		0.0	
+164	sentence	4	, but not	22.1399330563963	
+164	sentence	5	feminize	23.091738704858148	
+164	sentence	6	.	5.083639992367985	
+165	sentence	1	The sales will	20.25669791998152	
+165	sentence	2	double	9.518686629051283	
+165	sentence	3		0.0	
+165	sentence	4	, but not	22.1399330563963	
+165	sentence	5	fossilize	27.8314096118822	
+165	sentence	6	.	4.482744993004194	
+166	sentence	1	The sales will	20.25669791998152	
+166	sentence	2	double	9.518686629051283	
+166	sentence	3		0.0	
+166	sentence	4	, but not	22.1399330563963	
+166	sentence	5	regularize	22.8865596187605	
+166	sentence	6	.	4.427784841233268	
+167	sentence	1	The sales will	20.25669791998152	
+167	sentence	2	double	9.518686629051283	
+167	sentence	3		0.0	
+167	sentence	4	, but not	22.1399330563963	
+167	sentence	5	ritualize	29.0994204984286	
+167	sentence	6	.	4.621929864416861	
+168	sentence	1	The sales will	20.25669791998152	
+168	sentence	2	double	9.518686629051283	
+168	sentence	3		0.0	
+168	sentence	4	, but not	22.1399330563963	
+168	sentence	5	sentimentalize	28.708053338472176	
+168	sentence	6	.	6.113101999069826	
+169	sentence	1	The sales will	20.25669791998152	
+169	sentence	2	double	9.518686629051283	
+169	sentence	3		0.0	
+169	sentence	4	, but not	22.1399330563963	
+169	sentence	5	exteriorize	36.08745534067762	
+169	sentence	6	.	4.317475168969862	
+170	sentence	1	The sales will	20.25669791998152	
+170	sentence	2	double	9.518686629051283	
+170	sentence	3		0.0	
+170	sentence	4	, but not	22.1399330563963	
+170	sentence	5	fetishize	24.323933172466468	
+170	sentence	6	.	6.106246082675831	
+171	sentence	1	The sales will	20.25669791998152	
+171	sentence	2	double	9.518686629051283	
+171	sentence	3		0.0	
+171	sentence	4	, but not	22.1399330563963	
+171	sentence	5	fictionalize	25.20042452242778	
+171	sentence	6	.	7.639434266865184	
+172	sentence	1	The sales will	20.25669791998152	
+172	sentence	2	double	9.518686629051283	
+172	sentence	3		0.0	
+172	sentence	4	, but not	22.1399330563963	
+172	sentence	5	individualize	26.682529731727257	
+172	sentence	6	.	5.096052324246055	
+173	sentence	1	The sales will	20.25669791998152	
+173	sentence	2	double	9.518686629051283	
+173	sentence	3		0.0	
+173	sentence	4	, but not	22.1399330563963	
+173	sentence	5	internationalize	29.086835495969062	
+173	sentence	6	.	4.303697982774544	
+174	sentence	1	The sales will	20.25669791998152	
+174	sentence	2	double	9.518686629051283	
+174	sentence	3		0.0	
+174	sentence	4	, but not	22.1399330563963	
+174	sentence	5	alkalinize	34.53172883009269	
+174	sentence	6	.	3.974948330136061	
+175	sentence	1	The sales will	20.25669791998152	
+175	sentence	2	double	9.518686629051283	
+175	sentence	3		0.0	
+175	sentence	4	, but not	22.1399330563963	
+175	sentence	5	depersonalize	29.697196151713456	
+175	sentence	6	.	5.429077121619686	
+176	sentence	1	The sales will	20.25669791998152	
+176	sentence	2	double	9.518686629051283	
+176	sentence	3		0.0	
+176	sentence	4	, but not	22.1399330563963	
+176	sentence	5	italicize	24.533104362851606	
+176	sentence	6	.	3.831248570172943	
+177	sentence	1	The sales will	20.25669791998152	
+177	sentence	2	double	9.518686629051283	
+177	sentence	3		0.0	
+177	sentence	4	, but not	22.1399330563963	
+177	sentence	5	randomize	22.718823219547495	
+177	sentence	6	.	4.975894237463642	
+178	sentence	1	The sales will	20.25669791998152	
+178	sentence	2	double	9.518686629051283	
+178	sentence	3		0.0	
+178	sentence	4	, but not	22.1399330563963	
+178	sentence	5	stylize	27.43898579051887	
+178	sentence	6	.	4.836321029225326	
+179	sentence	1	The sales will	20.25669791998152	
+179	sentence	2	double	9.518686629051283	
+179	sentence	3		0.0	
+179	sentence	4	, but not	22.1399330563963	
+179	sentence	5	temporize	29.138158558639542	
+179	sentence	6	.	4.817895151977186	
+180	sentence	1	The sales will	20.25669791998152	
+180	sentence	2	double	9.518686629051283	
+180	sentence	3		0.0	
+180	sentence	4	, but not	22.1399330563963	
+180	sentence	5	ramify	24.515977255587124	
+180	sentence	6	.	5.801346984059003	
+181	sentence	1	The sales will	20.25669791998152	
+181	sentence	2	double	9.518686629051283	
+181	sentence	3		0.0	
+181	sentence	4	, but not	22.1399330563963	
+181	sentence	5	reimpose	24.30094906703986	
+181	sentence	6	.	5.725952197677859	
+182	sentence	1	The sales will	20.25669791998152	
+182	sentence	2	double	9.518686629051283	
+182	sentence	3		0.0	
+182	sentence	4	, but not	22.1399330563963	
+182	sentence	5	sensitize	26.63619210213999	
+182	sentence	6	.	8.068951994297203	
+183	sentence	1	The sales will	20.25669791998152	
+183	sentence	2	double	9.518686629051283	
+183	sentence	3		0.0	
+183	sentence	4	, but not	22.1399330563963	
+183	sentence	5	systematize	33.70731795439626	
+183	sentence	6	.	4.297858139881846	
+184	sentence	1	The sales will	20.25669791998152	
+184	sentence	2	double	9.518686629051283	
+184	sentence	3		0.0	
+184	sentence	4	, but not	22.1399330563963	
+184	sentence	5	denationalize	31.534995933271972	
+184	sentence	6	.	5.554206538907939	
+185	sentence	1	The sales will	20.25669791998152	
+185	sentence	2	double	9.518686629051283	
+185	sentence	3		0.0	
+185	sentence	4	, but not	22.1399330563963	
+185	sentence	5	digitalize	27.48043498523802	
+185	sentence	6	.	5.124501694351781	
+186	sentence	1	The sales will	20.25669791998152	
+186	sentence	2	double	9.518686629051283	
+186	sentence	3		0.0	
+186	sentence	4	, but not	22.1399330563963	
+186	sentence	5	reify	23.92414952554212	
+186	sentence	6	.	5.313000871072851	
+187	sentence	1	The sales will	20.25669791998152	
+187	sentence	2	double	9.518686629051283	
+187	sentence	3		0.0	
+187	sentence	4	, but not	22.1399330563963	
+187	sentence	5	secularize	24.929234711310666	
+187	sentence	6	.	5.770521501648956	
+188	sentence	1	The sales will	20.25669791998152	
+188	sentence	2	double	9.518686629051283	
+188	sentence	3		0.0	
+188	sentence	4	, but not	22.1399330563963	
+188	sentence	5	spiritualize	30.48177164264403	
+188	sentence	6	.	5.473102272483453	
+189	sentence	1	The sales will	20.25669791998152	
+189	sentence	2	double	9.518686629051283	
+189	sentence	3		0.0	
+189	sentence	4	, but not	22.1399330563963	
+189	sentence	5	alkalize	30.761712962932947	
+189	sentence	6	.	3.689244903112634	
+190	sentence	1	The sales will	20.25669791998152	
+190	sentence	2	double	9.518686629051283	
+190	sentence	3		0.0	
+190	sentence	4	, but not	22.1399330563963	
+190	sentence	5	decentralize	21.258184347282928	
+190	sentence	6	.	5.047258094473863	
+191	sentence	1	The sales will	20.25669791998152	
+191	sentence	2	double	9.518686629051283	
+191	sentence	3		0.0	
+191	sentence	4	, but not	22.1399330563963	
+191	sentence	5	decolonize	27.20892836058018	
+191	sentence	6	.	5.671169875967926	
+192	sentence	1	The sales will	20.25669791998152	
+192	sentence	2	double	9.518686629051283	
+192	sentence	3		0.0	
+192	sentence	4	, but not	22.1399330563963	
+192	sentence	5	demilitarize	25.026778055913447	
+192	sentence	6	.	5.736851426193639	
+193	sentence	1	The sales will	20.25669791998152	
+193	sentence	2	double	9.518686629051283	
+193	sentence	3		0.0	
+193	sentence	4	, but not	22.1399330563963	
+193	sentence	5	desexualize	30.4877622928237	
+193	sentence	6	.	4.6818603147977225	
+194	sentence	1	The sales will	20.25669791998152	
+194	sentence	2	double	9.518686629051283	
+194	sentence	3		0.0	
+194	sentence	4	, but not	22.1399330563963	
+194	sentence	5	desynchronize	29.767129725756686	
+194	sentence	6	.	4.460722958526513	
+195	sentence	1	The sales will	20.25669791998152	
+195	sentence	2	double	9.518686629051283	
+195	sentence	3		0.0	
+195	sentence	4	, but not	22.1399330563963	
+195	sentence	5	devitalize	32.13843459903768	
+195	sentence	6	.	7.459972434481653	
+196	sentence	1	The sales will	20.25669791998152	
+196	sentence	2	double	9.518686629051283	
+196	sentence	3		0.0	
+196	sentence	4	, but not	22.1399330563963	
+196	sentence	5	eroticize	25.52051725635243	
+196	sentence	6	.	4.961048695041164	
+197	sentence	1	The sales will	20.25669791998152	
+197	sentence	2	double	9.518686629051283	
+197	sentence	3		0.0	
+197	sentence	4	, but not	22.1399330563963	
+197	sentence	5	officialize	23.958037674998728	
+197	sentence	6	.	6.365557396063153	
+198	sentence	1	The sales will	20.25669791998152	
+198	sentence	2	double	9.518686629051283	
+198	sentence	3		0.0	
+198	sentence	4	, but not	22.1399330563963	
+198	sentence	5	quantize	27.424475270300277	
+198	sentence	6	.	4.315420320257354	
+199	sentence	1	The sales will	20.25669791998152	
+199	sentence	2	double	9.518686629051283	
+199	sentence	3		0.0	
+199	sentence	4	, but not	22.1399330563963	
+199	sentence	5	reharmonize	31.54016163104557	
+199	sentence	6	.	4.431451167384361	
+200	sentence	1	The sales will	20.25669791998152	
+200	sentence	2	double	9.518686629051283	
+200	sentence	3		0.0	
+200	sentence	4	, but not	22.1399330563963	
+200	sentence	5	remilitarize	25.67968579161801	
+200	sentence	6	.	5.617510600968125	
+201	sentence	1	The sales will	20.25669791998152	
+201	sentence	2	double	9.518686629051283	
+201	sentence	3		0.0	
+201	sentence	4	, but not	22.1399330563963	
+201	sentence	5	solarize	31.212292029754927	
+201	sentence	6	.	4.689986151085688	
+202	sentence	1	The sales will	20.25669791998152	
+202	sentence	2	double	9.518686629051283	
+202	sentence	3		0.0	
+202	sentence	4	, but not	22.1399330563963	
+202	sentence	5	syncretize	32.172152829635245	
+202	sentence	6	.	4.0661809988351605	
+203	sentence	1	The sales will	20.25669791998152	
+203	sentence	2	double	9.518686629051283	
+203	sentence	3		0.0	
+203	sentence	4	, but not	22.1399330563963	
+203	sentence	5	totalize	23.721430135317107	
+203	sentence	6	.	3.8780402339584894	
+204	sentence	1	The sales will	20.25669791998152	
+204	sentence	2	double	9.518686629051283	
+204	sentence	3		0.0	
+204	sentence	4	, but not	22.1399330563963	
+204	sentence	5	alchemize	32.26306337482928	
+204	sentence	6	.	3.8515101902363926	
+205	sentence	1	The sales will	20.25669791998152	
+205	sentence	2	double	9.518686629051283	
+205	sentence	3		0.0	
+205	sentence	4	, but not	22.1399330563963	
+205	sentence	5	aluminize	32.682510486157376	
+205	sentence	6	.	3.986911443330078	
+206	sentence	1	The sales will	20.25669791998152	
+206	sentence	2	double	9.518686629051283	
+206	sentence	3		0.0	
+206	sentence	4	, but not	22.1399330563963	
+206	sentence	5	analogize	30.585050664140166	
+206	sentence	6	.	5.468687821801106	
+207	sentence	1	The sales will	20.25669791998152	
+207	sentence	2	double	9.518686629051283	
+207	sentence	3		0.0	
+207	sentence	4	, but not	22.1399330563963	
+207	sentence	5	attitudinize	44.7190086772975	
+207	sentence	6	.	5.130167834767107	
+208	sentence	1	The sales will	20.25669791998152	
+208	sentence	2	double	9.518686629051283	
+208	sentence	3		0.0	
+208	sentence	4	, but not	22.1399330563963	
+208	sentence	5	deionize	29.60700940625449	
+208	sentence	6	.	4.3262731134573995	
+209	sentence	1	The sales will	20.25669791998152	
+209	sentence	2	double	9.518686629051283	
+209	sentence	3		0.0	
+209	sentence	4	, but not	22.1399330563963	
+209	sentence	5	demythologize	33.7490955929829	
+209	sentence	6	.	4.630389347047501	
+210	sentence	1	The sales will	20.25669791998152	
+210	sentence	2	double	9.518686629051283	
+210	sentence	3		0.0	
+210	sentence	4	, but not	22.1399330563963	
+210	sentence	5	deoxidize	39.02633972309751	
+210	sentence	6	.	3.6450168127208493	
+211	sentence	1	The sales will	20.25669791998152	
+211	sentence	2	double	9.518686629051283	
+211	sentence	3		0.0	
+211	sentence	4	, but not	22.1399330563963	
+211	sentence	5	dichotomize	28.879982029778276	
+211	sentence	6	.	4.586474609045588	
+212	sentence	1	The sales will	20.25669791998152	
+212	sentence	2	double	9.518686629051283	
+212	sentence	3		0.0	
+212	sentence	4	, but not	22.1399330563963	
+212	sentence	5	dogmatize	29.540530372476727	
+212	sentence	6	.	5.212225229042676	
+213	sentence	1	The sales will	20.25669791998152	
+213	sentence	2	double	9.518686629051283	
+213	sentence	3		0.0	
+213	sentence	4	, but not	22.1399330563963	
+213	sentence	5	factorize	32.266170069434466	
+213	sentence	6	.	4.532435596352683	
+214	sentence	1	The sales will	20.25669791998152	
+214	sentence	2	double	9.518686629051283	
+214	sentence	3		0.0	
+214	sentence	4	, but not	22.1399330563963	
+214	sentence	5	iodize	28.776973322013635	
+214	sentence	6	.	3.7736006735343333	
+215	sentence	1	The sales will	20.25669791998152	
+215	sentence	2	double	9.518686629051283	
+215	sentence	3		0.0	
+215	sentence	4	, but not	22.1399330563963	
+215	sentence	5	overcapitalize	24.93598739511848	
+215	sentence	6	.	5.0543675132952295	
+216	sentence	1	The sales will	20.25669791998152	
+216	sentence	2	double	9.518686629051283	
+216	sentence	3		0.0	
+216	sentence	4	, but not	22.1399330563963	
+216	sentence	5	overspecialize	30.16167478113576	
+216	sentence	6	.	5.1406625600880576	
+217	sentence	1	The sales will	20.25669791998152	
+217	sentence	2	double	9.518686629051283	
+217	sentence	3		0.0	
+217	sentence	4	, but not	22.1399330563963	
+217	sentence	5	relativize	21.275352848621694	
+217	sentence	6	.	4.855570015440495	
+218	sentence	1	The sales will	20.25669791998152	
+218	sentence	2	double	9.518686629051283	
+218	sentence	3		0.0	
+218	sentence	4	, but not	22.1399330563963	
+218	sentence	5	schematize	33.74206085762766	
+218	sentence	6	.	4.12237770586579	
+219	sentence	1	The sales will	20.25669791998152	
+219	sentence	2	double	9.518686629051283	
+219	sentence	3		0.0	
+219	sentence	4	, but not	22.1399330563963	
+219	sentence	5	sensualize	28.521563435061136	
+219	sentence	6	.	6.045911817030744	
+220	sentence	1	The sales will	20.25669791998152	
+220	sentence	2	double	9.518686629051283	
+220	sentence	3		0.0	
+220	sentence	4	, but not	22.1399330563963	
+220	sentence	5	signalize	39.238818655806696	
+220	sentence	6	.	5.073889263994667	
+221	sentence	1	The sales will	20.25669791998152	
+221	sentence	2	double	9.518686629051283	
+221	sentence	3		0.0	
+221	sentence	4	, but not	22.1399330563963	
+221	sentence	5	singularize	27.94248563883785	
+221	sentence	6	.	4.650400560371294	
+222	sentence	1	The sales will	20.25669791998152	
+222	sentence	2	double	9.518686629051283	
+222	sentence	3		0.0	
+222	sentence	4	, but not	22.1399330563963	
+222	sentence	5	steepen	21.723363214817134	
+222	sentence	6	.	4.815088395115105	
+223	sentence	1	The sales will	20.25669791998152	
+223	sentence	2	double	9.518686629051283	
+223	sentence	3		0.0	
+223	sentence	4	, but not	22.1399330563963	
+223	sentence	5	subtilize	28.648118244559743	
+223	sentence	6	.	3.9159637843349455	
+224	sentence	1	The sales will	20.25669791998152	
+224	sentence	2	double	9.518686629051283	
+224	sentence	3		0.0	
+224	sentence	4	, but not	22.1399330563963	
+224	sentence	5	syllogize	34.73155306437309	
+224	sentence	6	.	4.037950390661332	
+225	sentence	1	The sales will	20.25669791998152	
+225	sentence	2	double	9.518686629051283	
+225	sentence	3		0.0	
+225	sentence	4	, but not	22.1399330563963	
+225	sentence	5	complete	11.12027300141938	
+225	sentence	6	.	3.9487787620501726	
+226	sentence	1	The sales will	20.25669791998152	
+226	sentence	2	double	9.518686629051283	
+226	sentence	3		0.0	
+226	sentence	4	, but not	22.1399330563963	
+226	sentence	5	loathe	22.18955383478854	
+226	sentence	6	.	5.977585861565364	
+227	sentence	1	The sales will	20.25669791998152	
+227	sentence	2	double	9.518686629051283	
+227	sentence	3		0.0	
+227	sentence	4	, but not	22.1399330563963	
+227	sentence	5	triple	7.559015867252338	
+227	sentence	6	.	3.9689279054599576	
+228	sentence	1	The sales will	20.25669791998152	
+228	sentence	2	double	9.518686629051283	
+228	sentence	3		0.0	
+228	sentence	4	, but not	22.1399330563963	
+228	sentence	5	love	17.43085304744652	
+228	sentence	6	.	4.792991032236347	
+229	sentence	1	The sales will	20.25669791998152	
+229	sentence	2	double	9.518686629051283	
+229	sentence	3		0.0	
+229	sentence	4	, but not	22.1399330563963	
+229	sentence	5	exceed	7.8301375732397105	
+229	sentence	6	.	4.935132973347949	
+230	sentence	1	The sales will	20.25669791998152	
+230	sentence	2	double	9.518686629051283	
+230	sentence	3		0.0	
+230	sentence	4	, but not	22.1399330563963	
+230	sentence	5	require	14.240396011984522	
+230	sentence	6	.	10.31899138450688	
+231	sentence	1	The sales will	20.25669791998152	
+231	sentence	2	double	9.518686629051283	
+231	sentence	3		0.0	
+231	sentence	4	, but not	22.1399330563963	
+231	sentence	5	eliminate	9.123799328196998	
+231	sentence	6	.	5.265387818146784	
+232	sentence	1	The sales will	20.25669791998152	
+232	sentence	2	double	9.518686629051283	
+232	sentence	3		0.0	
+232	sentence	4	, but not	22.1399330563963	
+232	sentence	5	stop	9.964219380931647	
+232	sentence	6	.	5.052832396153628	
+233	sentence	1	The sales will	20.25669791998152	
+233	sentence	2	double	9.518686629051283	
+233	sentence	3		0.0	
+233	sentence	4	, but not	22.1399330563963	
+233	sentence	5	finish	16.732575967719377	
+233	sentence	6	.	4.7550578508314425	
+234	sentence	1	The sales will	20.25669791998152	
+234	sentence	2	double	9.518686629051283	
+234	sentence	3		0.0	
+234	sentence	4	, but not	22.1399330563963	
+234	sentence	5	thrive	17.22365935657666	
+234	sentence	6	.	5.08061516150461	
+235	sentence	1	The sales will	20.25669791998152	
+235	sentence	2	double	9.518686629051283	
+235	sentence	3		0.0	
+235	sentence	4	, but not	22.1399330563963	
+235	sentence	5	encourage	15.951879298253951	
+235	sentence	6	.	8.944202661415192	
+236	sentence	1	The sales will	20.25669791998152	
+236	sentence	2	double	9.518686629051283	
+236	sentence	3		0.0	
+236	sentence	4	, but not	22.1399330563963	
+236	sentence	5	need	14.981005589325639	
+236	sentence	6	.	8.240367102412165	

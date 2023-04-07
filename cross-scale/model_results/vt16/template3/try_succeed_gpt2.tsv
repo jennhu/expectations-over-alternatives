@@ -1,0 +1,1381 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	The scientist	14.859416606888047	
+1	sentence	2	tried	10.167826889565713	
+1	sentence	3		0.0	
+1	sentence	4	, but did not	24.577638625357594	
+1	sentence	5	have	5.810660188568526	
+1	sentence	6	.	9.100236329167586	
+2	sentence	1	The scientist	14.859416606888047	
+2	sentence	2	tried	10.167826889565713	
+2	sentence	3		0.0	
+2	sentence	4	, but did not	24.577638625357594	
+2	sentence	5	know	6.73750633887596	
+2	sentence	6	.	6.681281082725287	
+3	sentence	1	The scientist	14.859416606888047	
+3	sentence	2	tried	10.167826889565713	
+3	sentence	3		0.0	
+3	sentence	4	, but did not	24.577638625357594	
+3	sentence	5	get	3.8509058432012604	
+3	sentence	6	.	8.616680276973266	
+4	sentence	1	The scientist	14.859416606888047	
+4	sentence	2	tried	10.167826889565713	
+4	sentence	3		0.0	
+4	sentence	4	, but did not	24.577638625357594	
+4	sentence	5	go	7.196537665057244	
+4	sentence	6	.	9.504412756960274	
+5	sentence	1	The scientist	14.859416606888047	
+5	sentence	2	tried	10.167826889565713	
+5	sentence	3		0.0	
+5	sentence	4	, but did not	24.577638625357594	
+5	sentence	5	come	6.964534444904523	
+5	sentence	6	.	11.509193192219326	
+6	sentence	1	The scientist	14.859416606888047	
+6	sentence	2	tried	10.167826889565713	
+6	sentence	3		0.0	
+6	sentence	4	, but did not	24.577638625357594	
+6	sentence	5	see	5.154759977979282	
+6	sentence	6	.	7.859102203367422	
+7	sentence	1	The scientist	14.859416606888047	
+7	sentence	2	tried	10.167826889565713	
+7	sentence	3		0.0	
+7	sentence	4	, but did not	24.577638625357594	
+7	sentence	5	let	9.864673758820445	
+7	sentence	6	.	13.795366825305884	
+8	sentence	1	The scientist	14.859416606888047	
+8	sentence	2	tried	10.167826889565713	
+8	sentence	3		0.0	
+8	sentence	4	, but did not	24.577638625357594	
+8	sentence	5	take	7.879074892577421	
+8	sentence	6	.	8.222998230536229	
+9	sentence	1	The scientist	14.859416606888047	
+9	sentence	2	tried	10.167826889565713	
+9	sentence	3		0.0	
+9	sentence	4	, but did not	24.577638625357594	
+9	sentence	5	say	10.790309151265804	
+9	sentence	6	.	5.584008036614748	
+10	sentence	1	The scientist	14.859416606888047	
+10	sentence	2	tried	10.167826889565713	
+10	sentence	3		0.0	
+10	sentence	4	, but did not	24.577638625357594	
+10	sentence	5	make	6.292805983025771	
+10	sentence	6	.	10.60508796387018	
+11	sentence	1	The scientist	14.859416606888047	
+11	sentence	2	tried	10.167826889565713	
+11	sentence	3		0.0	
+11	sentence	4	, but did not	24.577638625357594	
+11	sentence	5	give	8.55124363004238	
+11	sentence	6	.	12.066536680939828	
+12	sentence	1	The scientist	14.859416606888047	
+12	sentence	2	tried	10.167826889565713	
+12	sentence	3		0.0	
+12	sentence	4	, but did not	24.577638625357594	
+12	sentence	5	find	4.430550666224443	
+12	sentence	6	.	7.780643030113205	
+13	sentence	1	The scientist	14.859416606888047	
+13	sentence	2	tried	10.167826889565713	
+13	sentence	3		0.0	
+13	sentence	4	, but did not	24.577638625357594	
+13	sentence	5	keep	10.569356848326922	
+13	sentence	6	.	8.277209225879997	
+14	sentence	1	The scientist	14.859416606888047	
+14	sentence	2	tried	10.167826889565713	
+14	sentence	3		0.0	
+14	sentence	4	, but did not	24.577638625357594	
+14	sentence	5	leave	11.141649069060419	
+14	sentence	6	.	7.154086843379476	
+15	sentence	1	The scientist	14.859416606888047	
+15	sentence	2	tried	10.167826889565713	
+15	sentence	3		0.0	
+15	sentence	4	, but did not	24.577638625357594	
+15	sentence	5	believe	7.748665263942378	
+15	sentence	6	.	8.609148812726682	
+16	sentence	1	The scientist	14.859416606888047	
+16	sentence	2	tried	10.167826889565713	
+16	sentence	3		0.0	
+16	sentence	4	, but did not	24.577638625357594	
+16	sentence	5	remember	12.106843910857242	
+16	sentence	6	.	5.8364582741285504	
+17	sentence	1	The scientist	14.859416606888047	
+17	sentence	2	tried	10.167826889565713	
+17	sentence	3		0.0	
+17	sentence	4	, but did not	24.577638625357594	
+17	sentence	5	run	9.335924793562997	
+17	sentence	6	.	6.736443486093628	
+18	sentence	1	The scientist	14.859416606888047	
+18	sentence	2	tried	10.167826889565713	
+18	sentence	3		0.0	
+18	sentence	4	, but did not	24.577638625357594	
+18	sentence	5	happen	10.392542172905472	
+18	sentence	6	.	5.867353237529545	
+19	sentence	1	The scientist	14.859416606888047	
+19	sentence	2	tried	10.167826889565713	
+19	sentence	3		0.0	
+19	sentence	4	, but did not	24.577638625357594	
+19	sentence	5	buy	10.25213828846349	
+19	sentence	6	.	6.18716529576799	
+20	sentence	1	The scientist	14.859416606888047	
+20	sentence	2	tried	10.167826889565713	
+20	sentence	3		0.0	
+20	sentence	4	, but did not	24.577638625357594	
+20	sentence	5	save	9.725986949164675	
+20	sentence	6	.	7.871912159134287	
+21	sentence	1	The scientist	14.859416606888047	
+21	sentence	2	tried	10.167826889565713	
+21	sentence	3		0.0	
+21	sentence	4	, but did not	24.577638625357594	
+21	sentence	5	lose	9.756387978392391	
+21	sentence	6	.	8.21330116074998	
+22	sentence	1	The scientist	14.859416606888047	
+22	sentence	2	tried	10.167826889565713	
+22	sentence	3		0.0	
+22	sentence	4	, but did not	24.577638625357594	
+22	sentence	5	follow	8.344270076965628	
+22	sentence	6	.	7.7312000817819575	
+23	sentence	1	The scientist	14.859416606888047	
+23	sentence	2	tried	10.167826889565713	
+23	sentence	3		0.0	
+23	sentence	4	, but did not	24.577638625357594	
+23	sentence	5	expect	9.29548548096972	
+23	sentence	6	.	8.095413244958955	
+24	sentence	1	The scientist	14.859416606888047	
+24	sentence	2	tried	10.167826889565713	
+24	sentence	3		0.0	
+24	sentence	4	, but did not	24.577638625357594	
+24	sentence	5	realize	8.332602773931097	
+24	sentence	6	.	7.3443629448492596	
+25	sentence	1	The scientist	14.859416606888047	
+25	sentence	2	tried	10.167826889565713	
+25	sentence	3		0.0	
+25	sentence	4	, but did not	24.577638625357594	
+25	sentence	5	slow	15.66501911592082	
+25	sentence	6	.	10.281089159979132	
+26	sentence	1	The scientist	14.859416606888047	
+26	sentence	2	tried	10.167826889565713	
+26	sentence	3		0.0	
+26	sentence	4	, but did not	24.577638625357594	
+26	sentence	5	allow	10.354150141788066	
+26	sentence	6	.	9.086334627533045	
+27	sentence	1	The scientist	14.859416606888047	
+27	sentence	2	tried	10.167826889565713	
+27	sentence	3		0.0	
+27	sentence	4	, but did not	24.577638625357594	
+27	sentence	5	consider	10.342416797415602	
+27	sentence	6	.	6.381167229386065	
+28	sentence	1	The scientist	14.859416606888047	
+28	sentence	2	tried	10.167826889565713	
+28	sentence	3		0.0	
+28	sentence	4	, but did not	24.577638625357594	
+28	sentence	5	apologize	16.47688729688983	
+28	sentence	6	.	4.355277643560111	
+29	sentence	1	The scientist	14.859416606888047	
+29	sentence	2	tried	10.167826889565713	
+29	sentence	3		0.0	
+29	sentence	4	, but did not	24.577638625357594	
+29	sentence	5	recognize	10.959264907473427	
+29	sentence	6	.	7.174334704830856	
+30	sentence	1	The scientist	14.859416606888047	
+30	sentence	2	tried	10.167826889565713	
+30	sentence	3		0.0	
+30	sentence	4	, but did not	24.577638625357594	
+30	sentence	5	settle	13.590000278118794	
+30	sentence	6	.	5.532887913472288	
+31	sentence	1	The scientist	14.859416606888047	
+31	sentence	2	tried	10.167826889565713	
+31	sentence	3		0.0	
+31	sentence	4	, but did not	24.577638625357594	
+31	sentence	5	add	11.954574599366932	
+31	sentence	6	.	5.950210351131625	
+32	sentence	1	The scientist	14.859416606888047	
+32	sentence	2	tried	10.167826889565713	
+32	sentence	3		0.0	
+32	sentence	4	, but did not	24.577638625357594	
+32	sentence	5	assume	16.61601438213181	
+32	sentence	6	.	6.071090077117059	
+33	sentence	1	The scientist	14.859416606888047	
+33	sentence	2	tried	10.167826889565713	
+33	sentence	3		0.0	
+33	sentence	4	, but did not	24.577638625357594	
+33	sentence	5	appear	10.674472644534271	
+33	sentence	6	.	8.30811588410125	
+34	sentence	1	The scientist	14.859416606888047	
+34	sentence	2	tried	10.167826889565713	
+34	sentence	3		0.0	
+34	sentence	4	, but did not	24.577638625357594	
+34	sentence	5	remove	10.952440635887191	
+34	sentence	6	.	6.639287734898813	
+35	sentence	1	The scientist	14.859416606888047	
+35	sentence	2	tried	10.167826889565713	
+35	sentence	3		0.0	
+35	sentence	4	, but did not	24.577638625357594	
+35	sentence	5	identify	12.305166048664992	
+35	sentence	6	.	8.47489433994895	
+36	sentence	1	The scientist	14.859416606888047	
+36	sentence	2	tried	10.167826889565713	
+36	sentence	3		0.0	
+36	sentence	4	, but did not	24.577638625357594	
+36	sentence	5	replace	13.750106495043621	
+36	sentence	6	.	6.336333416097942	
+37	sentence	1	The scientist	14.859416606888047	
+37	sentence	2	tried	10.167826889565713	
+37	sentence	3		0.0	
+37	sentence	4	, but did not	24.577638625357594	
+37	sentence	5	apply	10.346555387925966	
+37	sentence	6	.	4.985575484846011	
+38	sentence	1	The scientist	14.859416606888047	
+38	sentence	2	tried	10.167826889565713	
+38	sentence	3		0.0	
+38	sentence	4	, but did not	24.577638625357594	
+38	sentence	5	succeed	1.229967206288318	
+38	sentence	6	.	4.416496931926538	
+39	sentence	1	The scientist	14.859416606888047	
+39	sentence	2	tried	10.167826889565713	
+39	sentence	3		0.0	
+39	sentence	4	, but did not	24.577638625357594	
+39	sentence	5	develop	11.452703770716928	
+39	sentence	6	.	6.178234580673985	
+40	sentence	1	The scientist	14.859416606888047	
+40	sentence	2	tried	10.167826889565713	
+40	sentence	3		0.0	
+40	sentence	4	, but did not	24.577638625357594	
+40	sentence	5	approve	12.470027241920873	
+40	sentence	6	.	5.082145119166685	
+41	sentence	1	The scientist	14.859416606888047	
+41	sentence	2	tried	10.167826889565713	
+41	sentence	3		0.0	
+41	sentence	4	, but did not	24.577638625357594	
+41	sentence	5	expose	15.802891415742105	
+41	sentence	6	.	7.742273012775109	
+42	sentence	1	The scientist	14.859416606888047	
+42	sentence	2	tried	10.167826889565713	
+42	sentence	3		0.0	
+42	sentence	4	, but did not	24.577638625357594	
+42	sentence	5	establish	13.751339266685005	
+42	sentence	6	.	5.447731391828171	
+43	sentence	1	The scientist	14.859416606888047	
+43	sentence	2	tried	10.167826889565713	
+43	sentence	3		0.0	
+43	sentence	4	, but did not	24.577638625357594	
+43	sentence	5	reduce	13.222105998282728	
+43	sentence	6	.	8.30036428206156	
+44	sentence	1	The scientist	14.859416606888047	
+44	sentence	2	tried	10.167826889565713	
+44	sentence	3		0.0	
+44	sentence	4	, but did not	24.577638625357594	
+44	sentence	5	participate	12.644024153590587	
+44	sentence	6	.	6.139700835852268	
+45	sentence	1	The scientist	14.859416606888047	
+45	sentence	2	tried	10.167826889565713	
+45	sentence	3		0.0	
+45	sentence	4	, but did not	24.577638625357594	
+45	sentence	5	organize	17.753290248867735	
+45	sentence	6	.	6.647271857482468	
+46	sentence	1	The scientist	14.859416606888047	
+46	sentence	2	tried	10.167826889565713	
+46	sentence	3		0.0	
+46	sentence	4	, but did not	24.577638625357594	
+46	sentence	5	obtain	8.703645024208553	
+46	sentence	6	.	7.638982296458717	
+47	sentence	1	The scientist	14.859416606888047	
+47	sentence	2	tried	10.167826889565713	
+47	sentence	3		0.0	
+47	sentence	4	, but did not	24.577638625357594	
+47	sentence	5	kitten	26.671908771140576	
+47	sentence	6	.	6.965721125195476	
+48	sentence	1	The scientist	14.859416606888047	
+48	sentence	2	tried	10.167826889565713	
+48	sentence	3		0.0	
+48	sentence	4	, but did not	24.577638625357594	
+48	sentence	5	acquire	13.200972770144707	
+48	sentence	6	.	6.10659073590816	
+49	sentence	1	The scientist	14.859416606888047	
+49	sentence	2	tried	10.167826889565713	
+49	sentence	3		0.0	
+49	sentence	4	, but did not	24.577638625357594	
+49	sentence	5	qualify	13.131123048392682	
+49	sentence	6	.	4.564000260196138	
+50	sentence	1	The scientist	14.859416606888047	
+50	sentence	2	tried	10.167826889565713	
+50	sentence	3		0.0	
+50	sentence	4	, but did not	24.577638625357594	
+50	sentence	5	criticize	18.320805479490865	
+50	sentence	6	.	7.470129041911007	
+51	sentence	1	The scientist	14.859416606888047	
+51	sentence	2	tried	10.167826889565713	
+51	sentence	3		0.0	
+51	sentence	4	, but did not	24.577638625357594	
+51	sentence	5	rave	20.017957795429197	
+51	sentence	6	.	6.755087781308363	
+52	sentence	1	The scientist	14.859416606888047	
+52	sentence	2	tried	10.167826889565713	
+52	sentence	3		0.0	
+52	sentence	4	, but did not	24.577638625357594	
+52	sentence	5	enlighten	17.80188377874926	
+52	sentence	6	.	8.5767417778593	
+53	sentence	1	The scientist	14.859416606888047	
+53	sentence	2	tried	10.167826889565713	
+53	sentence	3		0.0	
+53	sentence	4	, but did not	24.577638625357594	
+53	sentence	5	disclose	13.626168917525845	
+53	sentence	6	.	5.94228195092685	
+54	sentence	1	The scientist	14.859416606888047	
+54	sentence	2	tried	10.167826889565713	
+54	sentence	3		0.0	
+54	sentence	4	, but did not	24.577638625357594	
+54	sentence	5	reopen	17.444657062935374	
+54	sentence	6	.	7.822555890059075	
+55	sentence	1	The scientist	14.859416606888047	
+55	sentence	2	tried	10.167826889565713	
+55	sentence	3		0.0	
+55	sentence	4	, but did not	24.577638625357594	
+55	sentence	5	stabilize	14.88207704096573	
+55	sentence	6	.	5.19103352680336	
+56	sentence	1	The scientist	14.859416606888047	
+56	sentence	2	tried	10.167826889565713	
+56	sentence	3		0.0	
+56	sentence	4	, but did not	24.577638625357594	
+56	sentence	5	soar	19.59478691574462	
+56	sentence	6	.	8.06028819627734	
+57	sentence	1	The scientist	14.859416606888047	
+57	sentence	2	tried	10.167826889565713	
+57	sentence	3		0.0	
+57	sentence	4	, but did not	24.577638625357594	
+57	sentence	5	authorize	16.153614947716026	
+57	sentence	6	.	7.578000000185178	
+58	sentence	1	The scientist	14.859416606888047	
+58	sentence	2	tried	10.167826889565713	
+58	sentence	3		0.0	
+58	sentence	4	, but did not	24.577638625357594	
+58	sentence	5	sympathize	21.399338441545805	
+58	sentence	6	.	6.54322648129409	
+59	sentence	1	The scientist	14.859416606888047	
+59	sentence	2	tried	10.167826889565713	
+59	sentence	3		0.0	
+59	sentence	4	, but did not	24.577638625357594	
+59	sentence	5	sharpen	19.435318118924855	
+59	sentence	6	.	8.31288599490558	
+60	sentence	1	The scientist	14.859416606888047	
+60	sentence	2	tried	10.167826889565713	
+60	sentence	3		0.0	
+60	sentence	4	, but did not	24.577638625357594	
+60	sentence	5	specialize	19.8307085886146	
+60	sentence	6	.	6.3590344380812285	
+61	sentence	1	The scientist	14.859416606888047	
+61	sentence	2	tried	10.167826889565713	
+61	sentence	3		0.0	
+61	sentence	4	, but did not	24.577638625357594	
+61	sentence	5	minimize	19.644516043206902	
+61	sentence	6	.	6.253991562517846	
+62	sentence	1	The scientist	14.859416606888047	
+62	sentence	2	tried	10.167826889565713	
+62	sentence	3		0.0	
+62	sentence	4	, but did not	24.577638625357594	
+62	sentence	5	socialize	19.923599557028982	
+62	sentence	6	.	6.094946822514145	
+63	sentence	1	The scientist	14.859416606888047	
+63	sentence	2	tried	10.167826889565713	
+63	sentence	3		0.0	
+63	sentence	4	, but did not	24.577638625357594	
+63	sentence	5	utilize	15.854865948694052	
+63	sentence	6	.	5.605911403063335	
+64	sentence	1	The scientist	14.859416606888047	
+64	sentence	2	tried	10.167826889565713	
+64	sentence	3		0.0	
+64	sentence	4	, but did not	24.577638625357594	
+64	sentence	5	rectify	17.498903913974615	
+64	sentence	6	.	6.732343419697059	
+65	sentence	1	The scientist	14.859416606888047	
+65	sentence	2	tried	10.167826889565713	
+65	sentence	3		0.0	
+65	sentence	4	, but did not	24.577638625357594	
+65	sentence	5	terrorize	22.537338849691988	
+65	sentence	6	.	7.787009139917543	
+66	sentence	1	The scientist	14.859416606888047	
+66	sentence	2	tried	10.167826889565713	
+66	sentence	3		0.0	
+66	sentence	4	, but did not	24.577638625357594	
+66	sentence	5	enslave	21.116359206275902	
+66	sentence	6	.	7.412455003909466	
+67	sentence	1	The scientist	14.859416606888047	
+67	sentence	2	tried	10.167826889565713	
+67	sentence	3		0.0	
+67	sentence	4	, but did not	24.577638625357594	
+67	sentence	5	finalize	13.773393483416228	
+67	sentence	6	.	5.635075877031348	
+68	sentence	1	The scientist	14.859416606888047	
+68	sentence	2	tried	10.167826889565713	
+68	sentence	3		0.0	
+68	sentence	4	, but did not	24.577638625357594	
+68	sentence	5	maximize	17.71155212329514	
+68	sentence	6	.	5.836336510411739	
+69	sentence	1	The scientist	14.859416606888047	
+69	sentence	2	tried	10.167826889565713	
+69	sentence	3		0.0	
+69	sentence	4	, but did not	24.577638625357594	
+69	sentence	5	summarize	19.83630008855945	
+69	sentence	6	.	5.812559564964654	
+70	sentence	1	The scientist	14.859416606888047	
+70	sentence	2	tried	10.167826889565713	
+70	sentence	3		0.0	
+70	sentence	4	, but did not	24.577638625357594	
+70	sentence	5	repose	20.851656766168126	
+70	sentence	6	.	5.063188503457983	
+71	sentence	1	The scientist	14.859416606888047	
+71	sentence	2	tried	10.167826889565713	
+71	sentence	3		0.0	
+71	sentence	4	, but did not	24.577638625357594	
+71	sentence	5	symbolize	21.916271682741026	
+71	sentence	6	.	6.439552587631575	
+72	sentence	1	The scientist	14.859416606888047	
+72	sentence	2	tried	10.167826889565713	
+72	sentence	3		0.0	
+72	sentence	4	, but did not	24.577638625357594	
+72	sentence	5	sterilize	17.30038213924319	
+72	sentence	6	.	6.621693909715548	
+73	sentence	1	The scientist	14.859416606888047	
+73	sentence	2	tried	10.167826889565713	
+73	sentence	3		0.0	
+73	sentence	4	, but did not	24.577638625357594	
+73	sentence	5	revolutionize	21.283558001158454	
+73	sentence	6	.	9.09289542169816	
+74	sentence	1	The scientist	14.859416606888047	
+74	sentence	2	tried	10.167826889565713	
+74	sentence	3		0.0	
+74	sentence	4	, but did not	24.577638625357594	
+74	sentence	5	synchronize	18.273415294582485	
+74	sentence	6	.	5.753251691779917	
+75	sentence	1	The scientist	14.859416606888047	
+75	sentence	2	tried	10.167826889565713	
+75	sentence	3		0.0	
+75	sentence	4	, but did not	24.577638625357594	
+75	sentence	5	fertilize	18.85219324980291	
+75	sentence	6	.	6.873300400344216	
+76	sentence	1	The scientist	14.859416606888047	
+76	sentence	2	tried	10.167826889565713	
+76	sentence	3		0.0	
+76	sentence	4	, but did not	24.577638625357594	
+76	sentence	5	rationalize	18.576791938280383	
+76	sentence	6	.	5.093598475783545	
+77	sentence	1	The scientist	14.859416606888047	
+77	sentence	2	tried	10.167826889565713	
+77	sentence	3		0.0	
+77	sentence	4	, but did not	24.577638625357594	
+77	sentence	5	antagonize	18.958189156477133	
+77	sentence	6	.	7.537196084372072	
+78	sentence	1	The scientist	14.859416606888047	
+78	sentence	2	tried	10.167826889565713	
+78	sentence	3		0.0	
+78	sentence	4	, but did not	24.577638625357594	
+78	sentence	5	kindle	17.82949171987275	
+78	sentence	6	.	6.452538653632924	
+79	sentence	1	The scientist	14.859416606888047	
+79	sentence	2	tried	10.167826889565713	
+79	sentence	3		0.0	
+79	sentence	4	, but did not	24.577638625357594	
+79	sentence	5	familiarize	19.285293752064447	
+79	sentence	6	.	14.62675297335601	
+80	sentence	1	The scientist	14.859416606888047	
+80	sentence	2	tried	10.167826889565713	
+80	sentence	3		0.0	
+80	sentence	4	, but did not	24.577638625357594	
+80	sentence	5	synthesize	16.720119264317386	
+80	sentence	6	.	5.363108360367032	
+81	sentence	1	The scientist	14.859416606888047	
+81	sentence	2	tried	10.167826889565713	
+81	sentence	3		0.0	
+81	sentence	4	, but did not	24.577638625357594	
+81	sentence	5	reorganize	23.23738582437699	
+81	sentence	6	.	5.905605618734451	
+82	sentence	1	The scientist	14.859416606888047	
+82	sentence	2	tried	10.167826889565713	
+82	sentence	3		0.0	
+82	sentence	4	, but did not	24.577638625357594	
+82	sentence	5	ripen	26.20417512282563	
+82	sentence	6	.	5.867997828504979	
+83	sentence	1	The scientist	14.859416606888047	
+83	sentence	2	tried	10.167826889565713	
+83	sentence	3		0.0	
+83	sentence	4	, but did not	24.577638625357594	
+83	sentence	5	deepen	20.00061093733257	
+83	sentence	6	.	7.609574639022383	
+84	sentence	1	The scientist	14.859416606888047	
+84	sentence	2	tried	10.167826889565713	
+84	sentence	3		0.0	
+84	sentence	4	, but did not	24.577638625357594	
+84	sentence	5	destabilize	21.889678994338354	
+84	sentence	6	.	7.273250182509298	
+85	sentence	1	The scientist	14.859416606888047	
+85	sentence	2	tried	10.167826889565713	
+85	sentence	3		0.0	
+85	sentence	4	, but did not	24.577638625357594	
+85	sentence	5	enclose	19.98706426163399	
+85	sentence	6	.	5.246432578299288	
+86	sentence	1	The scientist	14.859416606888047	
+86	sentence	2	tried	10.167826889565713	
+86	sentence	3		0.0	
+86	sentence	4	, but did not	24.577638625357594	
+86	sentence	5	dampen	20.798193965223565	
+86	sentence	6	.	9.35480573690532	
+87	sentence	1	The scientist	14.859416606888047	
+87	sentence	2	tried	10.167826889565713	
+87	sentence	3		0.0	
+87	sentence	4	, but did not	24.577638625357594	
+87	sentence	5	subsidize	23.39957040864183	
+87	sentence	6	.	6.312496620688356	
+88	sentence	1	The scientist	14.859416606888047	
+88	sentence	2	tried	10.167826889565713	
+88	sentence	3		0.0	
+88	sentence	4	, but did not	24.577638625357594	
+88	sentence	5	idolize	22.625787914693376	
+88	sentence	6	.	7.217730743157767	
+89	sentence	1	The scientist	14.859416606888047	
+89	sentence	2	tried	10.167826889565713	
+89	sentence	3		0.0	
+89	sentence	4	, but did not	24.577638625357594	
+89	sentence	5	quantify	17.6425169113776	
+89	sentence	6	.	4.4258569157170955	
+90	sentence	1	The scientist	14.859416606888047	
+90	sentence	2	tried	10.167826889565713	
+90	sentence	3		0.0	
+90	sentence	4	, but did not	24.577638625357594	
+90	sentence	5	engrave	19.868246897853123	
+90	sentence	6	.	6.611444431654728	
+91	sentence	1	The scientist	14.859416606888047	
+91	sentence	2	tried	10.167826889565713	
+91	sentence	3		0.0	
+91	sentence	4	, but did not	24.577638625357594	
+91	sentence	5	fraternize	25.230851359802042	
+91	sentence	6	.	5.634284756837379	
+92	sentence	1	The scientist	14.859416606888047	
+92	sentence	2	tried	10.167826889565713	
+92	sentence	3		0.0	
+92	sentence	4	, but did not	24.577638625357594	
+92	sentence	5	immobilize	21.37332580762883	
+92	sentence	6	.	6.710705250496103	
+93	sentence	1	The scientist	14.859416606888047	
+93	sentence	2	tried	10.167826889565713	
+93	sentence	3		0.0	
+93	sentence	4	, but did not	24.577638625357594	
+93	sentence	5	downsize	22.150954392594194	
+93	sentence	6	.	5.255198877979067	
+94	sentence	1	The scientist	14.859416606888047	
+94	sentence	2	tried	10.167826889565713	
+94	sentence	3		0.0	
+94	sentence	4	, but did not	24.577638625357594	
+94	sentence	5	theorize	20.30670946445435	
+94	sentence	6	.	5.119937618763184	
+95	sentence	1	The scientist	14.859416606888047	
+95	sentence	2	tried	10.167826889565713	
+95	sentence	3		0.0	
+95	sentence	4	, but did not	24.577638625357594	
+95	sentence	5	dramatize	21.09920282568318	
+95	sentence	6	.	6.018333367068988	
+96	sentence	1	The scientist	14.859416606888047	
+96	sentence	2	tried	10.167826889565713	
+96	sentence	3		0.0	
+96	sentence	4	, but did not	24.577638625357594	
+96	sentence	5	modernize	22.049374774666894	
+96	sentence	6	.	7.034602928588445	
+97	sentence	1	The scientist	14.859416606888047	
+97	sentence	2	tried	10.167826889565713	
+97	sentence	3		0.0	
+97	sentence	4	, but did not	24.577638625357594	
+97	sentence	5	revitalize	22.288560914726396	
+97	sentence	6	.	6.773997617736031	
+98	sentence	1	The scientist	14.859416606888047	
+98	sentence	2	tried	10.167826889565713	
+98	sentence	3		0.0	
+98	sentence	4	, but did not	24.577638625357594	
+98	sentence	5	traumatize	22.28070982072318	
+98	sentence	6	.	7.9613025496773435	
+99	sentence	1	The scientist	14.859416606888047	
+99	sentence	2	tried	10.167826889565713	
+99	sentence	3		0.0	
+99	sentence	4	, but did not	24.577638625357594	
+99	sentence	5	immortalize	23.316386076548653	
+99	sentence	6	.	6.145753249301432	
+100	sentence	1	The scientist	14.859416606888047	
+100	sentence	2	tried	10.167826889565713	
+100	sentence	3		0.0	
+100	sentence	4	, but did not	24.577638625357594	
+100	sentence	5	agonize	18.29860807645388	
+100	sentence	6	.	4.329837625879183	
+101	sentence	1	The scientist	14.859416606888047	
+101	sentence	2	tried	10.167826889565713	
+101	sentence	3		0.0	
+101	sentence	4	, but did not	24.577638625357594	
+101	sentence	5	electrify	19.504375980151345	
+101	sentence	6	.	6.3853904353606525	
+102	sentence	1	The scientist	14.859416606888047	
+102	sentence	2	tried	10.167826889565713	
+102	sentence	3		0.0	
+102	sentence	4	, but did not	24.577638625357594	
+102	sentence	5	demoralize	21.997951596595783	
+102	sentence	6	.	8.95648084682559	
+103	sentence	1	The scientist	14.859416606888047	
+103	sentence	2	tried	10.167826889565713	
+103	sentence	3		0.0	
+103	sentence	4	, but did not	24.577638625357594	
+103	sentence	5	sanitize	21.081894928375043	
+103	sentence	6	.	6.302271220198657	
+104	sentence	1	The scientist	14.859416606888047	
+104	sentence	2	tried	10.167826889565713	
+104	sentence	3		0.0	
+104	sentence	4	, but did not	24.577638625357594	
+104	sentence	5	anesthetize	24.152859895993473	
+104	sentence	6	.	5.307248395366791	
+105	sentence	1	The scientist	14.859416606888047	
+105	sentence	2	tried	10.167826889565713	
+105	sentence	3		0.0	
+105	sentence	4	, but did not	24.577638625357594	
+105	sentence	5	trivialize	21.449160740609194	
+105	sentence	6	.	6.833175472036716	
+106	sentence	1	The scientist	14.859416606888047	
+106	sentence	2	tried	10.167826889565713	
+106	sentence	3		0.0	
+106	sentence	4	, but did not	24.577638625357594	
+106	sentence	5	romanticize	22.912830957580038	
+106	sentence	6	.	7.112217323061623	
+107	sentence	1	The scientist	14.859416606888047	
+107	sentence	2	tried	10.167826889565713	
+107	sentence	3		0.0	
+107	sentence	4	, but did not	24.577638625357594	
+107	sentence	5	equalize	19.723150638765	
+107	sentence	6	.	5.221856945421597	
+108	sentence	1	The scientist	14.859416606888047	
+108	sentence	2	tried	10.167826889565713	
+108	sentence	3		0.0	
+108	sentence	4	, but did not	24.577638625357594	
+108	sentence	5	demonize	22.1011237953679	
+108	sentence	6	.	7.473158688288606	
+109	sentence	1	The scientist	14.859416606888047	
+109	sentence	2	tried	10.167826889565713	
+109	sentence	3		0.0	
+109	sentence	4	, but did not	24.577638625357594	
+109	sentence	5	alphabetize	30.010155314003207	
+109	sentence	6	.	5.4443636275589755	
+110	sentence	1	The scientist	14.859416606888047	
+110	sentence	2	tried	10.167826889565713	
+110	sentence	3		0.0	
+110	sentence	4	, but did not	24.577638625357594	
+110	sentence	5	formalize	20.70269276774692	
+110	sentence	6	.	5.9132932432280185	
+111	sentence	1	The scientist	14.859416606888047	
+111	sentence	2	tried	10.167826889565713	
+111	sentence	3		0.0	
+111	sentence	4	, but did not	24.577638625357594	
+111	sentence	5	optimize	17.693236658908855	
+111	sentence	6	.	4.837116620968217	
+112	sentence	1	The scientist	14.859416606888047	
+112	sentence	2	tried	10.167826889565713	
+112	sentence	3		0.0	
+112	sentence	4	, but did not	24.577638625357594	
+112	sentence	5	internalize	18.962555430519405	
+112	sentence	6	.	5.49061870547383	
+113	sentence	1	The scientist	14.859416606888047	
+113	sentence	2	tried	10.167826889565713	
+113	sentence	3		0.0	
+113	sentence	4	, but did not	24.577638625357594	
+113	sentence	5	idealize	20.5741208812255	
+113	sentence	6	.	5.84182413283547	
+114	sentence	1	The scientist	14.859416606888047	
+114	sentence	2	tried	10.167826889565713	
+114	sentence	3		0.0	
+114	sentence	4	, but did not	24.577638625357594	
+114	sentence	5	sodomize	22.94663656611315	
+114	sentence	6	.	8.448722020140647	
+115	sentence	1	The scientist	14.859416606888047	
+115	sentence	2	tried	10.167826889565713	
+115	sentence	3		0.0	
+115	sentence	4	, but did not	24.577638625357594	
+115	sentence	5	digitize	22.50966862548816	
+115	sentence	6	.	6.112706438972841	
+116	sentence	1	The scientist	14.859416606888047	
+116	sentence	2	tried	10.167826889565713	
+116	sentence	3		0.0	
+116	sentence	4	, but did not	24.577638625357594	
+116	sentence	5	galvanize	20.357628625869275	
+116	sentence	6	.	6.5116408355672295	
+117	sentence	1	The scientist	14.859416606888047	
+117	sentence	2	tried	10.167826889565713	
+117	sentence	3		0.0	
+117	sentence	4	, but did not	24.577638625357594	
+117	sentence	5	initialize	21.553374874773734	
+117	sentence	6	.	5.03274447856755	
+118	sentence	1	The scientist	14.859416606888047	
+118	sentence	2	tried	10.167826889565713	
+118	sentence	3		0.0	
+118	sentence	4	, but did not	24.577638625357594	
+118	sentence	5	exemplify	22.573976894246737	
+118	sentence	6	.	5.6049771933038475	
+119	sentence	1	The scientist	14.859416606888047	
+119	sentence	2	tried	10.167826889565713	
+119	sentence	3		0.0	
+119	sentence	4	, but did not	24.577638625357594	
+119	sentence	5	depressurize	24.680289533966025	
+119	sentence	6	.	5.602701518867631	
+120	sentence	1	The scientist	14.859416606888047	
+120	sentence	2	tried	10.167826889565713	
+120	sentence	3		0.0	
+120	sentence	4	, but did not	24.577638625357594	
+120	sentence	5	itemize	20.544610464155276	
+120	sentence	6	.	5.028599008751153	
+121	sentence	1	The scientist	14.859416606888047	
+121	sentence	2	tried	10.167826889565713	
+121	sentence	3		0.0	
+121	sentence	4	, but did not	24.577638625357594	
+121	sentence	5	dehumanize	25.898094460401715	
+121	sentence	6	.	7.339444241034583	
+122	sentence	1	The scientist	14.859416606888047	
+122	sentence	2	tried	10.167826889565713	
+122	sentence	3		0.0	
+122	sentence	4	, but did not	24.577638625357594	
+122	sentence	5	mollify	25.325820222604143	
+122	sentence	6	.	7.404103526383568	
+123	sentence	1	The scientist	14.859416606888047	
+123	sentence	2	tried	10.167826889565713	
+123	sentence	3		0.0	
+123	sentence	4	, but did not	24.577638625357594	
+123	sentence	5	immunize	21.45793394109284	
+123	sentence	6	.	6.879307410373553	
+124	sentence	1	The scientist	14.859416606888047	
+124	sentence	2	tried	10.167826889565713	
+124	sentence	3		0.0	
+124	sentence	4	, but did not	24.577638625357594	
+124	sentence	5	oxidize	21.07467653167207	
+124	sentence	6	.	6.1622099251971925	
+125	sentence	1	The scientist	14.859416606888047	
+125	sentence	2	tried	10.167826889565713	
+125	sentence	3		0.0	
+125	sentence	4	, but did not	24.577638625357594	
+125	sentence	5	dematerialize	24.153369958914723	
+125	sentence	6	.	4.701048763119788	
+126	sentence	1	The scientist	14.859416606888047	
+126	sentence	2	tried	10.167826889565713	
+126	sentence	3		0.0	
+126	sentence	4	, but did not	24.577638625357594	
+126	sentence	5	ostracize	23.89462773880634	
+126	sentence	6	.	7.865382321846328	
+127	sentence	1	The scientist	14.859416606888047	
+127	sentence	2	tried	10.167826889565713	
+127	sentence	3		0.0	
+127	sentence	4	, but did not	24.577638625357594	
+127	sentence	5	overdramatize	25.84514889190516	
+127	sentence	6	.	5.48689321729084	
+128	sentence	1	The scientist	14.859416606888047	
+128	sentence	2	tried	10.167826889565713	
+128	sentence	3		0.0	
+128	sentence	4	, but did not	24.577638625357594	
+128	sentence	5	satirize	26.63961313803529	
+128	sentence	6	.	6.973862095956718	
+129	sentence	1	The scientist	14.859416606888047	
+129	sentence	2	tried	10.167826889565713	
+129	sentence	3		0.0	
+129	sentence	4	, but did not	24.577638625357594	
+129	sentence	5	amortize	19.437492163706942	
+129	sentence	6	.	5.006796424135973	
+130	sentence	1	The scientist	14.859416606888047	
+130	sentence	2	tried	10.167826889565713	
+130	sentence	3		0.0	
+130	sentence	4	, but did not	24.577638625357594	
+130	sentence	5	tyrannize	24.810330593031356	
+130	sentence	6	.	5.8544572904372485	
+131	sentence	1	The scientist	14.859416606888047	
+131	sentence	2	tried	10.167826889565713	
+131	sentence	3		0.0	
+131	sentence	4	, but did not	24.577638625357594	
+131	sentence	5	eulogize	21.90093695985323	
+131	sentence	6	.	6.3217768045289136	
+132	sentence	1	The scientist	14.859416606888047	
+132	sentence	2	tried	10.167826889565713	
+132	sentence	3		0.0	
+132	sentence	4	, but did not	24.577638625357594	
+132	sentence	5	resize	20.299249867457995	
+132	sentence	6	.	5.286745655626833	
+133	sentence	1	The scientist	14.859416606888047	
+133	sentence	2	tried	10.167826889565713	
+133	sentence	3		0.0	
+133	sentence	4	, but did not	24.577638625357594	
+133	sentence	5	editorialize	25.99020718582311	
+133	sentence	6	.	4.857064544676493	
+134	sentence	1	The scientist	14.859416606888047	
+134	sentence	2	tried	10.167826889565713	
+134	sentence	3		0.0	
+134	sentence	4	, but did not	24.577638625357594	
+134	sentence	5	acclimatize	21.195901469581518	
+134	sentence	6	.	6.1325972644410305	
+135	sentence	1	The scientist	14.859416606888047	
+135	sentence	2	tried	10.167826889565713	
+135	sentence	3		0.0	
+135	sentence	4	, but did not	24.577638625357594	
+135	sentence	5	desensitize	28.469950097586846	
+135	sentence	6	.	6.773613752459305	
+136	sentence	1	The scientist	14.859416606888047	
+136	sentence	2	tried	10.167826889565713	
+136	sentence	3		0.0	
+136	sentence	4	, but did not	24.577638625357594	
+136	sentence	5	standardize	19.946094006350748	
+136	sentence	6	.	5.796746792113724	
+137	sentence	1	The scientist	14.859416606888047	
+137	sentence	2	tried	10.167826889565713	
+137	sentence	3		0.0	
+137	sentence	4	, but did not	24.577638625357594	
+137	sentence	5	stigmatize	23.908356509198207	
+137	sentence	6	.	7.426244572855646	
+138	sentence	1	The scientist	14.859416606888047	
+138	sentence	2	tried	10.167826889565713	
+138	sentence	3		0.0	
+138	sentence	4	, but did not	24.577638625357594	
+138	sentence	5	actualize	20.382732997909216	
+138	sentence	6	.	5.885826238024021	
+139	sentence	1	The scientist	14.859416606888047	
+139	sentence	2	tried	10.167826889565713	
+139	sentence	3		0.0	
+139	sentence	4	, but did not	24.577638625357594	
+139	sentence	5	industrialize	22.765062754530277	
+139	sentence	6	.	5.729344039518176	
+140	sentence	1	The scientist	14.859416606888047	
+140	sentence	2	tried	10.167826889565713	
+140	sentence	3		0.0	
+140	sentence	4	, but did not	24.577638625357594	
+140	sentence	5	sexualize	25.99537072843912	
+140	sentence	6	.	8.100554150358546	
+141	sentence	1	The scientist	14.859416606888047	
+141	sentence	2	tried	10.167826889565713	
+141	sentence	3		0.0	
+141	sentence	4	, but did not	24.577638625357594	
+141	sentence	5	demagnetize	31.773886311542107	
+141	sentence	6	.	5.654681555264406	
+142	sentence	1	The scientist	14.859416606888047	
+142	sentence	2	tried	10.167826889565713	
+142	sentence	3		0.0	
+142	sentence	4	, but did not	24.577638625357594	
+142	sentence	5	solemnize	27.53957775507793	
+142	sentence	6	.	5.776752777055018	
+143	sentence	1	The scientist	14.859416606888047	
+143	sentence	2	tried	10.167826889565713	
+143	sentence	3		0.0	
+143	sentence	4	, but did not	24.577638625357594	
+143	sentence	5	atomize	21.020430650722467	
+143	sentence	6	.	4.953205598231217	
+144	sentence	1	The scientist	14.859416606888047	
+144	sentence	2	tried	10.167826889565713	
+144	sentence	3		0.0	
+144	sentence	4	, but did not	24.577638625357594	
+144	sentence	5	ionize	20.002847657698368	
+144	sentence	6	.	5.169794013387105	
+145	sentence	1	The scientist	14.859416606888047	
+145	sentence	2	tried	10.167826889565713	
+145	sentence	3		0.0	
+145	sentence	4	, but did not	24.577638625357594	
+145	sentence	5	radicalize	20.948116546570564	
+145	sentence	6	.	7.383343156632617	
+146	sentence	1	The scientist	14.859416606888047	
+146	sentence	2	tried	10.167826889565713	
+146	sentence	3		0.0	
+146	sentence	4	, but did not	24.577638625357594	
+146	sentence	5	reunify	25.816058434970515	
+146	sentence	6	.	7.522591317660802	
+147	sentence	1	The scientist	14.859416606888047	
+147	sentence	2	tried	10.167826889565713	
+147	sentence	3		0.0	
+147	sentence	4	, but did not	24.577638625357594	
+147	sentence	5	demobilize	29.425888027281463	
+147	sentence	6	.	4.853154003161174	
+148	sentence	1	The scientist	14.859416606888047	
+148	sentence	2	tried	10.167826889565713	
+148	sentence	3		0.0	
+148	sentence	4	, but did not	24.577638625357594	
+148	sentence	5	democratize	26.0911448355104	
+148	sentence	6	.	7.000310963867608	
+149	sentence	1	The scientist	14.859416606888047	
+149	sentence	2	tried	10.167826889565713	
+149	sentence	3		0.0	
+149	sentence	4	, but did not	24.577638625357594	
+149	sentence	5	reclassify	23.259746054675905	
+149	sentence	6	.	5.807057495998251	
+150	sentence	1	The scientist	14.859416606888047	
+150	sentence	2	tried	10.167826889565713	
+150	sentence	3		0.0	
+150	sentence	4	, but did not	24.577638625357594	
+150	sentence	5	rhapsodize	26.17129804862453	
+150	sentence	6	.	4.785320949973167	
+151	sentence	1	The scientist	14.859416606888047	
+151	sentence	2	tried	10.167826889565713	
+151	sentence	3		0.0	
+151	sentence	4	, but did not	24.577638625357594	
+151	sentence	5	serialize	23.27643848385202	
+151	sentence	6	.	4.629848289627886	
+152	sentence	1	The scientist	14.859416606888047	
+152	sentence	2	tried	10.167826889565713	
+152	sentence	3		0.0	
+152	sentence	4	, but did not	24.577638625357594	
+152	sentence	5	disorganize	24.72722130986745	
+152	sentence	6	.	5.448924263494556	
+153	sentence	1	The scientist	14.859416606888047	
+153	sentence	2	tried	10.167826889565713	
+153	sentence	3		0.0	
+153	sentence	4	, but did not	24.577638625357594	
+153	sentence	5	sermonize	23.163663891742956	
+153	sentence	6	.	4.518951812559737	
+154	sentence	1	The scientist	14.859416606888047	
+154	sentence	2	tried	10.167826889565713	
+154	sentence	3		0.0	
+154	sentence	4	, but did not	24.577638625357594	
+154	sentence	5	deodorize	25.87742431704897	
+154	sentence	6	.	5.864067680967462	
+155	sentence	1	The scientist	14.859416606888047	
+155	sentence	2	tried	10.167826889565713	
+155	sentence	3		0.0	
+155	sentence	4	, but did not	24.577638625357594	
+155	sentence	5	emulsify	26.4057069043221	
+155	sentence	6	.	5.541510435655946	
+156	sentence	1	The scientist	14.859416606888047	
+156	sentence	2	tried	10.167826889565713	
+156	sentence	3		0.0	
+156	sentence	4	, but did not	24.577638625357594	
+156	sentence	5	overemphasize	21.371795067689224	
+156	sentence	6	.	5.804168187463756	
+157	sentence	1	The scientist	14.859416606888047	
+157	sentence	2	tried	10.167826889565713	
+157	sentence	3		0.0	
+157	sentence	4	, but did not	24.577638625357594	
+157	sentence	5	aerosolize	22.689415900702006	
+157	sentence	6	.	4.6984992923033975	
+158	sentence	1	The scientist	14.859416606888047	
+158	sentence	2	tried	10.167826889565713	
+158	sentence	3		0.0	
+158	sentence	4	, but did not	24.577638625357594	
+158	sentence	5	apostatize	24.58738208208945	
+158	sentence	6	.	5.279334923201154	
+159	sentence	1	The scientist	14.859416606888047	
+159	sentence	2	tried	10.167826889565713	
+159	sentence	3		0.0	
+159	sentence	4	, but did not	24.577638625357594	
+159	sentence	5	depolarize	26.196566889823266	
+159	sentence	6	.	5.293160952469317	
+160	sentence	1	The scientist	14.859416606888047	
+160	sentence	2	tried	10.167826889565713	
+160	sentence	3		0.0	
+160	sentence	4	, but did not	24.577638625357594	
+160	sentence	5	evangelize	23.69098393914571	
+160	sentence	6	.	5.82995801785654	
+161	sentence	1	The scientist	14.859416606888047	
+161	sentence	2	tried	10.167826889565713	
+161	sentence	3		0.0	
+161	sentence	4	, but did not	24.577638625357594	
+161	sentence	5	anatomize	29.065588673290147	
+161	sentence	6	.	5.930075998229815	
+162	sentence	1	The scientist	14.859416606888047	
+162	sentence	2	tried	10.167826889565713	
+162	sentence	3		0.0	
+162	sentence	4	, but did not	24.577638625357594	
+162	sentence	5	anthropomorphize	26.62032089818343	
+162	sentence	6	.	6.898749705088291	
+163	sentence	1	The scientist	14.859416606888047	
+163	sentence	2	tried	10.167826889565713	
+163	sentence	3		0.0	
+163	sentence	4	, but did not	24.577638625357594	
+163	sentence	5	federalize	28.4103711478335	
+163	sentence	6	.	6.369687043475671	
+164	sentence	1	The scientist	14.859416606888047	
+164	sentence	2	tried	10.167826889565713	
+164	sentence	3		0.0	
+164	sentence	4	, but did not	24.577638625357594	
+164	sentence	5	feminize	25.730046170651367	
+164	sentence	6	.	6.626125558662981	
+165	sentence	1	The scientist	14.859416606888047	
+165	sentence	2	tried	10.167826889565713	
+165	sentence	3		0.0	
+165	sentence	4	, but did not	24.577638625357594	
+165	sentence	5	fossilize	22.887355941429657	
+165	sentence	6	.	6.54301115901521	
+166	sentence	1	The scientist	14.859416606888047	
+166	sentence	2	tried	10.167826889565713	
+166	sentence	3		0.0	
+166	sentence	4	, but did not	24.577638625357594	
+166	sentence	5	regularize	22.192086623287796	
+166	sentence	6	.	5.556340843605147	
+167	sentence	1	The scientist	14.859416606888047	
+167	sentence	2	tried	10.167826889565713	
+167	sentence	3		0.0	
+167	sentence	4	, but did not	24.577638625357594	
+167	sentence	5	ritualize	24.557609181872806	
+167	sentence	6	.	5.1837676037697085	
+168	sentence	1	The scientist	14.859416606888047	
+168	sentence	2	tried	10.167826889565713	
+168	sentence	3		0.0	
+168	sentence	4	, but did not	24.577638625357594	
+168	sentence	5	sentimentalize	29.380954292073184	
+168	sentence	6	.	6.530395199678518	
+169	sentence	1	The scientist	14.859416606888047	
+169	sentence	2	tried	10.167826889565713	
+169	sentence	3		0.0	
+169	sentence	4	, but did not	24.577638625357594	
+169	sentence	5	exteriorize	29.2467043768357	
+169	sentence	6	.	5.935295327718199	
+170	sentence	1	The scientist	14.859416606888047	
+170	sentence	2	tried	10.167826889565713	
+170	sentence	3		0.0	
+170	sentence	4	, but did not	24.577638625357594	
+170	sentence	5	fetishize	24.510738879020153	
+170	sentence	6	.	6.912716760130162	
+171	sentence	1	The scientist	14.859416606888047	
+171	sentence	2	tried	10.167826889565713	
+171	sentence	3		0.0	
+171	sentence	4	, but did not	24.577638625357594	
+171	sentence	5	fictionalize	28.06770857169251	
+171	sentence	6	.	7.790093820743418	
+172	sentence	1	The scientist	14.859416606888047	
+172	sentence	2	tried	10.167826889565713	
+172	sentence	3		0.0	
+172	sentence	4	, but did not	24.577638625357594	
+172	sentence	5	individualize	23.225410887375727	
+172	sentence	6	.	6.476986331418374	
+173	sentence	1	The scientist	14.859416606888047	
+173	sentence	2	tried	10.167826889565713	
+173	sentence	3		0.0	
+173	sentence	4	, but did not	24.577638625357594	
+173	sentence	5	internationalize	26.250266430261203	
+173	sentence	6	.	5.462707641065305	
+174	sentence	1	The scientist	14.859416606888047	
+174	sentence	2	tried	10.167826889565713	
+174	sentence	3		0.0	
+174	sentence	4	, but did not	24.577638625357594	
+174	sentence	5	alkalinize	26.9976737454902	
+174	sentence	6	.	5.760735688814862	
+175	sentence	1	The scientist	14.859416606888047	
+175	sentence	2	tried	10.167826889565713	
+175	sentence	3		0.0	
+175	sentence	4	, but did not	24.577638625357594	
+175	sentence	5	depersonalize	25.506455597080535	
+175	sentence	6	.	6.211837238930165	
+176	sentence	1	The scientist	14.859416606888047	
+176	sentence	2	tried	10.167826889565713	
+176	sentence	3		0.0	
+176	sentence	4	, but did not	24.577638625357594	
+176	sentence	5	italicize	25.43961304874656	
+176	sentence	6	.	5.444872352240228	
+177	sentence	1	The scientist	14.859416606888047	
+177	sentence	2	tried	10.167826889565713	
+177	sentence	3		0.0	
+177	sentence	4	, but did not	24.577638625357594	
+177	sentence	5	randomize	21.656467553067657	
+177	sentence	6	.	5.934442981700523	
+178	sentence	1	The scientist	14.859416606888047	
+178	sentence	2	tried	10.167826889565713	
+178	sentence	3		0.0	
+178	sentence	4	, but did not	24.577638625357594	
+178	sentence	5	stylize	27.10425466727471	
+178	sentence	6	.	5.88463611808005	
+179	sentence	1	The scientist	14.859416606888047	
+179	sentence	2	tried	10.167826889565713	
+179	sentence	3		0.0	
+179	sentence	4	, but did not	24.577638625357594	
+179	sentence	5	temporize	27.92732158454597	
+179	sentence	6	.	4.831270586700089	
+180	sentence	1	The scientist	14.859416606888047	
+180	sentence	2	tried	10.167826889565713	
+180	sentence	3		0.0	
+180	sentence	4	, but did not	24.577638625357594	
+180	sentence	5	ramify	28.278987581446625	
+180	sentence	6	.	7.004413781986591	
+181	sentence	1	The scientist	14.859416606888047	
+181	sentence	2	tried	10.167826889565713	
+181	sentence	3		0.0	
+181	sentence	4	, but did not	24.577638625357594	
+181	sentence	5	reimpose	24.288582310564266	
+181	sentence	6	.	5.580696338689735	
+182	sentence	1	The scientist	14.859416606888047	
+182	sentence	2	tried	10.167826889565713	
+182	sentence	3		0.0	
+182	sentence	4	, but did not	24.577638625357594	
+182	sentence	5	sensitize	20.85312616443927	
+182	sentence	6	.	8.980533652444658	
+183	sentence	1	The scientist	14.859416606888047	
+183	sentence	2	tried	10.167826889565713	
+183	sentence	3		0.0	
+183	sentence	4	, but did not	24.577638625357594	
+183	sentence	5	systematize	21.15191577286468	
+183	sentence	6	.	5.291714922340862	
+184	sentence	1	The scientist	14.859416606888047	
+184	sentence	2	tried	10.167826889565713	
+184	sentence	3		0.0	
+184	sentence	4	, but did not	24.577638625357594	
+184	sentence	5	denationalize	30.669052107305422	
+184	sentence	6	.	6.4271980419241945	
+185	sentence	1	The scientist	14.859416606888047	
+185	sentence	2	tried	10.167826889565713	
+185	sentence	3		0.0	
+185	sentence	4	, but did not	24.577638625357594	
+185	sentence	5	digitalize	25.05765854226752	
+185	sentence	6	.	6.137127287464757	
+186	sentence	1	The scientist	14.859416606888047	
+186	sentence	2	tried	10.167826889565713	
+186	sentence	3		0.0	
+186	sentence	4	, but did not	24.577638625357594	
+186	sentence	5	reify	24.51086833896059	
+186	sentence	6	.	5.5205801470459415	
+187	sentence	1	The scientist	14.859416606888047	
+187	sentence	2	tried	10.167826889565713	
+187	sentence	3		0.0	
+187	sentence	4	, but did not	24.577638625357594	
+187	sentence	5	secularize	27.7707939826203	
+187	sentence	6	.	6.732208585298782	
+188	sentence	1	The scientist	14.859416606888047	
+188	sentence	2	tried	10.167826889565713	
+188	sentence	3		0.0	
+188	sentence	4	, but did not	24.577638625357594	
+188	sentence	5	spiritualize	27.51548332965735	
+188	sentence	6	.	5.979489365545113	
+189	sentence	1	The scientist	14.859416606888047	
+189	sentence	2	tried	10.167826889565713	
+189	sentence	3		0.0	
+189	sentence	4	, but did not	24.577638625357594	
+189	sentence	5	alkalize	25.550998343504126	
+189	sentence	6	.	5.3946448190557446	
+190	sentence	1	The scientist	14.859416606888047	
+190	sentence	2	tried	10.167826889565713	
+190	sentence	3		0.0	
+190	sentence	4	, but did not	24.577638625357594	
+190	sentence	5	decentralize	26.674465121262998	
+190	sentence	6	.	6.546326984523844	
+191	sentence	1	The scientist	14.859416606888047	
+191	sentence	2	tried	10.167826889565713	
+191	sentence	3		0.0	
+191	sentence	4	, but did not	24.577638625357594	
+191	sentence	5	decolonize	28.695055975360447	
+191	sentence	6	.	6.509890052181446	
+192	sentence	1	The scientist	14.859416606888047	
+192	sentence	2	tried	10.167826889565713	
+192	sentence	3		0.0	
+192	sentence	4	, but did not	24.577638625357594	
+192	sentence	5	demilitarize	27.01396227865926	
+192	sentence	6	.	7.928113337713839	
+193	sentence	1	The scientist	14.859416606888047	
+193	sentence	2	tried	10.167826889565713	
+193	sentence	3		0.0	
+193	sentence	4	, but did not	24.577638625357594	
+193	sentence	5	desexualize	29.55992062094175	
+193	sentence	6	.	6.132740354006549	
+194	sentence	1	The scientist	14.859416606888047	
+194	sentence	2	tried	10.167826889565713	
+194	sentence	3		0.0	
+194	sentence	4	, but did not	24.577638625357594	
+194	sentence	5	desynchronize	26.255369692958084	
+194	sentence	6	.	5.14887541959736	
+195	sentence	1	The scientist	14.859416606888047	
+195	sentence	2	tried	10.167826889565713	
+195	sentence	3		0.0	
+195	sentence	4	, but did not	24.577638625357594	
+195	sentence	5	devitalize	36.3943018848415	
+195	sentence	6	.	6.549354567109633	
+196	sentence	1	The scientist	14.859416606888047	
+196	sentence	2	tried	10.167826889565713	
+196	sentence	3		0.0	
+196	sentence	4	, but did not	24.577638625357594	
+196	sentence	5	eroticize	26.03491336648646	
+196	sentence	6	.	7.067916655991174	
+197	sentence	1	The scientist	14.859416606888047	
+197	sentence	2	tried	10.167826889565713	
+197	sentence	3		0.0	
+197	sentence	4	, but did not	24.577638625357594	
+197	sentence	5	officialize	24.42343872262002	
+197	sentence	6	.	6.1879247711542	
+198	sentence	1	The scientist	14.859416606888047	
+198	sentence	2	tried	10.167826889565713	
+198	sentence	3		0.0	
+198	sentence	4	, but did not	24.577638625357594	
+198	sentence	5	quantize	28.168483912753047	
+198	sentence	6	.	4.603180315819798	
+199	sentence	1	The scientist	14.859416606888047	
+199	sentence	2	tried	10.167826889565713	
+199	sentence	3		0.0	
+199	sentence	4	, but did not	24.577638625357594	
+199	sentence	5	reharmonize	36.6210471546518	
+199	sentence	6	.	5.105438105434242	
+200	sentence	1	The scientist	14.859416606888047	
+200	sentence	2	tried	10.167826889565713	
+200	sentence	3		0.0	
+200	sentence	4	, but did not	24.577638625357594	
+200	sentence	5	remilitarize	26.775976037495735	
+200	sentence	6	.	5.652442685115474	
+201	sentence	1	The scientist	14.859416606888047	
+201	sentence	2	tried	10.167826889565713	
+201	sentence	3		0.0	
+201	sentence	4	, but did not	24.577638625357594	
+201	sentence	5	solarize	30.570970100548724	
+201	sentence	6	.	5.332271527102028	
+202	sentence	1	The scientist	14.859416606888047	
+202	sentence	2	tried	10.167826889565713	
+202	sentence	3		0.0	
+202	sentence	4	, but did not	24.577638625357594	
+202	sentence	5	syncretize	30.304162579358245	
+202	sentence	6	.	4.488776424569952	
+203	sentence	1	The scientist	14.859416606888047	
+203	sentence	2	tried	10.167826889565713	
+203	sentence	3		0.0	
+203	sentence	4	, but did not	24.577638625357594	
+203	sentence	5	totalize	25.45066822253101	
+203	sentence	6	.	4.895737251480107	
+204	sentence	1	The scientist	14.859416606888047	
+204	sentence	2	tried	10.167826889565713	
+204	sentence	3		0.0	
+204	sentence	4	, but did not	24.577638625357594	
+204	sentence	5	alchemize	24.1693795874074	
+204	sentence	6	.	5.40990036811788	
+205	sentence	1	The scientist	14.859416606888047	
+205	sentence	2	tried	10.167826889565713	
+205	sentence	3		0.0	
+205	sentence	4	, but did not	24.577638625357594	
+205	sentence	5	aluminize	30.577194754622724	
+205	sentence	6	.	4.780440082341681	
+206	sentence	1	The scientist	14.859416606888047	
+206	sentence	2	tried	10.167826889565713	
+206	sentence	3		0.0	
+206	sentence	4	, but did not	24.577638625357594	
+206	sentence	5	analogize	23.904718280712697	
+206	sentence	6	.	6.829015555677646	
+207	sentence	1	The scientist	14.859416606888047	
+207	sentence	2	tried	10.167826889565713	
+207	sentence	3		0.0	
+207	sentence	4	, but did not	24.577638625357594	
+207	sentence	5	attitudinize	44.434847246721716	
+207	sentence	6	.	5.516293307490535	
+208	sentence	1	The scientist	14.859416606888047	
+208	sentence	2	tried	10.167826889565713	
+208	sentence	3		0.0	
+208	sentence	4	, but did not	24.577638625357594	
+208	sentence	5	deionize	26.96190669094737	
+208	sentence	6	.	5.380236800497062	
+209	sentence	1	The scientist	14.859416606888047	
+209	sentence	2	tried	10.167826889565713	
+209	sentence	3		0.0	
+209	sentence	4	, but did not	24.577638625357594	
+209	sentence	5	demythologize	32.09651707406241	
+209	sentence	6	.	5.699542885776668	
+210	sentence	1	The scientist	14.859416606888047	
+210	sentence	2	tried	10.167826889565713	
+210	sentence	3		0.0	
+210	sentence	4	, but did not	24.577638625357594	
+210	sentence	5	deoxidize	33.72397997757716	
+210	sentence	6	.	5.4219057890440086	
+211	sentence	1	The scientist	14.859416606888047	
+211	sentence	2	tried	10.167826889565713	
+211	sentence	3		0.0	
+211	sentence	4	, but did not	24.577638625357594	
+211	sentence	5	dichotomize	26.654868439872367	
+211	sentence	6	.	5.773005619058019	
+212	sentence	1	The scientist	14.859416606888047	
+212	sentence	2	tried	10.167826889565713	
+212	sentence	3		0.0	
+212	sentence	4	, but did not	24.577638625357594	
+212	sentence	5	dogmatize	30.28719775922268	
+212	sentence	6	.	6.116009193800011	
+213	sentence	1	The scientist	14.859416606888047	
+213	sentence	2	tried	10.167826889565713	
+213	sentence	3		0.0	
+213	sentence	4	, but did not	24.577638625357594	
+213	sentence	5	factorize	33.92358338613383	
+213	sentence	6	.	4.753197342514408	
+214	sentence	1	The scientist	14.859416606888047	
+214	sentence	2	tried	10.167826889565713	
+214	sentence	3		0.0	
+214	sentence	4	, but did not	24.577638625357594	
+214	sentence	5	iodize	26.870994640905142	
+214	sentence	6	.	5.588145595229206	
+215	sentence	1	The scientist	14.859416606888047	
+215	sentence	2	tried	10.167826889565713	
+215	sentence	3		0.0	
+215	sentence	4	, but did not	24.577638625357594	
+215	sentence	5	overcapitalize	31.2992105566528	
+215	sentence	6	.	4.940848300801422	
+216	sentence	1	The scientist	14.859416606888047	
+216	sentence	2	tried	10.167826889565713	
+216	sentence	3		0.0	
+216	sentence	4	, but did not	24.577638625357594	
+216	sentence	5	overspecialize	30.716837185878013	
+216	sentence	6	.	6.077584829944242	
+217	sentence	1	The scientist	14.859416606888047	
+217	sentence	2	tried	10.167826889565713	
+217	sentence	3		0.0	
+217	sentence	4	, but did not	24.577638625357594	
+217	sentence	5	relativize	27.042149167088144	
+217	sentence	6	.	5.094646538057903	
+218	sentence	1	The scientist	14.859416606888047	
+218	sentence	2	tried	10.167826889565713	
+218	sentence	3		0.0	
+218	sentence	4	, but did not	24.577638625357594	
+218	sentence	5	schematize	29.288501847171755	
+218	sentence	6	.	5.044249086014367	
+219	sentence	1	The scientist	14.859416606888047	
+219	sentence	2	tried	10.167826889565713	
+219	sentence	3		0.0	
+219	sentence	4	, but did not	24.577638625357594	
+219	sentence	5	sensualize	26.81647523767272	
+219	sentence	6	.	7.423278216093564	
+220	sentence	1	The scientist	14.859416606888047	
+220	sentence	2	tried	10.167826889565713	
+220	sentence	3		0.0	
+220	sentence	4	, but did not	24.577638625357594	
+220	sentence	5	signalize	31.97741395035822	
+220	sentence	6	.	4.273573845614716	
+221	sentence	1	The scientist	14.859416606888047	
+221	sentence	2	tried	10.167826889565713	
+221	sentence	3		0.0	
+221	sentence	4	, but did not	24.577638625357594	
+221	sentence	5	singularize	27.788408789686972	
+221	sentence	6	.	5.676665753558897	
+222	sentence	1	The scientist	14.859416606888047	
+222	sentence	2	tried	10.167826889565713	
+222	sentence	3		0.0	
+222	sentence	4	, but did not	24.577638625357594	
+222	sentence	5	steepen	27.12846492301064	
+222	sentence	6	.	7.1970969526378505	
+223	sentence	1	The scientist	14.859416606888047	
+223	sentence	2	tried	10.167826889565713	
+223	sentence	3		0.0	
+223	sentence	4	, but did not	24.577638625357594	
+223	sentence	5	subtilize	31.416779057665508	
+223	sentence	6	.	4.823782462081522	
+224	sentence	1	The scientist	14.859416606888047	
+224	sentence	2	tried	10.167826889565713	
+224	sentence	3		0.0	
+224	sentence	4	, but did not	24.577638625357594	
+224	sentence	5	syllogize	25.05160299013498	
+224	sentence	6	.	4.454387117668727	
+225	sentence	1	The scientist	14.859416606888047	
+225	sentence	2	tried	10.167826889565713	
+225	sentence	3		0.0	
+225	sentence	4	, but did not	24.577638625357594	
+225	sentence	5	loathe	19.216214835055762	
+225	sentence	6	.	5.50834702109007	
+226	sentence	1	The scientist	14.859416606888047	
+226	sentence	2	tried	10.167826889565713	
+226	sentence	3		0.0	
+226	sentence	4	, but did not	24.577638625357594	
+226	sentence	5	love	11.123003397984476	
+226	sentence	6	.	6.257269551843291	
+227	sentence	1	The scientist	14.859416606888047	
+227	sentence	2	tried	10.167826889565713	
+227	sentence	3		0.0	
+227	sentence	4	, but did not	24.577638625357594	
+227	sentence	5	will	15.517394711865014	
+227	sentence	6	.	5.216964382969851	
+228	sentence	1	The scientist	14.859416606888047	
+228	sentence	2	tried	10.167826889565713	
+228	sentence	3		0.0	
+228	sentence	4	, but did not	24.577638625357594	
+228	sentence	5	have to	12.160352529054887	
+228	sentence	6	.	8.196638105673184	
+229	sentence	1	The scientist	14.859416606888047	
+229	sentence	2	tried	10.167826889565713	
+229	sentence	3		0.0	
+229	sentence	4	, but did not	24.577638625357594	
+229	sentence	5	win	7.2486883082436755	
+229	sentence	6	.	5.298113020918261	
+230	sentence	1	The scientist	14.859416606888047	
+230	sentence	2	tried	10.167826889565713	
+230	sentence	3		0.0	
+230	sentence	4	, but did not	24.577638625357594	
+230	sentence	5	finish	7.5489562580380705	
+230	sentence	6	.	6.176373040461047	

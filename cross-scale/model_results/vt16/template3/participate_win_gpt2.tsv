@@ -1,0 +1,1381 @@
+item_number	condition_name	region_number	content	metric_value	oovs
+1	sentence	1	The skier	19.482747441978837	
+1	sentence	2	participated	14.75355371804535	
+1	sentence	3		0.0	
+1	sentence	4	, but did not	25.44357821625136	
+1	sentence	5	have	4.784640242641053	
+1	sentence	6	.	12.982117279685145	
+2	sentence	1	The skier	19.482747441978837	
+2	sentence	2	participated	14.75355371804535	
+2	sentence	3		0.0	
+2	sentence	4	, but did not	25.44357821625136	
+2	sentence	5	know	7.076714600478712	
+2	sentence	6	.	9.503345088663718	
+3	sentence	1	The skier	19.482747441978837	
+3	sentence	2	participated	14.75355371804535	
+3	sentence	3		0.0	
+3	sentence	4	, but did not	25.44357821625136	
+3	sentence	5	get	5.318760570050246	
+3	sentence	6	.	12.540878590631523	
+4	sentence	1	The skier	19.482747441978837	
+4	sentence	2	participated	14.75355371804535	
+4	sentence	3		0.0	
+4	sentence	4	, but did not	25.44357821625136	
+4	sentence	5	go	6.271450553302834	
+4	sentence	6	.	13.107008329019303	
+5	sentence	1	The skier	19.482747441978837	
+5	sentence	2	participated	14.75355371804535	
+5	sentence	3		0.0	
+5	sentence	4	, but did not	25.44357821625136	
+5	sentence	5	come	8.374999249091193	
+5	sentence	6	.	13.518491267751244	
+6	sentence	1	The skier	19.482747441978837	
+6	sentence	2	participated	14.75355371804535	
+6	sentence	3		0.0	
+6	sentence	4	, but did not	25.44357821625136	
+6	sentence	5	see	6.758241255194584	
+6	sentence	6	.	10.72687163066855	
+7	sentence	1	The skier	19.482747441978837	
+7	sentence	2	participated	14.75355371804535	
+7	sentence	3		0.0	
+7	sentence	4	, but did not	25.44357821625136	
+7	sentence	5	let	9.827182228862956	
+7	sentence	6	.	14.916108967918463	
+8	sentence	1	The skier	19.482747441978837	
+8	sentence	2	participated	14.75355371804535	
+8	sentence	3		0.0	
+8	sentence	4	, but did not	25.44357821625136	
+8	sentence	5	take	5.118215040532142	
+8	sentence	6	.	14.511803897102931	
+9	sentence	1	The skier	19.482747441978837	
+9	sentence	2	participated	14.75355371804535	
+9	sentence	3		0.0	
+9	sentence	4	, but did not	25.44357821625136	
+9	sentence	5	say	7.585100819874002	
+9	sentence	6	.	9.587208644738647	
+10	sentence	1	The skier	19.482747441978837	
+10	sentence	2	participated	14.75355371804535	
+10	sentence	3		0.0	
+10	sentence	4	, but did not	25.44357821625136	
+10	sentence	5	make	5.1295521368770185	
+10	sentence	6	.	14.249782137138011	
+11	sentence	1	The skier	19.482747441978837	
+11	sentence	2	participated	14.75355371804535	
+11	sentence	3		0.0	
+11	sentence	4	, but did not	25.44357821625136	
+11	sentence	5	give	6.9144070056228415	
+11	sentence	6	.	15.63989313856037	
+12	sentence	1	The skier	19.482747441978837	
+12	sentence	2	participated	14.75355371804535	
+12	sentence	3		0.0	
+12	sentence	4	, but did not	25.44357821625136	
+12	sentence	5	find	8.447358541684606	
+12	sentence	6	.	12.381138352787733	
+13	sentence	1	The skier	19.482747441978837	
+13	sentence	2	participated	14.75355371804535	
+13	sentence	3		0.0	
+13	sentence	4	, but did not	25.44357821625136	
+13	sentence	5	keep	9.63055515206211	
+13	sentence	6	.	10.669579394151922	
+14	sentence	1	The skier	19.482747441978837	
+14	sentence	2	participated	14.75355371804535	
+14	sentence	3		0.0	
+14	sentence	4	, but did not	25.44357821625136	
+14	sentence	5	leave	7.610372638522386	
+14	sentence	6	.	7.701251022960708	
+15	sentence	1	The skier	19.482747441978837	
+15	sentence	2	participated	14.75355371804535	
+15	sentence	3		0.0	
+15	sentence	4	, but did not	25.44357821625136	
+15	sentence	5	believe	10.71244435005297	
+15	sentence	6	.	11.347434565985012	
+16	sentence	1	The skier	19.482747441978837	
+16	sentence	2	participated	14.75355371804535	
+16	sentence	3		0.0	
+16	sentence	4	, but did not	25.44357821625136	
+16	sentence	5	remember	10.303054096216727	
+16	sentence	6	.	8.680686716179576	
+17	sentence	1	The skier	19.482747441978837	
+17	sentence	2	participated	14.75355371804535	
+17	sentence	3		0.0	
+17	sentence	4	, but did not	25.44357821625136	
+17	sentence	5	run	7.068723598589022	
+17	sentence	6	.	8.028544326511685	
+18	sentence	1	The skier	19.482747441978837	
+18	sentence	2	participated	14.75355371804535	
+18	sentence	3		0.0	
+18	sentence	4	, but did not	25.44357821625136	
+18	sentence	5	happen	11.826891927643969	
+18	sentence	6	.	7.315105256284479	
+19	sentence	1	The skier	19.482747441978837	
+19	sentence	2	participated	14.75355371804535	
+19	sentence	3		0.0	
+19	sentence	4	, but did not	25.44357821625136	
+19	sentence	5	buy	11.731374139215973	
+19	sentence	6	.	6.313538147621982	
+20	sentence	1	The skier	19.482747441978837	
+20	sentence	2	participated	14.75355371804535	
+20	sentence	3		0.0	
+20	sentence	4	, but did not	25.44357821625136	
+20	sentence	5	save	10.234789366575052	
+20	sentence	6	.	6.356789720522167	
+21	sentence	1	The skier	19.482747441978837	
+21	sentence	2	participated	14.75355371804535	
+21	sentence	3		0.0	
+21	sentence	4	, but did not	25.44357821625136	
+21	sentence	5	lose	6.674853059166638	
+21	sentence	6	.	6.670684199709724	
+22	sentence	1	The skier	19.482747441978837	
+22	sentence	2	participated	14.75355371804535	
+22	sentence	3		0.0	
+22	sentence	4	, but did not	25.44357821625136	
+22	sentence	5	follow	8.559100485464398	
+22	sentence	6	.	9.194279194381785	
+23	sentence	1	The skier	19.482747441978837	
+23	sentence	2	participated	14.75355371804535	
+23	sentence	3		0.0	
+23	sentence	4	, but did not	25.44357821625136	
+23	sentence	5	expect	10.937271078150488	
+23	sentence	6	.	12.781146609054108	
+24	sentence	1	The skier	19.482747441978837	
+24	sentence	2	participated	14.75355371804535	
+24	sentence	3		0.0	
+24	sentence	4	, but did not	25.44357821625136	
+24	sentence	5	realize	8.789892947755046	
+24	sentence	6	.	9.644734777660446	
+25	sentence	1	The skier	19.482747441978837	
+25	sentence	2	participated	14.75355371804535	
+25	sentence	3		0.0	
+25	sentence	4	, but did not	25.44357821625136	
+25	sentence	5	slow	13.942878408742725	
+25	sentence	6	.	10.326244236859067	
+26	sentence	1	The skier	19.482747441978837	
+26	sentence	2	participated	14.75355371804535	
+26	sentence	3		0.0	
+26	sentence	4	, but did not	25.44357821625136	
+26	sentence	5	allow	8.983812329700708	
+26	sentence	6	.	12.076568084999353	
+27	sentence	1	The skier	19.482747441978837	
+27	sentence	2	participated	14.75355371804535	
+27	sentence	3		0.0	
+27	sentence	4	, but did not	25.44357821625136	
+27	sentence	5	consider	10.238069419692309	
+27	sentence	6	.	11.356167844995824	
+28	sentence	1	The skier	19.482747441978837	
+28	sentence	2	participated	14.75355371804535	
+28	sentence	3		0.0	
+28	sentence	4	, but did not	25.44357821625136	
+28	sentence	5	apologize	11.254049362427713	
+28	sentence	6	.	4.018697276862542	
+29	sentence	1	The skier	19.482747441978837	
+29	sentence	2	participated	14.75355371804535	
+29	sentence	3		0.0	
+29	sentence	4	, but did not	25.44357821625136	
+29	sentence	5	recognize	10.53265781442461	
+29	sentence	6	.	9.147232308342359	
+30	sentence	1	The skier	19.482747441978837	
+30	sentence	2	participated	14.75355371804535	
+30	sentence	3		0.0	
+30	sentence	4	, but did not	25.44357821625136	
+30	sentence	5	settle	12.799240559786082	
+30	sentence	6	.	5.604615685771734	
+31	sentence	1	The skier	19.482747441978837	
+31	sentence	2	participated	14.75355371804535	
+31	sentence	3		0.0	
+31	sentence	4	, but did not	25.44357821625136	
+31	sentence	5	add	10.797241427956783	
+31	sentence	6	.	9.64141276077638	
+32	sentence	1	The skier	19.482747441978837	
+32	sentence	2	participated	14.75355371804535	
+32	sentence	3		0.0	
+32	sentence	4	, but did not	25.44357821625136	
+32	sentence	5	assume	13.231084868518973	
+32	sentence	6	.	10.714063738693493	
+33	sentence	1	The skier	19.482747441978837	
+33	sentence	2	participated	14.75355371804535	
+33	sentence	3		0.0	
+33	sentence	4	, but did not	25.44357821625136	
+33	sentence	5	appear	6.071785574957149	
+33	sentence	6	.	8.526272437067705	
+34	sentence	1	The skier	19.482747441978837	
+34	sentence	2	participated	14.75355371804535	
+34	sentence	3		0.0	
+34	sentence	4	, but did not	25.44357821625136	
+34	sentence	5	remove	10.586459491059324	
+34	sentence	6	.	8.709210382790474	
+35	sentence	1	The skier	19.482747441978837	
+35	sentence	2	participated	14.75355371804535	
+35	sentence	3		0.0	
+35	sentence	4	, but did not	25.44357821625136	
+35	sentence	5	identify	10.196793583485235	
+35	sentence	6	.	9.399649181221893	
+36	sentence	1	The skier	19.482747441978837	
+36	sentence	2	participated	14.75355371804535	
+36	sentence	3		0.0	
+36	sentence	4	, but did not	25.44357821625136	
+36	sentence	5	replace	12.25668895490099	
+36	sentence	6	.	6.944182018001418	
+37	sentence	1	The skier	19.482747441978837	
+37	sentence	2	participated	14.75355371804535	
+37	sentence	3		0.0	
+37	sentence	4	, but did not	25.44357821625136	
+37	sentence	5	apply	9.377132524640329	
+37	sentence	6	.	5.6695119632136075	
+38	sentence	1	The skier	19.482747441978837	
+38	sentence	2	participated	14.75355371804535	
+38	sentence	3		0.0	
+38	sentence	4	, but did not	25.44357821625136	
+38	sentence	5	succeed	8.434656591022483	
+38	sentence	6	.	4.122842402988422	
+39	sentence	1	The skier	19.482747441978837	
+39	sentence	2	participated	14.75355371804535	
+39	sentence	3		0.0	
+39	sentence	4	, but did not	25.44357821625136	
+39	sentence	5	develop	11.07063055321313	
+39	sentence	6	.	8.589817274839099	
+40	sentence	1	The skier	19.482747441978837	
+40	sentence	2	participated	14.75355371804535	
+40	sentence	3		0.0	
+40	sentence	4	, but did not	25.44357821625136	
+40	sentence	5	approve	13.707551107914126	
+40	sentence	6	.	4.867559613962745	
+41	sentence	1	The skier	19.482747441978837	
+41	sentence	2	participated	14.75355371804535	
+41	sentence	3		0.0	
+41	sentence	4	, but did not	25.44357821625136	
+41	sentence	5	expose	13.39218170551277	
+41	sentence	6	.	12.003791906460247	
+42	sentence	1	The skier	19.482747441978837	
+42	sentence	2	participated	14.75355371804535	
+42	sentence	3		0.0	
+42	sentence	4	, but did not	25.44357821625136	
+42	sentence	5	establish	12.614875158061151	
+42	sentence	6	.	9.114804635556874	
+43	sentence	1	The skier	19.482747441978837	
+43	sentence	2	participated	14.75355371804535	
+43	sentence	3		0.0	
+43	sentence	4	, but did not	25.44357821625136	
+43	sentence	5	reduce	12.282379035356273	
+43	sentence	6	.	10.613457327591767	
+44	sentence	1	The skier	19.482747441978837	
+44	sentence	2	participated	14.75355371804535	
+44	sentence	3		0.0	
+44	sentence	4	, but did not	25.44357821625136	
+44	sentence	5	participate	4.018978984444656	
+44	sentence	6	.	5.9064070578874714	
+45	sentence	1	The skier	19.482747441978837	
+45	sentence	2	participated	14.75355371804535	
+45	sentence	3		0.0	
+45	sentence	4	, but did not	25.44357821625136	
+45	sentence	5	organize	14.276761399544162	
+45	sentence	6	.	7.0201928462379515	
+46	sentence	1	The skier	19.482747441978837	
+46	sentence	2	participated	14.75355371804535	
+46	sentence	3		0.0	
+46	sentence	4	, but did not	25.44357821625136	
+46	sentence	5	obtain	11.11012327329606	
+46	sentence	6	.	10.844379808766467	
+47	sentence	1	The skier	19.482747441978837	
+47	sentence	2	participated	14.75355371804535	
+47	sentence	3		0.0	
+47	sentence	4	, but did not	25.44357821625136	
+47	sentence	5	kitten	25.23883100008786	
+47	sentence	6	.	6.924858047350472	
+48	sentence	1	The skier	19.482747441978837	
+48	sentence	2	participated	14.75355371804535	
+48	sentence	3		0.0	
+48	sentence	4	, but did not	25.44357821625136	
+48	sentence	5	acquire	14.188596213405852	
+48	sentence	6	.	7.833569659020329	
+49	sentence	1	The skier	19.482747441978837	
+49	sentence	2	participated	14.75355371804535	
+49	sentence	3		0.0	
+49	sentence	4	, but did not	25.44357821625136	
+49	sentence	5	qualify	7.301409245900368	
+49	sentence	6	.	4.278437858946418	
+50	sentence	1	The skier	19.482747441978837	
+50	sentence	2	participated	14.75355371804535	
+50	sentence	3		0.0	
+50	sentence	4	, but did not	25.44357821625136	
+50	sentence	5	criticize	13.0575942737734	
+50	sentence	6	.	8.639624826390175	
+51	sentence	1	The skier	19.482747441978837	
+51	sentence	2	participated	14.75355371804535	
+51	sentence	3		0.0	
+51	sentence	4	, but did not	25.44357821625136	
+51	sentence	5	rave	17.92006388920121	
+51	sentence	6	.	8.872055251447641	
+52	sentence	1	The skier	19.482747441978837	
+52	sentence	2	participated	14.75355371804535	
+52	sentence	3		0.0	
+52	sentence	4	, but did not	25.44357821625136	
+52	sentence	5	enlighten	17.834234873740172	
+52	sentence	6	.	8.58370225970502	
+53	sentence	1	The skier	19.482747441978837	
+53	sentence	2	participated	14.75355371804535	
+53	sentence	3		0.0	
+53	sentence	4	, but did not	25.44357821625136	
+53	sentence	5	disclose	9.633328888255225	
+53	sentence	6	.	8.198825724992158	
+54	sentence	1	The skier	19.482747441978837	
+54	sentence	2	participated	14.75355371804535	
+54	sentence	3		0.0	
+54	sentence	4	, but did not	25.44357821625136	
+54	sentence	5	reopen	17.406240266316242	
+54	sentence	6	.	6.532549110397923	
+55	sentence	1	The skier	19.482747441978837	
+55	sentence	2	participated	14.75355371804535	
+55	sentence	3		0.0	
+55	sentence	4	, but did not	25.44357821625136	
+55	sentence	5	stabilize	15.702968119729606	
+55	sentence	6	.	4.566767461048521	
+56	sentence	1	The skier	19.482747441978837	
+56	sentence	2	participated	14.75355371804535	
+56	sentence	3		0.0	
+56	sentence	4	, but did not	25.44357821625136	
+56	sentence	5	soar	15.905142668916682	
+56	sentence	6	.	8.133298959152222	
+57	sentence	1	The skier	19.482747441978837	
+57	sentence	2	participated	14.75355371804535	
+57	sentence	3		0.0	
+57	sentence	4	, but did not	25.44357821625136	
+57	sentence	5	authorize	14.568289878952312	
+57	sentence	6	.	9.727061496767266	
+58	sentence	1	The skier	19.482747441978837	
+58	sentence	2	participated	14.75355371804535	
+58	sentence	3		0.0	
+58	sentence	4	, but did not	25.44357821625136	
+58	sentence	5	sympathize	21.253616961028303	
+58	sentence	6	.	6.624951949053493	
+59	sentence	1	The skier	19.482747441978837	
+59	sentence	2	participated	14.75355371804535	
+59	sentence	3		0.0	
+59	sentence	4	, but did not	25.44357821625136	
+59	sentence	5	sharpen	17.304567503996033	
+59	sentence	6	.	7.983989125117959	
+60	sentence	1	The skier	19.482747441978837	
+60	sentence	2	participated	14.75355371804535	
+60	sentence	3		0.0	
+60	sentence	4	, but did not	25.44357821625136	
+60	sentence	5	specialize	15.691807133619212	
+60	sentence	6	.	6.168492107467909	
+61	sentence	1	The skier	19.482747441978837	
+61	sentence	2	participated	14.75355371804535	
+61	sentence	3		0.0	
+61	sentence	4	, but did not	25.44357821625136	
+61	sentence	5	minimize	16.335666150890948	
+61	sentence	6	.	7.72001226637803	
+62	sentence	1	The skier	19.482747441978837	
+62	sentence	2	participated	14.75355371804535	
+62	sentence	3		0.0	
+62	sentence	4	, but did not	25.44357821625136	
+62	sentence	5	socialize	16.775046911367298	
+62	sentence	6	.	5.964572278339877	
+63	sentence	1	The skier	19.482747441978837	
+63	sentence	2	participated	14.75355371804535	
+63	sentence	3		0.0	
+63	sentence	4	, but did not	25.44357821625136	
+63	sentence	5	utilize	12.543044196171188	
+63	sentence	6	.	9.615922868126702	
+64	sentence	1	The skier	19.482747441978837	
+64	sentence	2	participated	14.75355371804535	
+64	sentence	3		0.0	
+64	sentence	4	, but did not	25.44357821625136	
+64	sentence	5	rectify	16.540478903193346	
+64	sentence	6	.	7.3181617319556125	
+65	sentence	1	The skier	19.482747441978837	
+65	sentence	2	participated	14.75355371804535	
+65	sentence	3		0.0	
+65	sentence	4	, but did not	25.44357821625136	
+65	sentence	5	terrorize	18.176793377535947	
+65	sentence	6	.	8.392630222527044	
+66	sentence	1	The skier	19.482747441978837	
+66	sentence	2	participated	14.75355371804535	
+66	sentence	3		0.0	
+66	sentence	4	, but did not	25.44357821625136	
+66	sentence	5	enslave	20.804847968610993	
+66	sentence	6	.	7.552292721464809	
+67	sentence	1	The skier	19.482747441978837	
+67	sentence	2	participated	14.75355371804535	
+67	sentence	3		0.0	
+67	sentence	4	, but did not	25.44357821625136	
+67	sentence	5	finalize	12.600366551149545	
+67	sentence	6	.	6.488218862311526	
+68	sentence	1	The skier	19.482747441978837	
+68	sentence	2	participated	14.75355371804535	
+68	sentence	3		0.0	
+68	sentence	4	, but did not	25.44357821625136	
+68	sentence	5	maximize	15.6871402124054	
+68	sentence	6	.	7.3456734526488345	
+69	sentence	1	The skier	19.482747441978837	
+69	sentence	2	participated	14.75355371804535	
+69	sentence	3		0.0	
+69	sentence	4	, but did not	25.44357821625136	
+69	sentence	5	summarize	16.985182709445464	
+69	sentence	6	.	6.218565200231918	
+70	sentence	1	The skier	19.482747441978837	
+70	sentence	2	participated	14.75355371804535	
+70	sentence	3		0.0	
+70	sentence	4	, but did not	25.44357821625136	
+70	sentence	5	repose	21.655584164181498	
+70	sentence	6	.	4.030595036649232	
+71	sentence	1	The skier	19.482747441978837	
+71	sentence	2	participated	14.75355371804535	
+71	sentence	3		0.0	
+71	sentence	4	, but did not	25.44357821625136	
+71	sentence	5	symbolize	18.945441823893013	
+71	sentence	6	.	9.868945807867876	
+72	sentence	1	The skier	19.482747441978837	
+72	sentence	2	participated	14.75355371804535	
+72	sentence	3		0.0	
+72	sentence	4	, but did not	25.44357821625136	
+72	sentence	5	sterilize	20.217335960457824	
+72	sentence	6	.	6.632896171662148	
+73	sentence	1	The skier	19.482747441978837	
+73	sentence	2	participated	14.75355371804535	
+73	sentence	3		0.0	
+73	sentence	4	, but did not	25.44357821625136	
+73	sentence	5	revolutionize	20.248224678738808	
+73	sentence	6	.	10.729614409984508	
+74	sentence	1	The skier	19.482747441978837	
+74	sentence	2	participated	14.75355371804535	
+74	sentence	3		0.0	
+74	sentence	4	, but did not	25.44357821625136	
+74	sentence	5	synchronize	18.857261857995645	
+74	sentence	6	.	6.0354587115113025	
+75	sentence	1	The skier	19.482747441978837	
+75	sentence	2	participated	14.75355371804535	
+75	sentence	3		0.0	
+75	sentence	4	, but did not	25.44357821625136	
+75	sentence	5	fertilize	21.33664627225956	
+75	sentence	6	.	6.975605312105863	
+76	sentence	1	The skier	19.482747441978837	
+76	sentence	2	participated	14.75355371804535	
+76	sentence	3		0.0	
+76	sentence	4	, but did not	25.44357821625136	
+76	sentence	5	rationalize	20.80446883285716	
+76	sentence	6	.	6.142056998169089	
+77	sentence	1	The skier	19.482747441978837	
+77	sentence	2	participated	14.75355371804535	
+77	sentence	3		0.0	
+77	sentence	4	, but did not	25.44357821625136	
+77	sentence	5	antagonize	16.13627043288302	
+77	sentence	6	.	7.5068156930624585	
+78	sentence	1	The skier	19.482747441978837	
+78	sentence	2	participated	14.75355371804535	
+78	sentence	3		0.0	
+78	sentence	4	, but did not	25.44357821625136	
+78	sentence	5	kindle	17.006417923295448	
+78	sentence	6	.	7.325280437840125	
+79	sentence	1	The skier	19.482747441978837	
+79	sentence	2	participated	14.75355371804535	
+79	sentence	3		0.0	
+79	sentence	4	, but did not	25.44357821625136	
+79	sentence	5	familiarize	18.618301025957688	
+79	sentence	6	.	15.645638734960393	
+80	sentence	1	The skier	19.482747441978837	
+80	sentence	2	participated	14.75355371804535	
+80	sentence	3		0.0	
+80	sentence	4	, but did not	25.44357821625136	
+80	sentence	5	synthesize	19.80293977535617	
+80	sentence	6	.	6.38609556422919	
+81	sentence	1	The skier	19.482747441978837	
+81	sentence	2	participated	14.75355371804535	
+81	sentence	3		0.0	
+81	sentence	4	, but did not	25.44357821625136	
+81	sentence	5	reorganize	20.404806949649625	
+81	sentence	6	.	5.612699214327588	
+82	sentence	1	The skier	19.482747441978837	
+82	sentence	2	participated	14.75355371804535	
+82	sentence	3		0.0	
+82	sentence	4	, but did not	25.44357821625136	
+82	sentence	5	ripen	24.39928117956658	
+82	sentence	6	.	5.854180742334661	
+83	sentence	1	The skier	19.482747441978837	
+83	sentence	2	participated	14.75355371804535	
+83	sentence	3		0.0	
+83	sentence	4	, but did not	25.44357821625136	
+83	sentence	5	deepen	18.665252332638897	
+83	sentence	6	.	7.332430100601794	
+84	sentence	1	The skier	19.482747441978837	
+84	sentence	2	participated	14.75355371804535	
+84	sentence	3		0.0	
+84	sentence	4	, but did not	25.44357821625136	
+84	sentence	5	destabilize	19.517628135560322	
+84	sentence	6	.	7.593555486990417	
+85	sentence	1	The skier	19.482747441978837	
+85	sentence	2	participated	14.75355371804535	
+85	sentence	3		0.0	
+85	sentence	4	, but did not	25.44357821625136	
+85	sentence	5	enclose	20.107205530394207	
+85	sentence	6	.	6.252762230529479	
+86	sentence	1	The skier	19.482747441978837	
+86	sentence	2	participated	14.75355371804535	
+86	sentence	3		0.0	
+86	sentence	4	, but did not	25.44357821625136	
+86	sentence	5	dampen	19.490460616644974	
+86	sentence	6	.	10.142592907100518	
+87	sentence	1	The skier	19.482747441978837	
+87	sentence	2	participated	14.75355371804535	
+87	sentence	3		0.0	
+87	sentence	4	, but did not	25.44357821625136	
+87	sentence	5	subsidize	19.632011700610622	
+87	sentence	6	.	7.871260000922216	
+88	sentence	1	The skier	19.482747441978837	
+88	sentence	2	participated	14.75355371804535	
+88	sentence	3		0.0	
+88	sentence	4	, but did not	25.44357821625136	
+88	sentence	5	idolize	20.02740187873603	
+88	sentence	6	.	8.369373352616169	
+89	sentence	1	The skier	19.482747441978837	
+89	sentence	2	participated	14.75355371804535	
+89	sentence	3		0.0	
+89	sentence	4	, but did not	25.44357821625136	
+89	sentence	5	quantify	15.589619170060152	
+89	sentence	6	.	7.130059491192735	
+90	sentence	1	The skier	19.482747441978837	
+90	sentence	2	participated	14.75355371804535	
+90	sentence	3		0.0	
+90	sentence	4	, but did not	25.44357821625136	
+90	sentence	5	engrave	20.43331206363206	
+90	sentence	6	.	8.405270259434857	
+91	sentence	1	The skier	19.482747441978837	
+91	sentence	2	participated	14.75355371804535	
+91	sentence	3		0.0	
+91	sentence	4	, but did not	25.44357821625136	
+91	sentence	5	fraternize	21.095878628112843	
+91	sentence	6	.	5.9155056280487175	
+92	sentence	1	The skier	19.482747441978837	
+92	sentence	2	participated	14.75355371804535	
+92	sentence	3		0.0	
+92	sentence	4	, but did not	25.44357821625136	
+92	sentence	5	immobilize	16.635671950755306	
+92	sentence	6	.	5.709086547038347	
+93	sentence	1	The skier	19.482747441978837	
+93	sentence	2	participated	14.75355371804535	
+93	sentence	3		0.0	
+93	sentence	4	, but did not	25.44357821625136	
+93	sentence	5	downsize	18.88783709489977	
+93	sentence	6	.	4.257052504242232	
+94	sentence	1	The skier	19.482747441978837	
+94	sentence	2	participated	14.75355371804535	
+94	sentence	3		0.0	
+94	sentence	4	, but did not	25.44357821625136	
+94	sentence	5	theorize	18.826035279797036	
+94	sentence	6	.	6.709048713602993	
+95	sentence	1	The skier	19.482747441978837	
+95	sentence	2	participated	14.75355371804535	
+95	sentence	3		0.0	
+95	sentence	4	, but did not	25.44357821625136	
+95	sentence	5	dramatize	19.485289759391843	
+95	sentence	6	.	6.787966736569711	
+96	sentence	1	The skier	19.482747441978837	
+96	sentence	2	participated	14.75355371804535	
+96	sentence	3		0.0	
+96	sentence	4	, but did not	25.44357821625136	
+96	sentence	5	modernize	21.740103834069473	
+96	sentence	6	.	7.2754453690649115	
+97	sentence	1	The skier	19.482747441978837	
+97	sentence	2	participated	14.75355371804535	
+97	sentence	3		0.0	
+97	sentence	4	, but did not	25.44357821625136	
+97	sentence	5	revitalize	20.75398624940145	
+97	sentence	6	.	6.704610185349526	
+98	sentence	1	The skier	19.482747441978837	
+98	sentence	2	participated	14.75355371804535	
+98	sentence	3		0.0	
+98	sentence	4	, but did not	25.44357821625136	
+98	sentence	5	traumatize	18.49050908075793	
+98	sentence	6	.	7.71637448934698	
+99	sentence	1	The skier	19.482747441978837	
+99	sentence	2	participated	14.75355371804535	
+99	sentence	3		0.0	
+99	sentence	4	, but did not	25.44357821625136	
+99	sentence	5	immortalize	19.720770560110793	
+99	sentence	6	.	6.610551497731448	
+100	sentence	1	The skier	19.482747441978837	
+100	sentence	2	participated	14.75355371804535	
+100	sentence	3		0.0	
+100	sentence	4	, but did not	25.44357821625136	
+100	sentence	5	agonize	18.836675136977483	
+100	sentence	6	.	4.677037577302228	
+101	sentence	1	The skier	19.482747441978837	
+101	sentence	2	participated	14.75355371804535	
+101	sentence	3		0.0	
+101	sentence	4	, but did not	25.44357821625136	
+101	sentence	5	electrify	18.72433336070715	
+101	sentence	6	.	6.071169189136456	
+102	sentence	1	The skier	19.482747441978837	
+102	sentence	2	participated	14.75355371804535	
+102	sentence	3		0.0	
+102	sentence	4	, but did not	25.44357821625136	
+102	sentence	5	demoralize	19.43413754536162	
+102	sentence	6	.	7.4277490770853944	
+103	sentence	1	The skier	19.482747441978837	
+103	sentence	2	participated	14.75355371804535	
+103	sentence	3		0.0	
+103	sentence	4	, but did not	25.44357821625136	
+103	sentence	5	sanitize	20.31718137520177	
+103	sentence	6	.	7.427115492999615	
+104	sentence	1	The skier	19.482747441978837	
+104	sentence	2	participated	14.75355371804535	
+104	sentence	3		0.0	
+104	sentence	4	, but did not	25.44357821625136	
+104	sentence	5	anesthetize	23.329491245910177	
+104	sentence	6	.	4.370037538622459	
+105	sentence	1	The skier	19.482747441978837	
+105	sentence	2	participated	14.75355371804535	
+105	sentence	3		0.0	
+105	sentence	4	, but did not	25.44357821625136	
+105	sentence	5	trivialize	18.91680219797977	
+105	sentence	6	.	8.224823998357788	
+106	sentence	1	The skier	19.482747441978837	
+106	sentence	2	participated	14.75355371804535	
+106	sentence	3		0.0	
+106	sentence	4	, but did not	25.44357821625136	
+106	sentence	5	romanticize	20.6895253890359	
+106	sentence	6	.	8.088386721775304	
+107	sentence	1	The skier	19.482747441978837	
+107	sentence	2	participated	14.75355371804535	
+107	sentence	3		0.0	
+107	sentence	4	, but did not	25.44357821625136	
+107	sentence	5	equalize	20.759262870610403	
+107	sentence	6	.	5.1348739680253175	
+108	sentence	1	The skier	19.482747441978837	
+108	sentence	2	participated	14.75355371804535	
+108	sentence	3		0.0	
+108	sentence	4	, but did not	25.44357821625136	
+108	sentence	5	demonize	22.487593491367026	
+108	sentence	6	.	9.245151662507004	
+109	sentence	1	The skier	19.482747441978837	
+109	sentence	2	participated	14.75355371804535	
+109	sentence	3		0.0	
+109	sentence	4	, but did not	25.44357821625136	
+109	sentence	5	alphabetize	27.04886240909349	
+109	sentence	6	.	5.408976133352143	
+110	sentence	1	The skier	19.482747441978837	
+110	sentence	2	participated	14.75355371804535	
+110	sentence	3		0.0	
+110	sentence	4	, but did not	25.44357821625136	
+110	sentence	5	formalize	16.993544274828725	
+110	sentence	6	.	8.555711051381193	
+111	sentence	1	The skier	19.482747441978837	
+111	sentence	2	participated	14.75355371804535	
+111	sentence	3		0.0	
+111	sentence	4	, but did not	25.44357821625136	
+111	sentence	5	optimize	16.467946950767377	
+111	sentence	6	.	5.412876011943108	
+112	sentence	1	The skier	19.482747441978837	
+112	sentence	2	participated	14.75355371804535	
+112	sentence	3		0.0	
+112	sentence	4	, but did not	25.44357821625136	
+112	sentence	5	internalize	18.005312856894623	
+112	sentence	6	.	5.801493513277538	
+113	sentence	1	The skier	19.482747441978837	
+113	sentence	2	participated	14.75355371804535	
+113	sentence	3		0.0	
+113	sentence	4	, but did not	25.44357821625136	
+113	sentence	5	idealize	19.850222428112097	
+113	sentence	6	.	7.253214203683782	
+114	sentence	1	The skier	19.482747441978837	
+114	sentence	2	participated	14.75355371804535	
+114	sentence	3		0.0	
+114	sentence	4	, but did not	25.44357821625136	
+114	sentence	5	sodomize	20.84283271256441	
+114	sentence	6	.	8.28793819157142	
+115	sentence	1	The skier	19.482747441978837	
+115	sentence	2	participated	14.75355371804535	
+115	sentence	3		0.0	
+115	sentence	4	, but did not	25.44357821625136	
+115	sentence	5	digitize	22.31084309446134	
+115	sentence	6	.	6.793276872897751	
+116	sentence	1	The skier	19.482747441978837	
+116	sentence	2	participated	14.75355371804535	
+116	sentence	3		0.0	
+116	sentence	4	, but did not	25.44357821625136	
+116	sentence	5	galvanize	19.49135489418271	
+116	sentence	6	.	7.953058389325585	
+117	sentence	1	The skier	19.482747441978837	
+117	sentence	2	participated	14.75355371804535	
+117	sentence	3		0.0	
+117	sentence	4	, but did not	25.44357821625136	
+117	sentence	5	initialize	17.906899649173567	
+117	sentence	6	.	4.533638443012817	
+118	sentence	1	The skier	19.482747441978837	
+118	sentence	2	participated	14.75355371804535	
+118	sentence	3		0.0	
+118	sentence	4	, but did not	25.44357821625136	
+118	sentence	5	exemplify	17.319160300110177	
+118	sentence	6	.	7.9174366547482755	
+119	sentence	1	The skier	19.482747441978837	
+119	sentence	2	participated	14.75355371804535	
+119	sentence	3		0.0	
+119	sentence	4	, but did not	25.44357821625136	
+119	sentence	5	depressurize	30.03530017720851	
+119	sentence	6	.	4.887696030656366	
+120	sentence	1	The skier	19.482747441978837	
+120	sentence	2	participated	14.75355371804535	
+120	sentence	3		0.0	
+120	sentence	4	, but did not	25.44357821625136	
+120	sentence	5	itemize	16.589447620113752	
+120	sentence	6	.	5.059405573069605	
+121	sentence	1	The skier	19.482747441978837	
+121	sentence	2	participated	14.75355371804535	
+121	sentence	3		0.0	
+121	sentence	4	, but did not	25.44357821625136	
+121	sentence	5	dehumanize	22.370469920221016	
+121	sentence	6	.	8.045008569644084	
+122	sentence	1	The skier	19.482747441978837	
+122	sentence	2	participated	14.75355371804535	
+122	sentence	3		0.0	
+122	sentence	4	, but did not	25.44357821625136	
+122	sentence	5	mollify	22.682304977032445	
+122	sentence	6	.	6.378061222711483	
+123	sentence	1	The skier	19.482747441978837	
+123	sentence	2	participated	14.75355371804535	
+123	sentence	3		0.0	
+123	sentence	4	, but did not	25.44357821625136	
+123	sentence	5	immunize	19.49696587116277	
+123	sentence	6	.	6.749991591397996	
+124	sentence	1	The skier	19.482747441978837	
+124	sentence	2	participated	14.75355371804535	
+124	sentence	3		0.0	
+124	sentence	4	, but did not	25.44357821625136	
+124	sentence	5	oxidize	20.03485536497382	
+124	sentence	6	.	5.222844813768153	
+125	sentence	1	The skier	19.482747441978837	
+125	sentence	2	participated	14.75355371804535	
+125	sentence	3		0.0	
+125	sentence	4	, but did not	25.44357821625136	
+125	sentence	5	dematerialize	22.419495348420547	
+125	sentence	6	.	3.8586433426635782	
+126	sentence	1	The skier	19.482747441978837	
+126	sentence	2	participated	14.75355371804535	
+126	sentence	3		0.0	
+126	sentence	4	, but did not	25.44357821625136	
+126	sentence	5	ostracize	20.898668675235935	
+126	sentence	6	.	7.976276735122667	
+127	sentence	1	The skier	19.482747441978837	
+127	sentence	2	participated	14.75355371804535	
+127	sentence	3		0.0	
+127	sentence	4	, but did not	25.44357821625136	
+127	sentence	5	overdramatize	23.635108259230748	
+127	sentence	6	.	4.808623911234474	
+128	sentence	1	The skier	19.482747441978837	
+128	sentence	2	participated	14.75355371804535	
+128	sentence	3		0.0	
+128	sentence	4	, but did not	25.44357821625136	
+128	sentence	5	satirize	21.803931045855748	
+128	sentence	6	.	8.001445364180533	
+129	sentence	1	The skier	19.482747441978837	
+129	sentence	2	participated	14.75355371804535	
+129	sentence	3		0.0	
+129	sentence	4	, but did not	25.44357821625136	
+129	sentence	5	amortize	21.680311593246408	
+129	sentence	6	.	5.14744417997688	
+130	sentence	1	The skier	19.482747441978837	
+130	sentence	2	participated	14.75355371804535	
+130	sentence	3		0.0	
+130	sentence	4	, but did not	25.44357821625136	
+130	sentence	5	tyrannize	24.41473747537793	
+130	sentence	6	.	5.569452456941626	
+131	sentence	1	The skier	19.482747441978837	
+131	sentence	2	participated	14.75355371804535	
+131	sentence	3		0.0	
+131	sentence	4	, but did not	25.44357821625136	
+131	sentence	5	eulogize	21.81845304860352	
+131	sentence	6	.	6.1730695977032735	
+132	sentence	1	The skier	19.482747441978837	
+132	sentence	2	participated	14.75355371804535	
+132	sentence	3		0.0	
+132	sentence	4	, but did not	25.44357821625136	
+132	sentence	5	resize	18.371478447741083	
+132	sentence	6	.	4.986242089600755	
+133	sentence	1	The skier	19.482747441978837	
+133	sentence	2	participated	14.75355371804535	
+133	sentence	3		0.0	
+133	sentence	4	, but did not	25.44357821625136	
+133	sentence	5	editorialize	21.5314249601458	
+133	sentence	6	.	4.313446647356051	
+134	sentence	1	The skier	19.482747441978837	
+134	sentence	2	participated	14.75355371804535	
+134	sentence	3		0.0	
+134	sentence	4	, but did not	25.44357821625136	
+134	sentence	5	acclimatize	16.93909648423159	
+134	sentence	6	.	6.043679482222545	
+135	sentence	1	The skier	19.482747441978837	
+135	sentence	2	participated	14.75355371804535	
+135	sentence	3		0.0	
+135	sentence	4	, but did not	25.44357821625136	
+135	sentence	5	desensitize	25.194652178694707	
+135	sentence	6	.	7.051494376625586	
+136	sentence	1	The skier	19.482747441978837	
+136	sentence	2	participated	14.75355371804535	
+136	sentence	3		0.0	
+136	sentence	4	, but did not	25.44357821625136	
+136	sentence	5	standardize	20.34479141085225	
+136	sentence	6	.	7.627770403483668	
+137	sentence	1	The skier	19.482747441978837	
+137	sentence	2	participated	14.75355371804535	
+137	sentence	3		0.0	
+137	sentence	4	, but did not	25.44357821625136	
+137	sentence	5	stigmatize	22.37776775678532	
+137	sentence	6	.	8.0996880457288	
+138	sentence	1	The skier	19.482747441978837	
+138	sentence	2	participated	14.75355371804535	
+138	sentence	3		0.0	
+138	sentence	4	, but did not	25.44357821625136	
+138	sentence	5	actualize	18.95835617312895	
+138	sentence	6	.	6.736445549885438	
+139	sentence	1	The skier	19.482747441978837	
+139	sentence	2	participated	14.75355371804535	
+139	sentence	3		0.0	
+139	sentence	4	, but did not	25.44357821625136	
+139	sentence	5	industrialize	22.85411071686655	
+139	sentence	6	.	4.62523055545222	
+140	sentence	1	The skier	19.482747441978837	
+140	sentence	2	participated	14.75355371804535	
+140	sentence	3		0.0	
+140	sentence	4	, but did not	25.44357821625136	
+140	sentence	5	sexualize	23.348882176931347	
+140	sentence	6	.	7.74834881586479	
+141	sentence	1	The skier	19.482747441978837	
+141	sentence	2	participated	14.75355371804535	
+141	sentence	3		0.0	
+141	sentence	4	, but did not	25.44357821625136	
+141	sentence	5	demagnetize	30.303585244348213	
+141	sentence	6	.	5.062281466957333	
+142	sentence	1	The skier	19.482747441978837	
+142	sentence	2	participated	14.75355371804535	
+142	sentence	3		0.0	
+142	sentence	4	, but did not	25.44357821625136	
+142	sentence	5	solemnize	22.36047518071287	
+142	sentence	6	.	5.623395503315349	
+143	sentence	1	The skier	19.482747441978837	
+143	sentence	2	participated	14.75355371804535	
+143	sentence	3		0.0	
+143	sentence	4	, but did not	25.44357821625136	
+143	sentence	5	atomize	22.15549346620492	
+143	sentence	6	.	4.5287723658893055	
+144	sentence	1	The skier	19.482747441978837	
+144	sentence	2	participated	14.75355371804535	
+144	sentence	3		0.0	
+144	sentence	4	, but did not	25.44357821625136	
+144	sentence	5	ionize	22.004590255906074	
+144	sentence	6	.	5.101100359014181	
+145	sentence	1	The skier	19.482747441978837	
+145	sentence	2	participated	14.75355371804535	
+145	sentence	3		0.0	
+145	sentence	4	, but did not	25.44357821625136	
+145	sentence	5	radicalize	18.452995687505954	
+145	sentence	6	.	6.656635280926043	
+146	sentence	1	The skier	19.482747441978837	
+146	sentence	2	participated	14.75355371804535	
+146	sentence	3		0.0	
+146	sentence	4	, but did not	25.44357821625136	
+146	sentence	5	reunify	23.00857236644982	
+146	sentence	6	.	6.894129563155513	
+147	sentence	1	The skier	19.482747441978837	
+147	sentence	2	participated	14.75355371804535	
+147	sentence	3		0.0	
+147	sentence	4	, but did not	25.44357821625136	
+147	sentence	5	demobilize	23.790571997976016	
+147	sentence	6	.	3.331767956404631	
+148	sentence	1	The skier	19.482747441978837	
+148	sentence	2	participated	14.75355371804535	
+148	sentence	3		0.0	
+148	sentence	4	, but did not	25.44357821625136	
+148	sentence	5	democratize	24.096069273750373	
+148	sentence	6	.	8.00667707641978	
+149	sentence	1	The skier	19.482747441978837	
+149	sentence	2	participated	14.75355371804535	
+149	sentence	3		0.0	
+149	sentence	4	, but did not	25.44357821625136	
+149	sentence	5	reclassify	20.781365008694955	
+149	sentence	6	.	5.147693554820631	
+150	sentence	1	The skier	19.482747441978837	
+150	sentence	2	participated	14.75355371804535	
+150	sentence	3		0.0	
+150	sentence	4	, but did not	25.44357821625136	
+150	sentence	5	rhapsodize	25.945812879573722	
+150	sentence	6	.	4.937708585527271	
+151	sentence	1	The skier	19.482747441978837	
+151	sentence	2	participated	14.75355371804535	
+151	sentence	3		0.0	
+151	sentence	4	, but did not	25.44357821625136	
+151	sentence	5	serialize	19.796077990054215	
+151	sentence	6	.	4.559343313976075	
+152	sentence	1	The skier	19.482747441978837	
+152	sentence	2	participated	14.75355371804535	
+152	sentence	3		0.0	
+152	sentence	4	, but did not	25.44357821625136	
+152	sentence	5	disorganize	23.895495678813433	
+152	sentence	6	.	5.079723603442537	
+153	sentence	1	The skier	19.482747441978837	
+153	sentence	2	participated	14.75355371804535	
+153	sentence	3		0.0	
+153	sentence	4	, but did not	25.44357821625136	
+153	sentence	5	sermonize	21.307816756001934	
+153	sentence	6	.	3.8991318422950023	
+154	sentence	1	The skier	19.482747441978837	
+154	sentence	2	participated	14.75355371804535	
+154	sentence	3		0.0	
+154	sentence	4	, but did not	25.44357821625136	
+154	sentence	5	deodorize	24.85354557662257	
+154	sentence	6	.	4.9841617874559185	
+155	sentence	1	The skier	19.482747441978837	
+155	sentence	2	participated	14.75355371804535	
+155	sentence	3		0.0	
+155	sentence	4	, but did not	25.44357821625136	
+155	sentence	5	emulsify	24.650359948149145	
+155	sentence	6	.	4.904883288852992	
+156	sentence	1	The skier	19.482747441978837	
+156	sentence	2	participated	14.75355371804535	
+156	sentence	3		0.0	
+156	sentence	4	, but did not	25.44357821625136	
+156	sentence	5	overemphasize	20.86230085258503	
+156	sentence	6	.	6.947995905266952	
+157	sentence	1	The skier	19.482747441978837	
+157	sentence	2	participated	14.75355371804535	
+157	sentence	3		0.0	
+157	sentence	4	, but did not	25.44357821625136	
+157	sentence	5	aerosolize	20.616024126266296	
+157	sentence	6	.	4.328890001472928	
+158	sentence	1	The skier	19.482747441978837	
+158	sentence	2	participated	14.75355371804535	
+158	sentence	3		0.0	
+158	sentence	4	, but did not	25.44357821625136	
+158	sentence	5	apostatize	23.768785450743025	
+158	sentence	6	.	4.244884387728386	
+159	sentence	1	The skier	19.482747441978837	
+159	sentence	2	participated	14.75355371804535	
+159	sentence	3		0.0	
+159	sentence	4	, but did not	25.44357821625136	
+159	sentence	5	depolarize	22.896634340950214	
+159	sentence	6	.	4.61858480185758	
+160	sentence	1	The skier	19.482747441978837	
+160	sentence	2	participated	14.75355371804535	
+160	sentence	3		0.0	
+160	sentence	4	, but did not	25.44357821625136	
+160	sentence	5	evangelize	23.408014133362084	
+160	sentence	6	.	5.427135093526143	
+161	sentence	1	The skier	19.482747441978837	
+161	sentence	2	participated	14.75355371804535	
+161	sentence	3		0.0	
+161	sentence	4	, but did not	25.44357821625136	
+161	sentence	5	anatomize	29.16871490969882	
+161	sentence	6	.	5.3698989233536985	
+162	sentence	1	The skier	19.482747441978837	
+162	sentence	2	participated	14.75355371804535	
+162	sentence	3		0.0	
+162	sentence	4	, but did not	25.44357821625136	
+162	sentence	5	anthropomorphize	22.252663169492283	
+162	sentence	6	.	7.050596627188082	
+163	sentence	1	The skier	19.482747441978837	
+163	sentence	2	participated	14.75355371804535	
+163	sentence	3		0.0	
+163	sentence	4	, but did not	25.44357821625136	
+163	sentence	5	federalize	26.017356560568793	
+163	sentence	6	.	5.947950499099289	
+164	sentence	1	The skier	19.482747441978837	
+164	sentence	2	participated	14.75355371804535	
+164	sentence	3		0.0	
+164	sentence	4	, but did not	25.44357821625136	
+164	sentence	5	feminize	22.526905995129685	
+164	sentence	6	.	5.72065410013538	
+165	sentence	1	The skier	19.482747441978837	
+165	sentence	2	participated	14.75355371804535	
+165	sentence	3		0.0	
+165	sentence	4	, but did not	25.44357821625136	
+165	sentence	5	fossilize	20.805596189882483	
+165	sentence	6	.	4.675338388711703	
+166	sentence	1	The skier	19.482747441978837	
+166	sentence	2	participated	14.75355371804535	
+166	sentence	3		0.0	
+166	sentence	4	, but did not	25.44357821625136	
+166	sentence	5	regularize	22.19153636479636	
+166	sentence	6	.	6.07293992250974	
+167	sentence	1	The skier	19.482747441978837	
+167	sentence	2	participated	14.75355371804535	
+167	sentence	3		0.0	
+167	sentence	4	, but did not	25.44357821625136	
+167	sentence	5	ritualize	23.16054956540764	
+167	sentence	6	.	5.517092338886444	
+168	sentence	1	The skier	19.482747441978837	
+168	sentence	2	participated	14.75355371804535	
+168	sentence	3		0.0	
+168	sentence	4	, but did not	25.44357821625136	
+168	sentence	5	sentimentalize	25.906183642887214	
+168	sentence	6	.	7.425807736922454	
+169	sentence	1	The skier	19.482747441978837	
+169	sentence	2	participated	14.75355371804535	
+169	sentence	3		0.0	
+169	sentence	4	, but did not	25.44357821625136	
+169	sentence	5	exteriorize	26.06652416467601	
+169	sentence	6	.	5.398422589964597	
+170	sentence	1	The skier	19.482747441978837	
+170	sentence	2	participated	14.75355371804535	
+170	sentence	3		0.0	
+170	sentence	4	, but did not	25.44357821625136	
+170	sentence	5	fetishize	22.0461865602852	
+170	sentence	6	.	8.192707958135667	
+171	sentence	1	The skier	19.482747441978837	
+171	sentence	2	participated	14.75355371804535	
+171	sentence	3		0.0	
+171	sentence	4	, but did not	25.44357821625136	
+171	sentence	5	fictionalize	25.518806802898276	
+171	sentence	6	.	8.881439312809318	
+172	sentence	1	The skier	19.482747441978837	
+172	sentence	2	participated	14.75355371804535	
+172	sentence	3		0.0	
+172	sentence	4	, but did not	25.44357821625136	
+172	sentence	5	individualize	19.621759900784014	
+172	sentence	6	.	6.859823151892003	
+173	sentence	1	The skier	19.482747441978837	
+173	sentence	2	participated	14.75355371804535	
+173	sentence	3		0.0	
+173	sentence	4	, but did not	25.44357821625136	
+173	sentence	5	internationalize	24.70792434049269	
+173	sentence	6	.	5.308550647999124	
+174	sentence	1	The skier	19.482747441978837	
+174	sentence	2	participated	14.75355371804535	
+174	sentence	3		0.0	
+174	sentence	4	, but did not	25.44357821625136	
+174	sentence	5	alkalinize	29.09335859906135	
+174	sentence	6	.	4.827235529745546	
+175	sentence	1	The skier	19.482747441978837	
+175	sentence	2	participated	14.75355371804535	
+175	sentence	3		0.0	
+175	sentence	4	, but did not	25.44357821625136	
+175	sentence	5	depersonalize	20.939295181539375	
+175	sentence	6	.	5.17860537252141	
+176	sentence	1	The skier	19.482747441978837	
+176	sentence	2	participated	14.75355371804535	
+176	sentence	3		0.0	
+176	sentence	4	, but did not	25.44357821625136	
+176	sentence	5	italicize	22.179626028778326	
+176	sentence	6	.	5.011834483910349	
+177	sentence	1	The skier	19.482747441978837	
+177	sentence	2	participated	14.75355371804535	
+177	sentence	3		0.0	
+177	sentence	4	, but did not	25.44357821625136	
+177	sentence	5	randomize	20.205409382828197	
+177	sentence	6	.	6.1297354731306735	
+178	sentence	1	The skier	19.482747441978837	
+178	sentence	2	participated	14.75355371804535	
+178	sentence	3		0.0	
+178	sentence	4	, but did not	25.44357821625136	
+178	sentence	5	stylize	23.708325573269313	
+178	sentence	6	.	6.821310732918993	
+179	sentence	1	The skier	19.482747441978837	
+179	sentence	2	participated	14.75355371804535	
+179	sentence	3		0.0	
+179	sentence	4	, but did not	25.44357821625136	
+179	sentence	5	temporize	27.44084354711349	
+179	sentence	6	.	5.14869002229973	
+180	sentence	1	The skier	19.482747441978837	
+180	sentence	2	participated	14.75355371804535	
+180	sentence	3		0.0	
+180	sentence	4	, but did not	25.44357821625136	
+180	sentence	5	ramify	27.371608491355655	
+180	sentence	6	.	6.274828980496384	
+181	sentence	1	The skier	19.482747441978837	
+181	sentence	2	participated	14.75355371804535	
+181	sentence	3		0.0	
+181	sentence	4	, but did not	25.44357821625136	
+181	sentence	5	reimpose	21.962269732584165	
+181	sentence	6	.	6.589326086892564	
+182	sentence	1	The skier	19.482747441978837	
+182	sentence	2	participated	14.75355371804535	
+182	sentence	3		0.0	
+182	sentence	4	, but did not	25.44357821625136	
+182	sentence	5	sensitize	22.113515489327867	
+182	sentence	6	.	8.653413019475149	
+183	sentence	1	The skier	19.482747441978837	
+183	sentence	2	participated	14.75355371804535	
+183	sentence	3		0.0	
+183	sentence	4	, but did not	25.44357821625136	
+183	sentence	5	systematize	23.348192376016566	
+183	sentence	6	.	5.322277615260391	
+184	sentence	1	The skier	19.482747441978837	
+184	sentence	2	participated	14.75355371804535	
+184	sentence	3		0.0	
+184	sentence	4	, but did not	25.44357821625136	
+184	sentence	5	denationalize	29.48579489454132	
+184	sentence	6	.	6.984112261948141	
+185	sentence	1	The skier	19.482747441978837	
+185	sentence	2	participated	14.75355371804535	
+185	sentence	3		0.0	
+185	sentence	4	, but did not	25.44357821625136	
+185	sentence	5	digitalize	24.70020251294943	
+185	sentence	6	.	6.766852082557983	
+186	sentence	1	The skier	19.482747441978837	
+186	sentence	2	participated	14.75355371804535	
+186	sentence	3		0.0	
+186	sentence	4	, but did not	25.44357821625136	
+186	sentence	5	reify	24.54507224856419	
+186	sentence	6	.	4.880693585043836	
+187	sentence	1	The skier	19.482747441978837	
+187	sentence	2	participated	14.75355371804535	
+187	sentence	3		0.0	
+187	sentence	4	, but did not	25.44357821625136	
+187	sentence	5	secularize	27.406088003157258	
+187	sentence	6	.	6.068088635894202	
+188	sentence	1	The skier	19.482747441978837	
+188	sentence	2	participated	14.75355371804535	
+188	sentence	3		0.0	
+188	sentence	4	, but did not	25.44357821625136	
+188	sentence	5	spiritualize	26.95713228057677	
+188	sentence	6	.	4.8988436021199915	
+189	sentence	1	The skier	19.482747441978837	
+189	sentence	2	participated	14.75355371804535	
+189	sentence	3		0.0	
+189	sentence	4	, but did not	25.44357821625136	
+189	sentence	5	alkalize	26.384480680596468	
+189	sentence	6	.	4.484018352551182	
+190	sentence	1	The skier	19.482747441978837	
+190	sentence	2	participated	14.75355371804535	
+190	sentence	3		0.0	
+190	sentence	4	, but did not	25.44357821625136	
+190	sentence	5	decentralize	23.34896057952231	
+190	sentence	6	.	6.591803324995592	
+191	sentence	1	The skier	19.482747441978837	
+191	sentence	2	participated	14.75355371804535	
+191	sentence	3		0.0	
+191	sentence	4	, but did not	25.44357821625136	
+191	sentence	5	decolonize	27.31998981200617	
+191	sentence	6	.	5.962243633247194	
+192	sentence	1	The skier	19.482747441978837	
+192	sentence	2	participated	14.75355371804535	
+192	sentence	3		0.0	
+192	sentence	4	, but did not	25.44357821625136	
+192	sentence	5	demilitarize	25.37501814360816	
+192	sentence	6	.	6.974544523115341	
+193	sentence	1	The skier	19.482747441978837	
+193	sentence	2	participated	14.75355371804535	
+193	sentence	3		0.0	
+193	sentence	4	, but did not	25.44357821625136	
+193	sentence	5	desexualize	26.71430709511417	
+193	sentence	6	.	5.628891724871623	
+194	sentence	1	The skier	19.482747441978837	
+194	sentence	2	participated	14.75355371804535	
+194	sentence	3		0.0	
+194	sentence	4	, but did not	25.44357821625136	
+194	sentence	5	desynchronize	23.03949562099688	
+194	sentence	6	.	4.783376858087814	
+195	sentence	1	The skier	19.482747441978837	
+195	sentence	2	participated	14.75355371804535	
+195	sentence	3		0.0	
+195	sentence	4	, but did not	25.44357821625136	
+195	sentence	5	devitalize	33.929645129641806	
+195	sentence	6	.	6.90241706313529	
+196	sentence	1	The skier	19.482747441978837	
+196	sentence	2	participated	14.75355371804535	
+196	sentence	3		0.0	
+196	sentence	4	, but did not	25.44357821625136	
+196	sentence	5	eroticize	26.049333961276485	
+196	sentence	6	.	7.021803979711234	
+197	sentence	1	The skier	19.482747441978837	
+197	sentence	2	participated	14.75355371804535	
+197	sentence	3		0.0	
+197	sentence	4	, but did not	25.44357821625136	
+197	sentence	5	officialize	20.232578385093916	
+197	sentence	6	.	7.8444341470406345	
+198	sentence	1	The skier	19.482747441978837	
+198	sentence	2	participated	14.75355371804535	
+198	sentence	3		0.0	
+198	sentence	4	, but did not	25.44357821625136	
+198	sentence	5	quantize	26.609829913485136	
+198	sentence	6	.	5.680441116710638	
+199	sentence	1	The skier	19.482747441978837	
+199	sentence	2	participated	14.75355371804535	
+199	sentence	3		0.0	
+199	sentence	4	, but did not	25.44357821625136	
+199	sentence	5	reharmonize	33.83804265524769	
+199	sentence	6	.	4.319957910517718	
+200	sentence	1	The skier	19.482747441978837	
+200	sentence	2	participated	14.75355371804535	
+200	sentence	3		0.0	
+200	sentence	4	, but did not	25.44357821625136	
+200	sentence	5	remilitarize	26.764702117902758	
+200	sentence	6	.	4.873342358615356	
+201	sentence	1	The skier	19.482747441978837	
+201	sentence	2	participated	14.75355371804535	
+201	sentence	3		0.0	
+201	sentence	4	, but did not	25.44357821625136	
+201	sentence	5	solarize	26.517318037828918	
+201	sentence	6	.	5.317201375337524	
+202	sentence	1	The skier	19.482747441978837	
+202	sentence	2	participated	14.75355371804535	
+202	sentence	3		0.0	
+202	sentence	4	, but did not	25.44357821625136	
+202	sentence	5	syncretize	33.11522812279135	
+202	sentence	6	.	4.403919152738337	
+203	sentence	1	The skier	19.482747441978837	
+203	sentence	2	participated	14.75355371804535	
+203	sentence	3		0.0	
+203	sentence	4	, but did not	25.44357821625136	
+203	sentence	5	totalize	28.222533244405	
+203	sentence	6	.	4.4458175661415344	
+204	sentence	1	The skier	19.482747441978837	
+204	sentence	2	participated	14.75355371804535	
+204	sentence	3		0.0	
+204	sentence	4	, but did not	25.44357821625136	
+204	sentence	5	alchemize	24.358008267064566	
+204	sentence	6	.	5.173302803430008	
+205	sentence	1	The skier	19.482747441978837	
+205	sentence	2	participated	14.75355371804535	
+205	sentence	3		0.0	
+205	sentence	4	, but did not	25.44357821625136	
+205	sentence	5	aluminize	29.96816936143072	
+205	sentence	6	.	4.29414916203334	
+206	sentence	1	The skier	19.482747441978837	
+206	sentence	2	participated	14.75355371804535	
+206	sentence	3		0.0	
+206	sentence	4	, but did not	25.44357821625136	
+206	sentence	5	analogize	25.090905669388704	
+206	sentence	6	.	7.804171632612444	
+207	sentence	1	The skier	19.482747441978837	
+207	sentence	2	participated	14.75355371804535	
+207	sentence	3		0.0	
+207	sentence	4	, but did not	25.44357821625136	
+207	sentence	5	attitudinize	42.98260940448433	
+207	sentence	6	.	5.161656138313579	
+208	sentence	1	The skier	19.482747441978837	
+208	sentence	2	participated	14.75355371804535	
+208	sentence	3		0.0	
+208	sentence	4	, but did not	25.44357821625136	
+208	sentence	5	deionize	27.6194941373329	
+208	sentence	6	.	4.933648419105702	
+209	sentence	1	The skier	19.482747441978837	
+209	sentence	2	participated	14.75355371804535	
+209	sentence	3		0.0	
+209	sentence	4	, but did not	25.44357821625136	
+209	sentence	5	demythologize	29.056251063367576	
+209	sentence	6	.	5.777708312663211	
+210	sentence	1	The skier	19.482747441978837	
+210	sentence	2	participated	14.75355371804535	
+210	sentence	3		0.0	
+210	sentence	4	, but did not	25.44357821625136	
+210	sentence	5	deoxidize	33.93352664908479	
+210	sentence	6	.	4.727922084213007	
+211	sentence	1	The skier	19.482747441978837	
+211	sentence	2	participated	14.75355371804535	
+211	sentence	3		0.0	
+211	sentence	4	, but did not	25.44357821625136	
+211	sentence	5	dichotomize	26.176914185084115	
+211	sentence	6	.	5.89877240405037	
+212	sentence	1	The skier	19.482747441978837	
+212	sentence	2	participated	14.75355371804535	
+212	sentence	3		0.0	
+212	sentence	4	, but did not	25.44357821625136	
+212	sentence	5	dogmatize	28.173181747848353	
+212	sentence	6	.	5.709299117594814	
+213	sentence	1	The skier	19.482747441978837	
+213	sentence	2	participated	14.75355371804535	
+213	sentence	3		0.0	
+213	sentence	4	, but did not	25.44357821625136	
+213	sentence	5	factorize	31.407935365792838	
+213	sentence	6	.	4.942361748129015	
+214	sentence	1	The skier	19.482747441978837	
+214	sentence	2	participated	14.75355371804535	
+214	sentence	3		0.0	
+214	sentence	4	, but did not	25.44357821625136	
+214	sentence	5	iodize	27.78129627517789	
+214	sentence	6	.	4.878812094843397	
+215	sentence	1	The skier	19.482747441978837	
+215	sentence	2	participated	14.75355371804535	
+215	sentence	3		0.0	
+215	sentence	4	, but did not	25.44357821625136	
+215	sentence	5	overcapitalize	29.30032887909328	
+215	sentence	6	.	4.50880242840172	
+216	sentence	1	The skier	19.482747441978837	
+216	sentence	2	participated	14.75355371804535	
+216	sentence	3		0.0	
+216	sentence	4	, but did not	25.44357821625136	
+216	sentence	5	overspecialize	28.113809940113157	
+216	sentence	6	.	5.7256161435780735	
+217	sentence	1	The skier	19.482747441978837	
+217	sentence	2	participated	14.75355371804535	
+217	sentence	3		0.0	
+217	sentence	4	, but did not	25.44357821625136	
+217	sentence	5	relativize	26.189732653992195	
+217	sentence	6	.	5.184176234548159	
+218	sentence	1	The skier	19.482747441978837	
+218	sentence	2	participated	14.75355371804535	
+218	sentence	3		0.0	
+218	sentence	4	, but did not	25.44357821625136	
+218	sentence	5	schematize	27.24569222119295	
+218	sentence	6	.	5.024914108473767	
+219	sentence	1	The skier	19.482747441978837	
+219	sentence	2	participated	14.75355371804535	
+219	sentence	3		0.0	
+219	sentence	4	, but did not	25.44357821625136	
+219	sentence	5	sensualize	26.695470716776246	
+219	sentence	6	.	7.291659893388257	
+220	sentence	1	The skier	19.482747441978837	
+220	sentence	2	participated	14.75355371804535	
+220	sentence	3		0.0	
+220	sentence	4	, but did not	25.44357821625136	
+220	sentence	5	signalize	32.827343955754976	
+220	sentence	6	.	3.8802013679492315	
+221	sentence	1	The skier	19.482747441978837	
+221	sentence	2	participated	14.75355371804535	
+221	sentence	3		0.0	
+221	sentence	4	, but did not	25.44357821625136	
+221	sentence	5	singularize	27.638950706607666	
+221	sentence	6	.	5.265144290713162	
+222	sentence	1	The skier	19.482747441978837	
+222	sentence	2	participated	14.75355371804535	
+222	sentence	3		0.0	
+222	sentence	4	, but did not	25.44357821625136	
+222	sentence	5	steepen	23.01824604659555	
+222	sentence	6	.	5.9840090696097885	
+223	sentence	1	The skier	19.482747441978837	
+223	sentence	2	participated	14.75355371804535	
+223	sentence	3		0.0	
+223	sentence	4	, but did not	25.44357821625136	
+223	sentence	5	subtilize	31.78063294908485	
+223	sentence	6	.	4.673520188126782	
+224	sentence	1	The skier	19.482747441978837	
+224	sentence	2	participated	14.75355371804535	
+224	sentence	3		0.0	
+224	sentence	4	, but did not	25.44357821625136	
+224	sentence	5	syllogize	29.3033740361562	
+224	sentence	6	.	3.827234495101805	
+225	sentence	1	The skier	19.482747441978837	
+225	sentence	2	participated	14.75355371804535	
+225	sentence	3		0.0	
+225	sentence	4	, but did not	25.44357821625136	
+225	sentence	5	loathe	20.525548595064247	
+225	sentence	6	.	8.07103642402566	
+226	sentence	1	The skier	19.482747441978837	
+226	sentence	2	participated	14.75355371804535	
+226	sentence	3		0.0	
+226	sentence	4	, but did not	25.44357821625136	
+226	sentence	5	love	13.509272997664999	
+226	sentence	6	.	8.548071582029868	
+227	sentence	1	The skier	19.482747441978837	
+227	sentence	2	participated	14.75355371804535	
+227	sentence	3		0.0	
+227	sentence	4	, but did not	25.44357821625136	
+227	sentence	5	will	14.133869958040098	
+227	sentence	6	.	6.594361050979224	
+228	sentence	1	The skier	19.482747441978837	
+228	sentence	2	participated	14.75355371804535	
+228	sentence	3		0.0	
+228	sentence	4	, but did not	25.44357821625136	
+228	sentence	5	have to	8.689981002597504	
+228	sentence	6	.	11.934290277593568	
+229	sentence	1	The skier	19.482747441978837	
+229	sentence	2	participated	14.75355371804535	
+229	sentence	3		0.0	
+229	sentence	4	, but did not	25.44357821625136	
+229	sentence	5	win	4.588937744571245	
+229	sentence	6	.	5.139476567727708	
+230	sentence	1	The skier	19.482747441978837	
+230	sentence	2	participated	14.75355371804535	
+230	sentence	3		0.0	
+230	sentence	4	, but did not	25.44357821625136	
+230	sentence	5	finish	5.829722057659556	
+230	sentence	6	.	3.6189119101116853	
