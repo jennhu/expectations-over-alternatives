@@ -1,6 +1,6 @@
 # Expectations over unspoken alternatives predict pragmatic inferences
 
-This repository contains code and data for the paper "Expectations over unspoken alternatives predict pragmatic inferences"
+This repository contains code and data for the paper ["Expectations over unspoken alternatives predict pragmatic inferences"](https://arxiv.org/abs/2304.04758)
 by Jennifer Hu, Roger Levy, Judith Degen, and Sebastian Schuster. Please cite the paper as follows:
 
 ```
